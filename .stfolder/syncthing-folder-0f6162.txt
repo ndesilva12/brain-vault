@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: brain-vault
-created: 2026-06-22T21:26:34-04:00
