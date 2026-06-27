@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p ~/.claude/channels/telegram)",
+      "Read(//Users/normandesilva/.claude/channels/**)",
+      "Bash(chmod 600 ~/.claude/channels/telegram/.env)",
+      "Bash(mkdir -p ~/.claude/channels/telegram/approved)",
+      "Bash(echo -n \"8209045699\")",
+      "mcp__plugin_telegram_telegram__reply",
+      "Bash(brew install *)",
+      "Bash(pip3 install *)",
+      "Read(//usr/local/bin/**)",
+      "Read(//opt/homebrew/**)",
+      "mcp__f33bd459-20fb-497e-b1f8-83cbf9a091ae__search_threads",
+      "mcp__da7a43a3-1a68-4e5c-ae31-4235cd114638__create_file",
+      "mcp__da7a43a3-1a68-4e5c-ae31-4235cd114638__download_file_content",
+      "PowerShell(python \"C:\\\\Users\\\\norma\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-norma-brain\\\\a29ea865-24c3-40b7-8fe6-22b7a3cf486e\\\\scratchpad\\\\find_deck.py\")",
+      "PowerShell(python \"C:\\\\Users\\\\norma\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-norma-brain\\\\a29ea865-24c3-40b7-8fe6-22b7a3cf486e\\\\scratchpad\\\\inspect_deck.py\")",
+      "PowerShell(python \"C:\\\\Users\\\\norma\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-norma-brain\\\\a29ea865-24c3-40b7-8fe6-22b7a3cf486e\\\\scratchpad\\\\update_deck.py\")",
+      "WebSearch"
+    ]
+  }
+}
