@@ -46,4 +46,6 @@ This is parent co capital — separate from SPV capitalization (NIL contract mon
 
 ## SPV capitalization — interacts with this budget
 
-This $1.5M only covers parent co. SPV-level capital ($10–12M+ per SPV for NIL contracts) is separate and currently has three paths under live consideration — see CLAUDE.md "SPV Capitalization" for full detail, including the new RedBird/TCG franchise-fee + backstop structure being explored with Ankur Jain (Tabor Asset Management).
+This $1.5M only covers parent co. SPV-level capital ($10–12M per SPV for NIL/basketball costs) is separate. Production costs are NOT in the SPV — EverWonder self-finances production and recoups from streaming sale plus 10%; everything above that recoup flows to Cinderella Corp/SPV.
+
+Three SPV paths under live consideration — see CLAUDE.md "SPV Capitalization" for full detail: (1) self-funded via sponsors/streaming, no PE — this is the Ankur Jain path, enabled by this parent co raise; (2) PE-backed Season 1 blend; (3) RedBird/TCG franchise-fee + backstop — the original plan, still in active discussion.

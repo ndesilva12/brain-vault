@@ -38,9 +38,11 @@ Full use-of-proceeds budget: `Process/2026-06-30-parent-co-use-of-proceeds.md`. 
 
 ### SPV capitalization — three paths under consideration
 
-1. **Self-funded (no PE).** Sponsors + streaming platform fund the full $10–12M per-SPV cost (NIL contracts). Production company finances its own costs against the streaming contract, recoups plus 10%. Benefit: no PE dilution, parent co retains more ownership in each SPV.
-2. **PE-backed Season 1 only.** TCG or RedBird capitalize the first season (1–3 teams) directly; SPVs beyond Season 1 self-fund per path 1.
-3. **Franchise fee + backstop (RedBird/TCG, active discussion, new as of 2026-06-30).** RedBird/TCG pay a **$1.5M franchise fee per SPV**, backstop **$14M in SPV obligations**, and front a small capital call against that $14M. A separate deck + financial model is being built for this path. **Ankur Jain (Tabor Asset Management)** is leading this raise track.
+**Note on production costs:** EverWonder finances production separately — they self-fund their costs and recoup + 10% from the streaming sale. Everything above that recoup flows to Cinderella Corp/SPV. SPV costs below ($10–12M) are NIL/basketball operations only, not production.
+
+1. **Self-funded SPVs (Ankur Jain path).** Sponsors + streaming platform fund the full $10–12M per-SPV NIL costs. No PE in the SPV. Production financed by EverWonder, recouped from streaming. Benefit: no PE dilution, parent co retains more ownership per SPV. **Ankur Jain (Tabor Asset Management)** is leading the parent co raise that enables this path; a separate deck + financial model is being built for it.
+2. **PE-backed Season 1 blend.** Parent co self-funded, but TCG or RedBird directly capitalize the SPVs for Season 1 (1–3 teams). SPVs beyond Season 1 self-fund per path 1.
+3. **Franchise fee + backstop (RedBird/TCG — original plan, still in active discussion).** RedBird/TCG pay a **$1.5M franchise fee per SPV** + backstop the **$10–12M in SPV NIL obligations** + front a small capital call against that amount.
 
 ---
 
