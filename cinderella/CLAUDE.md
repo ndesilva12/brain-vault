@@ -28,6 +28,22 @@ The LLC can own revenue rights (tickets, media allocations, sponsorships, tourna
 
 ---
 
+## Capitalization
+
+### Parent Co raise
+
+**Raising $1.5M for 15% equity in Cinderella Corp** — 15 individual checks of $100K for 1% each, targeted close over coming weeks. Funds Norman + Sunjay running parent co operations: legal, sponsor procurement, basketball operations (scouting, agent relationships, on-site oversight of SPV teams), school procurement, celebrity procurement.
+
+Full use-of-proceeds budget: `Process/2026-06-30-parent-co-use-of-proceeds.md`. Top-line: 40% people/team (Norman salary + closing bonus, Sunjay salary, 1.5 early hires), 60% legal, basketball ops, school/celebrity procurement, sponsor BD, brand, G&A, contingency.
+
+### SPV capitalization — three paths under consideration
+
+1. **Self-funded (no PE).** Sponsors + streaming platform fund the full $10–12M per-SPV cost (NIL contracts). Production company finances its own costs against the streaming contract, recoups plus 10%. Benefit: no PE dilution, parent co retains more ownership in each SPV.
+2. **PE-backed Season 1 only.** TCG or RedBird capitalize the first season (1–3 teams) directly; SPVs beyond Season 1 self-fund per path 1.
+3. **Franchise fee + backstop (RedBird/TCG, active discussion, new as of 2026-06-30).** RedBird/TCG pay a **$1.5M franchise fee per SPV**, backstop **$14M in SPV obligations**, and front a small capital call against that $14M. A separate deck + financial model is being built for this path. **Ankur Jain (Tabor Asset Management)** is leading this raise track.
+
+---
+
 ## Season 1
 
 **Flagship pairing:** Steph Curry × Davidson, 2027–28 NCAA season.
@@ -75,8 +91,9 @@ Davidson is the flagship anchor. Radford and other Season 1 candidates are in ac
 |Words + Pictures|Strategic counterweight to EverWonder|Connor Schell|Identified|
 |WME|Non-scripted side|David Sherman|Existing connection|
 |Loeb & Loeb|Lead legal counsel|Brian Socolow|Not yet formally engaged — pending capital raise|
-|RedBird Capital Partners|Benchmarked PE group|—|MOIC/IRR comp set|
+|RedBird Capital Partners|Franchise fee + SPV backstop discussions|—|Active — see Capitalization|
 |Main Street Advisors (MSA)|Capital + celebrity network|Paul Wachter|Worth pursuing|
+|Tabor Asset Management|Leading franchise-fee/backstop SPV raise track|Ankur Jain|Active|
 
 ### EverWonder risk map
 
@@ -143,6 +160,8 @@ The **Single School Model** tab has "Investor Recoup + Hurdle" incorrectly categ
 4. Pursue Main Street Advisors (Paul Wachter)
 5. Post-production timeline: 3–8 months from end of filming to streaming premiere (Welcome to Wrexham Season 1 was ~3–4 months). Realistic premiere window for a 2026–27 filming season: July–September 2027
 6. Capital raise + formal legal engagement as next structural milestone
+7. Parent Co raise ($1.5M / 15%) in progress — use of proceeds drafted, securities counsel sign-off pending
+8. Building separate deck + financial model for the RedBird/TCG franchise-fee + backstop SPV path; Ankur Jain (Tabor Asset Management) leading that raise track
 
 ---
 
