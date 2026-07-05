@@ -144,13 +144,26 @@ Best structured as a **university employee position** with hiring protected thro
 
 ## Financial model
 
-**Google Drive file ID:** `1-tedVRBqwCJpBEM-omzpkuR4mFWHufHxsZk4N35_r8w`
+**Live model:** Google Sheet "Cinderella Corp Model"
+(`1mbYo2aQmMSXUaX1gYYSRfCnWvm4EaKFzlkv-qU6EO_U`). Formula-driven off an
+Assumptions tab with ~58 named inputs + a Base/Moderate/Reach scenario
+dropdown. Five tabs: Summary · Per-School SPV · Franchise Rollup · Parent Co
+P&L · Assumptions.
 
-### Known bug
+**Full mechanics spec:** `Process/2026-07-05-financial-model-and-franchise-mechanics.md`
+— two-layer parent/SPV structure, equity split, revenue share, the NIL
+self-funding flywheel, cohort scaling, investor MOIC.
 
-The **Single School Model** tab has "Investor Recoup + Hurdle" incorrectly categorized as an **operating expense** rather than a **distribution**. This suppresses net cash flow and understates MOIC/IRR.
+**Structure in one breath:** Parent raises $1.5M for 15%. Each school is a
+5-year SPV; parent takes 40% + a 10% franchise fee + a 2% annual mgmt fee.
+Single-tier (every school identical). SPV takes 80% of the school's
+incremental commercial revenue (decaying 10%/yr); the school's 20% funds
+Years 2-5 NIL up to the Year-1 amount, with the **SPV** covering any
+shortfall (decided 2026-07-05 — not a parent cost). MOIC rises with total
+schools because parent costs are fixed.
 
-**Fix:** Delete that row from the expenses section.
+**Older files (superseded):** `1-tedVRBqwCJpBEM-...` (MAKING CINDERELLA) and
+`1ch2OUaoWN2...` (Cinderella Corp Financial Model).
 
 ---
 
