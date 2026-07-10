@@ -85,10 +85,17 @@ company. Sizzle-reel spend to be added to the use-of-proceeds.
 ---
 
 ## Immediate priorities (updated 2026-07-10)
-1. **Lock the production partner** — they drive distribution; diligence their
-   platform relationships (still play the Prime door).
+**0. Secure the anchor pairing — the keystone domino.** Signed, exclusive,
+   *conditional* attachment of Steph/Davidson (and Hart/Temple) — an LOI
+   "attached subject to financing + distribution." Not fully-funded contracts
+   (chicken-and-egg), but exclusive written commitments that unlock everything
+   downstream. Verbal interest ≠ leverage; get it on paper, protected by the
+   non-circ tail. **This is what the $1.5M is largely for.**
+   → Then production, distribution, sponsors, and PE all convert off it at a
+   single coordinated close.
+1. **Lock the production partner** — they drive distribution.
 2. **SPV capital via sponsorship** (base case), PE bridge/credit facility as backstop.
-3. **Sizzle reel + showrunner** — the assets that actually sell the platform.
+3. **Sizzle reel + showrunner** — the assets that (with the pairing) sell the platform.
 _(Title IX resolved; distribution reframed as production-co-driven; live-game
 revenue scoped to neutral/non-conference games.)_
 
