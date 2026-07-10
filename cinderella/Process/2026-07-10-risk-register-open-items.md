@@ -6,34 +6,24 @@ it) · 🟠 major · 🟡 watch. Owner: N = Norman, S = Sunjay, L = legal/counse
 
 ---
 
-## 🔴 Critical — resolve before deep deployment
+## Critical — status after 2026-07-10 feedback
 
-### 1. No distribution buyer — and the model is priced off one
-Every dollar traces to "a streamer pays $X/doc-hour." No committed platform,
-output deal, or even a named target list. Content without distribution is a
-cost, not an asset.
-- **Why it matters:** the keystone assumption of the entire model is unsigned.
-- **Next action (N):** build a named platform target list and open streaming
-  conversations *now*, leading with Norman's existing Amazon Prime relationship.
-  Consider a **sell-first sequence** (secure a first-look/output deal, then
-  build the season). Distribution strategy doc to follow.
+### 1. Distribution — routed through the production company  🟠 → 🟡
+Distribution will be driven by the **production company's platform
+relationships**, not a cold streamer hunt. This reframes the risk to
+**production-partner dependency**: the prod-co deal must be locked and its
+distribution relationships vetted, since they are effectively our path to a buyer.
+- **Next action (N):** lock the production partner (EverWonder / Words+Pictures),
+  diligence their live platform relationships; still play Norman's Prime door.
 
-### 2. Title IX exposure
-Injecting $10–12M into a men's roster — especially at a public school — raises
-gender-equity proportionality exposure. A school's general counsel raises this
-in the first meeting; it can kill a partnership before it starts.
-- **Why it matters:** unaddressed legal risk at the school-procurement front door.
-- **Next action (L):** get a real Title IX read from counsel **before** the
-  first school meeting. Clarify whether third-party SPV NIL money sits inside
-  or outside Title IX in the House-settlement era.
+### 2. Title IX  ✅ RESOLVED
+Covered legally (per Norman). Closed.
 
-### 3. SPV capital ($10–12M/team) still unsourced
-The $1.5M parent raise funds *operations*. The money that actually pays players
-has no committed source (sponsors + streaming + maybe PE). Deployment gets us
-to LOIs, not to a funded SPV.
-- **Why it matters:** the parent round is the appetizer, not the meal.
-- **Next action (N/S):** define the Season-1 SPV capital stack and secure
-  soft commitments in parallel with the parent close.
+### 3. SPV capital ($10–12M/team) — path defined  🟠 open, base case set
+Two options: **(A)** sponsor commitments + early revenue fund the NIL contracts
+— **base case, expected achievable via sponsorship** — or **(B)** PE finances the
+NIL via a **bridge / credit facility in exchange for some equity** (backstop).
+- **Next action (N/S):** pursue (A) sponsorship-funded; keep (B) as the backstop.
 
 ---
 
@@ -41,14 +31,18 @@ to LOIs, not to a funded SPV.
 
 | # | Gap | Why it matters | Owner |
 |---|---|---|---|
-| 4 | **Live-game streaming may not be ours to sell.** Regular-season broadcasts are almost always committed to the *conference* media package (ESPN/CBS). The docuseries/all-access rights *are* ours; the live-game line likely collides with conference rights. | The "live game streaming" revenue line in the model may be largely uncapturable — pressure-test per school/conference. | N/L |
+| 4 | **Live-game streaming — scoped ✅.** Clarified: the SPV monetizes **neutral-site and non-conference games the school owns** (not conference-controlled broadcasts). The streamer pays for these. | Resolved — keep the model's live-game line scoped to school-owned neutral / non-conf games. | N |
 | 5 | **No sizzle / proof-of-concept budget.** Streamers greenlight off a teaser + attached talent, not a deck. Producing it predates the SPV. | Missing from use-of-proceeds; likely ~$50–150K needed. | S |
 | 6 | **No showrunner / creative lead named.** Doc quality lives and dies on the showrunner; EverWonder is a company, not an auteur. | Creative risk to the core product. | N |
 | 7 | **Single-partner dependency + conflict.** Heavy reliance on EverWonder, whose recoup (cost +10% off the streaming sale) incentivizes maximizing platform price, not our long-term platform relationship. Words+Pictures is an unsigned counterweight. | Structural conflict; no signed production deal either way. | N |
-| 8 | **Format / international / library value unmonetized.** Wrexham sold international + the format itself. Model captures a single US-style license fee only. | Leaving significant IP value on the table. | N |
+| 8 | **Format / international / library value.** Two assets on top of the US license fee: (a) **format rights** — the repeatable "celebrity + Cinderella school" template, licensable into other sports and countries = the franchise itself and the real long-term value; (b) **international windows** — the same doc sold territory-by-territory (smaller for US hoops unless the celebrity is global, e.g. Giannis). | **Reserve format rights in every deal** (non-negotiable); never grant "global all-rights in perpetuity" cheaply; monetize international as separate windows. Reframes TAM to "every underdog sport in every market." | N |
 | 9 | **No short-form / social content engine.** YouTube/TikTok/highlights build the audience that makes the doc + sponsors work — and double as NIL-justification content for NCAA compliance. | Missing entirely; cheap, high-ROI, compliance-relevant. | S |
 | 10 | **E&O insurance + music/archival clearances.** E&O is mandatory to deliver to any streamer; clearances are a real underbudgeted line. | Cannot deliver to a platform without E&O. | S/L |
 | 11 | **Underused asset: Norman's Amazon Prime relationship.** China doc already on Prime = a warm distribution door. | Not being leveraged in the distribution plan. | N |
+
+**Accepted as needs (5, 6, 9):** sizzle reel, showrunner, and an organic
+social-content engine — delivered in-house (hire) or through the production
+company. Sizzle-reel spend to be added to the use-of-proceeds.
 
 ---
 
@@ -90,9 +84,13 @@ to LOIs, not to a funded SPV.
 
 ---
 
-## Immediate priorities (this week)
-1. **Distribution target list + open streaming conversations** (lead with Prime). → distribution strategy doc next.
-2. **Title IX read from counsel** before the first school meeting.
+## Immediate priorities (updated 2026-07-10)
+1. **Lock the production partner** — they drive distribution; diligence their
+   platform relationships (still play the Prime door).
+2. **SPV capital via sponsorship** (base case), PE bridge/credit facility as backstop.
+3. **Sizzle reel + showrunner** — the assets that actually sell the platform.
+_(Title IX resolved; distribution reframed as production-co-driven; live-game
+revenue scoped to neutral/non-conference games.)_
 
 _Model-side cleanups still open (from prior sessions): fix the base commercial /
 PCR double-count; wire the SPV-funded NIL shortfall; port the generalized
