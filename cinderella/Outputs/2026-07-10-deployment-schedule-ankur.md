@@ -25,12 +25,14 @@ within days.
 - 🔴 **Immediate travel (deploy within days):** Vegas Summer League ·
   Peach Jam · NCAA July live period.
 
-**Phase 1 · Month 1–2 — build the two teams**
-- Basketball ops hire (Norman's side) — recruiting board, agent CRM,
-  on-site evaluation.
-- Partnerships hire (Sunjay's side) — sponsorship, product placement,
-  streaming, production pipeline. *(Sunjay takes no salary — his comp is
-  equity/upside; his side still gets a builder.)*
+**Phase 1 · Month 1–2 — lean team + run operations**
+- Norman & Sunjay carry the heavy lifting; hires are lean and can start
+  partial-year (quality basketball & sales talent is available below prior
+  estimates).
+- **Operations assistant** — the first true hire: payroll, insurance,
+  accounting, and startup execution so Norman/Sunjay stay in the field.
+- Basketball ops hire (Norman's side) and sales/partnerships hire (Sunjay's
+  side) added as needed. *(Sunjay unsalaried — comp is equity/upside.)*
 
 **Phase 2 · Month 2–4 — lock the two signatures that de-risk everything**
 - **Celebrity + school SPV contracting (legal).** Papering the celebrity
@@ -44,6 +46,9 @@ within days.
 **Phase 3 · Month 4–9 — convert & prep Season 1**
 - School LOIs, celebrity attachment, sponsor term sheets → the milestones
   that unlock SPV capitalization. Deck/model/content refresh. Contingency held.
+- **NIL player-contract legal (~April 2027).** The player-level papering
+  isn't officially needed until the spring roster build — reserved now,
+  engaged then.
 
 ---
 
@@ -51,14 +56,16 @@ within days.
 
 | Category | Amount | Note |
 |---|---:|---|
-| **People & team** | **$505,000** | |
+| **People & team** | **$490,000** | Lean — Norman & Sunjay carry the load for now |
 | — Founder salary (Norman) | $200,000 | |
 | — Founder SPV-origination advance | $75,000 | Recoverable — see below |
-| — Basketball ops hire | $100,000 | Norman's side |
-| — Partnerships hire | $80,000 | Sunjay's side (Sunjay unsalaried) |
-| — Payroll tax & benefits | $50,000 | |
+| — Basketball ops hire (lean / partial-year) | $60,000 | Norman's side; quality available below prior est. |
+| — Sales / partnerships hire (lean / partial-year) | $50,000 | Sunjay's side (Sunjay unsalaried) |
+| — Operations assistant | $65,000 | Payroll, insurance, accounting, startup execution |
+| — Payroll tax & benefits | $40,000 | |
 | **Legal — corporate / securities / SPV** | $130,000 | Loeb & Loeb framework |
 | **Legal — celebrity + school SPV contracting** | $150,000 | The de-risking signatures |
+| **Legal — NIL player contracts (reserve)** | $40,000 | Not needed until ~April 2027; reserved |
 | **IP protection & filing** | $55,000 | Trademarks, copyright, provisionals |
 | **Basketball ops travel & scouting** | $160,000 | Events, live periods, evaluation |
 | **Celebrity procurement travel** | $85,000 | |
@@ -66,7 +73,7 @@ within days.
 | **Sponsor / streaming / production BD travel** | $90,000 | |
 | **Brand, deck & content** | $75,000 | |
 | **G&A / overhead** | $80,000 | Insurance, accounting, banking, software |
-| **Contingency reserve** | $95,000 | |
+| **Contingency reserve** | $70,000 | |
 | **Total** | **$1,500,000** | |
 
 ---
