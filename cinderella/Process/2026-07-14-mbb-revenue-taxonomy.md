@@ -103,11 +103,31 @@ climbs toward.
 - **[T] Third-party / cost-side** — NIL/collective money + House rev-share pool.
   This is roster *funding*, not program revenue.
 
-**Decision (2026-07-14): donor [C\*] is OUT of the rev-share base.** PCR =
-ticketing + sponsorship + school-retained media + licensing/merch + camps +
-guarantee games only. Cleaner NCAA optics; keeps the "we multiply your
-*commercial* revenue" story honest. Donor uplift is noted as a school benefit,
-not an SPV claim. *(Analyses will still show the with-donor figure for context.)*
+**Decision (2026-07-14, REVISED): donor [C\*] is IN — with guardrails.**
+Basketball-*designated* giving (not general university/athletics giving) is fair
+game, via two mechanisms:
+- **Conversion (primary):** offer would-be donors an SPV *investment* (equity +
+  return) instead of a tax-deductible gift — cleaner than claiming charitable
+  dollars, and it feeds SPV capital. This is the founding thesis in action.
+- **Incremental share (secondary):** share the *uplift* in basketball-designated
+  giving that MC's relevance creates (not the baseline), at a school-favorable
+  **50/50** split.
+
+Guardrails: counsel must bless the structure (charitable-gift tax treatment +
+NCAA booster rules); frame as **net-new + return, not redirected existing
+gifts**, to avoid cannibalizing the school's annual fund. Baseline and
+general/athletics giving stay out.
+
+### Analysis principles (from the Dayton build)
+- **Capacity-aware organic PCR.** A school's *organic* commercial lines
+  (especially the gate) are capped by physical seats and multi-year contracts —
+  demand ≠ revenue when supply is fixed. Model organic PCR uplift with the
+  arena/contract ceiling in mind.
+- **Additive new SPV streams.** MC's real surplus over a peer like Dayton comes
+  from streams the school has *zero* of today — documentary licensing, live-game
+  streaming, national presenting sponsor, premium patches, monetized content —
+  booked as **separate SPV lines**, not stuffed into "school commercial revenue."
+  This is also the fix to the old double-count: big numbers, right buckets.
 
 ---
 
