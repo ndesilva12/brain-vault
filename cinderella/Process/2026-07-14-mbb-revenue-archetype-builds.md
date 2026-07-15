@@ -87,12 +87,44 @@ about empty seats **despite a Top-25 / No. 5-seed team**). Running **deficits**
 | **TOTAL** | | **~$14.1M** |
 
 **PCR ex-donor ≈ $8.3M · PCR w/ donor ≈ $11.1M.** The **lowest** commercial base
-of the three *despite the biggest arena and market* — because the gate softened.
+of the four *despite the biggest arena and market* — because the gate softened.
+
+---
+
+## San Diego State (Mountain West → Pac-12) — the Cinderella-run *proof case*
+Total MBB = **$15.3M** (firm, EADA; **$6.2M profit**) from a 12,414-seat arena.
+Made the **2023 national title game** — the closest real-world analog to what MC
+manufactures — and the run's effects are visible in the numbers.
+
+| Line | Tag | Est. |
+|---|---|---:|
+| Ticketing | C | $4.5M |
+| Concessions/parking/novelty | C | $0.7M |
+| Sponsorship/MMR/patch (run halo) | C | $2.2M |
+| School-retained media/streaming | C | $0.3M |
+| Licensing/merch | C | $0.6M |
+| Apparel (Nike) | C | $0.5M |
+| Guarantee/neutral/tournament | C | $0.4M |
+| Camps/rentals | C | $0.3M |
+| **PCR (donor excluded)** | **C** | **~$9.5M** |
+| Aztec Club annual fund / booster (post-run halo) | C* | $3.0M |
+| Seat-related / priority donations | C* | $1.0M |
+| **Donor** | **C\*** | **~$4.0M** |
+| Mountain West media / NCAA units (shared) / broad-based | S | ~$1.8M |
+| **TOTAL** | | **~$15.3M** |
+
+**PCR ex-donor ≈ $9.5M · PCR w/ donor ≈ $13.5M.** The whole MC value chain, live:
+the 2023 run drove a multi-year **donation + sponsorship halo**, a one-time **$5M
+transformational gift**, and now a **realignment to the Pac-12** — relevance →
+commercial uplift + donor + promotion. Caveat: the ~$2.7M in NCAA units it
+*generated* got **shared across the Mountain West** (~$249K/yr to SDSU) — the
+structural-money leak. Capturable value is in commercial + donor + realignment,
+not the units.
 
 ---
 
 ## Synthesis — the lesson for Making Cinderella
-- All three land at a **~$8–10M commercial (donor-excluded) base** and **~$11–16M
+- All four land at a **~$8–10M commercial (donor-excluded) base** and **~$11–16M
   with donor.** That's the realistic *matured* ceiling an 80/20 rev-share applies to.
 - **Relevance + right-sized-and-filled capacity beats raw market/arena size.**
   Dayton (packed small arena) and Gonzaga (national brand, tiny arena) are the
