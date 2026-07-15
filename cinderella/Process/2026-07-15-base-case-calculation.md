@@ -95,11 +95,43 @@ Blending them into one decaying curve (the old model) hid this. Keep them separa
 
 ---
 
+## Bucket 2 build — 100% SPV, per school-season
+
+Contract-negotiated (not comps-anchored), so sized at three scenarios:
+
+| Line | Base | Moderate | Reach | Notes |
+|---|---:|---:|---:|---|
+| National presenting sponsor + premium patch | 3.0 | 5.0 | 8.0 | Brand paying for Netflix-show association + jersey patch. **Anchor line.** |
+| Series license **residual** (net of EverWonder recoup) | 1.0 | 3.0 | 7.0 | EverWonder finances prod, recoups cost+10% off the sale; SPV keeps the excess. |
+| Live-game streaming rights | 1.0 | 2.0 | 4.0 | School-owned neutral/non-conf games only. |
+| Content engine (YouTube/TikTok/social) | 0.3 | 0.7 | 1.5 | Doubles as NIL-justification content. |
+| Format + international windows | 0.5 | 1.5 | 4.0 | Durable franchise asset; grows with the library. |
+| **Bucket 2 SPV total (Y1 peak)** | **~$5.8M** | **~$12.2M** | **~$24.5M** | |
+
+**Decay split:** sponsor / series / content are hype-driven → **10% decay** (peak
+Season 1). Live-games and format/intl are steadier / grow — **do not decay.**
+
+**Softest line = series residual.** If Netflix's license just covers cost+10%,
+SPV residual ≈ $0. Underwrite base assuming the license washes and the **sponsor +
+patch carries it**.
+
+## Combined per-school SPV revenue (base case)
+
+| | Year 1 | Matured (~Y3) |
+|---|---:|---:|
+| Bucket 1 (80% of increment, ramps up) | ~$2.0M | ~$4.7M |
+| Bucket 2 (100% SPV, peaks then decays) | ~$5.8M | ~$4.7M |
+| **Total SPV / school / yr** | **~$7.8M** | **~$9.4M** |
+
+Base-case SPV revenue ≈ **$8–10M/school/yr** — grounded, additive-clean, reconciled
+to real programs. Replaces the old $24–30M. The two curves crossing (B1 up, B2 down)
+holds it stable across the 5-yr clock. **Donor track sits on top, not yet sized.**
+
+---
+
 ## Next passes
-1. **Bucket 2 build** — streaming/series license, national presenting sponsor +
-   patch, live-game rights, content engine, format/intl — at base/moderate/reach.
-2. **Donor track** — conversion + incremental 50/50, sized off the relevance halo.
-3. **School-side P&L** — prove cost-relief (SPV funds ~$9–13M NIL/roster) + kept
+1. **Donor track** — conversion + incremental 50/50, sized off the relevance halo.
+2. **School-side P&L** — prove cost-relief (SPV funds ~$9–13M NIL/roster) + kept
    structural/donor > the 80% commercial give-up. The slide that signs the LOI.
-4. **Port to the model** — set `SchoolY1Commercial`/baseline/ramp; wire Bucket 2 +
+3. **Port to the model** — set `SchoolY1Commercial`/baseline/ramp; wire Bucket 2 +
    donor as separate SPV lines; fix the base commercial double-count for good.
