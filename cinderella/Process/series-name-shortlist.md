@@ -6,7 +6,7 @@ clean (no quirk), premium-merch-safe, sport-agnostic, works as an umbrella
 ## Shortlist (active)
 - **Cinderella**
 - **David** — the underdog archetype, clean and ownable (note: "David & Goliath" is a taken apparel brand; "David" alone is different)
-- **The Long Game**
+- **Long Game**
 - **Dark Horse**
 
 ## Parked pool (from 2026-07-20 brainstorm — pull from as needed)
