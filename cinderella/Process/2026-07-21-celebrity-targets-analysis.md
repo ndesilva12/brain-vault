@@ -49,12 +49,10 @@ CC (KS JUCO). Sandler made "Hustle." Ferrell is from Irvine (verified).
 - **Will Smith × a Philly school** (Temple / La Salle / Drexel) — West Philadelphia (Wynnefield); "Will Smith Way" '25. Deepens Philly bench beyond St. Joe's. [src](https://www.inquirer.com/entertainment/music/will-smith-west-philadelphia-street-20250326.html)
 - **Kevin James × Stony Brook** (CAA) — raised in Stony Brook, Long Island; played football at SUNY Cortland; sports guy. [src](https://en.wikipedia.org/wiki/Kevin_James)
 - **Pete Davidson × Wagner** (NEC) — Staten Island native ("King of Staten Island"); true low-major. [src](https://en.wikipedia.org/wiki/Pete_Davidson)
+- **Bill Murray × College of Charleston** (CAA) — co-owner ("Director of Fun") of the Charleston RiverDogs since 1989, owns a home in Charleston, sports-obsessed. Genuine adopted-hometown fit. ⚠ **Hard to reach** (per Norman) — keep on the list, but access is the gating issue, not the tie. [src](https://www.milb.com/charleston/news/gcs-30724904)
 
 **HBCU cluster (Howard, same era):**
 - **Anthony Anderson (grad '93) · Taraji P. Henson (grad '95) · Diddy (attended) × Howard** (MEAC). Real D1 rosters, deep cultural equity, built-in underdog narrative. [src](https://www.revolt.tv/article/celebrities-who-attended-howard-university)
-
-**Fit but unreachable:**
-- **Bill Murray × College of Charleston / Charleston Southern** — real tie via his Charleston RiverDogs (minor-league baseball) ownership, but per Norman: **impossible to connect with.** Parked.
 
 ---
 
