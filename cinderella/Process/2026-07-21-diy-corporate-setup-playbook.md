@@ -11,11 +11,17 @@ still the SOLE stockholder** (Phase 2), BEFORE issuing any advisor/investor stoc
 
 ## PHASE 0 — Confirm & gather (this week · mostly free)
 
-**0.1 Confirm the 83(b) — TIME-CRITICAL, confirm-only.**
-- Grant date April 14, 2026 → 30-day deadline ~May 14, 2026 (**already passed**).
-- Find proof it was mailed to the IRS (certified-mail receipt / green card / copy in records).
-- If filed: file the proof in the record book. If NOT filed: it cannot be cured —
-  talk to a tax advisor about ordinary-income exposure as shares vest. Do this first.
+**0.1 CURE the missed 83(b) — TOP PRIORITY, must beat the Aug 15 round.**
+- 83(b) was NOT filed; deadline (~May 14) passed. BUT nothing has vested yet
+  (1-yr cliff = April 14, 2027), so all 3M shares are unvested/repurchasable at $0.001.
+- **Cure:** company repurchases all 3M unvested shares at $0.001 → re-grants a fresh
+  3M restricted grant (new SPA) → Norman files 83(b) within 30 days of the NEW grant.
+  New transfer = new 83(b) window. Loses ~3 mo vesting credit (trivial, pre-cliff).
+- **Timing is everything:** income on 83(b) = FMV − price. NOW (pre-round) FMV ≈ nominal
+  → ~$0 income. AFTER Aug 15 round ($10M post) FMV ≈ $2/share → re-grant would create
+  ~$6M ordinary income. So DO THIS BEFORE THE ROUND.
+- **Get a startup CPA this week** to bless current 409A FMV and paper repurchase +
+  re-grant + 83(b). This is the single most time-sensitive item.
 
 **0.2 Pull the official record from Northwest / Delaware.**
 - Ask Northwest (your registered agent) for: the file-stamped Certificate of
@@ -44,10 +50,12 @@ not just %**.
 
 ## PHASE 1 — Cure the corporate chain (DIY · low risk)
 
-**1.1 Incorporator handoff.** Northwest was the actual incorporator. You need their
-signed **Action of Incorporator** resigning and appointing you as sole director +
-adopting the bylaws. If it exists, file it. If not, request it from Northwest
-(standard; they produce these). *Sign:* Northwest signs. *File:* record book.
+**1.1 Incorporator handoff.** Doc **1B ("Initial Resolution Appointments") IS the
+correct handoff form** — but it is BLANK and must be signed by the **incorporator,
+which is Northwest (Nat Smith), NOT Norman.** (This is also why doc 3, signed by
+Norman as "sole incorporator," is technically mis-signed.) *Action:* ask Northwest
+to complete + sign 1B (or their own Statement of Incorporator) naming Norman as sole
+director/officer + adopting the bylaws. *Sign:* Northwest. *File:* record book.
 
 **1.2 Omnibus ratification.** You (sole director + sole stockholder) sign one
 written consent ratifying all prior actions (bylaws, officer appointments, IP
