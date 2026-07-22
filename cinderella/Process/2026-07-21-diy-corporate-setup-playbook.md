@@ -50,12 +50,11 @@ not just %**.
 
 ## PHASE 1 — Cure the corporate chain (DIY · low risk)
 
-**1.1 Incorporator handoff.** Doc **1B ("Initial Resolution Appointments") IS the
-correct handoff form** — but it is BLANK and must be signed by the **incorporator,
-which is Northwest (Nat Smith), NOT Norman.** (This is also why doc 3, signed by
-Norman as "sole incorporator," is technically mis-signed.) *Action:* ask Northwest
-to complete + sign 1B (or their own Statement of Incorporator) naming Norman as sole
-director/officer + adopting the bylaws. *Sign:* Northwest. *File:* record book.
+**1.1 Incorporator handoff — DONE.** Doc **1B is fully executed**: Nat Smith
+(Northwest, the incorporator) relinquished all authority to Norman (named President,
+Treasurer, Secretary, Director), adopted the bylaws, signed 04/14/2026. The chain is
+intact. *Action:* just confirm 1B is in the record book. (Doc 3 — Norman signing as
+"sole incorporator" — is redundant/mislabeled but harmless; the ratification covers it.)
 
 **1.2 Omnibus ratification.** You (sole director + sole stockholder) sign one
 written consent ratifying all prior actions (bylaws, officer appointments, IP
