@@ -102,12 +102,28 @@ Actions requiring **Norman's** consent (or a Class-B/supermajority he controls):
 
 ---
 
-## Decisions I need from you to finalize the drafts
-1. **Dual-class ratio:** 10:1 (recommended) or other?
-2. **Class B conversion triggers:** on transfer (yes) + on ceasing service? + on death?
-3. **Board:** keep at **1 (you)** for now, or **3 = you + your appointee + Ankur**?
-4. **Round instrument:** **SAFE** (simpler, minimal protective provisions) or **priced**?
-5. **Voting Agreement extras:** include the founder proxy? include drag-along?
+## Decisions — LOCKED (2026-07-21)
+1. **Ratio:** **10:1** ✅
+2. **Class B conversion triggers:** **transfer only** (maximum-strength) — CONFIRMED
+   2026-07-22 (Norman: "keep/go with (a)"). OMIT service-sunset + death-conversion
+   now — these are the first concessions to give investors at seed/Series A.
+3. **Board:** **fixed at 3, all Norman-controlled now** — Norman in seat 1, seats 2–3
+   vacant/his appointees (he controls vacancy-fill). **Ankur takes one of the three
+   at the Aug 15 seed close** → Norman stays 2/3. No board expansion without Norman's consent. ✅
+   _Parents question (2026-07-22): keep board at 3 (odd, no deadlock), NOT 4. One
+   parent max as a temporary Seat-2 placeholder is safe (still 2/3), but weakest on
+   optics — super-vote already gives control, so prefer an independent or leave Seat 2
+   vacant. Never two family seats. Full memo: Outputs/2026-07-22-corporate-setup-pack/08._
+4. **Round instrument:** handled by **Sunjay (counsel) at the Aug 15 seed** — OFF this
+   task list. **Sequencing rule: lock dual-class + Voting Agreement BEFORE Sunjay
+   structures the round**; hand him the Voting Agreement + narrow-protective-provision
+   terms to incorporate. (Sunjay is also a 15–25% holder structuring the round —
+   another reason to establish Norman's control first.) ✅
+5. **Voting Agreement extras:** include **irrevocable founder proxy + founder-controlled
+   drag-along**, at full strength, each with a standard amendment/termination clause so
+   they can be renegotiated as investors come in (strategy: strongest now, work backwards). ✅
 
-Answer these and I'll fill every **[DECIDE]** and hand you finalized term sheets for
-each document, ready to execute or drop into Clerky/Carta.
+**Strategy note (all docs):** build at maximum founder strength; the concession ladder,
+in likely order of what you give up: (1) service-sunset + death conversion on Class B →
+(2) an investor board seat (Ankur, Aug 15) → (3) amend/soften the proxy → (4) protective
+provisions at Series A. Draft strong, concede deliberately.
