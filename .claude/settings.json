@@ -1,5 +1,9 @@
 {
   "permissions": {
-    "defaultMode": "auto"
+    "defaultMode": "auto",
+    "allow": [
+      "mcp__da7a43a3-1a68-4e5c-ae31-4235cd114638__create_file",
+      "mcp__da7a43a3-1a68-4e5c-ae31-4235cd114638__download_file_content"
+    ]
   }
 }

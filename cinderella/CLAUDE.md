@@ -28,6 +28,24 @@ The LLC can own revenue rights (tickets, media allocations, sponsorships, tourna
 
 ---
 
+## Capitalization
+
+### Parent Co raise
+
+**Raising $1.5M for 15% equity in Cinderella Corp** — 15 individual checks of $100K for 1% each, targeted close over coming weeks. Funds Norman + Sunjay running parent co operations: legal, sponsor procurement, basketball operations (scouting, agent relationships, on-site oversight of SPV teams), school procurement, celebrity procurement.
+
+Full use-of-proceeds budget: `Process/2026-06-30-parent-co-use-of-proceeds.md`. Top-line: 40% people/team (Norman salary + closing bonus, Sunjay salary, 1.5 early hires), 60% legal, basketball ops, school/celebrity procurement, sponsor BD, brand, G&A, contingency.
+
+### SPV capitalization — three paths under consideration
+
+**Note on production costs:** EverWonder finances production separately — they self-fund their costs and recoup + 10% from the streaming sale. Everything above that recoup flows to Cinderella Corp/SPV. SPV costs below ($10–12M) are NIL/basketball operations only, not production.
+
+1. **Self-funded SPVs (Ankur Jain path).** Sponsors + streaming platform fund the full $10–12M per-SPV NIL costs. No PE in the SPV. Production financed by EverWonder, recouped from streaming. Benefit: no PE dilution, parent co retains more ownership per SPV. **Ankur Jain (Tabor Asset Management)** is leading the parent co raise that enables this path; a separate deck + financial model is being built for it.
+2. **PE-backed Season 1 blend.** Parent co self-funded, but TCG or RedBird directly capitalize the SPVs for Season 1 (1–3 teams). SPVs beyond Season 1 self-fund per path 1.
+3. **Franchise fee + backstop (RedBird/TCG — original plan, still in active discussion).** RedBird/TCG pay a **$1.5M franchise fee per SPV** + backstop the **$10–12M in SPV NIL obligations** + front a small capital call against that amount.
+
+---
+
 ## Season 1
 
 **Flagship pairing:** Steph Curry × Davidson, 2027–28 NCAA season.
@@ -75,8 +93,9 @@ Davidson is the flagship anchor. Radford and other Season 1 candidates are in ac
 |Words + Pictures|Strategic counterweight to EverWonder|Connor Schell|Identified|
 |WME|Non-scripted side|David Sherman|Existing connection|
 |Loeb & Loeb|Lead legal counsel|Brian Socolow|Not yet formally engaged — pending capital raise|
-|RedBird Capital Partners|Benchmarked PE group|—|MOIC/IRR comp set|
+|RedBird Capital Partners|Franchise fee + SPV backstop discussions|—|Active — see Capitalization|
 |Main Street Advisors (MSA)|Capital + celebrity network|Paul Wachter|Worth pursuing|
+|Tabor Asset Management|Leading franchise-fee/backstop SPV raise track|Ankur Jain|Active|
 
 ### EverWonder risk map
 
@@ -125,13 +144,26 @@ Best structured as a **university employee position** with hiring protected thro
 
 ## Financial model
 
-**Google Drive file ID:** `1-tedVRBqwCJpBEM-omzpkuR4mFWHufHxsZk4N35_r8w`
+**Live model:** Google Sheet "Cinderella Corp Model"
+(`1mbYo2aQmMSXUaX1gYYSRfCnWvm4EaKFzlkv-qU6EO_U`). Formula-driven off an
+Assumptions tab with ~58 named inputs + a Base/Moderate/Reach scenario
+dropdown. Five tabs: Summary · Per-School SPV · Franchise Rollup · Parent Co
+P&L · Assumptions.
 
-### Known bug
+**Full mechanics spec:** `Process/2026-07-05-financial-model-and-franchise-mechanics.md`
+— two-layer parent/SPV structure, equity split, revenue share, the NIL
+self-funding flywheel, cohort scaling, investor MOIC.
 
-The **Single School Model** tab has "Investor Recoup + Hurdle" incorrectly categorized as an **operating expense** rather than a **distribution**. This suppresses net cash flow and understates MOIC/IRR.
+**Structure in one breath:** Parent raises $1.5M for 15%. Each school is a
+5-year SPV; parent takes 40% + a 10% franchise fee + a 2% annual mgmt fee.
+Single-tier (every school identical). SPV takes 80% of the school's
+incremental commercial revenue (decaying 10%/yr); the school's 20% funds
+Years 2-5 NIL up to the Year-1 amount, with the **SPV** covering any
+shortfall (decided 2026-07-05 — not a parent cost). MOIC rises with total
+schools because parent costs are fixed.
 
-**Fix:** Delete that row from the expenses section.
+**Older files (superseded):** `1-tedVRBqwCJpBEM-...` (MAKING CINDERELLA) and
+`1ch2OUaoWN2...` (Cinderella Corp Financial Model).
 
 ---
 
@@ -143,6 +175,8 @@ The **Single School Model** tab has "Investor Recoup + Hurdle" incorrectly categ
 4. Pursue Main Street Advisors (Paul Wachter)
 5. Post-production timeline: 3–8 months from end of filming to streaming premiere (Welcome to Wrexham Season 1 was ~3–4 months). Realistic premiere window for a 2026–27 filming season: July–September 2027
 6. Capital raise + formal legal engagement as next structural milestone
+7. Parent Co raise ($1.5M / 15%) in progress — use of proceeds drafted, securities counsel sign-off pending
+8. Building separate deck + financial model for the RedBird/TCG franchise-fee + backstop SPV path; Ankur Jain (Tabor Asset Management) leading that raise track
 
 ---
 
