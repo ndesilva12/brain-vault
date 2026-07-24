@@ -69,13 +69,22 @@ edits that make them hold.
     anti-steering wall; undermines MC independence). Title (consultant vs GM) is irrelevant.
 19. **Evaluator/checkbook separation.** The person who evaluates talent and the person who
     administers NIL money are not the same head in the same room; Norman is walled off from
-    comp-setting/pricing.
+    comp-setting/pricing. *This is an institutional-control + conduct measure — it does NOT
+    insulate Norman from being a principal/booster of the entity paying players (he is one,
+    which is permitted); the payment defense rests on FMV + MC independence + school
+    control, not on the firewall.*
 20. **Mentorship is permitted, bounded.** Norman may serve as a **sanctioned, disclosed**
     basketball advisor/mentor to **enrolled** student-athletes — game, mindset, NBA/draft
     development, performance — providing **expertise and time, not benefits**. He does not:
     (a) contact not-yet-committed prospects (booster/rep restriction); (b) act as players'
     agent for compensation; (c) tie marketability guidance to specific comp or use it as an
     inducement.
+24. **No recruiting involvement, even indirectly.** Neither Norman nor the celebrity
+    evaluates or opines on specific unsigned prospects — even if the staff shares its
+    target list first (direction of information does not cleanse it). Anyone paid by MC /
+    holding SPV equity is a rep of athletics interests and is barred from recruiting; the
+    permissible lane is **general team-building philosophy** (archetypes/positions), with
+    the staff mapping philosophy to specific names privately.
 
 ## H. Documentary depiction firewall
 21. **On-screen role = evaluator / storyteller / mentor** (talent, NBA projection,
