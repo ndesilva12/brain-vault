@@ -70,4 +70,42 @@ separately, a commercial partner earns a revenue-benchmarked return for building
 school's commercial value; that return is enterprise profit redeployed across a
 portfolio — never calibrated, never reimbursed, never earmarked._
 
-**Next:** Loeb pressure-tests the one-pager (`Outputs/2026-07-24-structuring-principles-for-loeb.md`).
+## Q3 — Norman's on-screen role (MGM/Amazon wants him pricing players)
+
+- On-screen **evaluator/storyteller/mentor** = great TV + compliant. Depicting him
+  **"pricing player values"** or **"directing the staff"** = films the institutional-control
+  + pay-for-play violations (permanent, discoverable evidence). "Pricing" also guts the
+  NIL-FMV defense (NIL value ≠ basketball value → looks like a salary).
+- Fix: reframe to talent/NBA-development/futures; never depict comp mechanism or roster
+  direction; MC reserves depiction approval; compliance reads the cut.
+
+## Q4 — Can Norman advise/consult the coaching staff?
+
+- Advice ≠ control. Outside experts advise programs routinely. Danger = **concentration**
+  (funder + pricer + director in one head) and the **recruiting** line.
+- Fixes: (1) separate roles inside MC (advice vs money), or (2) school-employee for the
+  basketball function w/ MC money run arm's-length — **but see Q5, ownership breaks #2**.
+- Litmus: can the coach reject his advice with **zero** funding consequence? Must be yes.
+
+## Q5 — Ownership + dual employment
+
+- **Owning MC poisons the school-employee path.** As owner he'd sit on **both sides** of the
+  MC↔school deal — conflicted insider, worse circumvention optic, recusal guts the role.
+  → If he owns MC, **don't take a school-employee seat at an MC school.**
+- **Employed by two MC schools at once = worst case:** divided loyalty between competitors
+  (BC & Wake both ACC), breaks anti-steering wall, no AD accepts it, torches MC independence.
+  Title (consultant vs GM) irrelevant.
+- **Resolution:** Norman stays **external at MC/parent level** — franchise basketball
+  architect, not any school's employee. Ownership is the reason to stay OUT, not in.
+
+## Q6 — Mentorship of players (allowable, bounded)
+
+- **Yes**, and it's the cleanest, highest-value role. Enrolled players: game, mindset,
+  NBA/draft development, performance, brand — all fine as a **sanctioned, disclosed**
+  advisor providing **expertise/time, not benefits**.
+- Not: contacting **prospects** (booster rule), acting as their **agent**, tying
+  marketability to specific comp/inducement, or being the **checkbook**.
+- Aligns compliance lane + story lane: "NBA lifer mentors underdog kids toward the pros."
+
+**Next:** Loeb pressure-tests the one-pager (`Outputs/2026-07-24-structuring-principles-for-loeb.md`),
+now updated with §§ G (Norman's role), H (depiction firewall), and Qs 6–8 for counsel.

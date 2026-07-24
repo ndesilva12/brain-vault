@@ -59,6 +59,32 @@ edits that make them hold.
 16. Any fee indexed to a school's conference (ACC) distribution is a **services fee paid
     from the school's general funds**, **not** an assignment of NCAA/ACC media rights.
 
+## G. Norman's role — evaluator/mentor, not checkbook, employee, or recruiter
+17. **Owner stays external.** While Norman holds an MC economic interest, he does **not**
+    take a school-employee role at any MC school (that would put him on both sides of the
+    MC↔school transaction and re-collapse institutional control). He operates at the
+    **MC/parent level**, external and even-handed across schools.
+18. **Not employed by multiple MC schools.** Norman is not a consultant/employee of two
+    or more MC schools simultaneously (divided loyalty between competitors; breaks the
+    anti-steering wall; undermines MC independence). Title (consultant vs GM) is irrelevant.
+19. **Evaluator/checkbook separation.** The person who evaluates talent and the person who
+    administers NIL money are not the same head in the same room; Norman is walled off from
+    comp-setting/pricing.
+20. **Mentorship is permitted, bounded.** Norman may serve as a **sanctioned, disclosed**
+    basketball advisor/mentor to **enrolled** student-athletes — game, mindset, NBA/draft
+    development, performance — providing **expertise and time, not benefits**. He does not:
+    (a) contact not-yet-committed prospects (booster/rep restriction); (b) act as players'
+    agent for compensation; (c) tie marketability guidance to specific comp or use it as an
+    inducement.
+
+## H. Documentary depiction firewall
+21. **On-screen role = evaluator / storyteller / mentor** (talent, NBA projection,
+    development, futures).
+22. **Never depicted:** pricing players in a way tied to pay, directing the staff's roster
+    or pay decisions, or any compensation mechanism.
+23. **MC reserves approval** over how Norman's role is portrayed; **compliance counsel reads
+    the cut** before release (the edit must match the legal structure).
+
 ---
 
 ### Questions for counsel
@@ -72,6 +98,14 @@ edits that make them hold.
 4. Does the **multi-school** structure create tampering/antitrust exposure beyond
    single-school, and how do the information walls (C, Principle 9) need to be papered?
 5. Is the conference **services fee** (F) clean under ACC bylaws and NCAA rules?
+6. **Dual role (the crux):** given Norman **owns** MC, is any school-employee/consultant
+   role at an MC school salvageable, or must he stay entirely external (G17–18)? What
+   ownership/recusal facts would change the answer?
+7. Where exactly is the line between permissible **mentorship** of enrolled players and an
+   impermissible **extra benefit** or **inducement** (G20)? What sanctioning/disclosure by
+   the school best protects it?
+8. What contract terms secure MC's **approval over on-screen depiction** (H) and a
+   compliance read of the cut, without EverWonder/streamer resistance killing it?
 
 _All figures/structures illustrative. This is a position to test, not a representation of
 current operations._
