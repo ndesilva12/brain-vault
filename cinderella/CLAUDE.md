@@ -48,41 +48,88 @@ Full use-of-proceeds budget: `Process/2026-06-30-parent-co-use-of-proceeds.md`. 
 
 ## Season 1
 
-**Flagship pairing:** Steph Curry × Davidson, 2027–28 NCAA season.
+**The two most likely Season 1 schools (as of 2026-07-27):**
 
-**Strategic structure:** Season 1 will feature **up to 3 teams**, not just Davidson. The reasoning is twofold:
+1. **Davidson × Steph Curry** (Unanimous Media / Erick Peyton) — flagship, attached. Davidson is **A-10** (keeps **100%** of NCAA tournament units → highly accretive to the SPV; see `Process/2026-07-27-ncaa-units-distribution-by-conference.md`).
+2. **St. Joseph's × one of: Kevin Hart · Jason Kelce · Charles Barkley · Will Smith · Bradley Cooper** — celebrity lead TBD from this Philadelphia-tied set. Also **A-10** (100% unit retention). *Note: these are Philly regional/adopted-city ties (Hart & Smith are from Philadelphia; Kelce = Eagles; Barkley = 76ers; Cooper = Philly-area) — none are literal SJU alumni. Verify/frame accordingly.*
 
-1. **Optionality on tournament runs.** No single program's NCAA Tournament fate determines Season 1's narrative outcome. A deep run from any of the 3 anchors carries the season.
-2. **Franchise + investor logic.** For capital partners like RedBird, owning multiple successful small programs maximizes high-return chances. The franchise model is stronger with portfolio breadth than concentrated bets.
+Target season: 2027–28.
 
-Davidson is the flagship anchor. Radford and other Season 1 candidates are in active evaluation as the second and third programs. The Hart/Temple pairing is the next anchor in the broader pipeline but not necessarily Season 1.
+**Strategic structure:** still built for **up to 3 teams** for (1) tournament-run optionality — no single program's March fate decides the season — and (2) franchise/investor logic — capital partners (RedBird/TCG) prefer portfolio breadth. Davidson + St. Joe's are the two most probable anchors; a third remains open.
+
+_Supersedes the earlier Radford / Hart-Temple framing: **Hart has moved into the St. Joe's option set; Temple is no longer the pairing.**_
 ---
 
 ## Stakeholders & relationships
 
-### Celebrity pairings — confirmed/in motion
+### Celebrity pairing shortlist (master, updated 2026-07-27)
 
-|Celebrity|School|Status|
-|---|---|---|
-|Steph Curry / Unanimous Media (Erick Peyton)|Davidson|Attached, anchor pairing|
-|Kevin Hart / Hartbeat (Ron "Boss" Everline)|Temple|Boss enthusiastically endorsed; talent pipeline potential|
+> ⚠️ **These are working/aspirational pairings — connection type varies (alumni /
+> regional / adopted-city / aspirational) and EVERY tie must be source-verified before it
+> goes in any deck or outreach** (standing rule after the Luke Murray/Loyola error).
+> Verification detail lives in `Process/2026-07-21-celebrity-targets-analysis.md`.
 
-### Celebrity pipeline — research stage
+**Attached:** Davidson — **Steph Curry** (Unanimous Media / Erick Peyton).
 
-|Celebrity|School|Notes|
-|---|---|---|
-|Giannis Antetokounmpo|Marquette|Research stage|
-|Charlamagne Tha God|South Carolina State|HBCU pairing|
-|Theo Von|University of New Orleans||
-|Wiz Khalifa|Duquesne||
-|LeBron James|Akron||
-|Snoop Dogg|Long Beach State||
-|Steve Nash|Santa Clara|Pursue via Unanimous Media, WME internal handoff to Bill Duffy, or CTRL Media direct|
+**Small-D1 shortlist (the core franchise pool):**
+
+| School | Celebrity options |
+|---|---|
+| New Hampshire | Adam Sandler, Triple H, Seth Meyers |
+| Fordham | Denzel Washington, Mike Breen |
+| UMKC | Jason Sudeikis, Paul Rudd |
+| St. Joseph's | Kevin Hart, Bradley Cooper, Jason Kelce _(+ Barkley, Will Smith — Season 1)_ |
+| Hawaii | Dwayne Johnson, Bruno Mars, Jason Momoa |
+| Santa Clara | Steve Nash _(verified alum; via Unanimous / WME→Bill Duffy / CTRL direct)_ |
+| LIU | Jay-Z, Beyoncé, Billy Joel |
+| Illinois-Chicago (UIC) | Barack Obama |
+| Northeastern | Mark Wahlberg, Bill Burr, Affleck, Matt Damon |
+| Charleston | Bill Murray _(verified RiverDogs co-owner)_, Danny McBride |
+| Elon | Shane Gillis, Chris Daughtry |
+| Rhode Island | Seth MacFarlane, Jay Leno, Charlie Day |
+| Appalachian St. | Eric Church, Luke Combs |
+| UC Irvine | Will Ferrell |
+| Northern Illinois | Vince Vaughn, Sebastian Maniscalco |
+| Ball State | David Letterman, Jim Nantz |
+| Drake | Jeremy Piven, Zach Johnson |
+| UMass | John Cena, Liev Schreiber |
+| Indiana State | Larry Bird, John Mellencamp |
+| Texas Southern | Michael Strahan, Travis Scott |
+| Kent State | Michael Keaton, Steve Harvey |
+| Georgia Southern | Walton Goggins, Luke Bryan, Druski |
+| Georgia State | Ludacris, Gucci Mane, Julia Roberts |
+| Missouri State | Brad Pitt, John Goodman |
+| New Orleans | Theo Von, Anthony Mackie, The Mannings |
+| Texas State | Taylor Sheridan, Shawn Michaels |
+| Wichita State | Paul Wight, Antoine Carr |
+| Oregon State | Gary Payton |
+| UTEP | Tim Hardaway |
+| Central Arkansas | Scottie Pippen |
+| Lehigh | CJ McCollum |
+| Weber State | Damian Lillard |
+| Saint Louis | Larry Hughes, Jayson Tatum |
+| North Texas | Post Malone, Jamie Foxx, Steve Austin |
+| William & Mary | Jon Stewart |
+| Detroit (UDM) | Keegan-Michael Key |
+| Holy Cross | Bill Simmons |
+| Tennessee State | Oprah Winfrey |
+
+**Larger-conference combinations (revenue-max / "fallen giant" track — see `Process/2026-07-22...` BC work):**
+
+| School | Celebrity options |
+|---|---|
+| Boston College | Bill Murray _(son Luke = head coach, verified)_, Affleck, Damon, Evans, Krasinski, Burr — *note: only Bill Murray (via Luke) + Amy Poehler ('93) are authentic BC ties; the rest are Boston-regional, not alumni* |
+| Providence College | Seth MacFarlane, Doris Burke _(PC '87, verified)_, Conan O'Brien |
+| Stanford | Tiger Woods, John McEnroe _(both Stanford athletes)_ |
+| USC | Will Ferrell, Brian Scalabrine, any LA name |
+| Wake Forest | Tim Duncan, Muggsy Bogues _(both verified Deacons)_ |
+| South Carolina | Darius Rucker _(verified)_ |
+| DePaul | Barack & Michelle Obama |
 
 ### Strict pairing criteria
 
-- **Small D1 only** — not Power conference schools
-- **Authentic connection required** — alma mater preferred; regional/adopted-city narratives acceptable where genuine
+- **Small D1 preferred** — plus a separate **larger-conference "fallen giant" track** (BC, Wake, etc.) where a long tournament drought + big market/revenue justifies trading some story purity for revenue upside.
+- **Authentic connection required** — alma mater preferred; regional/adopted-city narratives acceptable where genuine. **Source-verify every tie before external use.**
 
 ### Business stakeholders
 
@@ -144,15 +191,25 @@ Best structured as a **university employee position** with hiring protected thro
 
 ## Financial model
 
-**Live model:** Google Sheet "Cinderella Corp Model"
-(`1mbYo2aQmMSXUaX1gYYSRfCnWvm4EaKFzlkv-qU6EO_U`). Formula-driven off an
-Assumptions tab with ~58 named inputs + a Base/Moderate/Reach scenario
-dropdown. Five tabs: Summary · Per-School SPV · Franchise Rollup · Parent Co
-P&L · Assumptions.
+**SOURCE OF TRUTH — Google Sheet "Cinderella Corp Model"**
+(`1mbYo2aQmMSXUaX1gYYSRfCnWvm4EaKFzlkv-qU6EO_U`). This live sheet is canonical;
+it supersedes all prior/local models when there's a conflict. Two tabs are the
+authoritative references:
+- **ManCo tab (`ManCo P&L`)** = the **budget / use of proceeds** — canonical parent-co
+  spend. (Use over `Process/2026-06-30-parent-co-use-of-proceeds.md` if they diverge.)
+- **SPV tab (`SPV (1 School)`)** = the **SPV financial model** — canonical single-school
+  economics.
+
+Other tabs in the sheet: Assumptions (named inputs + Base/Moderate/Reach scenario
+dropdown), ManCo-Seed, ManCo Runway, Franchise (All Schools), Team Revenue, Summary.
 
 **Full mechanics spec:** `Process/2026-07-05-financial-model-and-franchise-mechanics.md`
 — two-layer parent/SPV structure, equity split, revenue share, the NIL
 self-funding flywheel, cohort scaling, investor MOIC.
+
+**Standalone workbooks (scenario/planning, NOT the source of truth):** the BC full-stack
+model (`Outputs/2026-07-23-bc-full-stack-model.xlsx`), the capital-deployment monthly
+(`Outputs/2026-07-17-capital-deployment-monthly.xlsx`), and the three-school projection.
 
 **Structure in one breath:** Parent raises $1.5M for 15%. Each school is a
 5-year SPV; parent takes 40% + a 10% franchise fee + a 2% annual mgmt fee.
@@ -170,7 +227,7 @@ schools because parent costs are fixed.
 ## Current state & on the horizon
 
 1. Formally engage Loeb & Loeb (Brian Socolow) to draft the production services agreement with EverWonder once capital is raised
-2. Advance the Boss / Kevin Hart conversation. Open questions: does Hartbeat seek a production role (potential tension with existing partners)? Is Boss's role talent aggregator (finder's fee) vs. co-investor?
+2. Advance the Boss / Kevin Hart conversation — **Hart now targeted at St. Joseph's (one of the Season 1 options), not Temple.** Open questions: does Hartbeat seek a production role (potential tension with existing partners)? Is Boss's role talent aggregator (finder's fee) vs. co-investor?
 3. Continue celebrity/school pipeline development
 4. Pursue Main Street Advisors (Paul Wachter)
 5. Post-production timeline: 3–8 months from end of filming to streaming premiere (Welcome to Wrexham Season 1 was ~3–4 months). Realistic premiere window for a 2026–27 filming season: July–September 2027

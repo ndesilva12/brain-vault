@@ -1,6 +1,13 @@
 # Celebrity Targets — Analysis, Verified Combos & Comps
 _Session: 2026-07-21 · companion to the lead-celebrity shortlist_
 
+> **Update 2026-07-27:** the current **master pairing shortlist** now lives in
+> `cinderella/CLAUDE.md` (Celebrity pairing shortlist section) — ~37 small-D1 schools +
+> a larger-conference track. This doc holds the *verification/analysis* work behind it.
+> Season 1 anchors are now **Davidson (Curry)** and **St. Joseph's** (Hart/Kelce/Barkley/
+> Will Smith/Bradley Cooper). Many combos on the new master list are still **unverified** —
+> run a verification pass before any go external.
+
 **Methodology note:** every connection below is source-verified (I fabricated a
 Bill Murray/Loyola tie earlier — corrected & removed). Do not add an unverified
 tie to a deck. Roster caveat flagged where the school can't build an NIL roster.

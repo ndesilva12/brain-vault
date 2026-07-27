@@ -33,6 +33,10 @@ _(pre-seeded from our current session — the live loose ends; edit or clear fre
 - **2026-07-27** — **Follow up with Bill from Bridge Independent.**
 - **2026-07-27** — **Follow up with Josh Bennett.**
 - **2026-07-27** — **Hit up Pat Quinn about names.**
+- **2026-07-27** — **Run a source-verification pass on the new celebrity master shortlist**
+  (in cinderella/CLAUDE.md) — ~37 small-D1 + larger-conference combos; many unverified.
+  Confirm each tie (alumni vs regional vs aspirational) before anything goes in a deck.
+  `#cinderella #celebrity`
 
 ---
 
