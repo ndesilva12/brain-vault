@@ -10,6 +10,12 @@ conference office / a member AD before relying on a number._
 - NCAA only **recommends** an even split — **"conferences may distribute the funds to
   members however they wish."** So retention is entirely a per-conference policy.
 
+**Terminology:** "equal / even split" = all pooled units divided **1/N across every
+member** (10 schools → 10% each); the **earner gets no premium** — the same share as
+everyone else. (Not a 50/50 earner-vs-field split — that isn't a real model.) So in a
+14-team league, a school that earns 5 units (~$10M) nets only ~1/14 (~$710K) of it;
+under A-10 100% retention it keeps the full ~$10M.
+
 ## The spectrum: EQUAL ←→ EARNED (trend is moving toward EARNED)
 
 | Conference | Model | Documented policy | Confidence |
