@@ -28,6 +28,9 @@ _(pre-seeded from our current session — the live loose ends; edit or clear fre
   `#capital #celebrity`
 - **2026-07-24** — Optional: convert the **corporate-setup-pack README** to Word so that
   packet is fully uniform (the 12 legal docs are already Word). `#corporate`
+- **2026-07-27** — **Call Michael Siegel in Philadelphia.** _(note: different person from
+  Patricof's Matt Siegel above)_
+- **2026-07-27** — **Follow up with Bill from Bridge Independent.**
 
 ---
 
