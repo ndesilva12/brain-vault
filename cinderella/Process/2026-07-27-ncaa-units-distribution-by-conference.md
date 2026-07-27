@@ -14,7 +14,7 @@ conference office / a member AD before relying on a number._
 
 | Conference | Model | Documented policy | Confidence |
 |---|---|---|---|
-| **Atlantic 10** | Earned | School keeps **75%**, 25% pooled (75/25) | Med-High |
+| **Atlantic 10** | Earned | School keeps **100%** of units it earns | **High — St. Joe's AD (2026-07-27)** |
 | **West Coast (WCC)** | Earned | Uneven; earner gets a higher share | Med-High |
 | **Pac-12 (new-look)** | Earned | Uneven; rewards the earning team | Med |
 | **Mountain West** | Mostly equal | Even split + small bonuses for advancing each round | Med-High |
@@ -27,19 +27,21 @@ conference office / a member AD before relying on a number._
 Missouri Valley, MAAC, CAA, Horizon, Southern, Sun Belt, MAC, Conference USA, AAC, Big Sky,
 Summit, and other one-bid leagues.
 
-## Flag on the A-10 "100%"
-Norman's working figure was 100% to the earning school; every public source shows
-**75/25**. Policies change and Norman may have newer/inside info — reconcile, but the
-documented number is 75/25.
+## A-10 = 100% (resolved)
+The **St. Joe's AD confirmed the A-10 distributes 100% of earned units to the school
+that earns them** (2026-07-27) — primary source, supersedes the older public "75/25"
+figures floating on forums (dated or wrong). Treat A-10 as **full retention**. This makes
+the A-10 the single most SPV-favorable conference identified for tournament-unit capture.
 
 ## Why it matters for Cinderella (site-selection factor)
 - **Equal-distribution** conference (Big Ten, SEC, most) → a Cinderella run's units get
   **pooled conference-wide**; the school sees little *direct incremental*, so little unit
   upside for the SPV to share.
-- **Earned-distribution** conference (**A-10 75%**, WCC) → a run generates **real
+- **Earned-distribution** conference (**A-10 100%**, WCC) → a run generates **real
   incremental revenue the school keeps** → flows into "revenue above baseline" → SPV takes
   its 80%. A deep run is worth materially more to the SPV.
-- **Board ties:** **Davidson = A-10** (keeps ~75% of earned units — accretive).
+- **Board ties:** **Davidson & St. Joe's = A-10** (keep **100%** of earned units — highly
+  accretive; A-10 is the best unit-capture conference found).
   **BC = ACC** (merit-shifting, favorable-ish). A Big Ten/SEC target = worst for unit
   capture (pooled away).
 - **Action:** score "does this conference let the school KEEP earned units?" as a
