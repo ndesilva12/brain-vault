@@ -31,6 +31,7 @@ _(pre-seeded from our current session — the live loose ends; edit or clear fre
 - **2026-07-27** — **Call Michael Siegel in Philadelphia.** _(note: different person from
   Patricof's Matt Siegel above)_
 - **2026-07-27** — **Follow up with Bill from Bridge Independent.**
+- **2026-07-27** — **Follow up with Josh Bennett.**
 
 ---
 
