@@ -70,19 +70,6 @@ warm intro, press). Deck: https://cinderella.short.gy/deck
 
 **Dashboard** — normancdesilva.vercel.app, handled in Claude Code.
 
-## How I work with Claude Code vs. Jimmy
-
-I have two front doors into this vault:
-
-- **Claude Code** (Windows desktop) — deep work, drafting, synthesis, 
-  cross-project queries, weekly reviews. Writes to `Process/` and 
-  `Outputs/`.
-- **Jimmy** (Telegram, via OpenClaw on a Macbook) — quick captures and 
-  recall from the phone. Writes ONLY to `Inputs/` folders. Never edits 
-  existing files.
-
-Both should read `CLAUDE.md` at session start. Don't fight each other.
-
 ## Hard rules
 
 - **External actions need authorization.** Never send emails, post to 
@@ -104,10 +91,7 @@ Both should read `CLAUDE.md` at session start. Don't fight each other.
 
 ## People I'm closest to
 
-This is a quick reference. Full contact details and history are in 
-`people.md` if I move that in here, or in Jimmy's people database.
-
-Full contact database: see people.md in vault root.
+This is a quick reference. Full contact database: see `people.md` in the repo root.
 
 **Partner:** Kim D'Agostino — together since Feb 18, 2018. Tax accountant 
 at Boston Scientific. Lives with me in Wellesley.
@@ -129,22 +113,6 @@ at Boston Scientific. Lives with me in Wellesley.
 - Zach Etten (college best friend, NH)
 - Brian MacDonald, Jake Brogan, Mark Paolucci, Mike Drummond (WSOP 
   winner), Patrick Belniak, Thomas Shevlin, Brian Horton, Patrick Wacker
-
-## Mac maintenance
-
-### Starting Jimmy (Telegram bot) after a fresh restart
-
-Option 1 — attach to existing tmux session:
-```
-tmux new-session -s channels
-```
-
-Option 2 — start from scratch (full command):
-```
-cd /Users/normandesilva/brain && claude --channels plugin:telegram@claude-plugins-official --dangerously-skip-permissions
-```
-
-Run either from Terminal on the Macbook. The session name is `channels`. If tmux is already running, use `tmux attach -t channels` instead of `new-session`.
 
 ## Notes for whoever's reading this
 
