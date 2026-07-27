@@ -93,15 +93,14 @@ Both should read `CLAUDE.md` at session start. Don't fight each other.
 - **Be careful in group chats / messaging surfaces** — never speak as me 
   unauthorized.
 
-## What's in this vault
+## What's in this repo
 
-- `CLAUDE.md` — this file
-- `Daily/` — daily notes, named `YYYY-MM-DD.md`
-- `Inputs/` (top-level) — captures that don't belong to a specific project 
-  yet
-- One folder per project — each with its own `CLAUDE.md` and four 
-  subfolders: `Inputs/`, `Process/`, `Outputs/`, `Feedback/`
-- `skills/` — reusable workflows
+- `CLAUDE.md` — this front-door file
+- `people.md` — full contact database
+- `notes.md` — running parking lot of follow-ups and reminders
+- `Inputs/` (top-level) — quick captures not yet tied to a project
+- One folder per project (currently `cinderella/`) — each with its own `CLAUDE.md`
+  plus `Process/` (working notes) and `Outputs/` (deliverables)
 
 ## People I'm closest to
 

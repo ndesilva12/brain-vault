@@ -1,0 +1,8 @@
+# OS / editor / app cruft — keep the repo clean for AI consumption
+.obsidian/
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+node_modules/
