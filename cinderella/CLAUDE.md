@@ -193,15 +193,12 @@ Best structured as a **university employee position** with hiring protected thro
 
 **SOURCE OF TRUTH — Google Sheet "Cinderella Corp Model"**
 (`1mbYo2aQmMSXUaX1gYYSRfCnWvm4EaKFzlkv-qU6EO_U`). This live sheet is canonical;
-it supersedes all prior/local models when there's a conflict. Two tabs are the
-authoritative references:
-- **ManCo tab (`ManCo P&L`)** = the **budget / use of proceeds** — canonical parent-co
-  spend. (Use over `Process/2026-06-30-parent-co-use-of-proceeds.md` if they diverge.)
-- **SPV tab (`SPV (1 School)`)** = the **SPV financial model** — canonical single-school
-  economics.
-
-Other tabs in the sheet: Assumptions (named inputs + Base/Moderate/Reach scenario
-dropdown), ManCo-Seed, ManCo Runway, Franchise (All Schools), Team Revenue, Summary.
+it supersedes all prior/local models when there's a conflict. The sheet currently has
+**exactly three tabs** (verified 2026-07-27; simplified from an earlier multi-tab version):
+- **`MANCO`** = the **budget / use of proceeds** — canonical parent-co spend. (Use over
+  `Process/2026-06-30-parent-co-use-of-proceeds.md` if they diverge.)
+- **`SPV`** = the **SPV financial model** — canonical single-school economics.
+- **`ASSUMPTIONS`** = named inputs / scenario drivers feeding both.
 
 **Full mechanics spec:** `Process/2026-07-05-financial-model-and-franchise-mechanics.md`
 — two-layer parent/SPV structure, equity split, revenue share, the NIL
