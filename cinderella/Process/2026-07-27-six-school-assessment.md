@@ -155,3 +155,49 @@ _Sources: transition/eligibility — swimswam, athlonsports, queensathletics; Lo
 2018 Final Four + Newhart — sportsteamhistory, edurank, Wikipedia; Clay Aiken UNCC — today.com,
 claynewsnetwork; Charlotte natives — Wikipedia (Anthony Hamilton), musician category lists;
 alumni/hometowns — Wikipedia "List of … people" pages. Conferences current as of 2026-07._
+
+---
+
+## Addendum — three named pairings (ULM/McGraw, Georgia State/Ludacris, St. Joe's/Will Smith)
+
+### Louisiana-Monroe × Tim McGraw — **elite; added to master shortlist**
+- **Tie: VERIFIED ALUM + hometown.** McGraw enrolled at Northeast Louisiana University (now
+  ULM) in 1985 on a **baseball scholarship**, studied sports medicine; a **knee injury there
+  ended his baseball career and he picked up guitar** — the school is the literal origin of
+  his sports→music pivot. Hometown Start/Delhi, LA (~20 mi from Monroe). Narrative resonance
+  on par with Curry/Davidson.
+- **Wattage:** huge — one of country's biggest stars + real acting résumé (Yellowstone/1883,
+  Friday Night Lights, The Blind Side). Soundtrack halo on top of streaming pull.
+- **School:** Sun Belt low-major; **30-year tournament drought** (last 1996, 0-7 all-time) →
+  maximum transformation delta, purest Cinderella. Sun Belt conf tourney = winnable auto-bid
+  path, not a lock. Fant-Ewing Coliseum.
+- **Weakness:** small Monroe market — low gate/sponsor ceiling, marquee relocation needed.
+- **Verdict:** best-authenticated celebrity tie outside Curry. Strong add.
+
+### Georgia State × Ludacris — **strong; Atlanta is the differentiator**
+- **Tie: VERIFIED ALUM** (attended '96-'98, music mgmt; honorary degree '22; artist-in-
+  residence) — already on the master shortlist.
+- **Wattage:** high — rapper + Fast & Furious franchise star (global film pull) + entrepreneur;
+  deep Atlanta roots = gettable.
+- **School:** Sun Belt but **Atlanta = major market** (best commercial ceiling of the three);
+  recent cred (2015 R.J. Hunter buzzer-beater over Baylor; 2019 Dance). Moderate transformation
+  delta, strongest platform.
+- **Verdict:** best balance of story + economics + wattage of the three.
+
+### St. Joseph's × Will Smith — **A-list, but a deployment question**
+- **Tie: REGIONAL** — West Philadelphia/Wynnefield native ("Will Smith Way," 2025). **Not an
+  SJU alum.** Adopted-hometown, genuine but not institutional.
+- **Wattage:** biggest of the three — global A-list, film + music.
+- **School:** St. Joe's = A-10 (**100% units**), already a Season 1 anchor.
+- **Flags:** (1) **Crowding** — St. Joe's already carries Hart, Kelce, Barkley, Cooper; the
+  celebrity-targets doc says Smith is better used to **widen the Philly bench at a second
+  school (Temple/La Salle/Drexel)** than to stack a fifth name on St. Joe's. (2)
+  **Reputational** — 2022 Oscars slap, mostly recovered by 2026, but name it.
+- **Verdict:** if he's the St. Joe's lead, his pull tops Hart's for a streaming deal, but Hart
+  is hoops-native + operator/investor (more hands-on). Best use likely anchors a *second*
+  Philly program to build a Philadelphia cluster.
+
+_Sources (addendum): Tim McGraw NLU/ULM + baseball scholarship + hometown — 64parishes,
+explorelouisiana, Wikipedia; ULM Sun Belt + tournament history — Wikipedia, ulmwarhawks;
+Georgia State/Ludacris — vault celebrity-targets doc (verified); Will Smith Philly — vault
+celebrity-targets doc + inquirer.com._

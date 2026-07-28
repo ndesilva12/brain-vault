@@ -100,6 +100,7 @@ _Supersedes the earlier Radford / Hart-Temple framing: **Hart has moved into the
 | Georgia State | Ludacris, Gucci Mane, Julia Roberts |
 | Missouri State | Brad Pitt, John Goodman |
 | New Orleans | Theo Von, Anthony Mackie, The Mannings |
+| Louisiana-Monroe (ULM) | Tim McGraw _(verified alum — baseball scholarship at then-NLU + hometown Start/Delhi; Sun Belt)_ |
 | Texas State | Taylor Sheridan, Shawn Michaels |
 | Wichita State | Paul Wight, Antoine Carr |
 | Oregon State | Gary Payton |
