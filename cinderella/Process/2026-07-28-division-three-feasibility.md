@@ -1,6 +1,11 @@
 # Making Cinderella at a Division III School — Feasibility, Economics, Ramifications, Market
 _Session: 2026-07-28 · assessing a D3 program as a Making Cinderella target vs. the D1 model._
 
+> **Update 2026-07-28 (post-Norman pushback):** this memo was too tournament-centric and too
+> gloomy on cost/roster mechanics. Revised thesis + the six-school experiment set (NYU, UMass
+> Boston, Williams, Amherst, Johns Hopkins, WashU) live in
+> `2026-07-28-division-three-experiment-set.md`, which supersedes the BLUF's skepticism.
+
 ## BLUF
 A D3 play is a **different product, not a cheaper version of the same one**: a
 **content-first docuseries investment**, not a **program-transformation asset play**. It's
