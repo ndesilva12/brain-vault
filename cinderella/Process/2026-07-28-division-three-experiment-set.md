@@ -104,6 +104,62 @@ not pilots.
 - **Sequence** after Davidson / St. Joe's prove the format and land the streamer relationship —
   then a D3 pilot is a cheap, on-brand swing with the downside already floored.
 
+---
+
+## On-camera celebrity solves (added 2026-07-28)
+
+### UMass Boston — confirmed ties
+- **Dana White** — CONFIRMED: enrolled at UMass Boston, dropped out first semester (also
+  Quincy College). UFC president — program-building/promotional genius; huge personality.
+- **Joe Rogan** — reportedly attended UMass Boston, did not graduate (**softer sourcing than
+  White — paper before external use**). Unmatched audience reach (JRE).
+- _Tone note: both are combat-sports/aggressive-promotional, not Wrexham-warm — cuts both ways._
+
+### NYU — confirmed ties
+- **Adam Sandler** (verified alum, made *Hustle*) · **Billy Crystal** (verified alum +
+  Basketball HOF superfan). Plus Lady Gaga (Tisch). See MSG "return-to-glory" hook above.
+
+### Johns Hopkins — Baltimore-area celebrity bench (none are JHU alums; Bloomberg = institutional catalyst)
+**Bullseye (Baltimore + basketball):**
+- **Carmelo Anthony** — raised West Baltimore (Murphy Homes); NBA HOF; runs a production
+  company. Best single fit — Baltimore-raised hoops icon who makes content. VERIFIED.
+- **Juan Dixon** — Baltimore native (Dunbar HS), led Maryland to the 2002 title. Purest
+  local-kid-makes-good hoops story; lower wattage, max authenticity. VERIFIED.
+- **Muggsy Bogues** (Baltimore native, shortest NBA player ever — underdog icon; also our Wake
+  tie), **Sam Cassell** (Baltimore/Dunbar, 3× champ, NBA coach), **Will Barton** (Baltimore
+  native, NBA). All VERIFIED.
+
+**Biggest overall wattage (Baltimore-tied):**
+- **Michael Phelps** — Towson/Baltimore, most decorated Olympian ever; wholesome, hometown-proud.
+  Likely the biggest Baltimore celebrity. Sports god, not basketball. VERIFIED.
+- **Jada Pinkett Smith** — A-list actress/producer, Baltimore native (BSA '89). Bonus: pairs
+  with the Will Smith / St. Joe's thread (Smith-family Philly+Baltimore motif). VERIFIED.
+
+**Creative-partner / storyteller tier (director/EP — authenticity stamp, pair with an on-camera star):**
+- **Barry Levinson** (Oscar-winning Baltimore auteur — Diner/Tin Men/Avalon/Liberty Heights),
+  **David Simon** (*The Wire* — definitive Baltimore chronicler), **John Waters** (Baltimore
+  patron-saint filmmaker, resident). All VERIFIED Baltimore ties.
+
+**Other big natives:** Mo'Nique (Oscar winner), Julie Bowen, Josh Charles, Cal Ripken Jr.
+(Aberdeen, Orioles legend), Toni Braxton. **Kevin Plank** (Under Armour founder) = Baltimore
+mogul/sponsor angle, not on-camera.
+
+**Pass / flag:** **Gervonta "Tank" Davis** — huge current Baltimore boxing champ but active
+2026 legal trouble (DV warrants, lawsuits) → reputational risk for a family brand.
+**Nancy Pelosi / Ben Carson** — literal Baltimore/Hopkins ties but politically polarizing →
+off-brand.
+
+**Rec for Hopkins:** Carmelo Anthony on-camera (Baltimore + basketball + producer); Phelps for
+max hometown wattage; attach Levinson or Simon as creative EP for auteur credibility; Bloomberg
+stays the institutional catalyst behind the D1 move.
+
+_Sources (celebrity solves): Dana White UMass Boston — Wikipedia/Britannica; Joe Rogan UMass
+Boston — edurank (soft); Carmelo West Baltimore, Phelps Towson/NBAC, Jada BSA, Levinson/Simon/
+Waters Baltimore, Bogues/Cassell/Barton/Dixon Baltimore natives, Gervonta Davis Baltimore +
+legal — WMAR/CBS Baltimore/Baltimore Sun, PressBox, Wikipedia._
+
+---
+
 _Sources: D3 NIL permissibility + collective/valid-business-purpose scrutiny — NCAA.org, College
 Sports Commission guidance (BSK); Hopkins D1 lacrosse + Centennial D3 — Wikipedia, JHU
 News-Letter; Bloomberg $3.35B+ / '64 — engineering.jhu.edu, Forbes; UMass Boston Little East /
