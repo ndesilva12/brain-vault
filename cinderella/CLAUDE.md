@@ -67,7 +67,10 @@ _Supersedes the earlier Radford / Hart-Temple framing: **Hart has moved into the
 > ⚠️ **These are working/aspirational pairings — connection type varies (alumni /
 > regional / adopted-city / aspirational) and EVERY tie must be source-verified before it
 > goes in any deck or outreach** (standing rule after the Luke Murray/Loyola error).
-> Verification detail lives in `Process/2026-07-21-celebrity-targets-analysis.md`.
+> **Full verified verdicts (2026-07-29 pass): `Process/2026-07-29-celebrity-shortlist-verification.md`**
+> (earlier detail: `Process/2026-07-21-celebrity-targets-analysis.md`). Falsified ties already
+> removed below: Jim Nantz≠Ball State, Chris Daughtry≠Elon, Jay Leno≠URI, Liev Schreiber≠UMass,
+> Conan O'Brien≠Providence.
 
 **Attached:** Davidson — **Steph Curry** (Unanimous Media / Erick Peyton).
 
@@ -76,7 +79,7 @@ _Supersedes the earlier Radford / Hart-Temple framing: **Hart has moved into the
 | School | Celebrity options |
 |---|---|
 | New Hampshire | Adam Sandler, Triple H, Seth Meyers |
-| Fordham | Denzel Washington, Mike Breen |
+| Fordham | Denzel Washington, Mike Breen _(BOTH verified alumni + basketball — top-tier, on-thesis)_ |
 | UMKC | Jason Sudeikis, Paul Rudd |
 | St. Joseph's | Kevin Hart, Bradley Cooper, Jason Kelce _(+ Barkley, Will Smith — Season 1)_ |
 | Hawaii | Dwayne Johnson, Bruno Mars, Jason Momoa |
@@ -85,14 +88,14 @@ _Supersedes the earlier Radford / Hart-Temple framing: **Hart has moved into the
 | Illinois-Chicago (UIC) | Barack Obama |
 | Northeastern | Mark Wahlberg, Bill Burr, Affleck, Matt Damon |
 | Charleston | Bill Murray _(verified RiverDogs co-owner)_, Danny McBride |
-| Elon | Shane Gillis, Chris Daughtry |
-| Rhode Island | Seth MacFarlane, Jay Leno, Charlie Day |
+| Elon | Shane Gillis _(brief transfer, football, asked to leave — weak; row candidate to drop)_ |
+| Rhode Island | Seth MacFarlane, Charlie Day _(both RI-state regional, not URI alumni)_ |
 | Appalachian St. | Eric Church, Luke Combs |
 | UC Irvine | Will Ferrell |
 | Northern Illinois | Vince Vaughn, Sebastian Maniscalco |
-| Ball State | David Letterman, Jim Nantz |
+| Ball State | David Letterman _(verified alum '69, major donor)_ |
 | Drake | Jeremy Piven, Zach Johnson |
-| UMass | John Cena, Liev Schreiber |
+| UMass | John Cena _(MA native; note actual alma mater = Springfield College, D3 — cleaner as its own pairing)_ |
 | Indiana State | Larry Bird, John Mellencamp |
 | Texas Southern | Michael Strahan, Travis Scott |
 | Kent State | Michael Keaton, Steve Harvey |
@@ -120,7 +123,7 @@ _Supersedes the earlier Radford / Hart-Temple framing: **Hart has moved into the
 | School | Celebrity options |
 |---|---|
 | Boston College | Bill Murray _(son Luke = head coach, verified)_, Affleck, Damon, Evans, Krasinski, Burr — *note: only Bill Murray (via Luke) + Amy Poehler ('93) are authentic BC ties; the rest are Boston-regional, not alumni* |
-| Providence College | Seth MacFarlane, Doris Burke _(PC '87, verified)_, Conan O'Brien |
+| Providence College | Doris Burke _(PC '87, verified alum)_, Seth MacFarlane _(RI regional)_ |
 | Stanford | Tiger Woods, John McEnroe _(both Stanford athletes)_ |
 | USC | Will Ferrell, Brian Scalabrine, any LA name |
 | Wake Forest | Tim Duncan, Muggsy Bogues _(both verified Deacons)_ |
