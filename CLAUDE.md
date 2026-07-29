@@ -84,10 +84,27 @@ warm intro, press). Deck: https://cinderella.short.gy/deck
 
 - `CLAUDE.md` — this front-door file
 - `people.md` — full contact database
-- `notes.md` — running parking lot of follow-ups and reminders
+- `notes.md` — **pointer + periodic git mirror** of the Ideas & Notes doc (see Capture surfaces)
 - `Inputs/` (top-level) — quick captures not yet tied to a project
 - One folder per project (currently `cinderella/`) — each with its own `CLAUDE.md`
   plus `Process/` (working notes) and `Outputs/` (deliverables)
+
+### Capture surfaces (tasks / thoughts / ideas)
+
+Three Google Docs are the **canonical** capture surfaces — reachable by Claude chat, Claude
+Code (via the Google Drive connector), and mobile. Route by trigger word; append-only, dated,
+newest at the bottom; never reorder prior entries.
+
+| Trigger words | Doc | ID |
+|---|---|---|
+| idea / ideas / note / notes | **Ideas & Notes — Norman** | `195vBqdWfgwvLGCf9W9RM6FHdwBIyd1Q_QJ6nRv37LRE` |
+| thought / thoughts | **THOUGHTS — Norman** | `1T7kk6gldl78L8wfWdo3dyFsjNwokWjw6F32LCikhUFQ` |
+| task / to-do / my list / vault list | **Cinderella / Vault — Task List** | `14x7Mq5m3L19Laj_d589onVvBBI-EVBoKLEFQ6Wjj4Tw` |
+
+- **Default all captures to these docs**, not to `notes.md`. Everyday errands → Apple Reminders
+  (a separate surface Claude Code can't reach).
+- `notes.md` is a git-history mirror of the Ideas & Notes doc: on request ("comb the Ideas &
+  Notes doc and update notes.md"), pull new entries into its **Synced entries** section, dated.
 
 ## People I'm closest to
 
