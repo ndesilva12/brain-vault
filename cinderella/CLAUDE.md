@@ -130,6 +130,16 @@ _Supersedes the earlier Radford / Hart-Temple framing: **Hart has moved into the
 | South Carolina | Darius Rucker _(verified)_ |
 | DePaul | Barack & Michelle Obama |
 
+**D3 track (content-first / reclassification route — see `Process/2026-07-28-division-three-financial-deep-dive.md`; ties verified 2026-07-29):**
+
+> Huge celebrities paired with elite-brand D3 schools that could resource a D1 reclassification. Tie type tagged inline.
+
+| School | Celebrity options |
+|---|---|
+| NYU _(D3, UAA)_ | Adam Sandler, Billy Crystal, Spike Lee _(all three verified Tisch alumni — Sandler '88, Crystal '70, Lee MFA '82 — and all NBA superfans)_ |
+| Johns Hopkins _(D3, UAA)_ | Mike Bloomberg _(alum '64 + biggest donor in higher-ed history)_, Michael Phelps _(Baltimore local)_, Carmelo Anthony _(Baltimore local — hoops)_ |
+| UMass Boston _(D3, Little East)_ | Joe Rogan _(attended UMass Boston ~3 yrs)_, Dana White _(brief UMass Boston stint; deep Boston ties)_, Bill Burr _(Canton MA local)_ |
+
 ### Strict pairing criteria
 
 - **Small D1 preferred** — plus a separate **larger-conference "fallen giant" track** (BC, Wake, etc.) where a long tournament drought + big market/revenue justifies trading some story purity for revenue upside.

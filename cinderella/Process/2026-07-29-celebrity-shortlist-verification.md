@@ -120,6 +120,13 @@ confirm at deck-time._
    Missouri State (Goodman+Pitt).
 5. **Add as a clean alt pairing:** Springfield College (D3) × John Cena — his actual alma mater.
 
+## Additions — D3 track (verified 2026-07-29)
+| School | Verdict summary |
+|---|---|
+| **NYU** (D3, UAA) | Sandler ✅(Tisch '88) · Billy Crystal ✅(Tisch '70, Film & TV) · Spike Lee ✅(Tisch MFA '82, now tenured artistic director) [web]. **All three alumni + all NBA superfans (Crystal & Lee named Basketball HOF "Superfans"). Fully authentic — top of the D3 board.** |
+| **Johns Hopkins** (D3, UAA) | Bloomberg ✅(alum '64, largest higher-ed donor ever) · Phelps 📍(Baltimore native, Rodgers Forge — not a JHU alum) · Carmelo Anthony 📍(raised West Baltimore — not a JHU alum, but a marquee hoops name) [web/doc]. |
+| **UMass Boston** (D3, Little East) | Joe Rogan ✅(Newton MA native; attended UMass Boston ~3 yrs, no degree) · Dana White 📍(Boston-adopted; brief UMass Boston + Quincy College stints; ex-Wahlberg roommate/So-Boston trainer) · Bill Burr 📍(Canton MA local) [web]. |
+
 _Sources: individual searches logged 2026-07-29 (Wikipedia, school athletics/alumni pages,
 Roc Nation, Ball State, Fordham, Texas State/CultureMap, edurank alumni indexes). [doc] items
 are high-confidence from public record — confirm the specific class-year/framing at deck-time._
