@@ -1,21 +1,24 @@
-# Notes — Norman's running thoughts
+# Ideas — Norman's idea book
 
-_A capture file for general thoughts, half-ideas, observations, names, and questions —
-**not** a to-do list. Tell me "jot this down: ___" (or "add to notes: ___") and I'll append
-it with a date. Say "what's in my notes" to review._
+_A capture file for **ideas** — about Cinderella or anything else. Half-formed concepts,
+angles, "what if," names worth chasing, product/venture sparks. Tell me "jot this down: ___"
+(or "add to notes: ___" / "add an idea: ___") and I'll append it with a date. Say
+"what's in my ideas" to review._
 
-**➡️ To-dos live elsewhere now.** Actionable tasks go in the Google Doc
-**"Cinderella / Vault — Task List"**
-(https://docs.google.com/document/d/14x7Mq5m3L19Laj_d589onVvBBI-EVBoKLEFQ6Wjj4Tw/edit) —
-reachable by Claude chat + mobile. This file is for thinking, not tracking.
+**Where things live now:**
+- **Ideas** → this file (`notes.md`).
+- **Thoughts / reflections** → Google Doc "THOUGHTS"
+  (link in that doc; separate from ideas).
+- **To-dos / tasks** → Google Doc "Cinderella / Vault — Task List"
+  (https://docs.google.com/document/d/14x7Mq5m3L19Laj_d589onVvBBI-EVBoKLEFQ6Wjj4Tw/edit).
 
 **How it works**
-- New thoughts get added under **Thoughts** with the date and an optional `#tag`.
+- New ideas get added under **Ideas** with the date and an optional `#tag`.
 - Tags in use so far: `#cinderella` `#bc` `#celebrity` `#capital` `#compliance`
-  `#corporate` `#personal` `#idea` — add any you like.
+  `#corporate` `#personal` `#venture` `#idea` — add any you like.
 
 ---
 
-## Thoughts
+## Ideas
 
 _(empty — clean slate. Drop ideas here.)_
