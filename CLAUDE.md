@@ -91,9 +91,8 @@ warm intro, press). Deck: https://cinderella.short.gy/deck
 
 ### Capture surfaces (tasks / thoughts / ideas)
 
-Three Google Docs are the **canonical** capture surfaces — reachable by Claude chat, Claude
-Code (via the Google Drive connector), and mobile. Route by trigger word; append-only, dated,
-newest at the bottom; never reorder prior entries.
+Three Google Docs are the **canonical** capture surfaces. Route by trigger word; append-only,
+dated; never reorder prior entries.
 
 | Trigger words | Doc | ID |
 |---|---|---|
@@ -101,10 +100,15 @@ newest at the bottom; never reorder prior entries.
 | thought / thoughts | **THOUGHTS — Norman** | `1T7kk6gldl78L8wfWdo3dyFsjNwokWjw6F32LCikhUFQ` |
 | task / to-do / my list / vault list | **Cinderella / Vault — Task List** | `14x7Mq5m3L19Laj_d589onVvBBI-EVBoKLEFQ6Wjj4Tw` |
 
-- **Default all captures to these docs**, not to `notes.md`. Everyday errands → Apple Reminders
-  (a separate surface Claude Code can't reach).
-- `notes.md` is a git-history mirror of the Ideas & Notes doc: on request ("comb the Ideas &
-  Notes doc and update notes.md"), pull new entries into its **Synced entries** section, dated.
+- **Capability note:** the Google Drive connector is **read/create-only** — Claude (chat *or*
+  Code) can READ these Docs and CREATE new files, but **cannot append to an existing Doc in
+  place.** Writing into them is done by the **email capture bridge**
+  (`automation/vault-capture-bridge.gs`): send mail to `norman.desilva+capture@gmail.com` with
+  the trigger word in the subject, or edit the Doc directly in the Docs app.
+- Claude Code CAN read these Docs (`read_file_content`) — so "comb the Ideas & Notes doc and
+  update `notes.md`" works: read the Doc, append new entries to `notes.md`'s **Synced entries**
+  section, dated. `notes.md` is the git-history mirror, not a capture target.
+- Everyday errands → Apple Reminders (a separate surface Claude Code can't reach).
 
 ## People I'm closest to
 
