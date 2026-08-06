@@ -77,7 +77,7 @@ The Company recognizes that the welfare of student-athletes is paramount. The fo
 
 **10. Exclusivity**
 
-During the period that Missouri State is actively engaged with the Company in negotiating or executing a definitive cooperation agreement (the "Exclusivity Period"), the school agrees not to enter into any similar arrangement with a competing documentary franchise or production entity focused on the transformation of college basketball programs through private investment. The Exclusivity Period shall not exceed 12 months from the date of this letter, unless extended by mutual written agreement. This exclusivity provision is the sole binding provision of this letter, apart from confidentiality.
+During the period that Missouri State is actively engaged with the Company in negotiating or executing a definitive cooperation agreement (the "Exclusivity Period"), the school agrees not to enter into any similar arrangement with a competing documentary franchise or production entity focused on the transformation of college basketball programs through private investment. The Exclusivity Period shall not exceed 12 months from the date of this letter, unless extended by mutual written agreement. Together with the confidentiality provision (Section 11) and the authority representation (Section 13), this exclusivity provision is binding; the remainder of this letter is non-binding.
 
 **11. Confidentiality**
 
@@ -87,9 +87,13 @@ Both parties agree to keep the terms of this Letter of Intent confidential, exce
 
 If both parties wish to proceed, the Company will prepare a definitive School Cooperation Agreement for negotiation, covering: detailed access and filming protocols (including academic calendar accommodations), institutional portrayal approval procedures, brand licensing terms, compliance coordination procedures, student-athlete welfare provisions, revenue sharing (if applicable), term and termination provisions, and representations and warranties. The Company anticipates presenting the draft Cooperation Agreement within 60 days of execution of this letter and welcomes the school's involvement of its general counsel in the negotiation process.
 
-**13. Governing Law**
+**13. Authority to Execute**
 
-This letter shall be governed by the laws of the State of Missouri. The binding provisions (Sections 10 and 11) shall survive regardless of whether a definitive agreement is reached.
+Each individual signing this letter on behalf of a party represents and warrants that he or she is duly authorized to execute this letter on behalf of, and to bind, that party with respect to the binding provisions of this letter, and that no further approval or authorization is required for that party to be bound by those provisions. This representation is binding.
+
+**14. Governing Law**
+
+This letter shall be governed by the laws of the State of Missouri. The binding provisions (Sections 10, 11, and 13) shall survive regardless of whether a definitive agreement is reached.
 
 We believe that Missouri State represents exactly the kind of institution this franchise was created to celebrate — a school with a rich history, a commitment to academic excellence, and a community that deserves to be discovered by a national audience. Making Cinderella is an opportunity for the country to learn what Missouri State students, alumni, and community already know: that this is a special place, and its story is worth telling.
 
