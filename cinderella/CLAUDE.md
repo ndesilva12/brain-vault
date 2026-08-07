@@ -74,6 +74,16 @@ _Supersedes the earlier Radford / Hart-Temple framing: **Hart has moved into the
 
 **Attached:** Davidson — **Steph Curry** (Unanimous Media / Erick Peyton).
 
+**TOP TARGET (added 2026-08-07):** **Tulane × Woody Harrelson** — Woody's iconic
+basketball role, Billy Hoyle in _White Men Can't Jump_, was a **Tulane Green Wave** player
+("Billy Hoyle comes home"). Frame as the _film_ hook, NOT a real alma mater. Tulane = D1
+(American Athletic Conf.), New Orleans, real fallen-hoops story, great-brand city.
+**Warm path in:** Woody + **Simu Liu** are recent castmates — co-starred in _Last Breath_
+(2025, Focus Features) as deep-sea divers — so Simu can bring Woody in. Contemplated as a
+**Simu + Woody co-lead / two-name package**, and a mainstream, zero-Asia counterweight to the
+**Radford × Simu** China play (Chinese head coach + China game-stream already in motion), which
+Norman wants to keep as the dedicated China thread rather than over-concentrate Asia signals.
+
 **Small-D1 shortlist (the core franchise pool):**
 
 | School | Celebrity options |
@@ -122,6 +132,7 @@ _Supersedes the earlier Radford / Hart-Temple framing: **Hart has moved into the
 
 | School | Celebrity options |
 |---|---|
+| **Tulane** _(AAC)_ | **Woody Harrelson** _(TOP TARGET — Billy Hoyle/WMCJ film hook, not real alma mater; warm via Simu Liu, Last Breath castmate)_ |
 | Boston College | Bill Murray _(son Luke = head coach, verified)_, Affleck, Damon, Evans, Krasinski, Burr — *note: only Bill Murray (via Luke) + Amy Poehler ('93) are authentic BC ties; the rest are Boston-regional, not alumni* |
 | Providence College | Doris Burke _(PC '87, verified alum)_, Seth MacFarlane _(RI regional)_ |
 | Stanford | Tiger Woods, John McEnroe _(both Stanford athletes)_ |
