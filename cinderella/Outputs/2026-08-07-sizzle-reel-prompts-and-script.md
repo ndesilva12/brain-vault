@@ -284,3 +284,44 @@ all models draw from one shared credit pool._
 ### F. Assemble
 CapCut / DaVinci Resolve → **crop every 16:9 clip to 2.39:1** → color-match → cut to the beat → VO +
 licensed track → add the "Concept visualization" super and the title card. Export 1080p.
+
+---
+
+## 8. Voiceover (done outside OpenArt)
+
+**Tool:** **ElevenLabs** (elevenlabs.io) — Text to Speech. Free/cheap tier covers this ~150-word script.
+Pick a **low, warm, restrained male voice** (prestige-doc narrator, NOT booming trailer guy). Settings:
+**Stability ~50, Style 0–15, Speaker Boost on.** Generate **line by line** for pause control; download
+each as MP3 → place under the beats in the edit → **duck the music under the VO.**
+- **Option:** clone your own voice in ElevenLabs so the narrator is *you* (fitting — you're the doc guy).
+- **Final buyer cut:** a human trailer narrator on Voices.com / Voice123 (~$100–400) if you want it — but
+  a good ElevenLabs read is buyer-grade.
+- **Do NOT** use Veo's audio for narration (that's clip-synced ambient/dialogue, not a clean VO track).
+
+### VO recording sheet (paste line-by-line; [ ] = direction)
+**Beat 1 — low, plain**
+- "March used to belong to the little guy." [beat]
+- "Then big money changed the game — and started buying his best players away." [colder]
+- "Every year, the underdogs get picked apart, one star at a time." [let it land → cut to CINDERELLA IS DYING]
+
+**Beat 2 — quiet turn, a spark of hope**
+- "But what if they stopped leaving?" [beat]
+- "What if the players the giants pick off every year — the overlooked, the passed-over — teamed up instead of selling out one by one?"
+
+**Beat 3 — building**
+- "The same money the big schools use to take them… now keeps them together —"
+- "a whole roster of players the blue bloods didn't think they needed, at a school worth playing for."
+
+**Beat 4 — firm, defiant**
+- "Not to survive." [beat] "To beat the giants at their own game."
+- "Not one Cinderella — several, all in the same season."
+
+**Beat 5 — warm, intimate**
+- "Because a Cinderella was never just the players."
+- "It's the town that never left them — the families, the professors, the alumni."
+- "A hundred stories the country only hears for one week in March." [beat] "If ever."
+
+**Beat 6 — hushed, then release**
+- "And somewhere in March…" [long pause] "a miracle stops being an accident."
+
+**Title card** — text only (no VO), or an optional soft, near-whispered "The dance is back."
