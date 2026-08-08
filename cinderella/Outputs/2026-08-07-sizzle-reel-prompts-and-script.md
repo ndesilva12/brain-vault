@@ -187,6 +187,58 @@ letterhead face → tag line _"Glass slippers aren't found. They're made."_ → 
 
 ---
 
+## 4b. Image-to-video still prompts (the money-saver for the Veo shots)
+
+**Workflow:** generate the **still** below in OpenArt's cheap image model → curate 2–3 → upload the
+winner as the **first-frame / reference image** into Veo (image-to-video) → apply the motion from the
+matching §4 video prompt. This turns expensive Veo re-rolls into cheap image re-rolls. Append the
+**Style Block + palette** (§3) to every still. Stills describe a *frozen composition* — no motion words.
+
+**Still 1** (→ Shot 1, BEFORE)
+> A worn leather basketball at rest on a cracked, sunlit outdoor asphalt court, a rusted chain net
+> hanging above, dust suspended in a low shaft of light, no people, ball composed in the lower third,
+> negative space above. Static first frame.
+
+**Still 3** (→ Shot 3, BEFORE)
+> Tight close-up of a young male athlete's face half in shadow, eyes lifting upward with quiet resolve,
+> sweat beading on his brow, black background, Rembrandt lighting. Static first frame.
+
+**Still 6** (→ Shot 6, BEFORE)
+> Wide shot, a weathered older basketball coach stands alone at center court in an empty gym at night,
+> hands in jacket pockets, a single overhead light pooling around him, long shadow, faded banners in
+> the dark rafters above. Static first frame.
+
+**Still 7** (→ Shot 7, transition)
+> A black SUV parked at a small brick college fieldhouse at dusk, a well-dressed figure silhouetted
+> stepping out, fully backlit by headlights, face not visible, visible cold breath, lens flare. Static
+> first frame.
+
+**Still 10** (→ Shot 10, RISE)
+> Low macro composition of athletic sneakers planted on polished hardwood mid-drill, single sweat droplet
+> suspended, warm morning light streaming from high gym windows, soft court reflections. Static first frame.
+
+**Still 13** (→ Shot 13, RISE)
+> Macro close-up of hands wrapping white athletic tape around a wrist and gripping a basketball, tendons
+> flexed, warm side light, dark background. Static first frame.
+
+**Still 16** (→ Shot 16, RISE — HERO)
+> Low hero angle, an anonymous player frozen at the peak of a jump-shot release, ball balanced on the
+> fingertips, a blurred packed crowd behind, golden rim-light, apex of the leap. Static first frame.
+
+**Still 20** (→ Shot 20, RISE — HERO)
+> An anonymous player collapsed to the court floor in ecstatic disbelief, the coach on his knees with
+> arms raised just behind, confetti suspended mid-air, blinding arena lights. Static first frame.
+
+**Still 21** (→ Shot 21, RISE)
+> A player lifted on teammates' shoulders holding scissors beside a hoop with a ladder, a cut net in
+> hand, ticker-tape suspended in a golden spotlight. Static first frame.
+
+**Still 23** (→ Shot 23, RISE — bookend, match Still 1's framing)
+> The same worn outdoor asphalt court, now at golden hour with a full cheering crowd blurred behind the
+> rim, the chain net still, warm hopeful light, composition mirroring the opening frame. Static first frame.
+
+---
+
 ## 5. Assembly notes
 - **Edit software:** CapCut (free, fast) or DaVinci Resolve (free, more control). Do color-match
   passes so Veo and Kling clips share the grade — Kling tends warmer/softer; match to the Veo look.

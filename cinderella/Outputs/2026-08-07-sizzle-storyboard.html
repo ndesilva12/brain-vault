@@ -1,0 +1,691 @@
+<title>Making Cinderella — Concept Sizzle Storyboard</title>
+<style>
+  :root{
+    --bg:#F7F5F0; --surface:#FCFAF5; --ink:#1A1714; --muted:#6B6154;
+    --hairline:#E4DDCE; --warm:#B0721F; --cool:#3F627E; --star:#B0721F;
+    --serif:'Iowan Old Style','Palatino Linotype','Book Antiqua',Palatino,Georgia,serif;
+    --sans:'Jost',system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]){
+      --bg:#131009; --surface:#1B1610; --ink:#ECE6DA; --muted:#A99E8C;
+      --hairline:#2C2417; --warm:#E0A24A; --cool:#83A6C1; --star:#E0A24A;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#131009; --surface:#1B1610; --ink:#ECE6DA; --muted:#A99E8C;
+    --hairline:#2C2417; --warm:#E0A24A; --cool:#83A6C1; --star:#E0A24A;
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font-family:var(--sans); font-weight:300; line-height:1.5;
+    -webkit-font-smoothing:antialiased; letter-spacing:.01em;
+  }
+  .wrap{max-width:1180px; margin:0 auto; padding:clamp(1.5rem,4vw,3.5rem) clamp(1rem,4vw,2.5rem) 4rem}
+
+  /* ---------- header ---------- */
+  header{border-bottom:1px solid var(--hairline); padding-bottom:2rem}
+  .eyebrow{
+    font-size:.72rem; letter-spacing:.28em; text-transform:uppercase;
+    font-weight:500; color:var(--muted); margin:0 0 1rem;
+  }
+  h1{
+    font-family:var(--serif); font-weight:500; font-style:italic;
+    font-size:clamp(2.8rem,8vw,5.2rem); line-height:.95; margin:0;
+    letter-spacing:-.01em; text-wrap:balance;
+  }
+  h1 .the{display:block; font-style:normal; font-size:.32em; letter-spacing:.42em;
+    text-transform:uppercase; color:var(--muted); margin-bottom:.5rem; font-family:var(--sans); font-weight:500}
+  .logline{
+    font-family:var(--serif); font-size:clamp(1.05rem,2.4vw,1.4rem);
+    line-height:1.45; max-width:60ch; margin:1.4rem 0 0; color:var(--ink);
+  }
+  .metarow{
+    display:flex; flex-wrap:wrap; gap:1.4rem 2.4rem; margin-top:1.8rem;
+    font-size:.8rem; letter-spacing:.02em;
+  }
+  .metarow div{display:flex; flex-direction:column; gap:.25rem}
+  .metarow dt{font-size:.66rem; letter-spacing:.2em; text-transform:uppercase; color:var(--muted); font-weight:500}
+  .metarow dd{margin:0; font-variant-numeric:tabular-nums; font-weight:400}
+
+  /* ---------- timeline ---------- */
+  .timeline{margin-top:2.4rem}
+  .tl-label{font-size:.66rem; letter-spacing:.2em; text-transform:uppercase; color:var(--muted); font-weight:500; margin:0 0 .6rem}
+  .tl-bar{display:flex; width:100%; height:14px; border-radius:7px; overflow:hidden; border:1px solid var(--hairline)}
+  .tl-bar span{display:block}
+  .tl-legend{display:flex; flex-wrap:wrap; gap:.4rem .5rem; margin-top:.7rem; font-size:.7rem; color:var(--muted)}
+  .tl-legend b{color:var(--ink); font-weight:500}
+
+  /* ---------- legend / how-to ---------- */
+  .howto{
+    display:flex; flex-wrap:wrap; gap:1rem 2rem; align-items:center;
+    margin-top:2.2rem; padding:1rem 1.2rem; border:1px solid var(--hairline);
+    border-radius:10px; background:var(--surface); font-size:.78rem; color:var(--muted);
+  }
+  .key{display:inline-flex; align-items:center; gap:.45rem; white-space:nowrap}
+  .swatch{width:26px; height:14px; border-radius:3px; display:inline-block}
+  .sw-cool{background:linear-gradient(180deg,#2b4658,#15222c)}
+  .sw-warm{background:linear-gradient(180deg,#4a3418,#1c120a)}
+  .dot{width:9px; height:9px; border-radius:50%; display:inline-block}
+  .dot-veo{background:var(--star)}
+  .dot-fast{border:1.5px solid var(--star)}
+  .dot-kling{background:var(--cool)}
+
+  /* ---------- beats ---------- */
+  .beat{margin-top:3.4rem}
+  .beat-head{display:flex; align-items:baseline; flex-wrap:wrap; gap:.6rem 1rem; margin-bottom:1.3rem}
+  .beat-no{font-family:var(--serif); font-style:italic; font-size:1.7rem; color:var(--frame-accent); line-height:1}
+  .beat-name{font-size:.9rem; letter-spacing:.22em; text-transform:uppercase; font-weight:500}
+  .beat-tc{font-size:.72rem; color:var(--muted); font-variant-numeric:tabular-nums; letter-spacing:.04em}
+  .beat-grade{margin-left:auto; font-size:.62rem; letter-spacing:.2em; text-transform:uppercase;
+    color:var(--frame-accent); border:1px solid currentColor; border-radius:999px; padding:.2rem .6rem; font-weight:500; opacity:.85}
+
+  .grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:1.5rem}
+
+  /* ---------- shot / frame ---------- */
+  .shot{display:flex; flex-direction:column; gap:.7rem}
+  .frame{
+    position:relative; aspect-ratio:2.39/1; border-radius:5px; overflow:hidden;
+    background:var(--frame-bg); color:var(--frame-ink);
+    box-shadow:0 1px 0 rgba(0,0,0,.04), 0 10px 24px -18px rgba(0,0,0,.5);
+    border:1px solid rgba(0,0,0,.35);
+  }
+  /* sprocket strips */
+  .frame::before,.frame::after{
+    content:""; position:absolute; left:0; right:0; height:7px; z-index:2;
+    background:
+      repeating-linear-gradient(90deg, transparent 0 6px,
+        rgba(0,0,0,.55) 6px 10px);
+    opacity:.5;
+  }
+  .frame::before{top:0} .frame::after{bottom:0}
+  .frame svg{position:absolute; inset:0; width:100%; height:100%; display:block}
+  .frame .vig{position:absolute; inset:0; z-index:1;
+    background:radial-gradient(120% 90% at 50% 40%, transparent 55%, rgba(0,0,0,.45) 100%)}
+  .ov{position:absolute; z-index:3; font-family:var(--sans); font-weight:500;
+    font-variant-numeric:tabular-nums; letter-spacing:.05em; line-height:1}
+  .ov.sn{top:9px; left:9px; font-family:var(--serif); font-style:italic; font-size:1.15rem;
+    color:rgba(255,255,255,.9); text-shadow:0 1px 3px rgba(0,0,0,.6)}
+  .ov.tc{top:11px; right:10px; font-size:.68rem; color:rgba(255,255,255,.82);
+    text-shadow:0 1px 3px rgba(0,0,0,.6)}
+  .ov.eng{bottom:10px; right:9px; font-size:.58rem; letter-spacing:.12em; text-transform:uppercase;
+    display:inline-flex; align-items:center; gap:.35rem; padding:.22rem .5rem; border-radius:999px;
+    background:rgba(0,0,0,.55); color:#fff; backdrop-filter:blur(2px)}
+  .ov.eng .dot{width:7px; height:7px}
+  .ov.hero{bottom:10px; left:9px; font-size:.56rem; letter-spacing:.18em; text-transform:uppercase;
+    color:var(--star); background:rgba(0,0,0,.5); padding:.2rem .5rem; border-radius:999px; font-weight:500}
+
+  .action{margin:0; font-size:.86rem; line-height:1.45; color:var(--ink); font-weight:300}
+  .vo{margin:0; font-family:var(--serif); font-style:italic; font-size:.92rem; color:var(--muted); line-height:1.4}
+  .vo.txt{font-style:normal; font-family:var(--sans); font-weight:500; letter-spacing:.02em;
+    font-size:.78rem; text-transform:none; color:var(--frame-accent)}
+
+  /* per-beat accents */
+  .beat--cool{--frame-accent:var(--cool); --frame-bg:linear-gradient(165deg,#22384a,#0e171f); --frame-ink:#9cbdd6}
+  .beat--turn{--frame-accent:#B98A3E; --frame-bg:linear-gradient(165deg,#2a2620,#15120c); --frame-ink:#cdae74}
+  .beat--warm{--frame-accent:var(--warm); --frame-bg:linear-gradient(165deg,#2c1f10,#160e06); --frame-ink:#e7b062}
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]) .beat--turn{--frame-accent:#d0a55e}
+  }
+  :root[data-theme="dark"] .beat--turn{--frame-accent:#d0a55e}
+
+  /* ---------- title card ---------- */
+  .titlecard{
+    margin-top:3.4rem; aspect-ratio:2.39/1; max-height:340px; border-radius:6px;
+    background:linear-gradient(160deg,#1a120a,#0a0705); color:#f3ead9;
+    display:flex; flex-direction:column; align-items:center; justify-content:center;
+    text-align:center; position:relative; overflow:hidden; border:1px solid rgba(0,0,0,.4);
+  }
+  .titlecard::before,.titlecard::after{content:""; position:absolute; left:0; right:0; height:9px;
+    background:repeating-linear-gradient(90deg,transparent 0 8px,rgba(0,0,0,.5) 8px 13px); opacity:.5}
+  .titlecard::before{top:0} .titlecard::after{bottom:0}
+  .titlecard .tc-eyebrow{font-size:.62rem; letter-spacing:.4em; text-transform:uppercase; color:#c79a52; margin-bottom:1rem; font-weight:500}
+  .titlecard .tc-title{font-family:var(--serif); font-style:italic; font-weight:500; font-size:clamp(2rem,6vw,3.4rem); line-height:1; margin:0}
+  .titlecard .tc-tag{font-family:var(--serif); font-size:clamp(.95rem,2vw,1.15rem); color:#d9c9ad; margin-top:1.1rem; opacity:.9}
+
+  /* ---------- footer ---------- */
+  footer{margin-top:3.4rem; padding-top:2rem; border-top:1px solid var(--hairline)}
+  .checklist{list-style:none; padding:0; margin:0 0 1.6rem; display:grid; gap:.55rem; max-width:60ch}
+  .checklist li{position:relative; padding-left:1.7rem; font-size:.82rem; color:var(--ink)}
+  .checklist li::before{content:"□"; position:absolute; left:0; top:-.05rem; color:var(--warm); font-size:1rem}
+  .colophon{font-size:.72rem; color:var(--muted); letter-spacing:.03em; line-height:1.6}
+  .colophon b{color:var(--ink); font-weight:500}
+
+  @media (prefers-reduced-motion:no-preference){
+    .reveal{opacity:0; transform:translateY(10px); animation:rise .7s cubic-bezier(.2,.7,.2,1) forwards}
+    @keyframes rise{to{opacity:1; transform:none}}
+  }
+</style>
+
+<div class="wrap">
+  <header>
+    <p class="eyebrow reveal">Concept Sizzle Reel · Pre-Production · Cinderella Corp.</p>
+    <h1 class="reveal"><span class="the">Making</span>Cinderella</h1>
+    <p class="logline reveal">A celebrity, private capital, and a program the country forgot — engineered into a March miracle and captured as a premium docuseries. This board is the 2½-minute concept teaser: 23 shots, seven beats, cut cool to warm.</p>
+    <dl class="metarow reveal">
+      <div><dt>Runtime</dt><dd>2:20 – 2:40</dd></div>
+      <div><dt>Shots</dt><dd>23 + title</dd></div>
+      <div><dt>Veo 3.1</dt><dd>4 hero · 6 fast</dd></div>
+      <div><dt>Kling</dt><dd>13 crowd / motion</dd></div>
+      <div><dt>Est. generations</dt><dd>~46</dd></div>
+    </dl>
+
+    <div class="timeline reveal">
+      <p class="tl-label">Emotional arc — proportional to runtime</p>
+      <div class="tl-bar" role="img" aria-label="Seven-beat timeline from cold open to logo, graded cool to warm">
+        <span style="width:11.3%; background:linear-gradient(180deg,#2b4658,#15222c)"></span>
+        <span style="width:13.7%; background:linear-gradient(180deg,#2f4a5c,#182833)"></span>
+        <span style="width:15.6%; background:linear-gradient(180deg,#3b4048,#241f18)"></span>
+        <span style="width:21.9%; background:linear-gradient(180deg,#4a3418,#1c120a)"></span>
+        <span style="width:15.6%; background:linear-gradient(180deg,#5a3d18,#20140a)"></span>
+        <span style="width:12.5%; background:linear-gradient(180deg,#6b4818,#241609)"></span>
+        <span style="width:9.4%; background:linear-gradient(180deg,#7d5316,#2a1a08)"></span>
+      </div>
+      <div class="tl-legend">
+        <span><b>1</b> Ache</span><span><b>2</b> Forgotten</span><span><b>3</b> The Bet</span>
+        <span><b>4</b> The Build</span><span><b>5</b> The Rise</span><span><b>6</b> The Run</span><span><b>7</b> Promise</span>
+      </div>
+    </div>
+
+    <div class="howto reveal">
+      <span class="key"><span class="swatch sw-cool"></span> Cool = <b>&nbsp;BEFORE</b>&nbsp;grade</span>
+      <span class="key"><span class="swatch sw-warm"></span> Warm = <b>&nbsp;RISE</b>&nbsp;grade</span>
+      <span class="key"><span class="dot dot-veo"></span> Veo 3.1 hero</span>
+      <span class="key"><span class="dot dot-fast"></span> Veo Fast</span>
+      <span class="key"><span class="dot dot-kling"></span> Kling</span>
+      <span class="key">Frames are composition sketches, not final footage.</span>
+    </div>
+  </header>
+
+  <!-- ============ BEAT 1 ============ -->
+  <section class="beat beat--cool">
+    <div class="beat-head">
+      <span class="beat-no">1</span><span class="beat-name">The Ache</span>
+      <span class="beat-tc">0:00 – 0:18</span><span class="beat-grade">Before</span>
+    </div>
+    <div class="grid">
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.4">
+            <line x1="0" y1="72" x2="240" y2="72" opacity=".5"/>
+            <ellipse cx="52" cy="82" rx="11" ry="4" opacity=".35"/>
+            <circle cx="52" cy="74" r="8"/>
+            <path d="M52 66 v-6 M46 68 l-4 -4 M58 68 l4 -4" opacity=".7"/>
+            <path d="M188 8 h30 M196 8 v10 M210 8 v10 M196 18 q7 8 14 0" opacity=".8"/>
+            <line x1="203" y1="18" x2="203" y2="30" opacity=".5"/>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">1</span><span class="ov tc">0:00</span>
+          <span class="ov hero">★ Hero</span>
+          <span class="ov eng"><span class="dot dot-veo"></span>Veo 3.1</span>
+        </div>
+        <p class="action">A worn ball rolls to rest on an empty, sunlit outdoor court. Chain net sways.</p>
+        <p class="vo">“Every year, one team the country forgot…”</p>
+      </article>
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.3">
+            <path d="M10 92 L96 40 M230 92 L150 40 M10 78 L96 34 M230 78 L150 34" opacity=".5"/>
+            <path d="M96 40 h54 M96 34 h54 M96 46 h58 M92 52 h62" opacity=".45"/>
+            <circle cx="123" cy="16" r="6" opacity=".9"/>
+            <path d="M123 22 v10" opacity=".4" stroke-dasharray="2 3"/>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">2</span><span class="ov tc">0:07</span>
+          <span class="ov eng"><span class="dot dot-kling"></span>Kling</span>
+        </div>
+        <p class="action">A vast empty arena — thousands of dark seats, a single work light, dust.</p>
+      </article>
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.4">
+            <path d="M150 22 q34 -4 42 30 q6 40 -30 46 q-30 4 -34 -20" opacity=".9"/>
+            <path d="M150 22 q-14 20 -6 44" opacity=".5"/>
+            <path d="M160 52 q8 -5 15 0" opacity=".8"/>
+            <path d="M182 50 q6 -4 11 0" opacity=".8"/>
+            <path d="M40 40 q-10 8 0 16" opacity=".25"/>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">3</span><span class="ov tc">0:14</span>
+          <span class="ov eng"><span class="dot dot-fast"></span>Veo Fast</span>
+        </div>
+        <p class="action">Close on a young player's face, half in shadow, eyes lifting.</p>
+        <p class="vo">“…becomes the only one it remembers.”</p>
+      </article>
+    </div>
+  </section>
+
+  <!-- ============ BEAT 2 ============ -->
+  <section class="beat beat--cool">
+    <div class="beat-head">
+      <span class="beat-no">2</span><span class="beat-name">The Forgotten</span>
+      <span class="beat-tc">0:18 – 0:40</span><span class="beat-grade">Before</span>
+    </div>
+    <div class="grid">
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.3">
+            <line x1="0" y1="66" x2="240" y2="66" opacity=".5"/>
+            <path d="M40 66 v-20 h10 v20 M44 46 v-8 M40 42 h10" opacity=".8"/>
+            <path d="M150 66 v-26 l6 -8 l6 8 v26" opacity=".8"/>
+            <path d="M154 40 v-8" opacity=".6"/>
+            <path d="M90 66 v-12 h18 v12 M108 66 v-16 h14 v16" opacity=".45"/>
+            <path d="M180 66 v-10 h16 v10" opacity=".4"/>
+            <path d="M8 30 q20 -6 40 0" opacity=".2"/>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">4</span><span class="ov tc">0:18</span>
+          <span class="ov eng"><span class="dot dot-kling"></span>Kling</span>
+        </div>
+        <p class="action">Dawn aerial over a small college town — water tower, steeple, quiet main street.</p>
+        <p class="vo">“Three hundred sixty schools in Division One.”</p>
+      </article>
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.3">
+            <path d="M40 8 v30 l-8 8 l-8 -8 V8 Z" opacity=".8"/>
+            <path d="M96 8 v34 l-8 8 l-8 -8 V8 Z" opacity=".65"/>
+            <path d="M152 8 v26 l-8 8 l-8 -8 V8 Z" opacity=".5"/>
+            <rect x="176" y="60" width="46" height="30" opacity=".7"/>
+            <path d="M176 60 l23 -12 l23 12" opacity=".7"/>
+            <line x1="199" y1="66" x2="199" y2="84" opacity=".4"/>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">5</span><span class="ov tc">0:26</span>
+          <span class="ov eng"><span class="dot dot-kling"></span>Kling</span>
+        </div>
+        <p class="action">Faded banners in dark rafters; a dusty, cobwebbed trophy case below.</p>
+      </article>
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.4">
+            <ellipse cx="120" cy="88" rx="48" ry="7" opacity=".3"/>
+            <circle cx="120" cy="46" r="7"/>
+            <path d="M120 53 v22 M113 60 l-6 12 M127 60 l6 12 M113 88 l7 -13 M127 88 l-7 -13" opacity=".85"/>
+            <path d="M120 20 v-14 M104 22 h32" opacity=".3"/>
+            <circle cx="120" cy="10" r="3" opacity=".7"/>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">6</span><span class="ov tc">0:31</span>
+          <span class="ov eng"><span class="dot dot-fast"></span>Veo Fast</span>
+        </div>
+        <p class="action">A lone coach under one light at center court, looking up at the rafters.</p>
+        <p class="vo">“Most will never be seen.”</p>
+      </article>
+    </div>
+  </section>
+
+  <!-- ============ BEAT 3 ============ -->
+  <section class="beat beat--turn">
+    <div class="beat-head">
+      <span class="beat-no">3</span><span class="beat-name">The Bet</span>
+      <span class="beat-tc">0:40 – 1:05</span><span class="beat-grade">Turn</span>
+    </div>
+    <div class="grid">
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.4">
+            <line x1="0" y1="78" x2="240" y2="78" opacity=".5"/>
+            <path d="M28 78 v-16 q0 -6 6 -6 h34 q6 0 8 6 l4 16 Z" opacity=".8"/>
+            <circle cx="42" cy="78" r="6"/><circle cx="72" cy="78" r="6"/>
+            <path d="M150 78 v-30 M150 48 q6 -4 12 0 v30 M150 60 l-8 6 M162 60 l8 6" opacity=".85"/>
+            <circle cx="156" cy="42" r="5" opacity=".85"/>
+            <path d="M92 50 l40 12 M96 58 l38 8 M100 66 l34 6" opacity=".4"/>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">7</span><span class="ov tc">0:40</span>
+          <span class="ov eng"><span class="dot dot-fast"></span>Veo Fast</span>
+        </div>
+        <p class="action">A backlit figure steps from a black SUV at dusk — face unseen, breath in the cold.</p>
+      </article>
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.4">
+            <rect x="60" y="66" width="120" height="26" opacity=".35"/>
+            <path d="M96 60 q10 -10 24 -2 q14 8 24 -2" opacity=".9"/>
+            <path d="M96 60 l-10 6 M144 56 l10 6" opacity=".6"/>
+            <rect x="150" y="72" width="34" height="18" opacity=".5"/>
+            <path d="M158 90 l22 -6" opacity=".5"/>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">8</span><span class="ov tc">0:47</span>
+          <span class="ov eng"><span class="dot dot-kling"></span>Kling</span>
+        </div>
+        <p class="action">A handshake over a signed document — warm lamplight, shallow focus.</p>
+      </article>
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.3">
+            <g opacity=".9"><rect x="30" y="20" width="20" height="12" rx="2"/><path d="M40 20 v-8" opacity=".5"/></g>
+            <g opacity=".75"><rect x="70" y="20" width="20" height="12" rx="2"/><path d="M80 20 v-8" opacity=".5"/></g>
+            <g opacity=".6"><rect x="110" y="20" width="20" height="12" rx="2"/><path d="M120 20 v-8" opacity=".5"/></g>
+            <g opacity=".4"><rect x="150" y="20" width="20" height="12" rx="2"/></g>
+            <g opacity=".25"><rect x="190" y="20" width="20" height="12" rx="2"/></g>
+            <path d="M40 34 l-6 46 M40 34 l6 46 M80 34 l-6 46 M80 34 l6 46 M120 34 l-6 46 M120 34 l6 46" opacity=".28"/>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">9</span><span class="ov tc">0:53</span>
+          <span class="ov eng"><span class="dot dot-kling"></span>Kling</span>
+        </div>
+        <p class="action">Arena floodlights snap on, bank by bank — the court emerges from black.</p>
+        <p class="vo txt">TEXT — “What if the Cinderella run wasn't luck?”</p>
+      </article>
+    </div>
+  </section>
+
+  <!-- ============ BEAT 4 ============ -->
+  <section class="beat beat--warm">
+    <div class="beat-head">
+      <span class="beat-no">4</span><span class="beat-name">The Build</span>
+      <span class="beat-tc">1:05 – 1:40</span><span class="beat-grade">Rise</span>
+    </div>
+    <div class="grid">
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.4">
+            <line x1="0" y1="70" x2="240" y2="70" opacity=".55"/>
+            <path d="M70 70 q-4 -10 8 -12 l22 -2 q8 0 8 6 v8 Z" opacity=".85"/>
+            <path d="M130 70 q-4 -10 8 -12 l22 -2 q8 0 8 6 v8 Z" opacity=".7"/>
+            <path d="M76 70 l-4 8 M92 70 l-2 8 M136 70 l-4 8 M152 70 l-2 8" opacity=".4"/>
+            <path d="M112 34 l3 -8 M120 30 l4 -7" opacity=".6"/>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">10</span><span class="ov tc">1:05</span>
+          <span class="ov hero">★ Hero</span>
+          <span class="ov eng"><span class="dot dot-veo"></span>Veo 3.1</span>
+        </div>
+        <p class="action">Sneakers cut and squeak across the hardwood; sweat, first light through high windows.</p>
+        <p class="vo">“Not a fairy tale. A build.”</p>
+      </article>
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.3">
+            <line x1="0" y1="86" x2="240" y2="86" opacity=".4"/>
+            <g opacity=".85"><path d="M52 86 v-20 M46 62 h12"/><line x1="42" y1="60" x2="42" y2="64"/><line x1="62" y1="60" x2="62" y2="64"/><circle cx="52" cy="56" r="5"/></g>
+            <g opacity=".7"><path d="M120 86 v-20 M114 62 h12"/><line x1="110" y1="60" x2="110" y2="64"/><line x1="130" y1="60" x2="130" y2="64"/><circle cx="120" cy="56" r="5"/></g>
+            <g opacity=".55"><path d="M188 86 v-20 M182 62 h12"/><line x1="178" y1="60" x2="178" y2="64"/><line x1="198" y1="60" x2="198" y2="64"/><circle cx="188" cy="56" r="5"/></g>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">11</span><span class="ov tc">1:12</span>
+          <span class="ov eng"><span class="dot dot-kling"></span>Kling</span>
+        </div>
+        <p class="action">A dawn weight room — anonymous players grinding in unison, chalk dust in light.</p>
+      </article>
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.3">
+            <line x1="0" y1="74" x2="240" y2="74" opacity=".5"/>
+            <path d="M30 44 q30 -14 90 -14 q60 0 90 14" opacity=".25"/>
+            <rect x="70" y="46" width="80" height="26" rx="3" opacity=".85"/>
+            <path d="M70 54 h80" opacity=".5"/>
+            <rect x="76" y="56" width="10" height="9" opacity=".5"/><rect x="92" y="56" width="10" height="9" opacity=".5"/>
+            <rect x="108" y="56" width="10" height="9" opacity=".5"/><rect x="124" y="56" width="10" height="9" opacity=".5"/>
+            <circle cx="86" cy="76" r="5"/><circle cx="134" cy="76" r="5"/>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">12</span><span class="ov tc">1:19</span>
+          <span class="ov eng"><span class="dot dot-kling"></span>Kling</span>
+        </div>
+        <p class="action">The team bus rolls through dusk farmland, headlights on, pink sky behind.</p>
+      </article>
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.4">
+            <circle cx="150" cy="54" r="20"/>
+            <path d="M150 34 a20 20 0 0 1 0 40 M138 40 q12 6 24 0 M138 68 q12 -6 24 0" opacity=".5"/>
+            <path d="M70 44 q20 -6 40 4 q10 5 24 8" opacity=".85"/>
+            <path d="M74 52 q18 -4 34 6 M78 60 q16 -2 30 8" opacity=".6"/>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">13</span><span class="ov tc">1:26</span>
+          <span class="ov eng"><span class="dot dot-fast"></span>Veo Fast</span>
+        </div>
+        <p class="action">Hands tape a wrist, then grip the ball — tendons flexed, warm side light.</p>
+        <p class="vo">“The work nobody films.”</p>
+      </article>
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.3">
+            <rect x="96" y="24" width="48" height="40" opacity=".85"/>
+            <path d="M96 24 l24 -12 l24 12" opacity=".85"/>
+            <line x1="120" y1="12" x2="120" y2="4" opacity=".6"/>
+            <path d="M120 12 v-4" opacity=".5"/>
+            <path d="M60 90 v-30 M56 90 v-30 M56 60 h8 M52 62 l8 -6 M52 66 l8 -6" opacity=".6"/>
+            <path d="M96 64 l6 22 M144 64 l-6 22" opacity=".3" stroke-dasharray="2 3"/>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">14</span><span class="ov tc">1:32</span>
+          <span class="ov eng"><span class="dot dot-kling"></span>Kling</span>
+        </div>
+        <p class="action">A fresh banner rises into the rafters; the court logo repainted below.</p>
+      </article>
+    </div>
+  </section>
+
+  <!-- ============ BEAT 5 ============ -->
+  <section class="beat beat--warm">
+    <div class="beat-head">
+      <span class="beat-no">5</span><span class="beat-name">The Rise</span>
+      <span class="beat-tc">1:40 – 2:05</span><span class="beat-grade">Rise</span>
+    </div>
+    <div class="grid">
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.2">
+            <path d="M10 90 L96 42 M230 90 L150 42" opacity=".5"/>
+            <path d="M96 42 h54 M92 52 h62 M88 62 h70 M84 74 h78" opacity=".4"/>
+            <g stroke="none" fill="currentColor" opacity=".8">
+              <circle cx="104" cy="47" r="1.6"/><circle cx="116" cy="47" r="1.6"/><circle cx="128" cy="47" r="1.6"/><circle cx="140" cy="47" r="1.6"/>
+              <circle cx="100" cy="57" r="1.6"/><circle cx="114" cy="57" r="1.6"/><circle cx="128" cy="57" r="1.6"/><circle cx="142" cy="57" r="1.6"/>
+              <circle cx="96" cy="68" r="1.6"/><circle cx="112" cy="68" r="1.6"/><circle cx="128" cy="68" r="1.6"/><circle cx="146" cy="68" r="1.6"/>
+            </g>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">15</span><span class="ov tc">1:40</span>
+          <span class="ov eng"><span class="dot dot-kling"></span>Kling</span>
+        </div>
+        <p class="action">Time-lapse — the arena fills, empty to packed, a wave of color and motion.</p>
+        <p class="vo">“The wins nobody expected.”</p>
+      </article>
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.4">
+            <path d="M150 88 v-16 M150 72 q-6 -12 2 -22 q8 -8 4 -18 M152 50 l-6 -14 M148 60 l-14 4 M150 88 l-8 4 M150 88 l6 4" opacity=".85"/>
+            <circle cx="150" cy="28" r="6"/>
+            <path d="M136 40 q26 -20 54 -30" opacity=".7" stroke-dasharray="3 3"/>
+            <circle cx="196" cy="10" r="7" opacity=".9"/>
+            <path d="M40 66 q10 -4 20 0 M64 68 q10 -4 20 0" opacity=".3"/>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">16</span><span class="ov tc">1:47</span>
+          <span class="ov hero">★ Hero</span>
+          <span class="ov eng"><span class="dot dot-veo"></span>Veo 3.1</span>
+        </div>
+        <p class="action">A dagger three released at the buzzer — the ball hangs, the crowd blurs.</p>
+      </article>
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.2">
+            <g opacity=".85">
+              <path d="M40 88 v-14 M34 78 l6 -6 l6 6 M40 74 v-8 M40 66 l-5 -6 M40 66 l5 -6"/>
+              <path d="M70 90 v-16 M64 80 l6 -6 l6 6 M70 74 v-8 M70 66 l-5 -6 M70 66 l5 -6"/>
+              <path d="M104 86 v-16 M98 76 l6 -6 l6 6 M104 70 v-8 M104 62 l-5 -6 M104 62 l5 -6"/>
+              <path d="M138 90 v-16 M132 80 l6 -6 l6 6 M138 74 v-8 M138 66 l-5 -6 M138 66 l5 -6"/>
+              <path d="M172 86 v-16 M166 76 l6 -6 l6 6 M172 70 v-8 M172 62 l-5 -6 M172 62 l5 -6"/>
+              <path d="M204 90 v-16 M198 80 l6 -6 l6 6 M204 74 v-8 M204 66 l-5 -6 M204 66 l5 -6"/>
+            </g>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">17</span><span class="ov tc">1:54</span>
+          <span class="ov eng"><span class="dot dot-kling"></span>Kling</span>
+        </div>
+        <p class="action">The student section erupts and storms — bodies leaping, arms up, pandemonium.</p>
+      </article>
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.3">
+            <rect x="132" y="26" width="76" height="46" rx="3" opacity=".85"/>
+            <path d="M170 72 v10 M156 84 h28" opacity=".5"/>
+            <g opacity=".8">
+              <path d="M44 88 v-16 M38 78 l6 -6 l6 6 M44 72 l-5 -6 M44 72 l5 -6"/>
+              <path d="M78 90 v-16 M72 80 l6 -6 l6 6 M78 74 l-5 -6 M78 74 l5 -6"/>
+              <path d="M108 86 v-16 M102 76 l6 -6 l6 6 M108 70 l-5 -6 M108 70 l5 -6"/>
+            </g>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">18</span><span class="ov tc">2:00</span>
+          <span class="ov eng"><span class="dot dot-kling"></span>Kling</span>
+        </div>
+        <p class="action">A small-town diner leaps up at the TV — coffee spills, a cap flies.</p>
+        <p class="vo">“A season nobody saw coming.”</p>
+      </article>
+    </div>
+  </section>
+
+  <!-- ============ BEAT 6 ============ -->
+  <section class="beat beat--warm">
+    <div class="beat-head">
+      <span class="beat-no">6</span><span class="beat-name">The Run · March</span>
+      <span class="beat-tc">2:05 – 2:25</span><span class="beat-grade">Rise</span>
+    </div>
+    <div class="grid">
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.3">
+            <path d="M20 90 q100 -70 200 0" opacity=".55"/>
+            <path d="M40 84 q80 -52 160 0 M62 78 q58 -38 116 0" opacity=".35"/>
+            <path d="M96 60 h48 M104 54 h32" opacity=".7"/>
+            <g stroke="none" fill="currentColor" opacity=".85">
+              <circle cx="70" cy="30" r="1.6"/><circle cx="110" cy="22" r="1.6"/><circle cx="150" cy="26" r="1.6"/><circle cx="186" cy="34" r="1.6"/>
+              <circle cx="90" cy="42" r="1.4"/><circle cx="132" cy="16" r="1.4"/><circle cx="168" cy="20" r="1.4"/>
+            </g>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">19</span><span class="ov tc">2:05</span>
+          <span class="ov eng"><span class="dot dot-kling"></span>Kling</span>
+        </div>
+        <p class="action">A packed tournament arena — confetti, a bracket motif in the LED ring.</p>
+        <p class="vo">“And somewhere in March…”</p>
+      </article>
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.4">
+            <line x1="0" y1="84" x2="240" y2="84" opacity=".4"/>
+            <path d="M120 84 v-18 M114 74 h12 M112 66 l8 -6 M128 66 l-8 -6 M120 60 l-6 -8 M120 60 l6 -8" opacity=".85"/>
+            <path d="M60 84 q4 -14 18 -12 l14 8 q4 4 -2 8 l-24 4 Z" opacity=".6"/>
+            <path d="M160 84 q0 -12 16 -10 l16 6" opacity=".5"/>
+            <g stroke="none" fill="currentColor" opacity=".8"><circle cx="80" cy="24" r="1.4"/><circle cx="140" cy="18" r="1.4"/><circle cx="170" cy="30" r="1.4"/><circle cx="110" cy="30" r="1.4"/></g>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">20</span><span class="ov tc">2:12</span>
+          <span class="ov hero">★ Hero</span>
+          <span class="ov eng"><span class="dot dot-veo"></span>Veo 3.1</span>
+        </div>
+        <p class="action">Final horn — players collapse in disbelief, the coach on his knees, confetti rains.</p>
+      </article>
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.4">
+            <path d="M150 20 h20 M148 20 v66 M172 20 v66 M150 32 h22 M150 46 h22 M150 60 h22 M150 74 h22" opacity=".7"/>
+            <circle cx="180" cy="16" r="8"/>
+            <path d="M180 8 a8 8 0 0 1 0 16" opacity=".4"/>
+            <path d="M96 88 v-16 M90 78 l6 -6 l6 6 M96 72 v-8 M96 64 l-5 -6 M96 64 l5 -6" opacity=".85"/>
+            <path d="M70 90 q6 -10 20 -6 M112 84 q6 -8 18 -4" opacity=".4"/>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">21</span><span class="ov tc">2:19</span>
+          <span class="ov eng"><span class="dot dot-fast"></span>Veo Fast</span>
+        </div>
+        <p class="action">Cutting down the nets — a player lifted on shoulders, ticker-tape in gold light.</p>
+        <p class="vo">“…a miracle stops being an accident.”</p>
+      </article>
+    </div>
+  </section>
+
+  <!-- ============ BEAT 7 ============ -->
+  <section class="beat beat--warm">
+    <div class="beat-head">
+      <span class="beat-no">7</span><span class="beat-name">The Promise</span>
+      <span class="beat-tc">2:25 – 2:40</span><span class="beat-grade">Rise</span>
+    </div>
+    <div class="grid">
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.2">
+            <path d="M34 40 q10 -14 34 -12 q16 -8 40 -2 q30 -6 54 6 q30 4 44 22 q-8 18 -34 20 q-40 8 -78 2 q-40 0 -58 -18 q-8 -12 -6 -20 Z" opacity=".5"/>
+            <g stroke="none" fill="currentColor">
+              <circle cx="70" cy="44" r="2.4"/><circle cx="104" cy="38" r="2.4"/><circle cx="128" cy="52" r="2.4"/>
+              <circle cx="160" cy="42" r="2.4"/><circle cx="180" cy="56" r="2.4"/><circle cx="92" cy="60" r="2.4"/><circle cx="146" cy="64" r="2.4"/>
+            </g>
+            <g stroke="currentColor" opacity=".35"><circle cx="104" cy="38" r="6"/><circle cx="160" cy="42" r="6"/></g>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">22</span><span class="ov tc">2:25</span>
+          <span class="ov eng"><span class="dot dot-kling"></span>Kling</span>
+        </div>
+        <p class="action">A dark US map lights up, town by town, until the whole country glows.</p>
+      </article>
+
+      <article class="shot">
+        <div class="frame">
+          <svg viewBox="0 0 240 100" fill="none" stroke="currentColor" stroke-width="1.4">
+            <line x1="0" y1="74" x2="240" y2="74" opacity=".5"/>
+            <path d="M188 12 h30 M196 12 v10 M210 12 v10 M196 22 q7 8 14 0" opacity=".85"/>
+            <line x1="203" y1="22" x2="203" y2="34" opacity=".5"/>
+            <circle cx="52" cy="72" r="8"/>
+            <path d="M20 60 q16 -6 32 0 q22 -4 40 2" opacity=".45"/>
+            <g stroke="none" fill="currentColor" opacity=".8"><circle cx="34" cy="52" r="1.6"/><circle cx="70" cy="50" r="1.6"/><circle cx="96" cy="56" r="1.6"/><circle cx="128" cy="52" r="1.6"/></g>
+          </svg>
+          <div class="vig"></div>
+          <span class="ov sn">23</span><span class="ov tc">2:31</span>
+          <span class="ov eng"><span class="dot dot-fast"></span>Veo Fast</span>
+        </div>
+        <p class="action">Bookend — the opening outdoor hoop, now roaring with a full golden-hour crowd.</p>
+      </article>
+    </div>
+
+    <div class="titlecard reveal">
+      <p class="tc-eyebrow">Cinderella Corp.</p>
+      <p class="tc-title">Making Cinderella</p>
+      <p class="tc-tag">Glass slippers aren't found. They're made.</p>
+    </div>
+  </section>
+
+  <footer>
+    <ul class="checklist">
+      <li>“Concept visualization” super at the head</li>
+      <li>Zero real faces — the talent lives in the deck, not the reel</li>
+      <li>Zero real logos or team marks — generic uniforms and courts</li>
+      <li>Music licensed (or clearly flagged as temp)</li>
+      <li>Runtime ≤ 2:40</li>
+    </ul>
+    <p class="colophon">
+      <b>Engine plan</b> — Veo 3.1 (full) reserved for 4 hero shots with native audio · Veo 3.1 Fast for 6 cinematic b-roll heroes · Kling for 13 crowd &amp; motion shots. Generate stills first for the Veo shots (image-to-video) to keep re-rolls cheap. Full prompts, still prompts, and VO script live in the working doc.<br><br>
+      <b>Making Cinderella</b> · Cinderella Corp. · Norman C. de Silva — Founder &amp; CEO · Board draft 2026-08-07
+    </p>
+  </footer>
+</div>
