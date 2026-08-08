@@ -254,3 +254,52 @@ matching §4 video prompt. This turns expensive Veo re-rolls into cheap image re
 - [ ] Zero real logos/marks
 - [ ] Music licensed (or clearly a temp track flagged as temp)
 - [ ] Runtime ≤ 2:40
+
+---
+
+## 7. OpenArt — step by step (do this)
+
+_Verified against OpenArt's current flow, Aug 2026. Credit numbers are list values — confirm the
+live cost on the generate screen before you batch; all models draw from **one shared credit pool**._
+
+### A. Setup (once)
+1. Go to **openart.ai**, sign up / log in. New accounts get free starter credits.
+2. **Get a paid plan for the real push.** The free tier caps how many clips/day you can make on the
+   top Veo tier (e.g. only a couple Quality clips/day). A paid plan lifts the caps so you're not
+   rate-limited mid-project.
+3. **Know the three Veo tiers by cost:** **Veo 3.1 Lite ≈ 10 cr** (cheap b-roll), **Fast ≈ 20 cr**
+   (mid), **Quality ≈ 100 cr** (reserve for the 4 hero shots only). **Kling** = your crowd engine.
+
+### B. Generate the STILLS first — for the 10 Veo shots (the money-saver)
+1. Open the **Image** generator.
+2. Paste a **Still prompt (§4b)** + **Style Block (§3)** + the palette line (BEFORE or RISE).
+3. Aspect ratio **16:9** (OpenArt video is 16:9 or 9:16 — there is **no 2.39:1**; you'll crop to
+   widescreen in the edit).
+4. Generate 2–4 variations, **download the single best one.** (Images are cheap — re-roll here, not
+   in video.)
+
+### C. Animate them — Image-to-Video (Veo 3.1)
+1. **Video → Image-to-Video → select Veo 3.1.**
+2. **Upload your chosen still** as the first frame.
+3. Paste the matching **§4 video prompt** (the motion description) into the prompt box.
+4. Settings: **Audio ON** for the 4 hero shots (1, 10, 16, 20), **OFF** for the rest ·
+   **Resolution 1080p** · **Aspect 16:9** · **Duration 4–6s** · **Video Mode = Quality** for the 4
+   heroes, **Fast/Lite** for everything else.
+5. Generate. If it's close, re-roll **once**. Download.
+
+### D. The Kling crowd shots — Text-to-Video (no still needed)
+1. **Video → Text-to-Video → select Kling.**
+2. Paste the **§4 prompt** + **Style Block** + palette.
+3. **Aspect 16:9 · Duration 5s.**
+4. Generate 1–2, keep the winner.
+
+### E. Budget reality (ballpark, list credits)
+- 4 heroes × 2 gens × 100 = **800** · 6 Veo-fast × 2 × ~15 = **~180** · 13 Kling × 2 × ~25 = **~650**
+  · stills = cheap. **First full pass ≈ 1,600–2,400 credits** with normal re-rolls.
+- Buy a credit pack / plan sized to that, and **watch the daily clip caps** on the Quality tier —
+  you may need to spread the 4 hero shots across 2–3 days, or upgrade.
+
+### F. Assemble
+CapCut or DaVinci Resolve → **crop every 16:9 clip to 2.39:1** (letterbox) → color-match Veo↔Kling →
+cut to the music's beat → drop in VO + licensed track → add the "Concept visualization" head super
+and the title card. Export 1080p.
