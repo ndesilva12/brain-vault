@@ -6,7 +6,8 @@ NOT legal advice._
 
 **Reconciliation at a glance**
 - FIRST (Name), SECOND (Registered Agent), THIRD (Purpose), FIFTH (Incorporator): **unchanged.**
-- FOURTH (Stock): **amended** — single class 10,000,000 → 7,000,000 Class A + 3,000,000 Class B.
+- FOURTH (Stock): **amended** — single class 10,000,000 → 6,000,000 Class A + 4,000,000 Class B
+  (3,000,000 Class B issued to Norman; 1,000,000 Class B held in reserve for future super-voting headroom).
 - **New SIXTH:** director exculpation. **New SEVENTH (optional):** indemnification.
 - Total authorized stays **10,000,000** (no increase → lower fee, minimal deviation).
 
@@ -33,8 +34,8 @@ of Directors and by the written consent of the sole stockholder pursuant to Sect
 **"FOURTH — Capital Stock.**
 
 **A. Authorized Shares.** The total number of shares of capital stock the Corporation is
-authorized to issue is 10,000,000 shares, consisting of 7,000,000 shares of Class A Common
-Stock, par value $0.001 per share ("Class A Common Stock"), and 3,000,000 shares of Class B
+authorized to issue is 10,000,000 shares, consisting of 6,000,000 shares of Class A Common
+Stock, par value $0.001 per share ("Class A Common Stock"), and 4,000,000 shares of Class B
 Common Stock, par value $0.001 per share ("Class B Common Stock").
 
 **B. Reclassification.** Upon the effectiveness of this Certificate of Amendment, each share
