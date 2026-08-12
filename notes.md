@@ -33,6 +33,14 @@ _(pre-seeded from our current session — the live loose ends; edit or clear fre
 - **2026-07-27** — **Follow up with Bill from Bridge Independent.**
 - **2026-07-27** — **Follow up with Josh Bennett.**
 - **2026-07-27** — **Hit up Pat Quinn about names.**
+- **2026-08-11** — **83(b) Filing.** Printed & ready. Mail AM: Certified Mail + Return
+  Receipt to IRS, Kansas City, MO 64999-0002; handwrite SSN; **keep the postmarked
+  receipt + green card** (that's the proof). Within 30 days of the Doc 02 grant date. `#corporate`
+- **2026-08-11** — **Delaware Amendment (Doc 11B).** Emailed corp@delaware.gov w/ cover
+  letter + Certificate of Amendment. Open loops: (1) watch for their reply — confirm they
+  have **payment authorization**; (2) get the **file-stamped copy** back; (3) then date
+  **Doc 09** (Class B cert) on/after the effective date + fill effective date & 6M/4M into
+  **Doc 10** (ledger). `#corporate`
 - **2026-07-27** — **Run a source-verification pass on the new celebrity master shortlist**
   (in cinderella/CLAUDE.md) — ~37 small-D1 + larger-conference combos; many unverified.
   Confirm each tie (alumni vs regional vs aspirational) before anything goes in a deck.
