@@ -48,6 +48,15 @@ Last synced: 2026-02-09
 
 # Friends
 
+## Zach Etten
+**Nickname:** zach
+**Relationship:** College Roommate / teammate, college best friend
+**Phone:** 16032047706
+**Email:** zetten20@gmail.com
+**Location:** Amherst, NH
+**Profession:** Marketing Professional
+**Notes:** best friend from college, originally family was from wisconsin, lived in new hampshire, now they moved back west to kentucky while zach lives in new hampshire and helps coach his father in law's high school basketball team; two boys for children and one more due;
+
 ## Brian Horton
 **Nickname:** horton
 **Relationship:** College friend
