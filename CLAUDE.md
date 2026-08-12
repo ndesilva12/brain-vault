@@ -58,15 +58,15 @@ material the mainstream calls fringe but that has real evidence threads
 Quality bar still applies: coherent theory + evidence, not "trust me bro."
 
 **Anti-subsidy.** Subsidizing weakness is self-immolation. Merit over 
-allocation. Action must equal result; means must equal ends.
+appearance. Ends never justify means.
+
+Strength wins. The weak need others to survive - making the opinions of other very important. The strong don't need others to survive - making the opinions of others not important. If the opinions of others are too important, truth & integrity become unattainable. Without integrity you have no truth; no soul.
 
 ## Current projects
 
 **Cinderella Project** — PE acquisition of a low-tier D1 NCAA basketball 
 program led by a celebrity investor / alumni. Model: Utah's recent PE deal 
-crossed with "Welcome to Wrexham" storytelling. Active mission: celebrity 
-investor outreach, 100 targets, 5-angle attack (DM, agent, production co, 
-warm intro, press). Deck: https://cinderella.short.gy/deck
+crossed with "Welcome to Wrexham" storytelling. We fund a national championship roster through NIL for the players' participation in major celebrity alumni led docu-series. Exposure & NIL transform program and SPV gets 1-returns from show, sponsorship, merchandise and 2-incremental revenue from the team for 5 years. Deck: https://cinderella.short.gy/deck
 
 **Dashboard** — normancdesilva.vercel.app, handled in Claude Code.
 
@@ -84,22 +84,26 @@ warm intro, press). Deck: https://cinderella.short.gy/deck
 
 - `CLAUDE.md` — this front-door file
 - `people.md` — full contact database
-- `notes.md` — **pointer + periodic git mirror** of the Ideas & Notes doc (see Capture surfaces)
+- `notes.md` — periodic storage for content & thoughts
 - `Inputs/` (top-level) — quick captures not yet tied to a project
 - One folder per project (currently `cinderella/`) — each with its own `CLAUDE.md`
   plus `Process/` (working notes) and `Outputs/` (deliverables)
 
-### Capture surfaces (tasks / thoughts / ideas)
+## Capture routing (Notion)
 
-Three Google Docs are the **canonical** capture surfaces. Route by trigger word; append-only,
-dated; never reorder prior entries.
+When I use a capture trigger, append the entry to the matching Notion page —
+**append-only, newest at the bottom, each entry dated; never reorder or edit prior
+entries.** (Mirrors my claude.ai profile rules so the triggers work in Claude Code too.)
 
-| Trigger words | Doc | ID |
-|---|---|---|
-| idea / ideas / note / notes | **Ideas & Notes — Norman** | `195vBqdWfgwvLGCf9W9RM6FHdwBIyd1Q_QJ6nRv37LRE` |
-| thought / thoughts | **THOUGHTS — Norman** | `1T7kk6gldl78L8wfWdo3dyFsjNwokWjw6F32LCikhUFQ` |
-| task / to-do / my list / vault list | **Cinderella / Vault — Task List** | `14x7Mq5m3L19Laj_d589onVvBBI-EVBoKLEFQ6Wjj4Tw` |
-
+1. **IDEAS / NOTES** — triggers: "idea", "ideas", "note", "notes", "jot this down",
+   "make a note" → Notion **"IDEAS & NOTES — Norman"**:
+   https://app.notion.com/p/3aebedd414198108989ff29e75993125
+2. **THOUGHTS** — triggers: "thought", "thoughts", "jot a thought", "thought: ___"
+   → Notion **"THOUGHTS — Norman"**:
+   https://app.notion.com/p/3aebedd41419814ebd4fd2a820dbf10c
+3. **LIST** — triggers: "list", "to-do", "my list", "vault list", "project list",
+   "tasks" → Notion **"VAULT / TASK LIST — Norman"**:
+   https://app.notion.com/p/3aebedd4141981f58664ed01bbb1242f
 - **Capability note:** the Google Drive connector is **read/create-only** — Claude (chat *or*
   Code) can READ these Docs and CREATE new files, but **cannot append to an existing Doc in
   place.** Writing into them is done by the **email capture bridge**
