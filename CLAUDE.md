@@ -89,6 +89,28 @@ warm intro, press). Deck: https://cinderella.short.gy/deck
 - One folder per project (currently `cinderella/`) — each with its own `CLAUDE.md`
   plus `Process/` (working notes) and `Outputs/` (deliverables)
 
+## Capture routing (Notion)
+
+When I use a capture trigger, append the entry to the matching Notion page —
+**append-only, newest at the bottom, each entry dated; never reorder or edit prior
+entries.** (Mirrors my claude.ai profile rules so the triggers work in Claude Code too.)
+
+1. **IDEAS / NOTES** — triggers: "idea", "ideas", "note", "notes", "jot this down",
+   "make a note" → Notion **"IDEAS & NOTES — Norman"**:
+   https://app.notion.com/p/3aebedd414198108989ff29e75993125
+2. **THOUGHTS** — triggers: "thought", "thoughts", "jot a thought", "thought: ___"
+   → Notion **"THOUGHTS — Norman"**:
+   https://app.notion.com/p/3aebedd41419814ebd4fd2a820dbf10c
+3. **LIST** — triggers: "list", "to-do", "my list", "vault list", "project list",
+   "tasks" → Notion **"VAULT / TASK LIST — Norman"**:
+   https://app.notion.com/p/3aebedd4141981f58664ed01bbb1242f
+
+- **Never → Apple Reminders** (never touch or look at Apple Reminders).
+- **Connector dependency:** writing to Notion needs the Notion connector live in the
+  session. If it's unavailable in a Claude Code session, say so and fall back to
+  `notes.md`, then sync those entries to Notion once the connector is back.
+- Do **not** confuse these with the Notion **"Why" note**, which is never to be edited.
+
 ## People I'm closest to
 
 This is a quick reference. Full contact database: see `people.md` in the repo root.
