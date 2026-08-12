@@ -67,16 +67,29 @@ _Supersedes the earlier Radford / Hart-Temple framing: **Hart has moved into the
 > ⚠️ **These are working/aspirational pairings — connection type varies (alumni /
 > regional / adopted-city / aspirational) and EVERY tie must be source-verified before it
 > goes in any deck or outreach** (standing rule after the Luke Murray/Loyola error).
-> Verification detail lives in `Process/2026-07-21-celebrity-targets-analysis.md`.
+> **Full verified verdicts (2026-07-29 pass): `Process/2026-07-29-celebrity-shortlist-verification.md`**
+> (earlier detail: `Process/2026-07-21-celebrity-targets-analysis.md`). Falsified ties already
+> removed below: Jim Nantz≠Ball State, Chris Daughtry≠Elon, Jay Leno≠URI, Liev Schreiber≠UMass,
+> Conan O'Brien≠Providence.
 
 **Attached:** Davidson — **Steph Curry** (Unanimous Media / Erick Peyton).
+
+**TOP TARGET (added 2026-08-07):** **Tulane × Woody Harrelson** — Woody's iconic
+basketball role, Billy Hoyle in _White Men Can't Jump_, was a **Tulane Green Wave** player
+("Billy Hoyle comes home"). Frame as the _film_ hook, NOT a real alma mater. Tulane = D1
+(American Athletic Conf.), New Orleans, real fallen-hoops story, great-brand city.
+**Warm path in:** Woody + **Simu Liu** are recent castmates — co-starred in _Last Breath_
+(2025, Focus Features) as deep-sea divers — so Simu can bring Woody in. Contemplated as a
+**Simu + Woody co-lead / two-name package**, and a mainstream, zero-Asia counterweight to the
+**Radford × Simu** China play (Chinese head coach + China game-stream already in motion), which
+Norman wants to keep as the dedicated China thread rather than over-concentrate Asia signals.
 
 **Small-D1 shortlist (the core franchise pool):**
 
 | School | Celebrity options |
 |---|---|
 | New Hampshire | Adam Sandler, Triple H, Seth Meyers |
-| Fordham | Denzel Washington, Mike Breen |
+| Fordham | Denzel Washington, Mike Breen _(BOTH verified alumni + basketball — top-tier, on-thesis)_ |
 | UMKC | Jason Sudeikis, Paul Rudd |
 | St. Joseph's | Kevin Hart, Bradley Cooper, Jason Kelce _(+ Barkley, Will Smith — Season 1)_ |
 | Hawaii | Dwayne Johnson, Bruno Mars, Jason Momoa |
@@ -85,14 +98,14 @@ _Supersedes the earlier Radford / Hart-Temple framing: **Hart has moved into the
 | Illinois-Chicago (UIC) | Barack Obama |
 | Northeastern | Mark Wahlberg, Bill Burr, Affleck, Matt Damon |
 | Charleston | Bill Murray _(verified RiverDogs co-owner)_, Danny McBride |
-| Elon | Shane Gillis, Chris Daughtry |
-| Rhode Island | Seth MacFarlane, Jay Leno, Charlie Day |
+| Elon | Shane Gillis _(brief transfer, football, asked to leave — weak; row candidate to drop)_ |
+| Rhode Island | Seth MacFarlane, Charlie Day _(both RI-state regional, not URI alumni)_ |
 | Appalachian St. | Eric Church, Luke Combs |
 | UC Irvine | Will Ferrell |
 | Northern Illinois | Vince Vaughn, Sebastian Maniscalco |
-| Ball State | David Letterman, Jim Nantz |
+| Ball State | David Letterman _(verified alum '69, major donor)_ |
 | Drake | Jeremy Piven, Zach Johnson |
-| UMass | John Cena, Liev Schreiber |
+| UMass | John Cena _(MA native; note actual alma mater = Springfield College, D3 — cleaner as its own pairing)_ |
 | Indiana State | Larry Bird, John Mellencamp |
 | Texas Southern | Michael Strahan, Travis Scott |
 | Kent State | Michael Keaton, Steve Harvey |
@@ -100,6 +113,7 @@ _Supersedes the earlier Radford / Hart-Temple framing: **Hart has moved into the
 | Georgia State | Ludacris, Gucci Mane, Julia Roberts |
 | Missouri State | Brad Pitt, John Goodman |
 | New Orleans | Theo Von, Anthony Mackie, The Mannings |
+| Louisiana-Monroe (ULM) | Tim McGraw _(verified alum — baseball scholarship at then-NLU + hometown Start/Delhi; Sun Belt)_ |
 | Texas State | Taylor Sheridan, Shawn Michaels |
 | Wichita State | Paul Wight, Antoine Carr |
 | Oregon State | Gary Payton |
@@ -118,13 +132,24 @@ _Supersedes the earlier Radford / Hart-Temple framing: **Hart has moved into the
 
 | School | Celebrity options |
 |---|---|
+| **Tulane** _(AAC)_ | **Woody Harrelson** _(TOP TARGET — Billy Hoyle/WMCJ film hook, not real alma mater; warm via Simu Liu, Last Breath castmate)_ |
 | Boston College | Bill Murray _(son Luke = head coach, verified)_, Affleck, Damon, Evans, Krasinski, Burr — *note: only Bill Murray (via Luke) + Amy Poehler ('93) are authentic BC ties; the rest are Boston-regional, not alumni* |
-| Providence College | Seth MacFarlane, Doris Burke _(PC '87, verified)_, Conan O'Brien |
+| Providence College | Doris Burke _(PC '87, verified alum)_, Seth MacFarlane _(RI regional)_ |
 | Stanford | Tiger Woods, John McEnroe _(both Stanford athletes)_ |
 | USC | Will Ferrell, Brian Scalabrine, any LA name |
 | Wake Forest | Tim Duncan, Muggsy Bogues _(both verified Deacons)_ |
 | South Carolina | Darius Rucker _(verified)_ |
 | DePaul | Barack & Michelle Obama |
+
+**D3 track (content-first / reclassification route — see `Process/2026-07-28-division-three-financial-deep-dive.md`; ties verified 2026-07-29):**
+
+> Huge celebrities paired with elite-brand D3 schools that could resource a D1 reclassification. Tie type tagged inline.
+
+| School | Celebrity options |
+|---|---|
+| NYU _(D3, UAA)_ | Adam Sandler, Billy Crystal, Spike Lee _(all three verified Tisch alumni — Sandler '88, Crystal '70, Lee MFA '82 — and all NBA superfans)_ |
+| Johns Hopkins _(D3, UAA)_ | Mike Bloomberg _(alum '64 + biggest donor in higher-ed history)_, Michael Phelps _(Baltimore local)_, Carmelo Anthony _(Baltimore local — hoops)_ |
+| UMass Boston _(D3, Little East)_ | Joe Rogan _(attended UMass Boston ~3 yrs)_, Dana White _(brief UMass Boston stint; deep Boston ties)_, Bill Burr _(Canton MA local)_ |
 
 ### Strict pairing criteria
 

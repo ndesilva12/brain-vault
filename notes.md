@@ -1,50 +1,23 @@
-# Notes to Revisit — Norman's running parking lot
+# Ideas & Notes — moved to Google Docs
 
-_A running capture file. Drop anything here you don't want to lose — half-ideas,
-follow-ups, names, questions, reminders. Tell me "jot this down: ___" (or "add to
-notes: ___") and I'll append it with a date. Say "what's on my notes / parking lot"
-to review. Mark things done and I'll strike or archive them._
+**➡️ Ideas & notes now live in the Google Doc "Ideas & Notes — Norman":**
+https://docs.google.com/document/d/195vBqdWfgwvLGCf9W9RM6FHdwBIyd1Q_QJ6nRv37LRE/edit
 
-**How it works**
-- New items get added under **Open** with the date logged and an optional `#tag`.
-- When something's handled, it moves to **Resolved / Archive** with the outcome.
-- Tags in use so far: `#cinderella` `#bc` `#celebrity` `#capital` `#compliance`
-  `#corporate` `#personal` `#idea` — add any you like.
+That doc is **canonical** — reachable by Claude chat, Claude Code, and mobile. This file is a
+**periodic mirror for the git record**: ask Claude Code to "comb the Ideas & Notes doc and update
+notes.md" and it will pull new entries down here (appended under **Synced entries** below with the
+sync date). Capture always goes to the Doc; this file just preserves history in the repo.
 
----
+**The three capture surfaces (all Google Docs):**
+| Trigger words | Destination |
+|---|---|
+| idea / ideas / note / notes | [Ideas & Notes — Norman](https://docs.google.com/document/d/195vBqdWfgwvLGCf9W9RM6FHdwBIyd1Q_QJ6nRv37LRE/edit) |
+| thought / thoughts | [THOUGHTS — Norman](https://docs.google.com/document/d/1T7kk6gldl78L8wfWdo3dyFsjNwokWjw6F32LCikhUFQ/edit) |
+| task / to-do / my list / vault list | [Cinderella / Vault — Task List](https://docs.google.com/document/d/14x7Mq5m3L19Laj_d589onVvBBI-EVBoKLEFQ6Wjj4Tw/edit) |
 
-## Open
-
-_(pre-seeded from our current session — the live loose ends; edit or clear freely)_
-
-- **2026-07-24** — Decide the BC celebrity lead: **Amy Poehler (authentic alum)** vs. a
-  **Boston-regional** (Wahlberg/Affleck), with Bill Murray doing minor lift + alumni
-  cameos. Then model the chosen lead's economics. `#bc #celebrity`
-- **2026-07-24** — Revisit the **BC full-stack economics** (the model workbook) once the
-  lead + mechanics are locked; consider a 3-team Season 1 rollup for Ankur. `#bc #capital`
-- **2026-07-24** — **Patricof outreach**: open the line via **Matt Siegel (Partner, Athlete
-  Relations)**; ask them to run their full roster for veteran + low/mid-major ties and
-  syndicate a per-school SPV. Driver-not-passenger; booster-compliance overlay applies.
-  `#capital #celebrity`
-- **2026-07-24** — Optional: convert the **corporate-setup-pack README** to Word so that
-  packet is fully uniform (the 12 legal docs are already Word). `#corporate`
-- **2026-07-27** — **Call Michael Siegel in Philadelphia.** _(note: different person from
-  Patricof's Matt Siegel above)_
-- **2026-07-27** — **Follow up with Bill from Bridge Independent.**
-- **2026-07-27** — **Follow up with Josh Bennett.**
-- **2026-07-27** — **Hit up Pat Quinn about names.**
-- **2026-07-27** — **Run a source-verification pass on the new celebrity master shortlist**
-  (in cinderella/CLAUDE.md) — ~37 small-D1 + larger-conference combos; many unverified.
-  Confirm each tie (alumni vs regional vs aspirational) before anything goes in a deck.
-  `#cinderella #celebrity`
-- **2026-07-27** — Contact Ivy League coaching staffs. `#cinderella`
-- **2026-07-27** — Get in touch with Steve Nash (Santa Clara). `#cinderella #celebrity`
-- **2026-07-27** — Contact more celebrity alum targets. `#cinderella #celebrity`
-- **2026-07-27** — Jason Kelce outreach (St. Joe's option). `#cinderella #celebrity`
-  _(the four above migrated from the old top-level "Task List.md")_
+_Claude Code can still append here if asked, but default all captures to the docs above._
 
 ---
 
-## Resolved / Archive
-
-_(nothing yet)_
+## Synced entries
+_(Claude Code pulls new items from the Ideas & Notes doc here on request, dated by sync.)_
