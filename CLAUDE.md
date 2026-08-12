@@ -104,15 +104,11 @@ entries.** (Mirrors my claude.ai profile rules so the triggers work in Claude Co
 3. **LIST** — triggers: "list", "to-do", "my list", "vault list", "project list",
    "tasks" → Notion **"VAULT / TASK LIST — Norman"**:
    https://app.notion.com/p/3aebedd4141981f58664ed01bbb1242f
-- **Capability note:** the Google Drive connector is **read/create-only** — Claude (chat *or*
-  Code) can READ these Docs and CREATE new files, but **cannot append to an existing Doc in
-  place.** Writing into them is done by the **email capture bridge**
-  (`automation/vault-capture-bridge.gs`): send mail to `norman.desilva+capture@gmail.com` with
-  the trigger word in the subject, or edit the Doc directly in the Docs app.
-- Claude Code CAN read these Docs (`read_file_content`) — so "comb the Ideas & Notes doc and
-  update `notes.md`" works: read the Doc, append new entries to `notes.md`'s **Synced entries**
-  section, dated. `notes.md` is the git-history mirror, not a capture target.
-- Everyday errands → Apple Reminders (a separate surface Claude Code can't reach).
+- **Never → Apple Reminders** (never touch or look at Apple Reminders).
+- **Connector dependency:** writing to Notion needs the Notion connector live in the
+  session. If it's unavailable in a Claude Code session, say so and fall back to
+  notes.md, then sync those entries to Notion once the connector is back.
+- Do **not** confuse these with the Notion **"Why" note**, which is never to be edited.
 
 ## People I'm closest to
 
