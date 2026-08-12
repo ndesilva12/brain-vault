@@ -1,147 +1,136 @@
-# Structure & Compliance — Commercial vs. Revenue Rights, the Donor-Path Trap, and the Two-Leg Model
-_Session 2026-08-11 · internal reasoning capture · NOT legal advice — Loeb (Brian Socolow) blesses specifics._
+# Structure & Compliance — Where the Player Money Comes From, and Why the SPV Can Pay
+_Session 2026-08-11 (revised same day after full working-through) · internal reasoning capture · NOT legal advice — Loeb (Brian Socolow) blesses specifics._
 _Companion to: `Outputs/2026-07-24-structuring-principles-for-loeb.md`, `Outputs/2026-07-24-mc-compliant-operating-model.md`, `Process/2026-07-24-multi-school-and-cap-circumvention-compliance.md`, `Process/2026-06-24-ncaa-compliance-donor-collective-analysis.md`._
 
-This memo records clarifications from an 2026-08-11 working thread. It **refines**, does not
-replace, the structuring-principles one-pager. Where terms differ, that doc's Stream A/B/1-2-3
-language controls; this memo maps onto it.
+> **Revision note.** An earlier draft of this memo routed player pay through a separate
+> "ProdCo" and swept the school fee up to the Holdco. Both were over-engineering and are
+> **dropped.** The simplified, correct structure is below. It matches the canonical model in
+> `cinderella/CLAUDE.md` (per-school SPV, mixed capital, donors mixed-in or at parent level).
 
 ---
 
-## 0. The two money flows (naming, so the rest is unambiguous)
-- **Leg A — MC → players.** Third-party NIL for **genuine production services** (docuseries
-  appearances, sponsor activations, likeness), priced at **FMV**, cleared through NIL Go.
-  (= "Stream 2" / "Stream A" in prior docs.)
-- **Leg B — school → MC.** MC's **commercial return** for value it created, benchmarked to
-  **commercial revenue**, never to roster cost. (= "Stream 3" / "Stream B" in prior docs.)
-
-Everything hard about compliance lives in **Leg A**. Leg B is a commercial-terms /
-characterization question. Do not let a Leg B rename convince anyone Leg A got safer.
-
----
-
-## 1. Commercial rights vs. revenue rights (definitions)
-- **Commercial rights** = the right to **operate and sell** revenue-generating assets
-  (sponsorship, media, signage, licensing, ticketing inventory). Operational control. This is
-  the **Learfield/Playfly multimedia-rights (MMR)** posture — you run and sell the inventory.
-- **Revenue rights** = a **financial claim on the money** — a right to a share of defined
-  revenue, whether or not you operate anything. Passive.
-
-One-liner: **commercial rights = "I run and sell the business"; revenue rights = "I get a cut
-of the cash."** Otro (Utah) holds **equity in the LLC that operates** the school's commercial
-engine — so it has both. **MC does not need to operate the school's commercial desk.** MC's
-Leg B is better framed as a **bounded revenue/ success fee** for value created, not an
-assignment of commercial rights and not equity. See §3.
+## The one-paragraph answer
+The **per-school SPV pays the players directly.** It is funded by **arm's-length commercial
+capital — PE + sponsors + the streamer's production advance** — for that specific team. The
+**parent (Cinderella Corp)** owns the IP/format and equity in each SPV and **never signs a
+player**, which keeps the IP clean of player-contract liability (the SPV, a separate entity,
+already provides that separation — no ProdCo needed). A single-school SPV is **not** an
+"associated entity" merely for being single-school; the associated-entity/collective risk comes
+from **booster money**, never from single-school scope or arm's-length PE.
 
 ---
 
-## 2. The dispositive test is Valid Business Purpose (VBP), not "AEI or not"
-- **No categorical exemption exists for brand sponsors / MMRs.** A Special Master *declined*
-  to categorically exempt them from "Associated Entity" (AEI) status; Judge Wilken called
-  Nike/Disney "poster-child unassociated entities" but issued **no carve-out**. AEI is
-  **fact-specific**: are you "operating in concert with a school to assist recruitment/
-  retention"?
-- **Being an AEI does not prohibit paying players.** It subjects Leg A payments to **VBP +
-  FMV** with heightened scrutiny. CSC (July 2025) guidance: an entity that exists *primarily
-  to pay athletes* (a collective) **fails** VBP; "a genuine business with a purpose beyond
-  paying athletes — a golf course, **an apparel company**" **passes**. A Netflix-level
-  production is the passing profile.
-- **Conclusion:** the controlling question for MC is **"does each Leg A payment satisfy
-  VBP + FMV,"** not "are we an AEI." MC's production substance is what makes it defensible.
-  Non-AEI status makes life easier; VBP is what actually decides it.
+## 1. Two money flows (the naming everything hangs on)
+- **Leg A — SPV → players.** Third-party NIL for **genuine documentary/content services**
+  (on-camera participation, likeness, sponsor activations), priced at **FMV**, cleared through
+  NIL Go. (= "Stream 2 / Stream A" in prior docs.)
+- **Leg B — school → MC.** MC's **commercial return** for value created, benchmarked to
+  **commercial revenue**, never to roster cost. (= "Stream 3 / Stream B" in prior docs.)
+
+The two must never touch: Leg B is never sized by, invoiced as, or "backfilling" Leg A.
 
 ---
 
-## 3. Leg B: bounded success fee, not equity — and the multi-year tail
-- Reframing Leg B as an **MMR-style contingent service fee** (% of *attributable incremental*
-  revenue) is **cleaner** than "revenue rights owned by the SPV," but only on the
-  **corporate/tax/securities/optics axis** — it sidesteps UBIT, donor-investor securities
-  issues, and the conceptually-impossible "owning part of an NCAA team." It does **nothing**
-  for Leg A. Same dollars; better characterization; real, non-cosmetic (a contract right vs.
-  a property/equity right drives tax + control even at equal economics).
-- **Multi-year tail:** charging a fee across several years for durable value created by a
-  ~1-year service is **commercially normal** (residuals, royalties, earnouts). Guardrails:
-  keep it **(a) tied to attributable revenue** you can trace to the production, and
-  **(b) bounded** (defined term + formula). The longer / more open-ended / more all-revenue-
-  linked the tail, the more it **reads as the equity/ownership interest we're avoiding** —
-  re-importing UBIT/securities/AEI-entanglement. Bounded royalty on attributable lift = clean;
-  perpetual cut of everything = "you own the team" in a costume.
-- Substance-over-form caveat: a "fee" that is really perpetual equity with a services label
-  gets recharacterized. Keep it a genuine contingent fee for genuine services.
+## 2. Commercial rights vs. revenue rights (the definition Norman asked for)
+- **Commercial rights** = the right to **operate and sell** revenue assets (sponsorship, media,
+  signage, licensing, ticketing) — the Learfield/Playfly MMR posture, operational.
+- **Revenue rights** = a **passive financial claim** on a share of defined revenue, whether or
+  not you operate anything.
+- One-liner: commercial rights = "I run and sell the business"; revenue rights = "I get a cut of
+  the cash." MC's Leg B is best framed as a **bounded, attributable revenue/success fee**, not an
+  equity/ownership stake and not commercial-rights operation.
 
 ---
 
-## 4. The shoe-company analogy — strong, with one gap
-- **Valid principle:** Nike **pays players AND benefits when the team wins** (better roster →
-  visibility → jersey/signage/equipment marketing assets more valuable). Nike is the
-  poster-child *un*associated entity. So **"we pay players and we benefit from their success"
-  is NOT disqualifying** on its own. Use this to kill the lazy objection.
-- **The gap:** Nike's benefit is an **externality** (diffuse, market-wide brand value); it has
-  **no contract entitling it to a slice of that school's revenue.** MC's Leg B **is a
-  contractual claim on that specific school's revenue** — a tighter link that reads as
-  "operating in concert with the school." The analogy wins the principle but not this feature.
-  Close the gap the usual way: production is a genuine VBP business at FMV; Leg B is a bounded
-  service fee, not an ownership proxy.
+## 3. The dispositive test is FMV, not entity identity
+- **What makes a player payment legal:** it is **genuine FMV compensation for genuine services.**
+  Full stop. This holds regardless of which entity signs it or where the money traces.
+- **What the entity structure does:** modulates **scrutiny**, not legality. A school-tied vehicle
+  draws more "associated entity" scrutiny; a genuinely independent, arm's-length one draws less.
+  But even an associated entity can pay players if the deal is VBP + FMV. **You win on the
+  payment, not on the label.**
+- **Corollary — no laundering works either way.** No entity routing rescues a payment that is
+  really pay-for-play; and a genuine FMV deal needs no routing. Chasing entity gymnastics is
+  chasing the wrong variable.
 
 ---
 
-## 5. Parent vs. per-school SPV — the defense lives at the parent
-- Per-school SPV is fine for **liability ring-fencing and per-deal investor economics.** But a
-  **single-school SPV that pays that school's players and claims that school's revenue is the
-  most collective-*looking* entity possible.** The multi-school defense does **not** live in
-  the SPV.
-- **Therefore:** the **parent ProdCo** (the genuine multi-school production business) should be
-  the entity that **contracts all athlete talent across the slate** — that is the VBP shield
-  *and* the "real business, not one school's booster" shield. Keep SPVs as **capital / fee
-  vehicles**, not the athlete-facing counterparty. (Consistent with prior-doc Principle A.3
-  "mixed-source at the parent level" and E.15 "genuine multi-school business.")
+## 4. "Third party" is not the test — why the single-school SPV is fine
+- "Third party" literally means *not the school and not the athlete.* The SPV qualifies by
+  definition, however many schools it serves.
+- **Associated entity** = one **affiliated with / directed by the school to promote its
+  athletes** (a collective). A parent/PE-owned commercial media SPV operating one season is
+  **single-purpose commercially** (investors want single-team exposure), not school-affiliated.
+  Single-purpose ≠ captive. (A film LLC makes one movie and is still a real, independent company.)
+- Even if a regulator *labeled* it an associated entity, associated entities may still pay FMV.
+  So compliance never depended on the SPV being a pristine independent third party.
 
 ---
 
-## 6. The donor-path trap (the key untangle)
-**"Third party paying players" is NOT the same as "donor → school → school revenue-shares to
-players." They are opposites.**
-
-- **Donate to the school so the school pays athletes = you are a donor funding athlete comp =
-  textbook AEI.** Routing through the school's rev-share channel does **not** launder it — the
-  AEI concept exists to catch exactly this. Worse, you **forfeit the VBP defense**: you're not
-  buying a service from the athlete, you're just a stakeholder whose money becomes player pay.
-  **Donor + profit motive = the collective-with-a-profit-motive that fails.** The framing
-  "truly a donor but coincidentally running a business dependent on that donation" is the
-  **worst** posture — the "coincidental" dependence is the proof of non-independence.
-- **Pay players directly for genuine production work = vendor/brand doing an NIL deal** (the
-  Nike model). Rides on VBP + FMV, which the production is built to pass. Keeps the
-  business-purpose defense; avoids the donor taint.
-- **So, counterintuitively: paying players directly is CLEANER than donating to the school and
-  letting it pay them.** Norman's instinct that "donor = AEI" is correct — it argues *for*
-  direct deals, *against* the pass-through.
+## 5. Athletic quality legitimately sets the price (the FMV ceiling)
+- Skill drives marketability drives NIL value — Nike pays Cooper Flagg more than the 12th man
+  *because he's better*, and that's legitimate, not pay-for-play. A better player has a higher
+  legitimate NIL. Paying stars like stars is fine.
+- **But there is still a ceiling: genuine, benchmarkable marketability.** Skill raises the ceiling;
+  it doesn't remove it. Two lines keep you under it:
+  - **Consideration:** payment is for genuine NIL/content use, not for suiting up.
+  - **Portability/structure:** priced to marketability, participation-based, **not** contingent on
+    minutes/wins, **not** dangled to recruits pre-commitment.
+- **Where it breaks (a number, not a structure):** if the sum needed to *win* exceeds honest media
+  FMV, the excess is athletic comp — and that belongs in the **school's rev-share channel**
+  (Stream 1), not inflated into third-party NIL. Model question: does *(honest FMV media NIL +
+  school rev-share)* fund a competitive roster? Stars fit under the ceiling; role players lean on
+  rev-share.
 
 ---
 
-## 7. The clean structure that falls out
-1. **Parent ProdCo** contracts all athletes across the slate — genuine production services,
-   FMV, cleared via NIL Go. (Leg A, protected as VBP.)
-2. **Per-school SPV** collects a **bounded, attributable success fee** from each school.
-   (Leg B, MMR-style — not equity, not perpetual.)
-3. **Never donate money to a school to fund athlete pay.** Pay athletes directly, for the
-   production, only. That single rule keeps MC a vendor and off the AEI donor path.
-4. Everything still rides on **substance over form** — real series, real distribution,
-   pay-for-participation-not-performance. This is a **written-advisory-opinion-before-money-
-   moves** structure. The opinion sought is *"is our production a genuine VBP business"*
-   (winnable), not *"trust us it's not pay-for-play"* (losing).
+## 6. The four rules that ARE the compliance test
+1. **Players paid FMV for genuine work.** (The whole ballgame.)
+2. **Keep booster/donor money off the player-pay pot** — or a small minority at most. Arm's-length
+   PE/sponsor/streamer money is clean; a school's own boosters *dominating* the pot = collective.
+3. **The school success fee (Leg B) never calibrates to or reimburses player pay (Leg A).**
+4. **No pay dangled to recruits pre-commitment; no pay contingent on athletic performance.**
+
+Hit these four and the structure is clean. Miss them and no entity structure saves you.
 
 ---
 
-## 8. Open questions for counsel (adds to the Loeb one-pager list)
-1. Confirm Leg B as a **bounded, attributable contingent service fee** (not commercial-rights
-   assignment, not equity) survives UBIT / securities / AEI-entanglement — and the max
-   defensible **term length** for the multi-year tail.
-2. Does having the **parent** (not the single-school SPV) contract talent materially strengthen
-   the non-AEI / VBP posture, and how should the SPV-vs-parent counterparty split be papered?
-3. Confirm the **direct-FMV-NIL** path is cleaner than any **donor→school→rev-share** path, and
-   that MC should avoid earmarked contributions to a school's athlete comp entirely.
-4. The Nike **externality-vs-contractual-entitlement** gap: what contract language for Leg B
-   best blunts an "operating in concert with the school" characterization?
+## 7. Donors ("booster money") — the corrected guidance
+- **Booster money** = capital from a school's donors (the donor-conversion thesis — converting
+  would-be donors into investors). Major donors are "associated individuals" (>$50K-to-school).
+- **Commercial side vs. player-pay side:** a booster earning a **commercial return** on the show
+  (revenue-rights/equity upside) = a normal investor, fine. A booster whose money **is the money
+  paying that school's players** = a collective, the one thing to avoid.
+- **Rule:** if donors invest, keep them on the **commercial side** — earning on the venture's
+  commercial success — not funding the player-pay pot. Because money is fungible inside one
+  entity, achieve this by placing donor capital **at the parent level** or in a **commercial-rights
+  position**, and/or ensuring any single-school SPV that pays players is **not booster-dominated**
+  (mixed with PE — consistent with the canonical "mixed capital in each school SPV" fix).
+- **Correction to an earlier turn:** it is *not* "donors may only ever be in a diversified pool."
+  A donor can be in a single-school SPV **if it's mixed capital and not the exclusive/​dominant
+  funder of player pay.** The pool is one option; mixed-capital is another, equally valid.
 
-_All figures/structures illustrative; a position to test, not a representation of current
-operations._
+---
+
+## 8. Enforcement-drift caveat (reconciling the June vault with August reality)
+The donor-collective analysis (2026-06-24) is fairly permissive ("even a single-school collective
+could do a version of this"). That read was reasonable in mid-2026, but the CSC tightened over the
+summer: a Special Master **declined to categorically exempt** MMRs/brand sponsors from
+"associated entity" status, and the "valid business purpose" test narrowed. Nothing above
+contradicts the vault — but weight the **FMV substantiation** and **mixed-capital / non-booster**
+guardrails more heavily than the June tone implies. Documented FMV is the protection; get the
+NIL-Go/collegiate-sports counsel read (risk register #12) before money moves.
+
+---
+
+## 9. Open questions for counsel
+1. Confirm a parent/PE-owned **single-school SPV** paying FMV NIL is not an "associated entity,"
+   and what independence facts best secure that.
+2. Confirm the **mixed-capital** threshold that keeps a donor-inclusive SPV off the collective
+   characterization.
+3. Confirm Leg B as a **bounded, attributable contingent fee** (not equity, not commercial-rights
+   assignment) survives UBIT / securities / associated-entity entanglement; max defensible term.
+4. Pressure-test the **FMV ceiling** on roster-scale NIL: what comparables/documentation support
+   star-level media comp, and where must school rev-share carry the athletic-comp load.
+
+_All figures/structures illustrative; a position to test, not a representation of current operations._
