@@ -7,6 +7,16 @@ Last synced: 2026-02-09
 
 # Family
 
+## Norman David de Silva
+**Nickname:** dad
+**Relationship:** Father
+**Phone:** 15089719581
+**Email:** nddesilva@comcast.net
+**Birthday:** 1956-12-22
+**Location:** Dartmouth, MA
+**Profession:** Retired
+**Notes:** parents from new bedford, ma and dighton/taunton, ma; born and lived in the south end of new bedford, norman was born there near goulart square; mother was a nurse for 40 years at St. Luke's hospital delivering babies; father was a store manager of Arlan's in New Bedford and later fixed lawn mowers at home; they had 4 children: Norman, Lynne, Peter, Billy; Norman played basektball at Dartmouth high school and married his high school sweetheart, Brenda Brooks despite the protests from both their families; lived in dartmouth, then bought a house in freetown, ma where they raised their children and saved up money to build their dream home on the land they owned in dartmouth at 523 Old Westport Rd; have lived there since 1995; became a place for an enormous amount of events, nearly every saturday in the 4-5 summer months for two decades plus where the guys would play basketball in the morning and then families would gather, eat, drink and stay long into the nights; owned and operated Junior's Convenience Store in Assonet, MA (freetown, ma) for 40 plus years; recently sold the store and entered early retirement; now works as a gate guard at The Bay Club in Mattapoisett, MA;
+
 ## Brenda Ellen de Silva (Brooks)
 **Nickname:** mom
 **Relationship:** Mother
@@ -27,6 +37,15 @@ Last synced: 2026-02-09
 **Profession:** Financial Analyst at Boston Consulting Group
 **Notes:** played lacrosse at Bentley, studied finance; lived in south boston for a decade after college, owned a condo in south boston; worked at boston consulting group, left to go work at tjx companies, got recruited back to BCG and has been there for a decade now; got married in 2018 to Patrick Stevens who was from wellesley, ma, his father played basketball at notre dame in the 1970's, started Keurig Coffee, sold to green mountain/dr. pepper, now teaches full-time at notre dame and lives on campus, married to trice stevens; patrick passed away in his sleep just after his 40th birthday but we are still very close with his entire family and siblings: casey, conor, peter, riley; erica remarried mike in 2025 and split time between their new home in scituate and their second home (originally owned with pat) in newport, ri;
 
+## Kimberly D'Agostino
+**Nickname:** kim
+**Relationship:** long-term girlfriend
+**Phone:** 16172756860
+**Email:** kdagostino1@gmail.com
+**Location:** Wellesley, MA
+**Profession:** Tax Accounting Executive at Boston Scientific
+**Notes:** met in college freshman year, tried to date her but was always taken; twelve years later I finally got a date and we have been together since february 18, 2018; ;
+
 ## Mike McCann
 **Nickname:** mike
 **Relationship:** Brother In-Law
@@ -36,15 +55,6 @@ Last synced: 2026-02-09
 **Profession:** Attorney
 **Notes:** played golf at saint anselm's college; very good golfer with a pro handicap;
 
-## Norman David de Silva
-**Nickname:** dad
-**Relationship:** Father
-**Phone:** 15089719581
-**Email:** nddesilva@comcast.net
-**Birthday:** 1956-12-22
-**Location:** Dartmouth, MA
-**Profession:** Retired
-**Notes:** parents from dighton/taunton, ma and new bedford, ma; lived in the south end of new bedford, norman was born there near goulart square; mother was a nurse for 40 years at St. Luke's hospital delivering babies; father was a store manager of Arlan's in New Bedford and later fixed lawn mowers at home; they had 4 children: Norman, Lynne, Peter, Billy; Norman played basektball at Dartmouth high school and married his high school sweetheart, Brenda Brooks despite the protests from both their families; lived in dartmouth, then bought a house in freetown, ma where they raised their children and saved up money to build their dream home on the land they owned in dartmouth at 523 Old Westport Rd; have lived there since 1995; became a place for an enormous amount of events, nearly every saturday in the 4-5 summer months for two decades plus where the guys would play basketball in the morning and then families would gather, eat, drink and stay long into the nights; owned and operated Junior's Convenience Store in Assonet, MA (freetown, ma) for 40 plus years; recently sold the store and entered early retirement; now works as a gate guard at The Bay Club in Mattapoisett, MA;
 
 # Friends
 
