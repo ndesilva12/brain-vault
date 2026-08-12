@@ -15,7 +15,7 @@ _Companion spreadsheet: `Outputs/2026-08-12-cinderella-contacts.xlsx`. `(confirm
 | Paul Magahis | NYC private (confirm) | Potential parent-co investor — wealthy (uncle wealthier) | pmagahis@gmail.com | Meeting Fri Aug 14 w/ 'Mark' | 2026-08-12 | HOT — Aug 14 investor mtg (Paul & Mark) |
 | Cullen Gilchrist | (food entrepreneur, D.C.) | Close friend/ally — wants to buy a sports team | cullen.gilchrist@gmail.com | Personal ally; early sounding board | 2026-05-16 | Ally — keep looped |
 
-## Capital / Investors  (all active per Norman)  (41)
+## Capital / Investors  (all active per Norman)  (44)
 
 | Name | Org | Role / Title | Email | Context | Last contact | Status / Next action |
 |---|---|---|---|---|---|---|
@@ -41,7 +41,10 @@ _Companion spreadsheet: `Outputs/2026-08-12-cinderella-contacts.xlsx`. `(confirm
 | B. Sharma (confirm) | Bluestone Equity | Investor | bsharma@bluestoneequity.com | May thread (via Sunjay) | 2026-05-24 | Cold — revisit |
 | A. Howard (confirm) | Shamrock Capital | Investor | AHoward@shamrockcap.com | bcc'd on ROS thread | 2026-04-27 | Cold — revisit |
 | P. Blacklow (confirm) | Boston Seed | Investor | pblacklow@bostonseed.com | One-off outreach | 2026-04-27 | Cold — revisit |
-| Marc Gottesman | (confirm org) | Investor — likely your 'mags' | marc.gottesman1@gmail.com | One-off outreach May | 2026-05-28 | Confirm — 'mags'? revisit |
+| 'mags' | Smash Sports | Investor — this is your 'mags' | mags@smashsports.com | Cold outreach | 2026 | Cold — revisit ('mags') |
+| Marc Gottesman | (confirm org) | Investor | marc.gottesman1@gmail.com | One-off outreach May | 2026-05-28 | Cold — revisit |
+| Ben Simon | Goldman Sachs | Investor/banking | Ben.Simon@gs.com | Cold outreach | 2026-08 | Cold — revisit |
+| Devon / Stephane | Stedde Capital | Investors | devon@steddecapital.com | Cold outreach | 2026-08 | Cold — revisit |
 | Chuck (confirm surname) | Winnie Capital | Investor | chuck@winniecap.com | One-off | 2026-07-13 | Warm — follow up |
 | Chip (confirm surname) | Eight State | Investor | chip@eightstate.com | w/ Elisa | 2026-06-24 | Warm — follow up |
 | Elisa (confirm surname) | Eight State | Investor | elisa@eightstate.com | Eight State team | 2026-06-24 | Warm — follow up |
@@ -160,6 +163,55 @@ _Companion spreadsheet: `Outputs/2026-08-12-cinderella-contacts.xlsx`. `(confirm
 | Sofi Selig (confirm) | (confirm org) | Connect | sofi.selig@gmail.com | One-off April | 2026-04-21 | Confirm identity |
 | P.J. de Silva (confirm) | (family?) | Personal contact | pjdesilva1@gmail.com | Apr/May thread | 2026-05-06 | Confirm — likely personal/family |
 
+## Cold Outreach — Prospecting (Jan–Mar 2026 blast; firm-level, little/no response unless noted)  (44)
+
+| Name | Org | Role / Title | Email | Context | Last contact | Status / Next action |
+|---|---|---|---|---|---|---|
+| RedBird Capital | Sports PE | B. Snow, K. Laforce | BSnow@redbirdcap.com | Jan 19 cold blast (note: RedBird now in active talks per vault) | 2026-01-19 | Cold touch → see vault |
+| TPG | PE | J. Coulter, T. Sisitsky, J. Evans | jcoulter@tpg.com | Jan 19 blast | 2026-01-19 | No response — revisit |
+| Avenue Capital | PE | Marc Lasry, J. Greenbaum, T. Marcy, S. Chimento | mlasry@avenuecapital.com | Jan 19 blast | 2026-01-19 | RESPONDED — revisit |
+| Weatherford Capital | Sports PE | Will Weatherford | Will@weatherfordcapital.com | Jan 19 blast (also does college-sports PE) | 2026-01-19 | No response — revisit |
+| Seventy Six Capital | Sports VC | W. Kimmel, Scott | scott@seventysixcapital.com | Jan 19 blast | 2026-01-22 | RESPONDED — revisit |
+| Elysian Park Ventures | Sports VC (Dodgers) | Pete, Cole | pete@elysianpark.ventures | Jan 19 blast | 2026-01-19 | No response — revisit |
+| Advantage / AV.VC | Sports VC | Sam, Jeremy; Keaton, Greg | sam@advantage.vc | Jan 19 blast | 2026-03-06 | RESPONDED — revisit |
+| Ryan Sports Ventures | Sports VC | Rob | rob@ryansportsventures.com | Jan 19 blast | 2026-01-19 | No response |
+| TGR / TMRW Sports | Sports (Tiger Woods) | Rob, Glenn; info | glenn@tgr.ventures | Jan 19 blast | 2026-01-19 | No response — revisit |
+| 359 Capital | VC | Doug, Michael | doug@359capital.com | Jan 19 blast | 2026-01-19 | No response |
+| Chiron Sports Group | Sports | Sam | sam@chironsportsgroup.com | Jan 19 (bounced) | 2026-01-19 | Bounced |
+| Apex Capital Partners | PE | Koen Bosma | koen.bosma@apex-cp.com | Jan 19 blast | 2026-01-19 | No response |
+| Ludis Capital | Sports VC | Sam, Matilda, Chris | chris@ludis.capital | Mar 9 blast | 2026-03-09 | No response — revisit |
+| Clearlake Capital | Sports PE | Todd Boehly, Tony Rosa, D. Groen | tboehly@clearlake.com | Mar 9 blast | 2026-03-09 | No response — revisit (Boehly) |
+| Haslam Sports Group | Sports (Browns) | Dee Haslam, D. Jenkins | deehaslam@haslamsports.com | Mar 9 blast | 2026-03-09 | No response — revisit |
+| Thrive Capital | VC (Josh Kushner) | Kareem, Joshua | joshua@thrivecap.com | Mar 9 blast | 2026-03-09 | No response |
+| Benchmark | VC | Peter, Bill | peter@benchmark.com | Mar 9 blast | 2026-03-09 | No response |
+| NFX | VC | Pete, Gigi, James | gigi@nfx.com | Mar 9 blast | 2026-03-11 | RESPONDED — revisit |
+| General Atlantic | PE | A. Crisses | acrisses@generalatlantic.com | Mar 9 blast | 2026-03-09 | No response |
+| Konvoy VC | Sports/gaming VC | Jackson, Jason, Josh | jason@konvoy.vc | Mar 9 blast | 2026-03-09 | No response |
+| Founder Collective | VC | David, Eric, Micah | eric@foundercollective.com | Mar 9 blast | 2026-03-09 | No response |
+| Stripes | VC | Chris, Aidan, Ken | ken@stripes.co | Mar 9 blast | 2026-03-09 | No response |
+| Sharp Alpha Advisors | Sports VC | Lloyd Danzig | lloyd@sharpalphaadvisors.com | Mar 9 blast | 2026-03-09 | No response — revisit |
+| GMF Capital | PE | Denney, Doug | doug@gmfcapital.com | Mar 9 blast | 2026-03-09 | No response |
+| IPR.VC | Media fund | Andrea, Timo | timo@ipr.vc | Mar 9 blast | 2026-03-09 | No response |
+| Boardroom | Media (Rich Kleiman/Durant) | Rich | rich@boardroom.tv | Mar 9 blast | 2026-03-09 | No response — revisit |
+| Alpaca VC | VC | David | david@alpaca.vc | Mar 9 blast | 2026-03-09 | No response |
+| Candle Media | Studio (Mayer & Staggs) | Kevin Mayer, Tom Staggs | kevin@candlemedia.com | Mar 9 blast | 2026-03-09 | No response — revisit |
+| Fifth Season | Studio | L. Zimmermann, M. Lisio, K. Calabrese | mlisio@fifthseason.com | Mar 9 blast | 2026-03-09 | No response |
+| Pulse Films | Production | Mino Jarjoura | mino.jarjoura@pulsefilms.com | Mar 9 blast | 2026-03-09 | No response |
+| CAA | Agency | Bryan Lourd, Rick Kurtzman, Ethan Kurtzman, C. Carino, J. Darmody, J. MacGregor, T. Brennan | blourd@caa.com | Feb 15+ agency blast | 2026-03-11 | Mostly no response — a few opens |
+| WME Entertainment | Agency | B. Slater, T. Curtis, D. Greenberg, H. Reisch, J. Lesh, N. Towne, S. Mark, W. Lowery, + | bslater@wmeentertainment.com | Feb 14-16 blast | 2026-03-13 | No response |
+| WME (agency) | Agency | M. Jasper (+assistant), M. Berkowitz, S. Rabinowitz | mberkowitz@wmeagency.com | Feb-Mar blast | 2026-03-13 | M. Jasper RESPONDED |
+| United Talent (UTA) | Agency | K. Volchok, J. Barber, N. Gates, B. Lazarus, D. Duchon, K. Lubeck, J. Lawson, S. Sacks, + | volchokk@unitedtalent.com | Feb 14-16 blast | 2026-02-18 | K. Volchok RESPONDED |
+| Range Media Partners | Mgmt/agency | Kevin Hussey (Casey Affleck's mgr), Dave Bugliari, P. Orr, A. Glasgow, R. Astphan | khussey@rangemp.com | Feb 14 blast | 2026-02-17 | RESPONDED (Hussey/Glasgow) — revisit |
+| Octagon | Sports agency | Jeff Austin | jeff.austin@octagon.com | Feb 16 blast | 2026-02-16 | No response |
+| Untitled Entertainment | Mgmt | P. Murray | pmurray@untitledent.com | Feb 15 blast | 2026-02-21 | RESPONDED |
+| Independent Artists Media | Mgmt | Dave, Alex | dave@independentartistsmedia.com | Feb 14 blast | 2026-02-17 | RESPONDED |
+| Red Light Management | Music mgmt | Coran Capshaw | coran.capshaw@redlightmanagement.com | Feb 15 blast | 2026-02-15 | No response |
+| EB Media PR | PR | Joseph, Ebie | ebie@ebmediapr.com | Feb 16 blast | 2026-02-16 | RESPONDED |
+| Other mgmt/PR (Feb blast) | Mgmt/PR | Kipperman, The AMG, Montag Group, Neal Agency, TCC, KP Ent, Make Wake, Yumkas, CSC Biz Mgmt, Price Mgmt, Rowe PR, Rogers&Cowan (Nierob), Leverage, Media4Mgmt, LB Ent | (various) | Feb 15 blast — see raw list | 2026-02-15 | Mostly no response |
+| Andrew Schulz (camp) | Comedian/talent | Andrew, Dov, Tanya | andrew@theandrewschulz.com | Cold outreach | 2026-08 | Cold — comedian target |
+| Schools — additional cold | College AD/coach | Holy Cross (Johnson/Paulsen/Rawlings), Stonehill (Kraus), UMBC (Lawson), Loyola (Blue), Coll. of Charleston (Harriman), Northeastern (Janning), BU (Quinn), UPenn | (various .edu) | Feb–Aug outreach | 2026-08 | Mixed — BU responded; rest cold |
+| O'Melveny & Myers | Law firm | Aronson, Reinstein, Afner | baronson@omm.com | Cold outreach | 2026-08 | Cold |
+
 ## Celebrity Targets (aspirational shortlist)  (19)
 
 | School | Celebrity option(s) | Tie | Status |
@@ -184,4 +236,4 @@ _Companion spreadsheet: `Outputs/2026-08-12-cinderella-contacts.xlsx`. `(confirm
 | Ivy outreach | Yale, Brown, Harvard staff contacted | — | Exploratory |
 | Reps in motion | Ludacris & Tim McGraw (CAA); Brian Scalabrine (direct) | — | Agent pass-through active |
 
-**Totals:** 122 working contacts across 7 categories + 19 celebrity-target rows.
+**Totals:** 169 working contacts across 8 categories + 19 celebrity-target rows.
