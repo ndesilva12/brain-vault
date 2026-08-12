@@ -84,32 +84,31 @@ warm intro, press). Deck: https://cinderella.short.gy/deck
 
 - `CLAUDE.md` — this front-door file
 - `people.md` — full contact database
-- `notes.md` — running parking lot of follow-ups and reminders
+- `notes.md` — **pointer + periodic git mirror** of the Ideas & Notes doc (see Capture surfaces)
 - `Inputs/` (top-level) — quick captures not yet tied to a project
 - One folder per project (currently `cinderella/`) — each with its own `CLAUDE.md`
   plus `Process/` (working notes) and `Outputs/` (deliverables)
 
-## Capture routing (Notion)
+### Capture surfaces (tasks / thoughts / ideas)
 
-When I use a capture trigger, append the entry to the matching Notion page —
-**append-only, newest at the bottom, each entry dated; never reorder or edit prior
-entries.** (Mirrors my claude.ai profile rules so the triggers work in Claude Code too.)
+Three Google Docs are the **canonical** capture surfaces. Route by trigger word; append-only,
+dated; never reorder prior entries.
 
-1. **IDEAS / NOTES** — triggers: "idea", "ideas", "note", "notes", "jot this down",
-   "make a note" → Notion **"IDEAS & NOTES — Norman"**:
-   https://app.notion.com/p/3aebedd414198108989ff29e75993125
-2. **THOUGHTS** — triggers: "thought", "thoughts", "jot a thought", "thought: ___"
-   → Notion **"THOUGHTS — Norman"**:
-   https://app.notion.com/p/3aebedd41419814ebd4fd2a820dbf10c
-3. **LIST** — triggers: "list", "to-do", "my list", "vault list", "project list",
-   "tasks" → Notion **"VAULT / TASK LIST — Norman"**:
-   https://app.notion.com/p/3aebedd4141981f58664ed01bbb1242f
+| Trigger words | Doc | ID |
+|---|---|---|
+| idea / ideas / note / notes | **Ideas & Notes — Norman** | `195vBqdWfgwvLGCf9W9RM6FHdwBIyd1Q_QJ6nRv37LRE` |
+| thought / thoughts | **THOUGHTS — Norman** | `1T7kk6gldl78L8wfWdo3dyFsjNwokWjw6F32LCikhUFQ` |
+| task / to-do / my list / vault list | **Cinderella / Vault — Task List** | `14x7Mq5m3L19Laj_d589onVvBBI-EVBoKLEFQ6Wjj4Tw` |
 
-- **Never → Apple Reminders** (never touch or look at Apple Reminders).
-- **Connector dependency:** writing to Notion needs the Notion connector live in the
-  session. If it's unavailable in a Claude Code session, say so and fall back to
-  `notes.md`, then sync those entries to Notion once the connector is back.
-- Do **not** confuse these with the Notion **"Why" note**, which is never to be edited.
+- **Capability note:** the Google Drive connector is **read/create-only** — Claude (chat *or*
+  Code) can READ these Docs and CREATE new files, but **cannot append to an existing Doc in
+  place.** Writing into them is done by the **email capture bridge**
+  (`automation/vault-capture-bridge.gs`): send mail to `norman.desilva+capture@gmail.com` with
+  the trigger word in the subject, or edit the Doc directly in the Docs app.
+- Claude Code CAN read these Docs (`read_file_content`) — so "comb the Ideas & Notes doc and
+  update `notes.md`" works: read the Doc, append new entries to `notes.md`'s **Synced entries**
+  section, dated. `notes.md` is the git-history mirror, not a capture target.
+- Everyday errands → Apple Reminders (a separate surface Claude Code can't reach).
 
 ## People I'm closest to
 
