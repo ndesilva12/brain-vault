@@ -322,7 +322,7 @@ _'Suggested Fit' columns = Claude-added candidates (alum or regional/adopted-cit
 | Charleston | Bill Murray | Danny McBride | Darius Rucker | Stephen Colbert | Thomas Gibson | Shepard Fairey | Murray = RiverDogs co-owner |
 | Richmond | Justin Bieber | Dave Burd |  | Jason Mraz | Shirley MacLaine | Warren Beatty |  |
 | Elon | Shane Gillis | Chris Daughtry |  | Ben Folds | Evan Rachel Wood | Emily Procter | Daughtry≠Elon (verify) |
-| Rhode Island | Seth MacFarlane | Charlie Day |  | Viola Davis | James Woods | Debra Messing | Leno removed — no RI tie (Andover MA / LA) |
+| Rhode Island | Seth MacFarlane | Charlie Day | Jay Leno | Viola Davis | James Woods | Debra Messing | Leno = Newport RI resident (Seafair mansion, Ocean Ave) |
 | UMass | John Cena | Liev Schreiber |  | Julius Erving | Marcus Camby | Richard Gere | Cena=Springfield(D3); Schreiber≠UMass (verify) |
 | Appalachian State | Eric Church | Luke Combs |  | Zach Galifianakis | Ric Flair | Kellie Pickler |  |
 | William & Mary | Jon Stewart | Todd Boehly |  | Glenn Close | Mike Tomlin | Bruce Hornsby |  |
