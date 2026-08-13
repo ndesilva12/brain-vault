@@ -7,9 +7,9 @@ _Companion spreadsheet: `Outputs/2026-08-12-cinderella-contacts.xlsx`. `(confirm
 
 | Name | Org | Role / Title | Email | Context | Last contact | Status / Next action |
 |---|---|---|---|---|---|---|
-| Sunjay Mathews | Cinderella Corp | Partner/co-lead (Skadden, FanDuel, DAZN, FTX; minority owner Ipswich Town, Frosinone) | sunjay.mathews@gmail.com | On nearly every thread since inception | 2026-08-12 | Active — core |
-| Ankur Jain | Tabor Asset Management | Leads parent-co/franchise-fee raise; investor one-pager | ankur08@gmail.com | Most active outside partner | 2026-08-12 | Active — Aug 14 call |
-| Greg Kristof | 6th Sense Consulting | Partner — OWNS ~4% of parent co; schools + NCAA-units | greg@6sc.io | Principal-level; Merrimack intro | 2026-08-19 | Active — ~4% stakeholder; Merrimack call |
+| Sunjay Mathews | Cinderella Corp | Partner/co-lead (Skadden, FanDuel, DAZN, FTX; minority owner Ipswich Town, Frosinone) | sunjay.mathews@gmail.com / cell +1 973-464-6905 | On nearly every thread (414 texts since inception) | 2026-08-12 | Active — core |
+| Ankur Jain | Tabor Asset Management | Leads parent-co/franchise-fee raise; investor one-pager | ankur08@gmail.com / cell +1 917-445-1215 | Most active outside partner | 2026-08-12 | Active — Aug 14 call |
+| Greg Kristof | 6th Sense Consulting | Partner — OWNS ~4% of parent co; schools + NCAA-units | greg@6sc.io / cell +1 508-692-0121 | Principal-level; Merrimack intro | 2026-08-19 | Active — ~4% stakeholder; Merrimack call |
 | Breanna Powers Kirk | 6th Sense Consulting | Partner | breanna@6sc.io | 6SC intro call | 2026-07-21 | Active |
 | Anurag (confirm surname) | (w/ Ankur / Tabor) | Investor-side; on Ankur calls | anurag41@gmail.com | Ankur's investor calls | 2026-07-29 | Active |
 | Paul Magahis | NYC private (confirm) | Potential parent-co investor — wealthy (uncle wealthier) | pmagahis@gmail.com | Meeting Fri Aug 14 w/ 'Mark' | 2026-08-12 | HOT — Aug 14 investor mtg (Paul & Mark) |
@@ -24,12 +24,12 @@ _Companion spreadsheet: `Outputs/2026-08-12-cinderella-contacts.xlsx`. `(confirm
 | Oliver Ressler | Courtside VC |  | oliver@courtsidevc.com | Courtside team | 2026-07 | Active |
 | Will Johnson | Courtside VC |  | will@courtsidevc.com | Courtside team | 2026-07 | Active |
 | Cort Post | Courtside VC |  | cort@courtsidevc.com | Courtside team | 2026-07 | Active |
-| Deepen (confirm surname) | Courtside VC | Set the Courtside call | deepen@courtsidevc.com | Courtside organizer | 2026-07 | Active |
+| Deepen Parikh | Courtside VC | Partner — set the Courtside call | deepen@courtsidevc.com / cell +1 443-562-2282 | Courtside; also knows Jesse/Jason at SC | 2026-07 | Active |
 | Matt Kim | Mubadala Capital | Investor | mkim@mubadalacapital.ae | Long thread since June | 2026-06-15 | Active — follow up |
 | A. Safavi (confirm) | Mubadala Capital | Investor | asafavi@mubadalacapital.ae | Intro w/ Matt Kim | 2026-06-15 | Active |
 | Matt Sherman | TFO Equity / TFO Sports | Investor; set TFO call | matt.sherman@tfoequity.com | TFO Sports | 2026-07-16 | Active — follow up |
 | David Foster | TFO Equity | Investor | david.foster@tfoequity.com | TFO Sports | 2026-07-16 | Active |
-| Jesse Jacobs | The Chernin Group (TCG) | Lead funding + development (w/ Peter Chernin) | jj@cherninent.com | TCG = lead funding+dev per vault | 2026-07 | Active — key |
+| Jesse Jacobs | The Chernin Group (TCG) | Lead funding + development (w/ Peter Chernin) | jj@cherninent.com / cell +1 323-243-0157 | TCG = lead funding+dev per vault | 2026-07 | Active — key |
 | Kitan (confirm surname) | Dynasty Equity | Investor | kitan@dynastyequity.com | Long June/July thread | 2026-07-01 | Active — follow up |
 | J. Leary (confirm) | Sixth Street | Investor | jleary@sixthstreet.com | May/June thread | 2026-06-23 | Active — follow up |
 | Ishu (confirm surname) | Main Street Advisors (Paul Wachter) | Investor / advisor | ishu@mainstreetadvisors.com | Recontacted Aug 12; Wachter = principal | 2026-08-12 | Active — re-engaged |
@@ -43,7 +43,7 @@ _Companion spreadsheet: `Outputs/2026-08-12-cinderella-contacts.xlsx`. `(confirm
 | P. Blacklow (confirm) | Boston Seed | Investor | pblacklow@bostonseed.com | One-off outreach | 2026-04-27 | Cold — revisit |
 | 'mags' | Smash Sports | Investor — this is your 'mags' | mags@smashsports.com | Cold outreach | 2026 | Cold — revisit ('mags') |
 | Marc Gottesman | (confirm org) | Investor | marc.gottesman1@gmail.com | One-off outreach May | 2026-05-28 | Cold — revisit |
-| Ben Simon | Goldman Sachs | Investor/banking | Ben.Simon@gs.com | Cold outreach | 2026-08 | Cold — revisit |
+| Ben Simon | Goldman Sachs | Investor/banking | Ben.Simon@gs.com / cell +1 978-399-3434 | Courtside term-sheet update (text) | 2026-03 | Cold — revisit |
 | Devon / Stephane | Stedde Capital | Investors | devon@steddecapital.com | Cold outreach | 2026-08 | Cold — revisit |
 | Chuck (confirm surname) | Winnie Capital | Investor | chuck@winniecap.com | One-off | 2026-07-13 | Warm — follow up |
 | Chip (confirm surname) | Eight State | Investor | chip@eightstate.com | w/ Elisa | 2026-06-24 | Warm — follow up |
@@ -291,6 +291,98 @@ _Companion spreadsheet: `Outputs/2026-08-12-cinderella-contacts.xlsx`. `(confirm
 | N. Nuciforo | UTA | Agent | nuciforon@unitedtalent.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
 | B. Balbo | UTA | Agent | balbob@unitedtalent.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
 
+## iMessage — Schools, Coaches & GMs (2026)  (13)
+
+| Name | Org | Role / Title | Email | Context | Last contact | Status / Next action |
+|---|---|---|---|---|---|---|
+| Joe Mihalich | Saint Joseph's | General Manager | +1 716-807-1899 / jmihalich@sju.edu | 'This is Joe Mihalich, GM at SJU'; Norman editing Hart deck Temple→SJU for him | 2026-07-30 | HOT — SJU GM, active |
+| Chris Clunie | Davidson | Athletic Director | +1 201-328-7311 | Aug touch-base ('guys are overseas') | 2026-08-10 | Active — Davidson AD |
+| Nathan Davis | New Hampshire | Head Coach | +1 570-238-2912 | Sandler/UNH deck + LOI draft | 2026-08-12 | Active — UNH HC (Sandler school) |
+| Kevin Young | BYU (ex-Sixers/87ers) | Head Coach | +1 678-754-6191 | Soundboard; 'Steph & Davidson' update | 2026-05-02 | Warm — coach ally |
+| Dan Lobacz | Temple | Staff / NIL | +1 607-237-5849 | Sent LOI draft; chasing confirm | 2026-06-17 | Active — Temple LOI |
+| Seth Needle | (SJU/Temple connect) | Connector | +1 610-761-0283 | 'connect me w/ Andy / Coach Fisher'; call w/ St Joe's | 2026-06-01 | Active — SJU connect |
+| Dwyane Jones | (ex-NBA / Philly) | St. Joe's connect | +1 610-636-4360 | '87ers, Kevin Young staff'; SJU-related | 2026-06-01 | Warm — SJU connect |
+| Dave Paulsen | (college HC) | Coach | +1 570-428-5520 | Sent deck; 'trustees here this weekend' | 2026-04-24 | Warm — coach |
+| Hernando Planells | (college coach) | Coach | +1 919-972-9207 | Golf-tourney reconnect | 2026-06-26 | Warm — coach |
+| Ted Hotaling | (college coach) | Coach | +1 203-444-7544 | 'congrats on D1 transition' cold update | 2026-03-27 | Cold — coach |
+| Doug Stewart | (college coach) | Coach | +1 856-261-3313 | 'coach! pick your brain' early concept | 2026-04-18 | Cold — coach |
+| Nolan Smith | (Duke/Louisville asst) | Coach | +1 202-805-6947 | 'assistant from your Delaware 87ers days' | 2026-03-27 | Cold — coach |
+| Jim McGonigle | (Holy Cross connect) | HC connect | +1 508-287-7059 | 'HC doesn't want to be an NIL school' | 2026-01-04 | Cold — HC angle |
+
+## iMessage — Celebrity Reps, Talent & Production (2026)  (17)
+
+| Name | Org | Role / Title | Email | Context | Last contact | Status / Next action |
+|---|---|---|---|---|---|---|
+| 'Boss' Everline | Hartbeat Ventures (Kevin Hart) | Exec | +1 405-423-7699 (saved 'Aaron Paul') | 'you got Boss Everline from Hartbeat here, let's chat' | 2026-05-29 | HOT — Hart/Hartbeat |
+| Justin Huchel | (Timberlake path) | Talent connector | +1 310-617-4824 | Gauging JT interest as lead; wants JT-specific deck | 2026-08-05 | Active — JT path |
+| Mike Herren | (Timberlake path) | Connector | +1 508-840-5635 | 'I got u Timberlake guy' | 2026-08-03 | Active — JT path |
+| Max Rudman | (talent agent) | Agent | +1 847-910-0603 | 'send John-specific deck' | 2026-03-23 | Warm — agent |
+| Zach Chu | (deck/design collaborator) | Creative | +1 214-364-9224 | Builds celeb decks (Glenn Powell); La Salle board | 2026-04-08 | Active — collaborator |
+| David Sherman | WME | Agent (non-scripted) | +1 323-445-4925 | Steph-specific deck | 2026-04-06 | Warm — WME (also in vault) |
+| Bill Straus | (music / production) | Production | +1 310-962-8103 | Production-deck; 'vinyl, NWA' | 2026-08-06 | Active — production |
+| Alexandre Rockwell | (film director) | Production | +1 310-415-2305 | 'learning the production world'; LOI update | 2026-08-05 | Active — production |
+| Lilly Burns | Jax Media | TV producer | +1 917-587-7523 | Loomis classmate; producer | 2026-08-12 | Warm — producer |
+| Scott Manson | SpringHill / UNINTERRUPTED (LeBron) | Connector | +1 310-270-6094 | SOFI / NIL marketing | 2026-04-05 | Warm — LeBron-adjacent |
+| TJ McConnell | Indiana Pacers (NBA) | Talent/connector | +1 412-980-2620 | 'meeting Hart's team re Temple/St Joe's' | 2026-05-29 | Warm — NBA connect |
+| Chris Herren | (ex-NBA / speaker) | Talent/connector | +1 401-626-2445 | Intro via Mike; NIL project | 2026-07-31 | Warm |
+| Josh Altman | (Million Dollar Listing) | Talent/connector | +1 323-610-0231 | 'need a celeb' pitch | 2026-03-24 | Cold |
+| Ken Jeong | (actor) | Talent | +1 310-779-8260 | Steph/Davidson update | 2026-04-30 | Cold — talent |
+| Jordan Fliegel | (CoachUp founder / VC) | Connector | +1 617-943-8750 | 'congrats on Miami move, new business' | 2026-04-01 | Warm |
+| Tim Grover | (trainer — MJ/Kobe) | Trainer/rep | +1 312-823-2320 | Cold concept pitch | 2026-01-28 | Cold — trainer |
+| Rod Baker | (MSA-adjacent) | Connector | +1 585-451-3235 | 'MSA floated LeBron/Akron' | 2026-06-02 | Warm |
+
+## iMessage — Capital & Investors (2026)  (16)
+
+| Name | Org | Role / Title | Email | Context | Last contact | Status / Next action |
+|---|---|---|---|---|---|---|
+| Josh Bennett | (investor, NH) | Investor | +1 603-387-2068 | 'deck received, keep chatting' | 2026-08-12 | Active — investor |
+| Alan Chang | (sports-biz investor) | Investor | +1 702-292-5700 | Deck Qs on celeb comp | 2026-06-12 | Warm |
+| Noah Yates | Y Investments | Investor | +1 732-608-3499 | 'no bandwidth for parentco right now' | 2026-08-11 | Passed — revisit |
+| Jay Jackson | (principal / advisor) | Advisor | +1 310-503-0419 | Formal comms; input on names | 2026-08-10 | Active — advisor |
+| Tyler Glass | (investor/advisor) | Investor | +1 201-563-1919 | 'this is fantastic — how I envisioned it' | 2026-07-23 | Warm — enthusiastic |
+| Jameson Davis | DraftKings (VIP) | Connector/investor | +1 617-631-2530 | Early concept | 2026-02-15 | Cold |
+| Esteban Arguello | (investor) | Investor | +1 661-993-8226 | Deck + numbers | 2026-06-01 | Warm |
+| Michael Siegel | (investor) | Investor | +1 610-517-3836 | Coaches-NIL venture | 2026-07-27 | Warm |
+| Gibson Johnson | (investor) | Investor | +1 385-209-4481 | /dj deck | 2026-07-14 | Warm |
+| Jonathan Chang | (investor, Seattle) | Investor | +1 425-894-5051 | Steph/Davidson news; term-sheet interest | 2026-05-06 | Warm |
+| Kevin Hussey | (investor/connector) | Investor | +1 310-499-8239 | RedBird NYC meeting | 2026-05-09 | Cold |
+| Kevin Volchok | (investor/advisor) | Investor | +1 310-508-5000 | Portal timing | 2026-02-27 | Cold |
+| Brendan Greeley | (investor/advisor) | Investor | +1 312-330-5316 | Docu-series structure | 2026-02-15 | Cold |
+| Gregory Bush | (investor) | Investor | +1 631-495-4763 | 'raised $12M' pitch | 2026-03-28 | Cold |
+| Chad Hutchinson | (finance / ex-athlete) | Investor | +1 214-957-7861 | Cold VC update | 2026-03-09 | Cold |
+| Mike Wenzell | (China basketball) | Connector | +86 185-1454-0553 | 'navigating the system over there' | 2026-04-05 | Warm — China |
+
+## iMessage — Advisors, Connectors & Soundboards (2026)  (26)
+
+| Name | Org | Role / Title | Email | Context | Last contact | Status / Next action |
+|---|---|---|---|---|---|---|
+| Nate Fritsch | (advisor) | Advisor | +1 919-475-2625 | Davidson / Hun / Matt McKillop connect; deck feedback | 2026-05-08 | Active — Davidson advisor (also in DB) |
+| Chris Caputo | George Washington | Head Coach | +1 786-877-2864 | Woj connected; LOIs Davidson/SJU | 2026-08-04 | Active — GW HC |
+| Erick Peyton | Unanimous Media (Curry) | Principal | +1 323-899-5748 | 'UM / Davidson status' | 2026-07-22 | Active — Curry/Unanimous |
+| Adrian Williams | SC Holdings | Investor | +1 404-421-0361 | Relays Erick / term sheet | 2026-04-01 | Active |
+| Becca (Rebecca) Gitlitz | EverWonder | Exec | +1 201-669-6884 | Andrew Luck/Stanford NIL tidbit | 2026-07-19 | Active — EverWonder |
+| Deirdre Fenton | EverWonder | Exec | +1 646-275-6540 | Intro thread | 2026-06-03 | Active — EverWonder |
+| Eric Newman | (production via Donahue) | Producer | +1 516-965-3507 | Meeting set w/ Sunjay | 2026-07-13 | Active |
+| Jeremy Peschka | (media/connector) | Connector | +1 971-285-6078 | Peacock docuseries intel; Kevin O'Leary path | 2026-08-11 | Active |
+| Varun Sudhakar | (advisor, UK) | Advisor / model | +1 609-433-1085 | Works the financial model; USC-NIL contact via Nigel | 2026-06-15 | Active — model |
+| Alex Miska | Foley & Lardner | Legal | +1 908-500-1063 | 'Luke Murray congrats'; term-sheet help | 2026-04-03 | Warm — legal |
+| Shavlik Randolph | (ex-NBA) | Advisor/connector | +1 919-539-1309 | Wrexham-concept riffing | 2026-06-26 | Warm — ex-NBA |
+| Kevin Owens | (NIL operator) | Peer operator | +1 973-303-1637 | 'raised $ for NIL play'; Hart-team meetings | 2026-06-01 | Warm — peer |
+| Tom Baudinet | (advisor) | Advisor | +1 203-695-4381 | 'chatting with KY... NCAA/NIL insight' | 2026-07-27 | Warm |
+| Austin Buntz | (creative) | Creative | +1 570-579-6181 | Wrote Wrexham pitch; building deck w/ Jesse | 2026-07-22 | Active — creative |
+| Dane Diliegro | (actor/athlete) | Connector | +1 781-589-0820 | Concept soundboard | 2026-07-07 | Warm |
+| Steve Ceruti | Barstool (Russillo) | Media connect | +1 860-302-2869 | Barstool/Russillo; Affleck-agent feedback | 2026-03-02 | Warm — media |
+| Mike Sotsky | Harvard Basketball | Connector | +1 201-956-0883 | 'showed TA the deck' | 2026-07-28 | Warm — Harvard |
+| Matt Janning | (ex-pro player) | Connector | +1 612-867-8797 | Wahlberg proposal | 2026-03-23 | Warm |
+| Conor Stevens | (Stevens family) | Personal ally | +1 617-610-1327 | Davidson/Steph update | 2026-04-07 | Ally |
+| Ryan Cain | (coach/friend) | Soundboard | +1 508-873-5005 | School-openness question | 2026-07-28 | Warm |
+| Joey Flannery | (peer) | Soundboard | +1 978-303-7677 | Pitch narrative | 2026-06-28 | Warm |
+| Brendan Lang | (advisor) | Advisor | +1 774-263-2705 | BYU collectives insight | 2026-01-12 | Cold |
+| Mark Palmieri | (advisor) | Advisor | +1 203-641-4518 | Ivy/NIL note | 2026-06-25 | Cold |
+| Matt Blue | (connector) | Connector | +1 508-254-4752 | Celeb sourcing | 2026-03-26 | Cold |
+| Arthur Lynch | (ex-NFL) | Soundboard | +1 508-369-0782 | Deck review | 2026-01-28 | Cold |
+| Cliff Furtado | (friend) | Legal referral | +1 508-491-7250 | Lawyer refs for term sheet | 2026-04-19 | Personal |
+
 ## Celebrity Targets (aspirational shortlist)  (66)
 
 _'Suggested Fit' columns = Claude-added candidates (alum or regional/adopted-city tie), not yet named by Norman. Verify every tie before external use._
@@ -364,4 +456,4 @@ _'Suggested Fit' columns = Claude-added candidates (alum or regional/adopted-cit
 | Denver |  |  |  | Chauncey Billups | Tim Allen | Trey Parker | School candidate — no lead yet |
 | Pepperdine |  |  |  | Doug Christie | Dick Van Dyke | Pierce Brosnan | School candidate — no lead yet |
 
-**Totals:** 243 working contacts across 9 categories + 66 celebrity-target rows.
+**Totals:** 315 working contacts across 13 categories + 66 celebrity-target rows.
