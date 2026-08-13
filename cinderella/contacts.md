@@ -293,73 +293,75 @@ _Companion spreadsheet: `Outputs/2026-08-12-cinderella-contacts.xlsx`. `(confirm
 
 ## Celebrity Targets (aspirational shortlist)  (66)
 
-| School | Lead | Co-Lead | Co-Lead | Status |
-|---|---|---|---|---|
-| Davidson | Steph Curry | Ryan Reynolds |  | ATTACHED — flagship; LOI signed |
-| New Hampshire | Adam Sandler | Triple H | Seth Meyers | LOI in play (Sandler via Happy Madison) |
-| Fordham | Denzel Washington | Mike Breen | Chaz Palminteri | Verified alumni (Denzel, Breen) |
-| Northeastern | Mark Wahlberg | Bill Burr |  |  |
-| George Washington | Dave Chappelle | Pharrell Williams | Casey Affleck | Met 8/7 (Caputo/Lipitz) — active |
-| Loyola Chicago | Barack Obama | Tim Grover |  |  |
-| Merrimack | Ben Affleck | Charlie Day |  | Call Aug 19 — active |
-| St. Joseph's | Kevin Hart | Bradley Cooper | Jason Kelce | LOI SIGNED — celeb TBD (Hart active) |
-| Boston College | Chris Evans | John Krasinski | BJ Novak | Fallen-giant track |
-| UMKC | Jason Sudeikis | Paul Rudd |  |  |
-| Hawaii | Dwayne Johnson | Bruno Mars | Jason Momoa |  |
-| Belmont | Justin Timberlake | Brad Paisley |  |  |
-| Santa Clara | Steve Nash | John A. Sobrato | Jaylen Williams | Nash via CTRL / WME |
-| Holy Cross | Bill Simmons | Conan O'Brien | Denis Leary |  |
-| Boston University | Ben Affleck | Matt Damon | Jason Alexander | (WME/Tim Curtis floated Carell + Krasinski) |
-| UC Irvine | Will Ferrell |  |  |  |
-| UC Santa Barbara | Andrew Schulz | Michael Douglas |  | Schulz camp contacted |
-| LIU | Jay-Z | Billy Joel | Ray Dalio |  |
-| Tulane | The Mannings | Theo Von | Anthony Mackie | TOP TARGET — also Woody Harrelson (via Simu Liu) |
-| Temple | Kevin Hart | Adam McKay | Judd Apatow | (Hart moved to St. Joe's per vault) |
-| North Texas | Jamie Foxx | Post Malone | Steve Austin | Foxx via CAA / Rick Lucas |
-| Detroit | Keegan-Michael Key | Eminem |  |  |
-| Charleston | Bill Murray | Danny McBride | Darius Rucker | Murray = RiverDogs co-owner |
-| Richmond | Justin Bieber | Dave Burd |  |  |
-| Elon | Shane Gillis | Chris Daughtry |  | Daughtry≠Elon (verify) |
-| Rhode Island | Seth MacFarlane | Charlie Day | Jay Leno | Leno≠URI (verify) |
-| UMass | John Cena | Liev Schreiber |  | Cena=Springfield(D3); Schreiber≠UMass (verify) |
-| Appalachian State | Eric Church | Luke Combs |  |  |
-| William & Mary | Jon Stewart | Todd Boehly |  |  |
-| Lehigh | CJ McCollum | Dwayne Johnson |  |  |
-| Northern Illinois | Vince Vaughn | Sebastian Maniscalco |  |  |
-| Ball State | David Letterman | Jim Nantz |  | Letterman verified; Nantz≠Ball State (verify) |
-| Drake | Jeremy Piven | Zach Johnson |  |  |
-| Cal State Fullerton | Kevin Costner | Will Ferrell | Steve Martin |  |
-| Texas Southern | Michael Strahan | Travis Scott |  |  |
-| Kent State | Steve Harvey | Michael Keaton |  |  |
-| Georgia Southern | Walton Goggins | Luke Bryan | Druski | Goggins via CAA / Carla Laur |
-| Georgia State | Ludacris | Gucci Mane |  | Luda via CAA / Gelbard |
-| Marshall | Billy Crystal | O.J. Mayo |  |  |
-| Missouri State | Brad Pitt | John Goodman |  |  |
-| New Orleans | Theo Von | Anthony Mackie |  |  |
-| Texas State | Taylor Sheridan | Shawn Michaels |  |  |
-| Wichita State | Paul Wight | Antoine Carr |  |  |
-| Oregon State | Gary Payton |  |  |  |
-| Indiana State | Larry Bird | John Mellencamp |  | Bird/Goggins via PMG |
-| Louisiana Monroe | Tim McGraw |  |  | McGraw via CAA / Gelbard |
-| UTEP | Tim Hardaway |  |  | PMG roster |
-| Central Arkansas | Scottie Pippen |  |  | PMG roster |
-| Saint Louis | Larry Hughes | Jayson Tatum |  |  |
-| Tennessee State | Oprah Winfrey |  |  |  |
-| Stanford | Tiger Woods | John McEnroe |  |  |
-| USC | Will Ferrell | Brian Scalabrine |  | Scalabrine direct-contacted |
-| South Carolina | Darius Rucker |  |  |  |
-| Wake Forest | Tim Duncan | Muggsy Bogues |  | Verified Deacons |
-| Providence | Seth MacFarlane | Doris Burke |  | Burke verified alum |
-| Hofstra | Jerry Seinfeld | Christopher Walken |  |  |
-| ETSU | Kenny Chesney |  |  |  |
-| Fairfield | John Mayer |  |  |  |
-| Furman | Clint Dempsey |  |  | (Garnett HS nearby — prior note) |
-| San Diego |  |  |  | School candidate — no lead yet |
-| High Point |  |  |  | School candidate — no lead yet |
-| Loyola Marymount |  |  |  | School candidate — no lead yet |
-| VCU |  |  |  | School candidate — no lead yet |
-| UNC Greensboro |  |  |  | School candidate — no lead yet |
-| Denver |  |  |  | School candidate — no lead yet |
-| Pepperdine |  |  |  | School candidate — no lead yet |
+_'Suggested Fit' columns = Claude-added candidates (alum or regional/adopted-city tie), not yet named by Norman. Verify every tie before external use._
+
+| School | Lead | Co-Lead | Co-Lead | Suggested Fit 1 | Suggested Fit 2 | Suggested Fit 3 | Status |
+|---|---|---|---|---|---|---|---|
+| Davidson | Steph Curry | Ryan Reynolds |  | J. Cole | Michael Jordan | Anthony Foxx | ATTACHED — flagship; LOI signed |
+| New Hampshire | Adam Sandler | Triple H | Seth Meyers | Sarah Silverman | Bode Miller | Dan Brown | LOI in play (Sandler via Happy Madison) |
+| Fordham | Denzel Washington | Mike Breen | Chaz Palminteri | Lana Del Rey | Alan Alda | Dylan McDermott | Verified alumni (Denzel, Breen) |
+| Northeastern | Mark Wahlberg | Bill Burr |  | Donnie Wahlberg | Steve Carell | Uzo Aduba |  |
+| George Washington | Dave Chappelle | Pharrell Williams | Casey Affleck | Kerry Washington | Alec Baldwin | Dave Grohl | Met 8/7 (Caputo/Lipitz) — active |
+| Loyola Chicago | Barack Obama | Tim Grover |  | Bob Newhart | Dwyane Wade | Chance the Rapper |  |
+| Merrimack | Ben Affleck | Charlie Day |  | Michael Chiklis | Dane Cook | Lenny Clarke | Call Aug 19 — active |
+| St. Joseph's | Kevin Hart | Bradley Cooper | Jason Kelce | Will Smith | Tina Fey | Kevin Bacon | LOI SIGNED — celeb TBD (Hart active) |
+| Boston College | Chris Evans | John Krasinski | BJ Novak | Amy Poehler | Doug Flutie | Chris O'Donnell | Fallen-giant track |
+| UMKC | Jason Sudeikis | Paul Rudd |  | Eric Stonestreet | Rob Riggle | Janelle Monáe |  |
+| Hawaii | Dwayne Johnson | Bruno Mars | Jason Momoa | Nicole Scherzinger | Marcus Mariota | Bethany Hamilton |  |
+| Belmont | Justin Timberlake | Brad Paisley |  | Trisha Yearwood | Reese Witherspoon | Florida Georgia Line |  |
+| Santa Clara | Steve Nash | John A. Sobrato | Jaylen Williams | Brandi Chastain | Steve Kerr | Aisha Tyler | Nash via CTRL / WME |
+| Holy Cross | Bill Simmons | Conan O'Brien | Denis Leary | Bob Cousy | Tommy Heinsohn | Chris Matthews |  |
+| Boston University | Ben Affleck | Matt Damon | Jason Alexander | Howard Stern | Geena Davis | Julianne Moore | (WME/Tim Curtis floated Carell + Krasinski) |
+| UC Irvine | Will Ferrell |  |  | Jon Lovitz | Gwen Stefani | Mark McGrath |  |
+| UC Santa Barbara | Andrew Schulz | Michael Douglas |  | Katy Perry | Jack Johnson | Rob Lowe | Schulz camp contacted |
+| LIU | Jay-Z | Billy Joel | Ray Dalio | Rosie Perez | Michael Rapaport | Mike Tyson |  |
+| Tulane | The Mannings | Theo Von | Anthony Mackie | Harry Connick Jr. | Lil Wayne | Wendell Pierce | TOP TARGET — also Woody Harrelson (via Simu Liu) |
+| Temple | Kevin Hart | Adam McKay | Judd Apatow | Bob Saget | Questlove | Boyz II Men | (Hart moved to St. Joe's per vault) |
+| North Texas | Jamie Foxx | Post Malone | Steve Austin | Don Henley | Norah Jones | Roy Orbison | Foxx via CAA / Rick Lucas |
+| Detroit | Keegan-Michael Key | Eminem |  | Big Sean | Jack White | Lily Tomlin |  |
+| Charleston | Bill Murray | Danny McBride | Darius Rucker | Stephen Colbert | Thomas Gibson | Shepard Fairey | Murray = RiverDogs co-owner |
+| Richmond | Justin Bieber | Dave Burd |  | Jason Mraz | Shirley MacLaine | Warren Beatty |  |
+| Elon | Shane Gillis | Chris Daughtry |  | Ben Folds | Evan Rachel Wood | Emily Procter | Daughtry≠Elon (verify) |
+| Rhode Island | Seth MacFarlane | Charlie Day | Jay Leno | Viola Davis | James Woods | Debra Messing | Leno≠URI (verify) |
+| UMass | John Cena | Liev Schreiber |  | Julius Erving | Richard Gere | Jack Welch | Cena=Springfield(D3); Schreiber≠UMass (verify) |
+| Appalachian State | Eric Church | Luke Combs |  | Zach Galifianakis | Ric Flair | Kellie Pickler |  |
+| William & Mary | Jon Stewart | Todd Boehly |  | Glenn Close | Mike Tomlin | Bruce Hornsby |  |
+| Lehigh | CJ McCollum | Dwayne Johnson |  | Amanda Seyfried | Christine Taylor | Daniel Roebuck |  |
+| Northern Illinois | Vince Vaughn | Sebastian Maniscalco |  | Dan Castellaneta | Joan Allen | John C. Reilly |  |
+| Ball State | David Letterman | Jim Nantz |  | Jim Davis | Joyce DeWitt | Axl Rose | Letterman verified; Nantz≠Ball State (verify) |
+| Drake | Jeremy Piven | Zach Johnson |  | Ashton Kutcher | Elijah Wood | Tom Arnold |  |
+| Cal State Fullerton | Kevin Costner | Will Ferrell | Steve Martin | Adam Carolla | Snoop Dogg | Jack Black |  |
+| Texas Southern | Michael Strahan | Travis Scott |  | Megan Thee Stallion | Beyoncé | Lizzo |  |
+| Kent State | Steve Harvey | Michael Keaton |  | Arsenio Hall | Chrissie Hynde | Joe Walsh |  |
+| Georgia Southern | Walton Goggins | Luke Bryan | Druski | Jason Aldean | Alan Jackson | Killer Mike | Goggins via CAA / Carla Laur |
+| Georgia State | Ludacris | Gucci Mane |  | Usher | Tyler Perry | Jermaine Dupri | Luda via CAA / Gelbard |
+| Marshall | Billy Crystal | O.J. Mayo |  | Randy Moss | Jason Williams | Jennifer Garner |  |
+| Missouri State | Brad Pitt | John Goodman |  | Kathleen Turner | Sheryl Crow | Jon Hamm |  |
+| New Orleans | Theo Von | Anthony Mackie |  | Master P | Ellen DeGeneres | Trombone Shorty |  |
+| Texas State | Taylor Sheridan | Shawn Michaels |  | George Strait | Willie Nelson | Matthew McConaughey |  |
+| Wichita State | Paul Wight | Antoine Carr |  | Xavier McDaniel | Barry Sanders | Cliff Levingston |  |
+| Oregon State | Gary Payton |  |  | A.C. Green | Danny Ainge | Ty Burrell |  |
+| Indiana State | Larry Bird | John Mellencamp |  | Oscar Robertson | Adam Driver | Babyface | Bird/Goggins via PMG |
+| Louisiana Monroe | Tim McGraw |  |  | Kix Brooks | Hunter Hayes | Faith Hill | McGraw via CAA / Gelbard |
+| UTEP | Tim Hardaway |  |  | Khalid | Nate Archibald | Aaron Jones | PMG roster |
+| Central Arkansas | Scottie Pippen |  |  | Kris Allen | Billy Bob Thornton | Mary Steenburgen | PMG roster |
+| Saint Louis | Larry Hughes | Jayson Tatum |  | Nelly | Bradley Beal | Jenna Fischer |  |
+| Tennessee State | Oprah Winfrey |  |  | Miley Cyrus | Kane Brown | CeCe Winans |  |
+| Stanford | Tiger Woods | John McEnroe |  | John Elway | Sigourney Weaver | Andrew Luck |  |
+| USC | Will Ferrell | Brian Scalabrine |  | George Lucas | Forest Whitaker | America Ferrera | Scalabrine direct-contacted |
+| South Carolina | Darius Rucker |  |  | Aziz Ansari | Chris Rock | Leeza Gibbons |  |
+| Wake Forest | Tim Duncan | Muggsy Bogues |  | Chris Paul | Arnold Palmer | Josh Howard | Verified Deacons |
+| Providence | Seth MacFarlane | Doris Burke |  | Ernie DiGregorio | God Shammgod | Peter Farrelly | Burke verified alum |
+| Hofstra | Jerry Seinfeld | Christopher Walken |  | Francis Ford Coppola | James Caan | Susan Lucci |  |
+| ETSU | Kenny Chesney |  |  | Dolly Parton | Morgan Wallen | Keith Jennings |  |
+| Fairfield | John Mayer |  |  | Meg Ryan | Vince McMahon | Christopher Lloyd |  |
+| Furman | Clint Dempsey | Kevin Garnett |  | Peabo Bryson | Marcus Lattimore | Keith Lockhart | KG = Mauldin/Greenville SC regional |
+| San Diego |  |  |  | Bill Walton | Tony Hawk | Cameron Diaz | School candidate — no lead yet |
+| High Point |  |  |  | Fantasia Barrino | Rhiannon Giddens | Randy Travis | School candidate — no lead yet |
+| Loyola Marymount |  |  |  | Colin Hanks | Bo Kimble | Brooke Burke | School candidate — no lead yet |
+| VCU |  |  |  | D'Angelo | Missy Elliott | Timbaland | School candidate — no lead yet |
+| UNC Greensboro |  |  |  | Warren Haynes | Petey Pablo | Clay Aiken | School candidate — no lead yet |
+| Denver |  |  |  | Chauncey Billups | Tim Allen | Trey Parker | School candidate — no lead yet |
+| Pepperdine |  |  |  | Doug Christie | Dick Van Dyke | Pierce Brosnan | School candidate — no lead yet |
 
 **Totals:** 243 working contacts across 9 categories + 66 celebrity-target rows.
