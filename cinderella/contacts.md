@@ -291,29 +291,75 @@ _Companion spreadsheet: `Outputs/2026-08-12-cinderella-contacts.xlsx`. `(confirm
 | N. Nuciforo | UTA | Agent | nuciforon@unitedtalent.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
 | B. Balbo | UTA | Agent | balbob@unitedtalent.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
 
-## Celebrity Targets (aspirational shortlist)  (20)
+## Celebrity Targets (aspirational shortlist)  (66)
 
-| School | Celebrity option(s) | Tie | Status |
-|---|---|---|---|
-| Davidson | Steph Curry | Alum / attached (Unanimous) | ATTACHED — flagship |
-| Saint Joseph's | Kevin Hart, Bradley Cooper, Jason Kelce, Charles Barkley, Will Smith | Philly (regional) | LOI signed; celeb TBD (Hart active) |
-| Tulane | Woody Harrelson (+ Simu Liu) | Film hook (WMCJ) | TOP TARGET — warm via Simu |
-| Merrimack / Vermont / Northeastern | Ben Affleck | Boston-regional | Engaging |
-| New Hampshire | Adam Sandler, Triple H, Seth Meyers | Regional | LOI in play (Sandler via Happy Madison) |
-| Fordham | Denzel Washington, Mike Breen | Verified alumni + hoops | On-thesis |
-| Indiana State | Larry Bird, David Goggins | Bird alum; Goggins geo | PMG roster |
-| Central Arkansas | Scottie Pippen (+ Clinton/Thornton) | Alum | PMG roster |
-| Southern Illinois | Walt 'Clyde' Frazier (+ McCarthy/Odenkirk) | All SIU alumni | PMG (Frazier) — strong pairing |
-| UMass | Julius Erving (+ Richard Gere) | Alumni | PMG (Erving); Dr. J also Philly |
-| UTEP | Tim Hardaway (+ Glory Road) | Alum | PMG roster |
-| Furman | Kevin Garnett | HS ~20 min away | Idea (per email) |
-| Santa Clara | Steve Nash | Verified alum | Via CTRL / WME |
-| Boston College | Bill Murray (via son Luke, HC), Amy Poehler | BC ties | Fallen-giant track |
-| Wake Forest | Tim Duncan, Muggsy Bogues | Verified Deacons | Fallen-giant track |
-| NYU (D3) | Adam Sandler, Billy Crystal, Spike Lee | Verified Tisch alumni | D3 track |
-| Johns Hopkins (D3) | Mike Bloomberg, Michael Phelps, Carmelo Anthony | Alum/local | D3 track |
-| Ivy outreach | Yale, Brown, Harvard staff contacted | — | Exploratory |
-| Reps in motion | Ludacris & Tim McGraw (CAA/Gelbard); Brian Scalabrine (direct) | — | Agent pass-through active |
-| Via CAA (Peter Hess / Carla Laur / Rick Lucas) | Colin Jost, Jamie Foxx, Miles Teller, Walton Goggins, Bradley Cooper | CAA-repped | Offers made Mar 2026 — outstanding; revisit |
+| School | Lead | Co-Lead | Co-Lead | Status |
+|---|---|---|---|---|
+| Davidson | Steph Curry | Ryan Reynolds |  | ATTACHED — flagship; LOI signed |
+| New Hampshire | Adam Sandler | Triple H | Seth Meyers | LOI in play (Sandler via Happy Madison) |
+| Fordham | Denzel Washington | Mike Breen | Chaz Palminteri | Verified alumni (Denzel, Breen) |
+| Northeastern | Mark Wahlberg | Bill Burr |  |  |
+| George Washington | Dave Chappelle | Pharrell Williams | Casey Affleck | Met 8/7 (Caputo/Lipitz) — active |
+| Loyola Chicago | Barack Obama | Tim Grover |  |  |
+| Merrimack | Ben Affleck | Charlie Day |  | Call Aug 19 — active |
+| St. Joseph's | Kevin Hart | Bradley Cooper | Jason Kelce | LOI SIGNED — celeb TBD (Hart active) |
+| Boston College | Chris Evans | John Krasinski | BJ Novak | Fallen-giant track |
+| UMKC | Jason Sudeikis | Paul Rudd |  |  |
+| Hawaii | Dwayne Johnson | Bruno Mars | Jason Momoa |  |
+| Belmont | Justin Timberlake | Brad Paisley |  |  |
+| Santa Clara | Steve Nash | John A. Sobrato | Jaylen Williams | Nash via CTRL / WME |
+| Holy Cross | Bill Simmons | Conan O'Brien | Denis Leary |  |
+| Boston University | Ben Affleck | Matt Damon | Jason Alexander | (WME/Tim Curtis floated Carell + Krasinski) |
+| UC Irvine | Will Ferrell |  |  |  |
+| UC Santa Barbara | Andrew Schulz | Michael Douglas |  | Schulz camp contacted |
+| LIU | Jay-Z | Billy Joel | Ray Dalio |  |
+| Tulane | The Mannings | Theo Von | Anthony Mackie | TOP TARGET — also Woody Harrelson (via Simu Liu) |
+| Temple | Kevin Hart | Adam McKay | Judd Apatow | (Hart moved to St. Joe's per vault) |
+| North Texas | Jamie Foxx | Post Malone | Steve Austin | Foxx via CAA / Rick Lucas |
+| Detroit | Keegan-Michael Key | Eminem |  |  |
+| Charleston | Bill Murray | Danny McBride | Darius Rucker | Murray = RiverDogs co-owner |
+| Richmond | Justin Bieber | Dave Burd |  |  |
+| Elon | Shane Gillis | Chris Daughtry |  | Daughtry≠Elon (verify) |
+| Rhode Island | Seth MacFarlane | Charlie Day | Jay Leno | Leno≠URI (verify) |
+| UMass | John Cena | Liev Schreiber |  | Cena=Springfield(D3); Schreiber≠UMass (verify) |
+| Appalachian State | Eric Church | Luke Combs |  |  |
+| William & Mary | Jon Stewart | Todd Boehly |  |  |
+| Lehigh | CJ McCollum | Dwayne Johnson |  |  |
+| Northern Illinois | Vince Vaughn | Sebastian Maniscalco |  |  |
+| Ball State | David Letterman | Jim Nantz |  | Letterman verified; Nantz≠Ball State (verify) |
+| Drake | Jeremy Piven | Zach Johnson |  |  |
+| Cal State Fullerton | Kevin Costner | Will Ferrell | Steve Martin |  |
+| Texas Southern | Michael Strahan | Travis Scott |  |  |
+| Kent State | Steve Harvey | Michael Keaton |  |  |
+| Georgia Southern | Walton Goggins | Luke Bryan | Druski | Goggins via CAA / Carla Laur |
+| Georgia State | Ludacris | Gucci Mane |  | Luda via CAA / Gelbard |
+| Marshall | Billy Crystal | O.J. Mayo |  |  |
+| Missouri State | Brad Pitt | John Goodman |  |  |
+| New Orleans | Theo Von | Anthony Mackie |  |  |
+| Texas State | Taylor Sheridan | Shawn Michaels |  |  |
+| Wichita State | Paul Wight | Antoine Carr |  |  |
+| Oregon State | Gary Payton |  |  |  |
+| Indiana State | Larry Bird | John Mellencamp |  | Bird/Goggins via PMG |
+| Louisiana Monroe | Tim McGraw |  |  | McGraw via CAA / Gelbard |
+| UTEP | Tim Hardaway |  |  | PMG roster |
+| Central Arkansas | Scottie Pippen |  |  | PMG roster |
+| Saint Louis | Larry Hughes | Jayson Tatum |  |  |
+| Tennessee State | Oprah Winfrey |  |  |  |
+| Stanford | Tiger Woods | John McEnroe |  |  |
+| USC | Will Ferrell | Brian Scalabrine |  | Scalabrine direct-contacted |
+| South Carolina | Darius Rucker |  |  |  |
+| Wake Forest | Tim Duncan | Muggsy Bogues |  | Verified Deacons |
+| Providence | Seth MacFarlane | Doris Burke |  | Burke verified alum |
+| Hofstra | Jerry Seinfeld | Christopher Walken |  |  |
+| ETSU | Kenny Chesney |  |  |  |
+| Fairfield | John Mayer |  |  |  |
+| Furman | Clint Dempsey |  |  | (Garnett HS nearby — prior note) |
+| San Diego |  |  |  | School candidate — no lead yet |
+| High Point |  |  |  | School candidate — no lead yet |
+| Loyola Marymount |  |  |  | School candidate — no lead yet |
+| VCU |  |  |  | School candidate — no lead yet |
+| UNC Greensboro |  |  |  | School candidate — no lead yet |
+| Denver |  |  |  | School candidate — no lead yet |
+| Pepperdine |  |  |  | School candidate — no lead yet |
 
-**Totals:** 243 working contacts across 9 categories + 20 celebrity-target rows.
+**Totals:** 243 working contacts across 9 categories + 66 celebrity-target rows.
