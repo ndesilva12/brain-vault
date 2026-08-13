@@ -1,6 +1,6 @@
 # Making Cinderella — Master Contact Database
 
-_Built 2026-08-12 from Gmail (full history Feb–Aug 2026, ~200 threads) + Google Calendar (45 events) + vault shortlist._
+_Built 2026-08-13 from Gmail (full history Feb–Aug 2026, ~200 threads) + Google Calendar (45 events) + vault shortlist._
 _Companion spreadsheet: `Outputs/2026-08-12-cinderella-contacts.xlsx`. `(confirm)` = name/role inferred from email — verify._
 
 ## Team / Internal  (7)
@@ -60,17 +60,21 @@ _Companion spreadsheet: `Outputs/2026-08-12-cinderella-contacts.xlsx`. `(confirm
 | Hunter Reinhart | (confirm org) | Meeting organizer | hunterreinhart@gmail.com | Set a meeting June | 2026-07 | Confirm identity |
 | Jeremy Peschka | (confirm org; House of Gambel?) | Investor / connect | jeremy.peschka@gmail.com | w/ houseofgambel@gmail.com | 2026-07-17 | Confirm identity |
 | Varun Sudhakar | (confirm org) | Investor / connect | varun.sudhakar13@gmail.com | June threads | 2026-06-10 | Confirm identity |
-| (confirm) barwinca | (confirm) SJU-connected | Intermediary w/ Saint Joseph's | barwinca@gmail.com | Cc'd on SJU/Mihalich threads | 2026-07-02 | Confirm identity (SJU booster?) |
+| Connor Barwin | Saint Joseph's (SJU-side connect) | Former NFL/Eagles; SJU liaison intro'd by Mihalich/Donahue | barwinca@gmail.com | SJU intro + early-July meeting | 2026-07-02 | Active — SJU connect |
 | (confirm) ddilieg | (confirm org) | Connect | ddilieg@gmail.com | Starred back-and-forth July | 2026-07-08 | Confirm identity |
 | David Famolari | (confirm org — Verizon Ventures?) | Investor — YOU flagged, not found in email | (confirm email) | You named as a VC to include | — | Add — confirm contact info |
 
-## Celebrity Reps / Agents / Talent Camps  (19)
+## Celebrity Reps / Agents / Talent Camps  (23)
 
 | Name | Org | Role / Title | Email | Context | Last contact | Status / Next action |
 |---|---|---|---|---|---|---|
 | Darren Prince | Prince Marketing Group | Founder/CEO — agent (Magic, Bird, Pippen, Goggins...) | dprince@princemarketinggroup.com | Warm intro; handed to Mathilda | 2026-08-10 | Active |
 | Mathilda Tennysdotter | Prince Marketing Group | COO, Talent Rep | mathilda@princemarketinggroup.com | Suggesting names; call offered | 2026-08-11 | HOT — awaiting names |
 | Kevin Gelbard | CAA | Agent — Ludacris, Tim McGraw | kevin.gelbard@caa.com | Passing to Luda & Tim teams | 2026-07-28 | Active — awaiting pass-through |
+| Peter Hess | CAA | Agent — reps Colin Jost, Jamie Foxx, Miles Teller, Bradley Cooper, Jason Bateman, Jimmy Fallon, Trace Adkins, Billy Crystal | peter.hess@caa.com | Multiple calls Mar 2026; offers made (Colin Jost etc). Asst: peter.hessasst@caa.com | 2026-03-23 | WARM — Mar offers outstanding; revisit |
+| Carla Laur | CAA | Agent — Miles Teller, Walton Goggins | claur@caa.com | Calls Mar 2026 re Teller/Goggins. Asst: Kathryn Powell (claurasst@caa.com) | 2026-03-23 | WARM — Mar offers; revisit |
+| Rick Lucas | CAA | Agent — Jamie Foxx | rlucas@caa.com | Jamie Foxx proposal Mar; referred to Adam Nettler. Asst: rlucasasst@caa.com | 2026-03-23 | WARM — revisit |
+| Adam Nettler | CAA | Unscripted TV division | adam.nettler@caa.com | Rick Lucas intro'd as better fit for the TV play | 2026-03-23 | WARM — the TV-side CAA contact |
 | David Sherman | WME | Non-scripted | dsherman@wmeagency.com | Existing connection | 2026-07 | Warm — reconnect |
 | DJS (confirm name) | WME |  | djs@wmeagency.com | WME calendar invite | 2026-07 | Confirm identity |
 | Erick Peyton | Unanimous Media (Steph Curry) | Exec — Curry/Davidson | erick@unanimousmedia.com | Flagship pairing since May | 2026-06-01 | Active — flagship |
@@ -110,20 +114,23 @@ _Companion spreadsheet: `Outputs/2026-08-12-cinderella-contacts.xlsx`. `(confirm
 | Geoff Chow | The Ringer / Spotify | Media / press | geoff.chow@theringer.com | Press angle (also geoffc@spotify.com) | 2026-07-30 | Warm — press |
 | Randy (confirm surname) | Training Ground AI | Tech / training | randy@trainingground.ai | June/July thread | 2026-07-05 | Confirm relevance |
 
-## Schools (ADs / Coaches / Staff)  (22)
+## Schools (ADs / Coaches / Staff)  (25)
 
 | Name | Org | Role / Title | Email | Context | Last contact | Status / Next action |
 |---|---|---|---|---|---|---|
 | Steve Donahue | Saint Joseph's (SJU) | Head Men's Basketball Coach | sdonahue1@sju.edu | LOI signed; intro'd Eric Newman | 2026-07 | LOI SIGNED — active |
 | Tracey Pachman | Saint Joseph's (SJU) | General Counsel | tpachman@sju.edu | On SJU LOI/legal | 2026-07 | Active |
-| Ashwin Puri | Saint Joseph's (SJU) | CFO — signed the LOI | apuri@sju.edu | LOI signed 7/29 | 2026-07-29 | LOI SIGNED |
+| Ashwin Puri ('Ash') | Saint Joseph's (SJU) | Finance/admin — LOI point person | apuri@sju.edu | Drove LOI to signature 7/29 | 2026-07-29 | LOI SIGNED — active |
+| Lauren Goldsmith | Saint Joseph's (SJU) | CFO / Treasurer — signed the LOI | (confirm email) | Named LOI signatory | 2026-07-29 | LOI SIGNED |
 | Joseph Mihalich | Saint Joseph's (SJU) | Athletics (confirm title) | jmihalich@sju.edu | Primary SJU contact since June | 2026-07-29 | Active |
 | F. Reynolds (confirm) | Saint Joseph's (SJU) | Marketing VP | freynolds@sju.edu | SJU marketing | 2026-07 | Contact as needed |
 | K. Welsh (confirm) | Saint Joseph's (SJU) | Marketing VP | kwelsh@sju.edu | SJU marketing | 2026-07 | Contact as needed |
 | E. Laudano (confirm) | Saint Joseph's (SJU) | Marketing VP | elaudano@sju.edu | SJU marketing | 2026-07 | Contact as needed |
 | Chris Caputo | George Washington (GW) | Head Men's Basketball Coach | coachcaputo@gwu.edu | Championed to his AD | 2026-08-07 | Active — met 8/7 |
 | Michael Lipitz | George Washington (GW) | Athletic Director | michael.lipitz@email.gwu.edu | Met 8/7 | 2026-08-07 | Active — follow up |
-| Chris Clunie | Davidson | Athletic Director (confirm) | chclunie@davidson.edu | Davidson (Curry flagship) | 2026-07 | Active — flagship school |
+| Chris Clunie | Davidson | Athletic Director | chclunie@davidson.edu | Davidson (Curry flagship); signed LOI | 2026-07 | Active — flagship school |
+| Austin Buntz | Davidson | GM, Men's & Women's Basketball — handled the Steph Curry LOI | aubuntz@davidson.edu | Signed Davidson LOI (Apr); primary Davidson working contact | 2026-04-21 | Active — KEY Davidson contact |
+| D. Phelps (confirm) | Fordham | (confirm title) | dphelps@fordham.edu | Aug outreach | 2026-08-03 | Cold — revisit |
 | Nathan Davis | New Hampshire (UNH) | Head Coach (confirm) | nathan.davis@unh.edu | LOI draft sent | 2026-08-03 | Active — LOI in play |
 | J. Gallo (confirm) | Merrimack | (confirm title) | galloj@merrimack.edu | Call Aug 19 | 2026-08-19 | Active — call scheduled |
 | Seth Needle | Temple | (confirm title — mktg/AD) | seth.needle@temple.edu | May/June outreach | 2026-06-05 | Warm — revisit |
@@ -212,7 +219,7 @@ _Companion spreadsheet: `Outputs/2026-08-12-cinderella-contacts.xlsx`. `(confirm
 | Schools — additional cold | College AD/coach | Holy Cross (Johnson/Paulsen/Rawlings), Stonehill (Kraus), UMBC (Lawson), Loyola (Blue), Coll. of Charleston (Harriman), Northeastern (Janning), BU (Quinn), UPenn | (various .edu) | Feb–Aug outreach | 2026-08 | Mixed — BU responded; rest cold |
 | O'Melveny & Myers | Law firm | Aronson, Reinstein, Afner | baronson@omm.com | Cold outreach | 2026-08 | Cold |
 
-## Celebrity Targets (aspirational shortlist)  (19)
+## Celebrity Targets (aspirational shortlist)  (20)
 
 | School | Celebrity option(s) | Tie | Status |
 |---|---|---|---|
@@ -234,6 +241,7 @@ _Companion spreadsheet: `Outputs/2026-08-12-cinderella-contacts.xlsx`. `(confirm
 | NYU (D3) | Adam Sandler, Billy Crystal, Spike Lee | Verified Tisch alumni | D3 track |
 | Johns Hopkins (D3) | Mike Bloomberg, Michael Phelps, Carmelo Anthony | Alum/local | D3 track |
 | Ivy outreach | Yale, Brown, Harvard staff contacted | — | Exploratory |
-| Reps in motion | Ludacris & Tim McGraw (CAA); Brian Scalabrine (direct) | — | Agent pass-through active |
+| Reps in motion | Ludacris & Tim McGraw (CAA/Gelbard); Brian Scalabrine (direct) | — | Agent pass-through active |
+| Via CAA (Peter Hess / Carla Laur / Rick Lucas) | Colin Jost, Jamie Foxx, Miles Teller, Walton Goggins, Bradley Cooper | CAA-repped | Offers made Mar 2026 — outstanding; revisit |
 
-**Totals:** 169 working contacts across 8 categories + 19 celebrity-target rows.
+**Totals:** 176 working contacts across 8 categories + 20 celebrity-target rows.
