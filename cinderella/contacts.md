@@ -170,7 +170,7 @@ _Companion spreadsheet: `Outputs/2026-08-12-cinderella-contacts.xlsx`. `(confirm
 | Sofi Selig (confirm) | (confirm org) | Connect | sofi.selig@gmail.com | One-off April | 2026-04-21 | Confirm identity |
 | P.J. de Silva (confirm) | (family?) | Personal contact | pjdesilva1@gmail.com | Apr/May thread | 2026-05-06 | Confirm — likely personal/family |
 
-## Cold Outreach — Prospecting (Jan–Mar 2026 blast; firm-level, little/no response unless noted)  (44)
+## Cold Outreach — Prospecting (Jan–Mar 2026 blast; firm-level, little/no response unless noted)  (41)
 
 | Name | Org | Role / Title | Email | Context | Last contact | Status / Next action |
 |---|---|---|---|---|---|---|
@@ -204,10 +204,7 @@ _Companion spreadsheet: `Outputs/2026-08-12-cinderella-contacts.xlsx`. `(confirm
 | Candle Media | Studio (Mayer & Staggs) | Kevin Mayer, Tom Staggs | kevin@candlemedia.com | Mar 9 blast | 2026-03-09 | No response — revisit |
 | Fifth Season | Studio | L. Zimmermann, M. Lisio, K. Calabrese | mlisio@fifthseason.com | Mar 9 blast | 2026-03-09 | No response |
 | Pulse Films | Production | Mino Jarjoura | mino.jarjoura@pulsefilms.com | Mar 9 blast | 2026-03-09 | No response |
-| CAA | Agency | Bryan Lourd, Rick Kurtzman, Ethan Kurtzman, C. Carino, J. Darmody, J. MacGregor, T. Brennan | blourd@caa.com | Feb 15+ agency blast | 2026-03-11 | Mostly no response — a few opens |
-| WME Entertainment | Agency | B. Slater, T. Curtis, D. Greenberg, H. Reisch, J. Lesh, N. Towne, S. Mark, W. Lowery, + | bslater@wmeentertainment.com | Feb 14-16 blast | 2026-03-13 | No response |
-| WME (agency) | Agency | M. Jasper (+assistant), M. Berkowitz, S. Rabinowitz | mberkowitz@wmeagency.com | Feb-Mar blast | 2026-03-13 | M. Jasper RESPONDED |
-| United Talent (UTA) | Agency | K. Volchok, J. Barber, N. Gates, B. Lazarus, D. Duchon, K. Lubeck, J. Lawson, S. Sacks, + | volchokk@unitedtalent.com | Feb 14-16 blast | 2026-02-18 | K. Volchok RESPONDED |
+| CAA / WME / UTA individual agents | Agency | ~75 named agents — see dedicated 'Agency Outreach' category below | (various) | Feb–Mar 2026 blast | 2026-03 | See Agency Outreach category |
 | Range Media Partners | Mgmt/agency | Kevin Hussey (Casey Affleck's mgr), Dave Bugliari, P. Orr, A. Glasgow, R. Astphan | khussey@rangemp.com | Feb 14 blast | 2026-02-17 | RESPONDED (Hussey/Glasgow) — revisit |
 | Octagon | Sports agency | Jeff Austin | jeff.austin@octagon.com | Feb 16 blast | 2026-02-16 | No response |
 | Untitled Entertainment | Mgmt | P. Murray | pmurray@untitledent.com | Feb 15 blast | 2026-02-21 | RESPONDED |
@@ -218,6 +215,81 @@ _Companion spreadsheet: `Outputs/2026-08-12-cinderella-contacts.xlsx`. `(confirm
 | Andrew Schulz (camp) | Comedian/talent | Andrew, Dov, Tanya | andrew@theandrewschulz.com | Cold outreach | 2026-08 | Cold — comedian target |
 | Schools — additional cold | College AD/coach | Holy Cross (Johnson/Paulsen/Rawlings), Stonehill (Kraus), UMBC (Lawson), Loyola (Blue), Coll. of Charleston (Harriman), Northeastern (Janning), BU (Quinn), UPenn | (various .edu) | Feb–Aug outreach | 2026-08 | Mixed — BU responded; rest cold |
 | O'Melveny & Myers | Law firm | Aronson, Reinstein, Afner | baronson@omm.com | Cold outreach | 2026-08 | Cold |
+
+## Agency Outreach — CAA / WME / UTA (individual agents, Feb–Mar 2026)  (70)
+
+| Name | Org | Role / Title | Email | Context | Last contact | Status / Next action |
+|---|---|---|---|---|---|---|
+| Kevin Gelbard | CAA | Agent | kevin.gelbard@caa.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | RESPONDED — Ludacris/Tim McGraw; active |
+| Peter Hess | CAA | Agent | peter.hess@caa.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | RESPONDED — Colin Jost/Foxx/Teller/Cooper/Bateman/Fallon; revisit |
+| Carla Laur | CAA | Agent | claur@caa.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | RESPONDED — Miles Teller/Walton Goggins; revisit |
+| Rick Lucas | CAA | Agent | rlucas@caa.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | RESPONDED — Jamie Foxx; revisit |
+| Adam Nettler | CAA | Agent | adam.nettler@caa.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | RESPONDED — unscripted TV; revisit |
+| Matt Blake | CAA | Agent | matt.blake@caa.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | RESPONDED — revisit |
+| Landon Shepanek | CAA | Agent | landon.shepanek@caa.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | RESPONDED — revisit |
+| Bryan Lourd | CAA | Agent | blourd@caa.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Christian Carino | CAA | Agent | ccarino@caa.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Rick Kurtzman | CAA | Agent | rkurtzman@caa.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Ethan Kurtzman | CAA | Agent | ethan.kurtzman@caa.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| J. Darmody | CAA | Agent | jdarmody@caa.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| John MacGregor | CAA | Agent | john.macgregor@caa.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| T. Brennan | CAA | Agent | tbrennan@caa.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Matt Wind | CAA | Agent | matt.wind@caa.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Alex Douma | CAA | Agent | alex.douma@caa.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| J. Lieberman | CAA | Agent | jlieberman@caa.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Yale Jesser | CAA | Agent | yale.jesser@caa.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| David Sherman | WME (agency) | Agent | dsherman@wmeagency.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | RESPONDED — existing connection |
+| M. Jasper | WME (agency) | Agent | mjasper@wmeagency.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | RESPONDED — revisit |
+| T. Curtis | WME (agency) | Agent | tcurtis@wmeagency.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | RESPONDED — revisit |
+| M. Rudman | WME (agency) | Agent | mrudman@wmeagency.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | RESPONDED — revisit |
+| R. Koslowsky | WME (agency) | Agent | rkoslowsky@wmeagency.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | RESPONDED — revisit |
+| DJS | WME (agency) | Agent | djs@wmeagency.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| JZH | WME (agency) | Agent | jzh@wmeagency.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Andrew Mathes | WME (agency) | Agent | andrew.mathes@wmeagency.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| M. Maulitz | WME (agency) | Agent | mmaulitz@wmeagency.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| L. Buckley | WME (agency) | Agent | lbuckley@wmeagency.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| T. Jacobs | WME (agency) | Agent | tjacobs@wmeagency.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| S. Conover | WME (agency) | Agent | sconover@wmeagency.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Ari Emanuel (WME CEO) | WME Ent | Agent | aemanuel@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Tim Curtis | WME Ent | Agent | tcurtis@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | RESPONDED — offered BU to Carell/Krasinski |
+| M. Berkowitz | WME Ent | Agent | mberkowitz@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Henry Reisch | WME Ent | Agent | hreisch@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Jeff Lesh | WME Ent | Agent | jlesh@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Brad Slater | WME Ent | Agent | bslater@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Danny Greenberg | WME Ent | Agent | dgreenberg@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Nate Towne | WME Ent | Agent | ntowne@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Joey Lee | WME Ent | Agent | leej@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| N. Josephson | WME Ent | Agent | njosephson@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Andrew Finkelstein | WME Ent | Agent | afinkelstein@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Douglas Edley | WME Ent | Agent | dedley@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Kevin Dees | WME Ent | Agent | kdees@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| S. Mark | WME Ent | Agent | smark@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| W. Lowery | WME Ent | Agent | wlowery@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| W. Zavala | WME Ent | Agent | wzavala@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| N. Hoagland | WME Ent | Agent | nhoagland@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| D. Lucterhand | WME Ent | Agent | dlucterhand@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| D. Becky | WME Ent | Agent | dbecky@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| D. Levine | WME Ent | Agent | dlevine@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| J. Kovacevic | WME Ent | Agent | jkovacevic@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| J. Thomas | WME Ent | Agent | jthomas@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| K. Sarkisian | WME Ent | Agent | ksarkisian@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| T. Bernardy | WME Ent | Agent | tbernardy@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| R. Rosen | WME Ent | Agent | rrosen@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| J. Williams | WME Ent | Agent | jwilliams@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| J. Dixon | WME Ent | Agent | jdixon@wmeentertainment.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| K. Volchok | UTA | Agent | volchokk@unitedtalent.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | RESPONDED — revisit |
+| R. Klubeck | UTA | Agent | klubeckr@unitedtalent.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Brett Duchon | UTA | Agent | duchonb@unitedtalent.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Bill Lazarus | UTA | Agent | lazarusb@unitedtalent.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Nancy Gates | UTA | Agent | gatesn@unitedtalent.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Jeremy Barber | UTA | Agent | barberj@unitedtalent.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Jason Heyman | UTA | Agent | heymanj@unitedtalent.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Jacob Lawson | UTA | Agent | lawsonj@unitedtalent.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Greg Janes | UTA | Agent | janeseg@unitedtalent.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| Babbette Perry | UTA | Agent | perryb@unitedtalent.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| John Sacks | UTA | Agent | sacksj@unitedtalent.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| N. Nuciforo | UTA | Agent | nuciforon@unitedtalent.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
+| B. Balbo | UTA | Agent | balbob@unitedtalent.com | Feb–Mar 2026 cold outreach ('NCAA Acquisition + Production') | 2026-03 | Cold — sent, no reply |
 
 ## Celebrity Targets (aspirational shortlist)  (20)
 
@@ -244,4 +316,4 @@ _Companion spreadsheet: `Outputs/2026-08-12-cinderella-contacts.xlsx`. `(confirm
 | Reps in motion | Ludacris & Tim McGraw (CAA/Gelbard); Brian Scalabrine (direct) | — | Agent pass-through active |
 | Via CAA (Peter Hess / Carla Laur / Rick Lucas) | Colin Jost, Jamie Foxx, Miles Teller, Walton Goggins, Bradley Cooper | CAA-repped | Offers made Mar 2026 — outstanding; revisit |
 
-**Totals:** 176 working contacts across 8 categories + 20 celebrity-target rows.
+**Totals:** 243 working contacts across 9 categories + 20 celebrity-target rows.
