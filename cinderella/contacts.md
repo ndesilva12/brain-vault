@@ -302,7 +302,7 @@ _'Suggested Fit' columns = Claude-added candidates (alum or regional/adopted-cit
 | Fordham | Denzel Washington | Mike Breen | Chaz Palminteri | Lana Del Rey | Alan Alda | Dylan McDermott | Verified alumni (Denzel, Breen) |
 | Northeastern | Mark Wahlberg | Bill Burr |  | Donnie Wahlberg | Steve Carell | Uzo Aduba |  |
 | George Washington | Dave Chappelle | Pharrell Williams | Casey Affleck | Kerry Washington | Alec Baldwin | Dave Grohl | Met 8/7 (Caputo/Lipitz) — active |
-| Loyola Chicago | Barack Obama | Tim Grover |  | Bob Newhart | Dwyane Wade | Chance the Rapper |  |
+| Loyola Chicago | Barack Obama | Tim Grover |  | Common | Dwyane Wade | Chance the Rapper |  |
 | Merrimack | Ben Affleck | Charlie Day |  | Michael Chiklis | Dane Cook | Lenny Clarke | Call Aug 19 — active |
 | St. Joseph's | Kevin Hart | Bradley Cooper | Jason Kelce | Will Smith | Tina Fey | Kevin Bacon | LOI SIGNED — celeb TBD (Hart active) |
 | Boston College | Chris Evans | John Krasinski | BJ Novak | Amy Poehler | Doug Flutie | Chris O'Donnell | Fallen-giant track |
@@ -310,20 +310,20 @@ _'Suggested Fit' columns = Claude-added candidates (alum or regional/adopted-cit
 | Hawaii | Dwayne Johnson | Bruno Mars | Jason Momoa | Nicole Scherzinger | Marcus Mariota | Bethany Hamilton |  |
 | Belmont | Justin Timberlake | Brad Paisley |  | Trisha Yearwood | Reese Witherspoon | Florida Georgia Line |  |
 | Santa Clara | Steve Nash | John A. Sobrato | Jaylen Williams | Brandi Chastain | Steve Kerr | Aisha Tyler | Nash via CTRL / WME |
-| Holy Cross | Bill Simmons | Conan O'Brien | Denis Leary | Bob Cousy | Tommy Heinsohn | Chris Matthews |  |
+| Holy Cross | Bill Simmons | Conan O'Brien | Denis Leary | Bob Cousy | Billy Collins | Chris Matthews |  |
 | Boston University | Ben Affleck | Matt Damon | Jason Alexander | Howard Stern | Geena Davis | Julianne Moore | (WME/Tim Curtis floated Carell + Krasinski) |
 | UC Irvine | Will Ferrell |  |  | Jon Lovitz | Gwen Stefani | Mark McGrath |  |
 | UC Santa Barbara | Andrew Schulz | Michael Douglas |  | Katy Perry | Jack Johnson | Rob Lowe | Schulz camp contacted |
 | LIU | Jay-Z | Billy Joel | Ray Dalio | Rosie Perez | Michael Rapaport | Mike Tyson |  |
 | Tulane | The Mannings | Theo Von | Anthony Mackie | Harry Connick Jr. | Lil Wayne | Wendell Pierce | TOP TARGET — also Woody Harrelson (via Simu Liu) |
-| Temple | Kevin Hart | Adam McKay | Judd Apatow | Bob Saget | Questlove | Boyz II Men | (Hart moved to St. Joe's per vault) |
-| North Texas | Jamie Foxx | Post Malone | Steve Austin | Don Henley | Norah Jones | Roy Orbison | Foxx via CAA / Rick Lucas |
+| Temple | Kevin Hart | Adam McKay | Judd Apatow | Hall & Oates | Questlove | Boyz II Men | (Hart moved to St. Joe's per vault) |
+| North Texas | Jamie Foxx | Post Malone | Steve Austin | Don Henley | Norah Jones | Erykah Badu | Foxx via CAA / Rick Lucas |
 | Detroit | Keegan-Michael Key | Eminem |  | Big Sean | Jack White | Lily Tomlin |  |
 | Charleston | Bill Murray | Danny McBride | Darius Rucker | Stephen Colbert | Thomas Gibson | Shepard Fairey | Murray = RiverDogs co-owner |
 | Richmond | Justin Bieber | Dave Burd |  | Jason Mraz | Shirley MacLaine | Warren Beatty |  |
 | Elon | Shane Gillis | Chris Daughtry |  | Ben Folds | Evan Rachel Wood | Emily Procter | Daughtry≠Elon (verify) |
-| Rhode Island | Seth MacFarlane | Charlie Day | Jay Leno | Viola Davis | James Woods | Debra Messing | Leno≠URI (verify) |
-| UMass | John Cena | Liev Schreiber |  | Julius Erving | Richard Gere | Jack Welch | Cena=Springfield(D3); Schreiber≠UMass (verify) |
+| Rhode Island | Seth MacFarlane | Charlie Day |  | Viola Davis | James Woods | Debra Messing | Leno removed — no RI tie (Andover MA / LA) |
+| UMass | John Cena | Liev Schreiber |  | Julius Erving | Marcus Camby | Richard Gere | Cena=Springfield(D3); Schreiber≠UMass (verify) |
 | Appalachian State | Eric Church | Luke Combs |  | Zach Galifianakis | Ric Flair | Kellie Pickler |  |
 | William & Mary | Jon Stewart | Todd Boehly |  | Glenn Close | Mike Tomlin | Bruce Hornsby |  |
 | Lehigh | CJ McCollum | Dwayne Johnson |  | Amanda Seyfried | Christine Taylor | Daniel Roebuck |  |
@@ -350,13 +350,13 @@ _'Suggested Fit' columns = Claude-added candidates (alum or regional/adopted-cit
 | Stanford | Tiger Woods | John McEnroe |  | John Elway | Sigourney Weaver | Andrew Luck |  |
 | USC | Will Ferrell | Brian Scalabrine |  | George Lucas | Forest Whitaker | America Ferrera | Scalabrine direct-contacted |
 | South Carolina | Darius Rucker |  |  | Aziz Ansari | Chris Rock | Leeza Gibbons |  |
-| Wake Forest | Tim Duncan | Muggsy Bogues |  | Chris Paul | Arnold Palmer | Josh Howard | Verified Deacons |
+| Wake Forest | Tim Duncan | Muggsy Bogues |  | Chris Paul | Webb Simpson | Josh Howard | Verified Deacons |
 | Providence | Seth MacFarlane | Doris Burke |  | Ernie DiGregorio | God Shammgod | Peter Farrelly | Burke verified alum |
-| Hofstra | Jerry Seinfeld | Christopher Walken |  | Francis Ford Coppola | James Caan | Susan Lucci |  |
+| Hofstra | Jerry Seinfeld | Christopher Walken |  | Francis Ford Coppola | Eddie Murphy | Susan Lucci |  |
 | ETSU | Kenny Chesney |  |  | Dolly Parton | Morgan Wallen | Keith Jennings |  |
 | Fairfield | John Mayer |  |  | Meg Ryan | Vince McMahon | Christopher Lloyd |  |
 | Furman | Clint Dempsey | Kevin Garnett |  | Peabo Bryson | Marcus Lattimore | Keith Lockhart | KG = Mauldin/Greenville SC regional |
-| San Diego |  |  |  | Bill Walton | Tony Hawk | Cameron Diaz | School candidate — no lead yet |
+| San Diego |  |  |  | Mario Lopez | Tony Hawk | Cameron Diaz | School candidate — no lead yet |
 | High Point |  |  |  | Fantasia Barrino | Rhiannon Giddens | Randy Travis | School candidate — no lead yet |
 | Loyola Marymount |  |  |  | Colin Hanks | Bo Kimble | Brooke Burke | School candidate — no lead yet |
 | VCU |  |  |  | D'Angelo | Missy Elliott | Timbaland | School candidate — no lead yet |
