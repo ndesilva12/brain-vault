@@ -224,3 +224,21 @@ angle for format equity/backend — the capture risk our model already guards ag
    order on our terms.
 
 _All structures illustrative; positions to negotiate, not legal advice. Confirm specifics with counsel before signing._
+
+---
+
+## 9. Live buyer intel — append log
+
+**HBO / Max — 2026-08 (warm intro via Josh Bennett).**
+- **Contact: Bentley Weiner — SVP, HBO Sports Documentaries** (she/her). ~28-yr HBO Sports lifer
+  (24/7, 100 Foot Wave, 38 at the Garden, Tiger); SVP since Aug 2024. Champion/gatekeeper for sports
+  docs; franchise-scale sign-off still runs up to Casey Bloys + business affairs.
+- **Intro path: Josh Bennett** — ex-HBO, Babson alum, personal relationship w/ Weiner (also in
+  contact DB, +1 603-387-2068). Intro call went well; she liked it.
+- **What she wants:** (1) a *truly small* school that has *never won* (max drama); (2) a clear POV —
+  "who/what does it **interrogate**?" (said it twice). Prestige-investigative register = HBO identity.
+- **School shortlist for the HBO cut:** Chicago State (near-death, buy-game fodder, South Side) or
+  Merrimack (won its conference but barred from the tournament mid-D1-transition — clean injustice);
+  also Coppin State / UMD-Eastern Shore (HBCU funding, Baltimore), NJIT (conference-less years).
+- **Framing rule:** aim the interrogation at *the system* (NCAA / blue-blood cartel / PE-in-sports),
+  never the players or the school. Self-interrogation is the prestige hook.
