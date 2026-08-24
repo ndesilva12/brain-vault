@@ -10,7 +10,7 @@ This Amended and Restated Operating Agreement (this "**Agreement**") is made as 
 - **"Capital Contribution"** — the amount of cash contributed by a Member ($100,000 per Class A Unit).
 - **"Class A Units"** — the Units issued to Investors in the Seed Round (aggregate 15% Percentage Interest).
 - **"Class B Units"** — the Units held by the Founders (aggregate 85% Percentage Interest).
-- **"Distributable Revenue"** — gross top-line revenue actually received by the Company that the Manager determines is available for distribution. **[Confirm: top-line vs. distributable-cash basis — see Distributions.]**
+- **"Gross Cash Revenue"** — gross cash revenue actually collected by the Company (top-line, cash basis), as used for the Investor revenue share, consistent with the one-pager.
 - **"Distributable Cash"** — cash on hand in excess of expenses, liabilities, and reserves as the Manager reasonably determines.
 - **"Investor Representative"** — **Ankur Jain**, or his successor designated by a majority-in-interest of the Class A Members.
 - **"Manager"** — Norman C. de Silva, or a successor appointed under Article 5.
@@ -30,24 +30,24 @@ This Amended and Restated Operating Agreement (this "**Agreement**") is made as 
 3.3 **No Further Contributions.** No Member is required to make additional Capital Contributions or to restore a deficit.
 3.4 **Capital Accounts.** Maintained per Treasury Regulation § 1.704-1(b). **[Counsel to confirm tax provisions / § 704(b) allocations.]**
 3.5 **No Interest / No Withdrawal.** No Member may withdraw capital except as expressly provided (see Article 4.4 — Investor Capital Return Right).
+3.6 **Additional Call.** The Company may raise an **additional $1,500,000 on the same terms** following the initial close. **[Specify the mechanics: whether the second tranche issues an additional 15% of Class A Units (diluting Class B to ~70%) or converts at a stated valuation; and whether existing Class A Members have pre-emptive/pro-rata participation rights. CONFIRM.]**
 
 ## ARTICLE 4 — DISTRIBUTIONS
-4.1 **Distribution Waterfall.** Subject to the Act, applicable law, and reasonable reserves, the Manager shall distribute available amounts in the following order:
+4.1 **Distributions to Class A (revenue share + permanent equity).** Consistent with the one-pager:
 
-**(a) Investor Priority Return.** Until the Class A Members have received cumulative distributions equal to **two times (2.0×)** their aggregate Capital Contributions:
-&nbsp;&nbsp;(i) an amount equal to **fifty percent (50%)** of Distributable Revenue shall be distributed to the Class A Members, pro rata, until cumulative distributions to Class A equal **one times (1.0×)** their Capital Contributions; and thereafter
-&nbsp;&nbsp;(ii) an amount equal to **ten percent (10%)** of Distributable Revenue shall be distributed to the Class A Members, pro rata, until cumulative distributions equal **two times (2.0×)**.
+**(a) Investor Revenue Share (temporary).** The Company shall distribute to the Class A Members, pro rata:
+&nbsp;&nbsp;(i) **fifty percent (50%)** of **Gross Cash Revenue** collected, until cumulative distributions to the Class A Members equal **one times (1.0×)** their aggregate Capital Contributions; then
+&nbsp;&nbsp;(ii) **ten percent (10%)** of Gross Cash Revenue collected, until cumulative distributions equal **two times (2.0×)** their aggregate Capital Contributions;
+&nbsp;&nbsp;whereupon **the revenue share terminates** and no further revenue-share distributions are made under this Section 4.1(a).
 
-**(b) Pro Rata (uncapped).** All other Distributable Cash shall be distributed to all Members, pro rata in accordance with their **Percentage Interests** (Class A 15% / Class B 85%), without cap, at all times before and after the 2.0× threshold.
+**(b) Permanent Equity (uncapped).** The Class A Members' **15% Percentage Interest is permanent.** All other distributions of Distributable Cash are made to all Members pro rata by Percentage Interest (Class A 15% / Class B 85%), without cap.
 
-> **⚠️ KEY OPEN TERM — crediting mechanic.** As drafted, the priority amounts in 4.1(a) are **credited against** the Class A Members' pro-rata entitlement under 4.1(b) (an **acceleration/timing** mechanism), so Class A lifetime economics ≈ **15%** of total distributions — the **~11× MOIC** figure in the model. **ALTERNATIVE (investor-favorable):** treat 4.1(a) as **additive** to 4.1(b) until 2.0×, so Class A receives **more than 15%** early (stronger downside protection). **Elect one with counsel — the entire economic deal turns on this sentence.**
->
-> **⚠️** Also confirm the preference is measured on **Distributable Revenue (top-line)** as modeled, vs. **Distributable Cash** — the top-line basis pays Investors before the Company covers its own costs and is cash-flow-intensive.
+> **⚠️ KEY OPEN TERM — reconcile with the model and the one-pager.** As drafted (primary), the revenue-share amounts in 4.1(a) are an **advance credited against** the Class A Members' permanent 15% distributions under 4.1(b) — i.e., **faster money, same lifetime total ≈ 15%** (the **~11× MOIC** in the model). **ALTERNATIVE (investor-favorable, and a plausible reading of the one-pager):** 4.1(a) is **additive** — Class A receives the revenue-share sweeps **in addition to** 15% pro-rata during the pre-2× period — which pays Class A **more than 15%** overall. **These compute very different numbers; pick one and conform the one-pager, this Agreement, and the model to it.** Note: the sweep is measured on **Gross Cash Revenue (top-line, cash basis)**, which pays Investors before the Company covers its costs — intentional per the one-pager, but cash-flow-intensive.
 
 4.2 **Tax Distributions.** The Manager may (but is not required to) distribute amounts to cover Members' tax liability on allocated income, pro rata. **[Confirm whether mandatory.]**
 4.3 **Withholding.** Amounts withheld and remitted for a Member are treated as distributed to that Member.
 4.4 **Investor Capital Return Right (the "Ankur Right").**
-&nbsp;&nbsp;(a) **Grant.** On or after **January 1, 2027**, the **Investor Representative (Ankur Jain)** may, by written notice to the Manager, elect to cause the Company to **return to the Class A Members their unreturned Capital Contributions** (in whole or in part, pro rata), to the extent of the Company's **available and undeployed cash**, if in the Investor Representative's **good-faith judgment the Company has not made sufficient progress to responsibly continue deploying investor capital.**
+&nbsp;&nbsp;(a) **Grant.** On or after **January 1, 2027**, the **Investor Representative (Ankur Jain)** may, by written notice to the Manager, elect to cause the Company to **return to the Class A Members their unreturned Capital Contributions** (in whole or in part, pro rata), to the extent of the Company's **available and undeployed cash** (the reserve held back from deployment — the plan deploys ~$952K of the initial close through December 2027 and holds the balance in reserve), if in the Investor Representative's **good-faith judgment the Company has not made sufficient progress to responsibly continue deploying investor capital.**
 &nbsp;&nbsp;(b) **Mechanics.** Within **[30]** days of such notice, the Company shall distribute the returnable amount to the Class A Members pro rata. Amounts returned reduce the Class A Members' unreturned Capital Contributions and **[reduce their Class A Units / Percentage Interest pro rata to the amount returned // are treated as a return of capital without reducing Units].** **[Confirm the effect on Units/ownership — this is important.]**
 &nbsp;&nbsp;(c) **Standard.** "Sufficient progress" means **[the good-faith discretion of the Investor Representative // failure to meet the following objective milestones by [date]: e.g., (x) at least one signed school LOI, (y) at least one attached lead celebrity, (z) at least one term sheet with a streamer or SPV capital partner].** **[Choose discretion vs. milestones — recommend a hybrid: objective milestones, with good-faith discretion as a backstop.]**
 &nbsp;&nbsp;(d) **Limitation.** The right is limited to available/undeployed cash; it does not obligate the Manager to liquidate deployed assets or the SPVs, and does not guarantee full return.

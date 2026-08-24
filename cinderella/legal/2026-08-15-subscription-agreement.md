@@ -8,7 +8,7 @@ This Subscription Agreement (this "**Agreement**") is entered into as of the dat
 
 ## 1. Subscription
 1.1 **Purchase.** Subject to the terms hereof, the Investor irrevocably subscribes for and agrees to purchase **_____ Class A Unit(s)** of the Company at a price of **$100,000 per Unit** (1 Unit = 1.0% Percentage Interest), for an aggregate purchase price of **$__________** (the "**Purchase Price**").
-1.2 **Acceptance.** This subscription is not binding on the Company until accepted by the Manager, who may accept or reject it in whole or in part in his sole discretion. The Company may close in one or more closings until the $1,500,000 / 15-Unit maximum is reached.
+1.2 **Acceptance.** This subscription is not binding on the Company until accepted by the Manager, who may accept or reject it in whole or in part in his sole discretion. The offering is targeted to close on a **single close on or about September 15, 2026** (the "**Closing**") for up to $1,500,000 / 15 Units, with an **additional $1,500,000 callable on the same terms thereafter** per the Operating Agreement.
 1.3 **Payment.** The Investor shall pay the Purchase Price by wire transfer to the Company account per instructions delivered at closing.
 1.4 **Operating Agreement.** As a condition to closing, the Investor shall execute a counterpart signature page to the Company's Amended & Restated Operating Agreement (the "**Operating Agreement**") and, upon acceptance, shall be admitted as a Class A Member bound by its terms. Capitalized terms not defined here have the meanings in the Operating Agreement.
 

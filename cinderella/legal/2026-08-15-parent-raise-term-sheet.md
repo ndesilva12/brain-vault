@@ -7,13 +7,14 @@ _Prepared 2026-08-15 as an internal working draft for Norman to review with coun
 |---|---|
 | **Issuer** | Cinderella Corp LLC, a Delaware limited liability company (the "**Company**"). **[Confirm exact registered legal name + that formation is in Delaware — the "Corp" in the brand name should be reconciled with LLC status.]** |
 | **Instrument** | Newly issued **Class A Units** (membership interests) — a priced equity round (not a SAFE or note). |
-| **Total raise** | **$1,500,000** |
+| **Total raise** | **$1,500,000** initial close. **[Plan contemplates an additional $1,500,000 callable on the same terms thereafter — confirm the second call's valuation/dilution mechanics (another 15%? at what post-money?).]** |
 | **Valuation** | **$10,000,000 post-money** ($8,500,000 pre-money). |
 | **Price / allocation** | **$100,000 per Unit**; **1 Unit = 1.0% of the Company**; **15 Units** offered (= 15% in aggregate). Target 15 investors at 1 Unit each (concentration/rounding at Manager's discretion). |
+| **Closing** | **Single close targeted September 15, 2026**, with subscription docs and the Operating Agreement executed at that time. Capital deployed from close through **December 2027** (balance held in reserve). |
 | **Post-raise cap table** | Class A (Investors): **15%**. Class B (Founders — Norman, Sunjay, Ankur, Greg, others per existing arrangements): **85%**. **[Confirm founder split — governed separately from this round.]** |
 | **Use of proceeds** | Working capital for parent-co operations (legal, basketball ops, school/celebrity/sponsor procurement, team). Per the MANCO budget. |
 | **Management / control** | **Manager-managed.** **Norman C. de Silva** is the sole **Manager** and **Founder & CEO**, with full authority over all Company decisions. Investors have **no voting rights and no board seat.** |
-| **Investor economics** | **15% equity PLUS a revenue preference (uncapped equity):** <br>• **50%** of Distributable Revenue to Class A (pro rata) until they have received **1.0x** ($1.5M); then <br>• **10%** of Distributable Revenue to Class A until **2.0x** ($3.0M); then <br>• thereafter, distributions **pro rata by Percentage Interest (Class A 15% / Class B 85%), with no cap.** <br>**[KEY OPEN TERM — see note below.]** |
+| **Investor economics** | Mirrors the one-pager: **50% of ManCo gross cash revenue collected** to Class A (pro rata) until **1.0×** ($1.5M); then **10%** until **2.0×** ($3.0M) cumulative; **then the revenue share terminates and the 15% equity remains permanent.** <br>**[KEY OPEN TERM — must reconcile the one-pager, the OA, and the model so they compute the same number — see note below.]** |
 | **Information rights** | Annual financial statements + Schedule K-1s; periodic (at least annual) written updates. No inspection/management rights beyond this. |
 | **Investor capital-return right (Ankur)** | **Ankur Jain**, as **Investor Representative**, may — **on or after January 1, 2027** — elect to cause the Company to return to the Investors their **unreturned/undeployed capital** (in whole or part, pro rata) if, in his good-faith judgment, the Company has **not made sufficient progress to responsibly continue deploying investor capital.** Funded from available/undeployed cash. **[Define "sufficient progress" — pure good-faith discretion vs. objective milestones; and the mechanics — see note.]** |
 | **Transfer restrictions** | Units are restricted securities; no transfer without Manager consent; Company/Manager right of first refusal. |
@@ -27,15 +28,15 @@ _Prepared 2026-08-15 as an internal working draft for Norman to review with coun
 
 ---
 
-## ⚠️ The two open terms that actually matter (lock these with Loeb/Sunjay)
+## ⚠️ The open terms that actually matter (lock these with Loeb/Sunjay)
 
-**1. The waterfall crediting mechanic — the single most important number.**
-The revenue preference can be read two ways, and they produce very different investor economics:
-- **(A) Additive / downside-protection (investor-favorable):** the 50%/10% priority sweeps are **in addition to** the 15% pro-rata during the pre-2x period → Investors receive **more than 15%** of total distributions until 2x, then 15% after. Strongest protection for investors.
-- **(B) Recoupable / acceleration (company-favorable — matches the model's ~11x):** the priority sweeps are **credited against** the Investors' 15% pro-rata entitlement → they simply get their money back **faster**, but lifetime economics ≈ **15% of total** (the ~$17.2M / 11.47x figure in your model).
-Your interview answer ("~11x MOIC path") points to **(B)**, so I've drafted (B) as primary with (A) bracketed as the alternative. **Confirm which — the Operating Agreement's distribution article turns on it.**
+**1. The one-pager and the model don't compute the same investor return — reconcile them.**
+- The **one-pager** reads as *revenue share (50%→1×, 10%→2×) **then terminates**, plus a **permanent** 15% equity* — which a sharp investor can read as **additive** (revenue share **on top of** 15%).
+- The **model** returns a **flat 15% of net (~$17.2M / 11.47×)** — which only holds if the revenue share is an **advance credited against** the permanent 15%, i.e., faster money, same lifetime total.
+- I've drafted the OA as **credited/advance (matches your ~11× model)** and flagged the **additive** alternative. **Decide which you actually mean, then make the one-pager, the OA, and the model all say it the same way** — this is the single most important number in the deal and the most likely investor dispute.
 
-**2. Preference paid off *gross top-line* revenue.**
-The model sweeps a % of **top-line** revenue (before the Company covers its own costs). That is aggressive and cash-flow-intensive — it can starve operations early. Consider whether the preference should be off **top-line** (as modeled) or **distributable cash** (after reserves). **[Confirm.]**
+**2. Basis — RESOLVED.** The one-pager confirms the sweep is **50% of gross cash revenue collected** (top-line, cash basis). Drafted accordingly. Note this pays investors before the Company covers its own costs — intentional per the one-pager, but cash-flow-intensive; keep an eye on it operationally.
 
-**Other flags:** exact registered entity name/state; founder Class B split; whether the Ankur return-right is pure discretion or milestone-based; drag/tag inclusion; venue/arbitration.
+**3. The additional $1.5M call.** "Callable on same terms" needs mechanics: does the second $1.5M add **another 15%** (diluting founders to 70%), or convert at a new valuation? **[Specify.]**
+
+**Other flags:** exact registered entity name/state; founder Class B split; the Ankur return-right standard (discretion vs. milestones) and its effect on units; drag/tag inclusion; venue/arbitration. Also: the one-pager still lists Norman & Sunjay as "Co-Founder" and Ankur/Greg as "Strategic Advisor" — update the one-pager to the new titles (Founder & CEO / Founding Partner) so it matches these docs.
