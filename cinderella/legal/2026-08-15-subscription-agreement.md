@@ -1,85 +1,69 @@
 **DRAFT — FOR DISCUSSION ONLY — NOT LEGAL ADVICE**
-_Working draft, 2026-08-15. Review with Loeb & Loeb and Sunjay before any use or circulation. Not an offer to sell securities. Bracketed items **[LIKE THIS]** need confirmation._
+_Working draft, 2026-08-15. Review with Loeb & Loeb and Sunjay before any use. Not an offer to sell securities. **Entity: Delaware C-corporation.** Bracketed items **[LIKE THIS]** need confirmation._
 
-# SUBSCRIPTION AGREEMENT
-### Cinderella Corp LLC — Class A Units
+# STOCK PURCHASE (SUBSCRIPTION) AGREEMENT
+### Cinderella Corp. — Class A Common Stock
 
-This Subscription Agreement (this "**Agreement**") is entered into as of the date set forth on the signature page by and between **Cinderella Corp LLC**, a Delaware limited liability company (the "**Company**"), and the undersigned purchaser (the "**Investor**").
+This Agreement is entered into as of the date on the signature page by and between **Cinderella Corp.**, a Delaware corporation (the "**Company**"), and the undersigned purchaser (the "**Investor**").
 
-## 1. Subscription
-1.1 **Purchase.** Subject to the terms hereof, the Investor irrevocably subscribes for and agrees to purchase **_____ Class A Unit(s)** of the Company at a price of **$100,000 per Unit** (1 Unit = 1.0% Percentage Interest), for an aggregate purchase price of **$__________** (the "**Purchase Price**").
-1.2 **Acceptance.** This subscription is not binding on the Company until accepted by the Manager, who may accept or reject it in whole or in part in his sole discretion. The offering is targeted to close on a **single close on or about September 15, 2026** (the "**Closing**") for up to $1,500,000 / 15 Units, with an **additional $1,500,000 callable on the same terms thereafter** per the Operating Agreement.
-1.3 **Payment.** The Investor shall pay the Purchase Price by wire transfer to the Company account per instructions delivered at closing.
-1.4 **Operating Agreement.** As a condition to closing, the Investor shall execute a counterpart signature page to the Company's Amended & Restated Operating Agreement (the "**Operating Agreement**") and, upon acceptance, shall be admitted as a Class A Member bound by its terms. Capitalized terms not defined here have the meanings in the Operating Agreement.
+## 1. Purchase and Sale
+1.1 **Shares.** The Investor irrevocably subscribes for **[___] shares of Class A Common Stock** (1 vote per share) at **$[___] per share**, for an aggregate purchase price of **$__________** (the "**Purchase Price**"), representing the Investor's agreed percentage of the Company on a post-money basis (targeted 15% in aggregate for the round at $10,000,000 post-money).
+1.2 **Revenue-Share Right.** In addition to the Shares, the Investor is granted the Revenue-Share Right described in the Stockholders' Agreement / Revenue-Share Agreement: **50% of the Company's gross cash revenue collected until the Investor has received 1.0× the Purchase Price, then 10% until 2.0×, after which the Revenue-Share Right terminates.** This right is **in addition to** the Investor's permanent Class A equity. **[STRUCTURE — common + Revenue-Share Agreement, or Series Seed Preferred; confirm with counsel.]**
+1.3 **Acceptance / Closing.** Not binding until accepted by the Company. Targeted **single close on or about September 15, 2026** for up to $1,500,000 / 15% in aggregate, with an **additional $1,500,000 callable on the same terms thereafter.** Payment by wire at closing.
+1.4 **Governing Documents.** As a condition to closing, the Investor executes a joinder to the Company's **Stockholders' Agreement** and takes the Shares subject to the Company's **Certificate of Incorporation** and **Bylaws**. Capitalized terms not defined here have the meanings in those documents.
 
 ## 2. Investor Representations and Warranties
-The Investor represents and warrants to the Company, as of the date hereof and at closing:
-
-(a) **Accredited Investor.** The Investor is an "accredited investor" as defined in Rule 501(a) of Regulation D under the Securities Act of 1933 (the "**Securities Act**"), as indicated in the Accredited Investor Questionnaire attached as **Exhibit A**, which is true and complete.
-
-(b) **Investment Intent.** The Investor is acquiring the Units for its own account for investment, not with a view to distribution, and not on behalf of any other person.
-
-(c) **Restricted Securities.** The Investor understands the Units (i) have **not** been registered under the Securities Act or any state securities laws, (ii) are being offered in reliance on the private-placement exemption under **Rule 506(b)** of Regulation D, (iii) are "restricted securities" that may not be resold except pursuant to registration or an exemption, and (iv) will bear a customary restrictive legend.
-
-(d) **Risk / Sophistication.** The Investor has such knowledge and experience in financial and business matters as to be capable of evaluating the merits and risks of this investment, can bear the **complete loss** of the investment, and has been given the opportunity to ask questions of and obtain information from the Company. The Investor has reviewed the risk factors in **Exhibit B**.
-
-(e) **No Reliance / No Guarantee.** The Investor is not relying on any representation, projection, or model (including any financial model or one-pager) other than the express representations in this Agreement and the Operating Agreement, and understands that all projections are illustrative and **not guaranteed**.
-
-(f) **No General Solicitation.** The Investor was not solicited by any general solicitation or advertising and has a substantive, pre-existing relationship with the Company or the Manager.
-
-(g) **Authority.** The Investor has full power and authority to execute and perform this Agreement, which is a valid and binding obligation enforceable against the Investor.
-
-(h) **No Conflicts / Own Advisors.** Execution does not violate any agreement binding on the Investor. The Investor has consulted its own legal, tax, and financial advisors and is not relying on the Company or its counsel.
+As of the date hereof and at closing, the Investor represents and warrants:
+(a) **Accredited Investor** under Rule 501(a) of Regulation D (see **Exhibit A**), true and complete.
+(b) **Investment Intent** — acquiring for its own account, not with a view to distribution.
+(c) **Restricted Securities** — the Shares are not registered under the Securities Act of 1933 or state law, are offered under **Rule 506(b)**, are "restricted securities" that may not be resold absent registration or exemption, and will bear a restrictive legend.
+(d) **Risk / Sophistication** — capable of evaluating the investment, can bear the **complete loss** of it, has had the opportunity to ask questions and review the risk factors in **Exhibit B**.
+(e) **No Reliance / No Guarantee** — not relying on any model, projection, or one-pager other than the express representations herein; all projections (including the ~13.47× illustrative return) are **not guaranteed**.
+(f) **No General Solicitation** — has a substantive, pre-existing relationship with the Company/Norman.
+(g) **Authority** — full power to execute and perform; a valid, binding obligation.
+(h) **Own Advisors** — has consulted its own legal, tax, and financial advisors; not relying on Company counsel.
+(i) **Control Acknowledgment** — acknowledges the Company's dual-class structure: **Class B Common Stock (10 votes/share), held solely by Norman C. de Silva, controls all stockholder votes and the Board**, and the Investor's Class A Common Stock (1 vote/share) carries **no control rights** beyond the limited protective provisions in the Stockholders' Agreement.
 
 ## 3. Company Representations
-The Company represents that it is duly formed and validly existing under Delaware law, has authority to issue the Units, and that the Units, when issued and paid for, will be duly authorized and validly issued.
+Duly incorporated and validly existing under Delaware law; authority to issue the Shares; the Shares, when issued and paid for, will be duly authorized, validly issued, fully paid, and non-assessable.
 
-## 4. Restrictions on Transfer
-The Investor shall not transfer any Units except in compliance with the Securities Act, applicable state law, and the transfer restrictions in the Operating Agreement (including any Manager-consent and right-of-first-refusal provisions).
+## 4. Transfer Restrictions
+No transfer except in compliance with the Securities Act, state law, and the transfer/ROFR/co-sale provisions of the Stockholders' Agreement.
 
 ## 5. Indemnification
-The Investor shall indemnify and hold harmless the Company and the Manager from any loss arising out of any breach of the Investor's representations, warranties, or covenants in this Agreement.
+The Investor shall indemnify the Company and its officers/directors for any loss arising from a breach of the Investor's representations, warranties, or covenants.
 
 ## 6. Miscellaneous
-6.1 **Governing Law.** Delaware, without regard to conflicts of laws. **[Venue / arbitration — confirm.]**
-6.2 **Entire Agreement.** This Agreement and the Operating Agreement constitute the entire agreement and supersede prior discussions (including any one-pager or deck).
-6.3 **Amendment.** Only in a writing signed by both parties.
-6.4 **Counterparts / Electronic Signature.** May be executed in counterparts and by electronic signature.
-6.5 **Confidentiality.** The Investor shall keep confidential all non-public information regarding the Company and is bound by the Company's non-circumvention framework.
+Delaware governing law **[venue/arbitration — confirm]**; entire agreement (with the Certificate, Bylaws, and Stockholders' Agreement); amendment only in writing; counterparts and electronic signature; confidentiality and non-circumvention.
 
 ---
-
-**IN WITNESS WHEREOF**, the parties have executed this Subscription Agreement as of the date below.
-
-**COMPANY:** Cinderella Corp LLC
-By: __________________________  Name: Norman C. de Silva  Title: Manager (Founder & CEO)  Date: ___________
+**COMPANY:** Cinderella Corp.
+By: __________________________  Name: Norman C. de Silva  Title: [Chief Executive Officer / President]  Date: ___________
 
 **INVESTOR:**
 Signature: __________________________  Name: ___________________________
-Units subscribed: ______  Aggregate Purchase Price: $__________  Date: ___________
+Shares of Class A Common: ______  Purchase Price: $__________  Date: ___________
 Notice address / email: _______________________________________________
 
 ---
-
 ## EXHIBIT A — Accredited Investor Questionnaire
-_The Investor certifies it qualifies under at least one of the following (check all that apply):_
-
-- ☐ **Income:** Individual income exceeding **$200,000** (or **$300,000** joint with spouse/partner) in each of the two most recent years, with a reasonable expectation of the same this year.
-- ☐ **Net worth:** Individual net worth (or joint) exceeding **$1,000,000**, excluding the primary residence.
-- ☐ **Professional certification:** Holds a Series 7, 65, or 82 license in good standing.
-- ☐ **Entity:** An entity with assets exceeding $5,000,000, or in which all equity owners are accredited investors.
-- ☐ **Other** (describe): _______________________________________________
+_Certify at least one (check all that apply):_
+- ☐ **Income** > **$200,000** (or **$300,000** joint) in each of the two most recent years, expecting the same this year.
+- ☐ **Net worth** > **$1,000,000** (individual or joint), excluding primary residence.
+- ☐ **Professional certification** — Series 7, 65, or 82 in good standing.
+- ☐ **Entity** with > $5,000,000 in assets, or all equity owners accredited.
+- ☐ **Other:** _______________________________________________
 
 _Signature:_ __________________________  _Name:_ ______________  _Date:_ ___________
-_The Company may request supporting documentation to verify accreditation._
+_The Company may request documentation to verify accreditation._
 
-## EXHIBIT B — Selected Risk Factors (summary — not exhaustive)
-Illustrative and non-exhaustive; to be finalized with counsel.
-1. **Startup / total-loss risk.** The Company is early-stage; you may lose your entire investment.
-2. **No control.** Class A Members have no voting rights or board seat; the Manager controls all decisions.
-3. **Illiquidity.** No public market; Units are restricted and transfer-limited.
-4. **Speculative projections.** All models/returns are illustrative and unguaranteed; the revenue-share and SPV economics may not materialize.
-5. **Regulatory / NCAA risk.** The business depends on evolving NCAA/NIL rules and college-sports regulation, which may change adversely.
-6. **Dependence on key persons and third parties** (celebrities, schools, streamers, capital partners), none of which are assured.
-7. **Dilution / future capital needs.** The Company may need additional capital; the SPV/parent structure may change.
-8. **Return-of-capital right is limited** to available/undeployed cash and may not return your full investment.
+## EXHIBIT B — Selected Risk Factors (summary; not exhaustive)
+1. **Startup / total-loss risk.**
+2. **No control** — Class A carries 1 vote; Norman's Class B (10 votes) controls the Company and Board.
+3. **Illiquidity** — restricted stock, no public market, transfer-limited.
+4. **Speculative projections** — the revenue share and SPV economics may not materialize; the ~13.47× is illustrative and unguaranteed.
+5. **Regulatory / NCAA-NIL risk.**
+6. **Dependence on key persons and third parties** (celebrities, schools, streamers, capital partners).
+7. **Dilution / future capital needs.**
+8. **Return-of-capital right is limited** to available/undeployed cash and may not return the full investment.
+9. **Structure risk** — the revenue-share economics may be documented as a separate agreement or a preferred series; final terms subject to definitive documentation and counsel.
