@@ -33,16 +33,18 @@ This Amended and Restated Operating Agreement (this "**Agreement**") is made as 
 3.6 **Additional Call.** The Company may raise an **additional $1,500,000 on the same terms** following the initial close. **[Specify the mechanics: whether the second tranche issues an additional 15% of Class A Units (diluting Class B to ~70%) or converts at a stated valuation; and whether existing Class A Members have pre-emptive/pro-rata participation rights. CONFIRM.]**
 
 ## ARTICLE 4 — DISTRIBUTIONS
-4.1 **Distributions to Class A (revenue share + permanent equity).** Consistent with the one-pager:
+4.1 **Distributions to Class A (revenue share + permanent equity).** Implementing the one-pager as written — the revenue share is a **temporary preferred return paid IN ADDITION TO the permanent 15% equity:**
 
-**(a) Investor Revenue Share (temporary).** The Company shall distribute to the Class A Members, pro rata:
-&nbsp;&nbsp;(i) **fifty percent (50%)** of **Gross Cash Revenue** collected, until cumulative distributions to the Class A Members equal **one times (1.0×)** their aggregate Capital Contributions; then
-&nbsp;&nbsp;(ii) **ten percent (10%)** of Gross Cash Revenue collected, until cumulative distributions equal **two times (2.0×)** their aggregate Capital Contributions;
-&nbsp;&nbsp;whereupon **the revenue share terminates** and no further revenue-share distributions are made under this Section 4.1(a).
+**(a) Investor Revenue Share (temporary, additive).** In addition to the permanent equity distributions under Section 4.1(b), the Company shall distribute to the Class A Members, pro rata:
+&nbsp;&nbsp;(i) **fifty percent (50%)** of **Gross Cash Revenue** collected, until cumulative **revenue-share** distributions to the Class A Members equal **one times (1.0×)** their aggregate Capital Contributions; then
+&nbsp;&nbsp;(ii) **ten percent (10%)** of Gross Cash Revenue collected, until cumulative **revenue-share** distributions equal **two times (2.0×)** their aggregate Capital Contributions;
+&nbsp;&nbsp;whereupon **the revenue share terminates** and no further distributions are made under this Section 4.1(a).
 
-**(b) Permanent Equity (uncapped).** The Class A Members' **15% Percentage Interest is permanent.** All other distributions of Distributable Cash are made to all Members pro rata by Percentage Interest (Class A 15% / Class B 85%), without cap.
+**(b) Permanent Equity (uncapped).** The Class A Members' **15% Percentage Interest is permanent.** Distributions of Distributable Cash are made to all Members pro rata by Percentage Interest (Class A 15% / Class B 85%), without cap, **at all times** — before, during, and after the revenue-share period.
 
-> **⚠️ KEY OPEN TERM — reconcile with the model and the one-pager.** As drafted (primary), the revenue-share amounts in 4.1(a) are an **advance credited against** the Class A Members' permanent 15% distributions under 4.1(b) — i.e., **faster money, same lifetime total ≈ 15%** (the **~11× MOIC** in the model). **ALTERNATIVE (investor-favorable, and a plausible reading of the one-pager):** 4.1(a) is **additive** — Class A receives the revenue-share sweeps **in addition to** 15% pro-rata during the pre-2× period — which pays Class A **more than 15%** overall. **These compute very different numbers; pick one and conform the one-pager, this Agreement, and the model to it.** Note: the sweep is measured on **Gross Cash Revenue (top-line, cash basis)**, which pays Investors before the Company covers its costs — intentional per the one-pager, but cash-flow-intensive.
+> **⚠️ NOTE (for the model, not a drafting choice).** This implements the **one-pager reading**: the 4.1(a) revenue share is **additive** to the permanent 15% equity, not credited against it. Consequence: Class A lifetime economics **exceed 15% of total** distributions, so the investor MOIC is **higher than the ~11× currently shown in the financial model** (the model computes a flat 15% and therefore understates the investor return and overstates ManCo's share). **Conform the model to this additive structure.**
+>
+> **[Counsel:** define **Gross Cash Revenue** (4.1(a) sweep basis) vs. **Distributable Cash** (4.1(b) equity basis) precisely so the two streams are intentional and not an unintended double-count of the same dollars.**]**
 
 4.2 **Tax Distributions.** The Manager may (but is not required to) distribute amounts to cover Members' tax liability on allocated income, pro rata. **[Confirm whether mandatory.]**
 4.3 **Withholding.** Amounts withheld and remitted for a Member are treated as distributed to that Member.
