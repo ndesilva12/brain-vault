@@ -121,12 +121,40 @@ Made ***Welcome to Wrexham*, *Last Chance U*, *Last Chance U: Basketball*, *Chee
 
 ---
 
+## 6b. Mike Stein call — 2026-08-28 (outcomes)
+
+**Stein's positions:** loves the concept; **not high on Kevin Hart** — believes **Curry/Davidson alone is enough** and a more authentic connection than a bigger, broader celebrity. **Agreed the EWS shopping agreement is unnecessary** (third independent professional to say so, after Deirdre and Nikki). Willing to help without asking for anything yet. Recommends **lining up all buyer meetings and going in with Steph visibly committed.**
+
+**→ MICHAEL TOLLIN (Stein offered the intro — highest-value connection to date).**
+- **Executive Producer of *The Last Dance*** (with ESPN Films, Netflix, NBA Entertainment, Jump 23). The most relevant credit in basketball-doc history — same genre, same buyers.
+- **Co-chairman, Mandalay Sports Media** (formed 2012 with **Peter Guber**). **Guber co-owns the Golden State Warriors** — a structural, peer-level line into Curry's ownership world.
+- EP, ***The Captain*** (Jeter/ESPN). **3 Emmys, 2 Peabodys, Oscar nomination.**
+- Formerly Tollin/Robbins: ***Varsity Blues*, *Coach Carter*, *Radio*, *Hardball*** — a career of underdog sports stories.
+- **Very close with Bill Simmons** (Holy Cross target row; The Ringer; central to 30 for 30's creation) — both a celebrity path and an amplification path.
+- **Apply the same IP redlines** — Mandalay will want a producing role. But note: top-tier producers typically need the IP *less* than mid-tier ones and add far more name value.
+
+**→ DAVID SHERMAN play.** Stein is close with Sherman (WME; agent for Unanimous). Proposes a casual check-in — introduced by a friend, likes the idea, *not* representing that MC is being shopped. **Take it.** **The prize is intelligence, not blessing:** Erick Peyton said Unanimous "would never do an LOI for any project," so **Curry's real commitment level is unknown and soft.** Stein's whole strategy depends on Steph being lockable — have him find out how real it is.
+⚠️ **Sherman's "make it first before shopping" advice is partly self-serving** — self-financing means Curry takes zero risk and Unanimous keeps maximum leverage. Good advice for Curry; not obviously good for MC, since buyer money is what avoids funding a season from the SPV.
+
+### DECISION — how to present talent to buyers
+**Lock Curry/Davidson as the flagship. Do NOT go in unattached.** "We could attach a celebrity" is worth ~nothing; "Steph Curry at his own alma mater" is why anyone takes the meeting. Optionality is a luxury of those who already have leverage — Curry *is* the leverage.
+
+**Framing that preserves buyer agency without giving up the anchor:**
+> *"Season 1 is locked — Curry at Davidson. Behind it: Foxx/North Texas, Sandler/UNH, and others. We'd love your input on Seasons 2 and 3."*
+
+- **HBO is the exception** (Bentley wants an unknown school): *"The franchise launches with Curry/Davidson — the school in our slate that fits your brief is Chicago State / CSUN."* Same franchise, different entry point.
+- **Craft note:** Stein optimizes to sell a **show**; MC is building a **franchise business**. Don't choose — **lead with the show (Curry/Davidson, clean and complete), reveal the franchise second.** Opening with six celebrity names reads unfocused. This is also why Stein's coolness on Hart isn't wrong: Hart doesn't improve the *Curry story*, he improves the *franchise story* — a different slide.
+
+---
+
 ## 7. Open items
 
-1. Send EWS **threshold items (ownership + true reversion)** and add the **"Created by Norman de Silva," first position** credit ask.
-2. **Take the HBO meeting on schedule, unattached.**
-3. Open **Boardwalk** via Josh and/or Sunjay→Reynolds' rep, in parallel, before responding further to EWS.
-4. Consolidate the **two Foxx channels** (CAA/Rick Lucas vs. manager).
-5. Verify **Amazon's** post-Newman sports-doc lead.
-6. Decide whether Mike Stein has a role (EP / production partner without IP claims).
-7. LinkedIn: export `Connections.csv` and cross-reference against Boardwalk and adjacent shops (no LinkedIn connector available to Claude).
+1. **Take the Michael Tollin intro from Mike Stein — top priority.**
+2. Have Stein run the **casual Sherman check-in** to read Curry's true commitment level before scheduling buyer meetings.
+3. Send EWS **threshold items (ownership + true reversion)** and add the **"Created by Norman de Silva," first position** credit ask.
+4. **Take the HBO meeting on schedule** — unattached to a production company, but WITH Curry/Davidson as the locked flagship.
+5. Open **Boardwalk** via Josh and/or Sunjay→Reynolds' rep, in parallel, before responding further to EWS.
+6. Consolidate the **two Foxx channels** (CAA/Rick Lucas vs. manager).
+7. Verify **Amazon's** post-Newman sports-doc lead.
+8. Decide whether Mike Stein has a role (EP / production partner without IP claims).
+9. LinkedIn: export `Connections.csv` and cross-reference against Boardwalk and adjacent shops (no LinkedIn connector available to Claude).
