@@ -158,6 +158,23 @@ Norman wants to keep as the dedicated China thread rather than over-concentrate 
 
 ### Business stakeholders
 
+> ⚠️ **CURRENT WORKING STATE (Aug 2026) — read first:**
+> `Process/2026-08-28-partner-buyer-landscape-and-network-map.md`
+> Covers the **EverWonder shopping-agreement negotiation** (nothing signed; their paper
+> demands full IP assignment — see `legal/2026-08-27-everwonder-counter-redline-memo.md`),
+> the **buyer executive map** (Netflix/Apple/Amazon/FX/Hulu/Paramount/HBO with named
+> targets), the **production-company ranking** (Boardwalk Pictures = priority target,
+> EverWonder ≈ #25), and the **network map** (Gerry Corcoran, Walid Samaha, Mike Stein,
+> Nikki Stier Justice, Josh/Straylight, Deirdre Fenton — independent).
+>
+> **Standing decisions:** go to HBO independently and now; no party may represent
+> attachment before signature; Norman assigns schools (partners bring names only);
+> keep multiple buyers live for competitive tension.
+>
+> **Celebrity deltas:** Wahlberg **NO** (Levinson killed it) · **Jamie Foxx LIVE** — best
+> current target, pair with **North Texas** (Terrell TX roots) for commercial buyers,
+> **CSUN/LMU** for HBO · Snoop→Long Beach State · Ice Cube (BIG3) · Sandler warming.
+
 |Party|Role|Key Contact|Status|
 |---|---|---|---|
 |The Chernin Group (TCG)|Lead funding + development|Peter Chernin, Jesse Jacobs|Engaged|
