@@ -1,10 +1,12 @@
 **DRAFT — FOR DISCUSSION ONLY — NOT LEGAL ADVICE**
-_Working draft, 2026-08-29. For review with Loeb & Loeb (Brian Socolow) before any use or circulation. Bracketed items **[LIKE THIS]** need confirmation. This is a **conditional definitive agreement**, deliberately NOT a letter of intent._
+_Working draft, 2026-08-29. For review with Loeb & Loeb (Brian Socolow) before any use or circulation. Bracketed items **[LIKE THIS]** need confirmation._
 
-# CONDITIONAL TALENT ATTACHMENT AGREEMENT
-### Davidson Project — *Making Cinderella*
+_**Note on form:** this is styled as a term sheet because that is the native vocabulary of talent deals and the easiest document to get signed — but it is **deliberately not a letter of intent**. Section 2 (Binding Effect) makes the specified provisions legally binding on execution and the remainder binding on the Trigger Date, notwithstanding the "Term Sheet" caption._
 
-This Conditional Talent Attachment Agreement (this "**Agreement**") is entered into as of **[____], 2026** (the "**Effective Date**") by and among:
+# TERM SHEET — DAVIDSON PROJECT
+### Talent Attachment · *Making Cinderella*
+
+This Term Sheet (this "**Term Sheet**") is entered into as of **[____], 2026** (the "**Effective Date**") by and among:
 
 - **Cinderella Corp.**, a Delaware corporation ("**Cinderella**" or the "**Company**");
 - **[Davidson SPV Name], LLC**, a Delaware limited liability company formed to develop, finance, and produce the Davidson Project (the "**SPV**"); and
@@ -18,7 +20,7 @@ This Conditional Talent Attachment Agreement (this "**Agreement**") is entered i
 
 **B.** The parties wish to document the terms on which Talent will attach to **one specific project within that franchise — the Davidson Project** — while providing each party the protections it requires before obligations become binding.
 
-**C.** The parties acknowledge that (i) Talent requires confirmation that financing for the Davidson Project is real and committed, and (ii) the prospective capital partner requires confirmation of Talent's genuine attachment and commitment of time. **This Agreement is structured to satisfy both conditions simultaneously and to eliminate the circularity that has delayed the Davidson Project.**
+**C.** The parties acknowledge that (i) Talent requires confirmation that financing for the Davidson Project is real and committed, and (ii) the prospective capital partner requires confirmation of Talent's genuine attachment and commitment of time. **This Term Sheet is structured to satisfy both conditions simultaneously and to eliminate the circularity that has delayed the Davidson Project.**
 
 ---
 
@@ -40,9 +42,11 @@ This Conditional Talent Attachment Agreement (this "**Agreement**") is entered i
 
 ---
 
-## 2. CONDITIONAL NATURE OF THIS AGREEMENT — THE CORE MECHANIC
+## 2. BINDING EFFECT — THE CORE MECHANIC
 
-**2.1 Conditions to Effectiveness.** Except for Sections 2, 9, 10, 11 and 12 (which are binding on execution), **the obligations of every party under this Agreement become binding and effective only upon the Trigger Date.**
+**2.0 Intent to be bound.** Notwithstanding the caption "Term Sheet," **the parties intend the provisions identified in Section 2.1 to be legally binding and enforceable upon execution**, and the remainder to become legally binding and enforceable upon the Trigger Date. This Term Sheet is **not** a letter of intent, an agreement to agree, or a statement of non-binding intent.
+
+**2.1 Provisions binding on execution.** The following bind each party immediately upon execution: **Section 2** (Binding Effect), **Section 2.2** (Mutual Obligations Prior to the Trigger Date), **Section 9** (Confidentiality), **Section 10** (Non-Circumvention), and **Section 12** (General). All other provisions — including Sections 3 through 8 and 11 — **become binding and effective only upon the Trigger Date.**
 
 **2.2 Mutual Obligations Prior to the Trigger Date.** Between the Effective Date and the Outside Date:
 
@@ -50,23 +54,23 @@ This Conditional Talent Attachment Agreement (this "**Agreement**") is entered i
 
 &nbsp;&nbsp;**(b) Cinderella** shall use commercially reasonable efforts to (i) convene the Confirmation Meeting and (ii) obtain and deliver Financing Confirmation.
 
-&nbsp;&nbsp;**(c)** Cinderella may present this Agreement, and Talent's conditional attachment to the Davidson Project, to prospective distribution partners, capital partners, sponsors, and institutions — **provided** that any such presentation accurately describes the attachment as **conditional** and subject to the terms hereof.
+&nbsp;&nbsp;**(c)** Cinderella may present this Term Sheet, and Talent's conditional attachment to the Davidson Project, to prospective distribution partners, capital partners, sponsors, and institutions — **provided** that any such presentation accurately describes the attachment as **conditional** and subject to the terms hereof.
 
-**2.3 Automatic Termination — Mutual.** If the Trigger Date has not occurred on or before the **Outside Date**, this Agreement **terminates automatically and in its entirety**, without liability to any party, and each party is released from all obligations hereunder. Neither party bears the risk alone: **Talent is not bound if the money never confirms, and the Capital Partner is not bound if Talent never confirms.**
+**2.3 Automatic Termination — Mutual.** If the Trigger Date has not occurred on or before the **Outside Date**, this Term Sheet **terminates automatically and in its entirety**, without liability to any party, and each party is released from all obligations hereunder. Neither party bears the risk alone: **Talent is not bound if the money never confirms, and the Capital Partner is not bound if Talent never confirms.**
 
 **2.4 Extension.** The Outside Date may be extended once, by up to **[ninety (90)] days**, by mutual written agreement.
 
-**2.5 No Obligation to Proceed.** Nothing in this Agreement obligates the Capital Partner to fund, or Cinderella to proceed with, the Davidson Project.
+**2.5 No Obligation to Proceed.** Nothing in this Term Sheet obligates the Capital Partner to fund, or Cinderella to proceed with, the Davidson Project.
 
 ---
 
 ## 3. SCOPE — THE DAVIDSON PROJECT ONLY
 
-**3.1 Attachment is project-specific.** Talent attaches solely to the **Davidson Project**. This Agreement does not attach Talent to, and confers no rights or obligations with respect to, the **Franchise** or any other project, school, season, or special purpose vehicle.
+**3.1 Attachment is project-specific.** Talent attaches solely to the **Davidson Project**. This Term Sheet does not attach Talent to, and confers no rights or obligations with respect to, the **Franchise** or any other project, school, season, or special purpose vehicle.
 
 **3.2 No franchise or format rights.** Talent and Unanimous acquire no right, title, or interest in the *Making Cinderella* format, brand, trademarks, or franchise intellectual property, all of which are and remain the exclusive property of Cinderella Corp.
 
-**3.3 Cinderella's freedom to operate.** Nothing in this Agreement restricts Cinderella from developing, financing, producing, or exploiting any other project under the Franchise, with any other talent, at any other institution, **including concurrently with the Davidson Project**, and including projects that may be presented to or ordered by a distribution partner before the Davidson Project.
+**3.3 Cinderella's freedom to operate.** Nothing in this Term Sheet restricts Cinderella from developing, financing, producing, or exploiting any other project under the Franchise, with any other talent, at any other institution, **including concurrently with the Davidson Project**, and including projects that may be presented to or ordered by a distribution partner before the Davidson Project.
 
 **3.4 Sequencing.** The Davidson Project is not designated as the first season, launch title, or any particular position within the Franchise, and Cinderella retains sole discretion over the sequencing of Franchise projects.
 
@@ -135,7 +139,7 @@ This Conditional Talent Attachment Agreement (this "**Agreement**") is entered i
 
 ## 9. CONFIDENTIALITY
 
-Each party shall hold the terms of this Agreement and all non-public information of the others in confidence, subject to disclosure to professional advisors, prospective capital partners, distributors, and institutions on a need-to-know basis under equivalent obligations, or as required by law. **Binding on execution.**
+Each party shall hold the terms of this Term Sheet and all non-public information of the others in confidence, subject to disclosure to professional advisors, prospective capital partners, distributors, and institutions on a need-to-know basis under equivalent obligations, or as required by law. **Binding on execution.**
 
 ---
 
@@ -147,7 +151,7 @@ For **[twenty-four (24)] months** following the Effective Date, no party shall c
 
 ## 11. LONG-FORM AGREEMENT
 
-The parties shall negotiate in good faith and execute a long-form agreement consistent with these terms within **[forty-five (45)] days** following the Trigger Date. **Until superseded, this Agreement governs and, from the Trigger Date, is binding and enforceable in accordance with its terms.**
+The parties shall negotiate in good faith and execute a long-form agreement consistent with these terms within **[forty-five (45)] days** following the Trigger Date. **Until superseded, this Term Sheet governs and, from the Trigger Date, is binding and enforceable in accordance with its terms.**
 
 ---
 
@@ -155,7 +159,7 @@ The parties shall negotiate in good faith and execute a long-form agreement cons
 
 **12.1 Governing Law.** **[Delaware / California — confirm]**, without regard to conflicts of law principles.
 **12.2 Assignment.** Cinderella may assign to the SPV or an affiliate. Talent and Unanimous may not assign without consent.
-**12.3 Entire Agreement; Amendment.** This Agreement is the entire agreement on its subject matter and may be amended only in a writing signed by all parties.
+**12.3 Entire Agreement; Amendment.** This Term Sheet is the entire agreement on its subject matter and may be amended only in a writing signed by all parties.
 **12.4 Counterparts; Electronic Signature.** Permitted.
 **12.5 No Partnership.** Nothing herein creates a partnership, joint venture, or employment relationship.
 
@@ -176,6 +180,7 @@ __________________________  Date: __________
 ---
 
 ### Checklist before use (for counsel)
+0. **Confirm the "Term Sheet" caption does not undercut enforceability** — §2.0/§2.1 are drafted to make the intent express; verify under governing law.
 1. **§2 is the whole point** — confirm the mutual, time-boxed contingency is enforceable as drafted and that the pre-Trigger obligations (Confirmation Meeting, standstill) are binding while the balance is not.
 2. **§3 scoping** — the single most important business term. Verify nothing elsewhere in the document inadvertently attaches Talent to the Franchise.
 3. Set the **Financing Confirmation threshold ($)**, the **Outside Date**, the **cash fee**, and the **SPV equity %**.

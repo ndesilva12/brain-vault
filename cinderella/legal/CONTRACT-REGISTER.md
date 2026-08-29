@@ -43,7 +43,7 @@ _Master list of every agreement the structure requires. Status as of 2026-08-29.
 
 | # | Agreement | Parties | Status | File |
 |---|---|---|---|---|
-| 3.1 | **Conditional Talent Attachment** ⭐ | Cinderella / SPV ↔ Unanimous + Curry | ✅ Drafted | `2026-08-29-curry-conditional-attachment-agreement.md` |
+| 3.1 | **Term Sheet — Davidson Project (talent attachment)** ⭐ | Cinderella / SPV ↔ Unanimous + Curry | ✅ Drafted. Styled as a term sheet for signability; §2 Binding Effect makes it enforceable notwithstanding the caption | `2026-08-29-curry-conditional-attachment-agreement.md` |
 | 3.2 | **Long-form Talent Services Agreement** | SPV ↔ talent loan-out | ❌ Follows the Trigger Date (45 days per §11) | — |
 | 3.3 | **Talent Inducement Letter** | Individual talent (personal) | ❌ Accompanies 3.2 — talent personally guarantees the loan-out's performance | — |
 | 3.4 | **Producer Agreement — talent's prodco** (e.g. Unanimous) | SPV ↔ prodco | ❌ **Keep SEPARATE from 3.2.** Davidson project only; no Franchise or format rights | — |
