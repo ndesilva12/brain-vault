@@ -169,7 +169,15 @@ Made ***Welcome to Wrexham*, *Last Chance U*, *Last Chance U: Basketball*, *Chee
 
 ⚠️ **Representation discipline.** TCG is **conditional**, not committed, capital. Prior outbound has said "funded @ $15mm by TCG" and "raised ~$45M." Going forward, state only what's provable: **signed LOIs from Davidson and St. Joseph's, active capital discussions, Curry engaged via Unanimous.**
 
-💡 **Strategic escape from the circularity:** if Curry needs proof of money and TCG needs proof of Curry, the cleanest break is **money that isn't TCG** — closing the $1.5M parent round, or confirmation from Ankur's track or RedBird. That collapses the loop *and* removes the free option TCG currently holds.
+💡 **Strategic escape from the circularity — at the RIGHT capital layer.** If Curry needs proof of money and TCG needs proof of Curry, the break is **an alternative at SPV scale ($12–15M)**. ⚠️ **The $1.5M parent round does NOT satisfy this** — Unanimous is asking about roster financing, not parent working capital; the two layers are not interchangeable. (The parent round is still worth closing: it funds procurement/legal/travel and removes the runway pressure that weakens every negotiation — but it is not proof of SPV money.)
+
+What actually answers Unanimous, in order of likely impact:
+1. **A streamer's expressed commitment.** Curry's real question is probably *"is this going to be a show on a real platform,"* more than *"is there money."* A serious Netflix/HBO signal answers it better than a balance sheet — and the conditional attachment agreement exists precisely to get those meetings without needing TCG first.
+2. **RedBird** — already active on the franchise-fee + SPV-backstop structure; the most direct TCG substitute.
+3. **Ankur's Tabor / self-funded SPV path** (vault Path 1: sponsors up to ~$12M + streamer production advance, no PE in the SPV).
+4. **A signed presenting sponsor** (~$5M in the model) — SPV-scale proof requiring nobody's permission, and aligned with Sunjay's Track A milestone.
+
+**Principle that still holds:** being single-sourced on capital is what prices MC in every negotiation (EWS on IP, TCG on time, finders on equity). The fix is a **second credible $12–15M path or a buyer signal** — not the parent round.
 
 ---
 
