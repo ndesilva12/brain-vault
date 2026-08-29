@@ -147,6 +147,32 @@ Made ***Welcome to Wrexham*, *Last Chance U*, *Last Chance U: Basketball*, *Chee
 
 ---
 
+## 6c. THE CURRY ↔ TCG STANDOFF (uncovered by Stein via David Sherman, 2026-08-28)
+
+**The finding — this is the central blocker on the whole project:**
+- **Unanimous / Curry's side** believes it hasn't moved forward because **the money (The Chernin Group) isn't truly committed.**
+- **TCG** believes it hasn't moved forward because **there is no genuinely attached celebrity or school** — they've sought an in-person meeting with Curry and confirmation he'll commit real time and effort, and haven't gotten it. TCG has seen the financials and discussed with Sherman, and still won't commit without that confirmation.
+- **Each side is waiting for proof of the other. Neither has walked away.** Norman is the only party who can see both sides.
+- Stein's read: **no indication either side is trying to cut Norman out.**
+
+**→ This is a coordination failure, not a rejection. Solvable.**
+
+**Stein's proposal:** paper a deal with Curry/Unanimous/Davidson that is **contingent on TCG getting the confirmation it needs** — giving MC a tangible attachment for buyer meetings, which TCG can dissolve if never satisfied.
+
+**Assessment / required fixes:**
+1. ⚠️ **As framed, Curry signs while TCG keeps a free option.** Unanimous will see that instantly. **Make the contingency MUTUAL and time-boxed** — binding on financing confirmation by a **date certain**, dissolving for everyone if missed. Creates the deadline a standoff needs.
+2. ⚠️ **Do not go back with an LOI** — Peyton already said Unanimous "would never do an LOI for any project." An LOI is a soft one-way commitment with no upside. Instead offer a **conditional DEFINITIVE agreement**: real equity, fee, and services terms that simply don't trigger until financing confirms. More protective of Curry than an LOI, and a different conversation.
+3. ✅ **CRITICAL DRAFTING POINT — attach Curry to the DAVIDSON SPV, not to the project, the franchise, or "Season 1."** Paper must mirror the multi-SPV business model. Scoped that way, a buyer preferring a different celebrity/school creates no conflict (different SPV). "Season 1" language breaks if a buyer wants to launch elsewhere; "the Davidson project" does not.
+4. **Risk of being "locked into Curry" is overweighted.** He is a genuine Davidson alum and *is* the Cinderella run. The likelihood a buyer prefers someone else is far lower than the near-certain cost of arriving with nothing attached.
+
+**Complementary move:** **broker a direct Jesse Jacobs (TCG) ↔ Erick Peyton (Unanimous) conversation.** The standoff persists *because* both sides only hear about each other through Norman. TCG has explicitly asked for this. Non-circumvention framework covers the exposure; the standoff costs more than the risk.
+
+⚠️ **Representation discipline.** TCG is **conditional**, not committed, capital. Prior outbound has said "funded @ $15mm by TCG" and "raised ~$45M." Going forward, state only what's provable: **signed LOIs from Davidson and St. Joseph's, active capital discussions, Curry engaged via Unanimous.**
+
+💡 **Strategic escape from the circularity:** if Curry needs proof of money and TCG needs proof of Curry, the cleanest break is **money that isn't TCG** — closing the $1.5M parent round, or confirmation from Ankur's track or RedBird. That collapses the loop *and* removes the free option TCG currently holds.
+
+---
+
 ## 7. Open items
 
 1. **Take the Michael Tollin intro from Mike Stein — top priority.**
