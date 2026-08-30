@@ -8,7 +8,7 @@
 
 The format pairs celebrities with schools through **authentic connections** (alma mater, regional roots, adopted-city narratives), injects private capital to drive program transformation, and captures the season as a premium documentary series. Returns come from streaming licensing, sponsorships, NIL commissions, and media rights.
 
-**Norman's role:** Operational lead — EVP of Basketball Operations / GM role in any deal structure. His moat is the combination of NBA scouting background (Celtics, Spurs, Rockets, 76ers), coaching experience, Babson finance training, and the franchise IP architecture he's built.
+**Norman's role:** Operational lead **at the parent company** — basketball operations / GM function for the franchise, **employed by Cinderella Corp and never by a school or an SPV** (see "Norman's operational role" under Legal & compliance; he mentors and advises but does not recruit). His moat is the combination of NBA scouting background (Celtics, Spurs, Rockets, 76ers), coaching experience, Babson finance training, and the franchise IP architecture he's built.
 
 **Pitch materials:** cinderella.short.gy/deck and cinderella.short.gy/video
 
@@ -225,9 +225,40 @@ Rebecca Gitlitz's casual "flat 10% fee" framing is the kind of structural signal
 - New York governing law
 - **Note:** The Word doc reference path from the project memory (`/mnt/user-data/outputs/Cinderella_Corp_Mutual_NDA_Template.docx`) is from a prior Claude session environment, not local disk. If Norman doesn't have the file locally, it needs to be regenerated or downloaded.
 
-### Norman's operational role — protection strategy
+### Norman's operational role — parent-co employee, never a school employee
 
-Best structured as a **university employee position** with hiring protected through **"good faith consideration"** language in partnership agreements — NOT hard contractual requirements that could draw NCAA scrutiny.
+> **Corrected 2026-08-30.** This section previously read *"best structured as a university
+> employee position."* **That was wrong and is superseded.** The governing statement is
+> `Outputs/2026-07-24-structuring-principles-for-loeb.md` §§ G and H.
+
+- **Employer: Cinderella Corp, and only Cinderella Corp.** Norman takes **no school-employee
+  and no school-consultant role at any MC school.** Doing so would put him on both sides of the
+  MC↔school transaction and re-collapse institutional control (§17). **Title is irrelevant** to
+  this analysis — "consultant" and "GM" fail the same way (§18).
+- **Paid per school, but through the parent.** SPV compensation reaches him via the
+  **Management Services Agreement** (SPV → Cinderella Corp, Register 2.4); the parent then pays
+  his salary. **Never a direct SPV or school employment relationship.** One employer means no
+  divided loyalty across competing MC schools (§18). Economically identical to being "paid by
+  the SPV," structurally much safer.
+- **Permitted:** sanctioned, disclosed basketball advisor/mentor to **enrolled** student-athletes
+  — game, mindset, NBA/draft development, performance. **Expertise and time, not benefits** (§20).
+  Speaking with the existing team and staff, mentoring, and offering advice are all fine.
+- **Prohibited:** contacting not-yet-committed prospects; evaluating or opining on specific
+  unsigned prospects **even if the staff shares its target list first** (direction of information
+  does not cleanse it); acting as a player agent for compensation; tying marketability guidance
+  to compensation or using it as an inducement (§§20, 24). The permissible lane is **general
+  team-building philosophy** — archetypes and positions — with the staff mapping philosophy to
+  specific names privately.
+- **Evaluator/checkbook separation:** walled off from comp-setting and pricing (§19). Note this
+  is an institutional-control measure — it does **not** insulate him from being a principal of
+  the paying entity (which is permitted). The payment defense rests on FMV + MC independence +
+  school control.
+- **On screen:** evaluator / storyteller / mentor only. **Never depicted** pricing players,
+  directing roster or pay decisions, or touching any compensation mechanism. MC reserves approval
+  over the portrayal and **compliance counsel reads the cut** before release (§§21–23).
+
+**Open item:** the **Management Services Agreement (Register 2.4)** is the document that carries
+all of this, and it is **not yet drafted.**
 
 ---
 
