@@ -1,5 +1,22 @@
 # Dex Contact Sweep — Notable Names (Full Pass)
 
+> ## ⛔ THE HEADLINE BELOW IS WRONG — READ THE CORRECTION FIRST
+> **`2026-08-29-dex-sweep-CORRECTION-provenance.md`**
+>
+> A provenance audit found that **12 of the 13 "shortlist overlap" celebrities are Instagram
+> follows with no phone and no email** — not contacts. Only **Eli Thomas** and **Sebastian
+> Maniscalco** are real. The Instagram group is a *following* list; it contains ~20 fraternity
+> chapter accounts.
+>
+> The audit also found a filter error on my side: I wrongly discarded **3,014 real, reachable
+> contacts** whose names begin with the Dex prefix `Track `. Genuinely unusable records number
+> ~440, not ~3,456. The recovery includes **Bill Duffy** (Steve Nash's agent), **David
+> Preschlack** (President, NBC Sports), **Koby Altman**, **Tim Connelly**, **Austin Ainge**,
+> **Monty Williams** and **Chris Brickley**.
+>
+> **What survives and is stronger than framed here:** the athlete and NBA front-office lanes,
+> nearly all reachable by phone or email. Details in the correction file.
+
 _Run 2026-08-29 against the full Dex CSV export (12,106 rows). Cleaned to 8,650 plausible
 people → 8,304 unique records, every one read._
 
