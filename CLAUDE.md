@@ -8,6 +8,23 @@
 - **Public footprint:** Wikipedia page; documentary about China coaching stint 
   on Amazon Prime Video
 
+## Devices
+
+- **Primary device:** Windows.
+- **MacBook:** always on, always connected, accessible remotely anytime via 
+  **Chrome Remote Desktop**. Has an **external hard drive attached with 
+  valuable files/data.**
+- **Text message / iMessage data workflow:** I (Claude) have no direct 
+  access to Norman's Messages history — Dex's iMessage sync only surfaces 
+  interaction metadata (last-contacted dates), never message content. When 
+  Norman wants to mine his actual texts (e.g., searching `~/Library/
+  Messages/chat.db` for names/context), the workflow is: **I write the 
+  script here, he runs it himself on the MacBook** (locally, or remotely 
+  via Chrome Remote Desktop from the Windows machine) and feeds the output 
+  back into a session. I should not assume standing access to run it 
+  myself — get explicit go-ahead each time, per the external-actions rule 
+  above, since Messages/iMessage content is his most personal data source.
+
 ## Background
 NBA scout and basketball lifer with deep international experience:
 - University of New Haven (coaching/scouting)
