@@ -1,11 +1,26 @@
 # Dex CRM — Tagging Schema & Cinderella Import Plan
 _Prepared 2026-08-29. Ready to execute when the Dex connector reconnects (it dropped mid-session before writes could run)._
 
-## Observed state of Dex (as of 2026-08-29)
-- **Groups (7):** Coworkers 💼 · Family ❤ · Friends ⚽️ · Networking 🤝 · Facebook Friends 🤗 · Instagram Contacts 📷 · Mobile import on 2026-08-29 👥
+## Observed state of Dex (as of 2026-08-31, updated)
+- **Groups (11):** Coworkers 💼 · Family ❤ · Friends ⚽️ · Networking 🤝 · Facebook Friends 🤗 · Instagram Contacts 📷 · LinkedIn Connections 💼 · Mobile import on 2026-08-29 👥 · **iMessage Contacts 💬** (new — Norman synced iMessage/calls via the Dex Mac app on 2026-08-31) · **From Calendar 📅** and **From Email 📧** (new — auto-ingested from connected Google Calendar/Gmail).
 - **Tags:** none · **Custom fields:** none
 - Record shape available per contact: name, job title, company, **multiple phones w/ labels**, **multiple emails w/ labels**, **LinkedIn handle**, photo, location + lat/long, groups, tags, custom fields, `related_contacts`, notes timeline, starred, keep-in-touch cadence.
 - Searches for "Boardwalk" and "Netflix" returned **zero** — Dex holds Norman's own contacts only, not an industry map.
+
+### iMessage sync — actual capability (verified 2026-08-31, corrects an earlier wrong claim)
+`dex_list_group_contacts` on the iMessage Contacts group returns, per contact: `imessage_message_link`
+(an `imessage://<number>` deep link), `imessage_message_snippet` (**the literal text of the single most
+recent message** — e.g. `"You: I leave for the United States in 2 weeks..."` — including reaction text
+like `"Reacted 😂 to ..."`), and `imessage_last_message_at`. **This is real message content, not just a
+timestamp** — I first told Norman it was metadata-only and that was wrong; verify, don't assume, before
+stating a tool's limits.
+**The real boundary:** it's a **one-line preview of the latest message only**. `dex_get_contact` (the
+full record) does not carry this field, and `recent_notes` came back empty even with `include_notes:
+true` — there is no stored thread history and no message-search tool among the 49 Dex tools. For
+anything beyond "what was the last thing we texted about," the `~/Library/Messages/chat.db` script
+route (Norman runs it himself, per `CLAUDE.md`) is still the only path.
+**Privacy note:** snippets can be personal/non-business (first sample pulled was a 2017 dating message).
+Use for business network-mapping only; don't surface personal-life snippets back to Norman unprompted.
 
 **Find already surfaced:** **Eli Thomas** (Producer/Writer/Exec, **Happy Madison**) — `thomas@happymadison.net` bounced twice in outreach, but Dex holds a **mobile: 978-290-9186** and LinkedIn `eliasclarkthomas`. This is a live, unused second path to the **Adam Sandler / New Hampshire** pairing.
 
