@@ -80,6 +80,34 @@ crossed with "Welcome to Wrexham" storytelling. We fund a national championship 
 - **Be careful in group chats / messaging surfaces** — never speak as me 
   unauthorized.
 
+## Document delivery — standing rule
+
+**Hand me the file. Don't upload it to Drive.** I open documents in Drive myself.
+
+**The standard workflow:**
+1. Author or edit the source in the vault as markdown (git-tracked — this is the 
+   record of truth, and it happens anyway)
+2. A **script** converts it to `.docx` / `.xlsx` / `.pdf`
+3. Deliver the file directly in chat
+4. **No Drive upload** unless I ask for one
+
+**Why this is the rule.** Anything uploaded to Drive has to pass through context 
+inline. Binary files go as base64, which tokenizes at roughly **0.4 characters per 
+token** vs. ~4 for prose — about **10x worse per character**, on a payload already 
+33% inflated. Measured 2026-08-31: a 45KB `.xlsx` would have cost **~151,000 tokens** 
+to upload, versus **~2–5k** to generate with a script and hand over. A script-built 
+file never enters context at all — only the script does — and delivery takes a file 
+path, not the contents.
+
+Rough costs: **script → file → me ≈ 2–5k** · native Google Doc/Sheet via HTML or CSV 
+≈ **15–25k** · base64 upload of a binary ≈ **150–300k**.
+
+**Never base64 a binary into Drive.**
+
+**Exceptions I'll flag rather than assume** (still my call to approve): something 
+Loeb or a counterparty needs to comment in directly, something needing a live 
+shareable link, or something Claude will need to read back in a later session.
+
 ## What's in this repo
 
 - `CLAUDE.md` — this front-door file
