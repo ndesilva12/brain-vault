@@ -120,6 +120,20 @@ Made ***Welcome to Wrexham*, *Last Chance U*, *Last Chance U: Basketball*, *Chee
 - **Kevin Hart** — three channels now: **Boss Everline** (Hartbeat Ventures), **Walid Samaha** (Hartbeat Ventures, via Gerry), **Mike Stein** (ex-TV head, intel only). Note Ventures = investment arm; TV/content is a separate division.
 - **Kevin Garnett** (Furman — Mauldin/Greenville SC regional) and **Jack Harlow** (Louisville) — surfaced by Walid; both credible.
 
+## 6d. Jason Hodes / WME call — 2026-08-31 (went great; ongoing, meeting NYC week after next)
+
+**Format:** Hodes pushing names himself; conversation continuing, more names expected before the NYC meeting.
+
+**Hodes proposed: Russell Wilson (Richmond native).** Verified: grew up in **Richmond, VA**, attended **Collegiate School**, played basketball there too (not just football) — genuine hometown tie. **Currently WME for off-field rep** (since Sept 2024; on-field NFL agent is separate — David Mulugheta, Athletes First). Also repped by **Jonesworks** for PR — same firm as **Hodes' own wife, Stephanie Jones**. ⚠️ **University of Richmond is A-10** (same favorable-conference status as Davidson/St. Joe's) **but men's basketball won the A-10 tournament and reached the Round of 32 in 2021-22** — same trap as Brady/USF: real tie, but "never won" doesn't cleanly hold for an HBO-style pitch. Fine for a buyer that doesn't need that purity.
+
+**Norman's asks: Brady or The Rock, or broader WME connectivity (Damon/Affleck).**
+- **Brady** — already Hodes' own headline client (§6, Foxx section context / Hodes background note). Most direct ask of all.
+- **Dwayne Johnson ("The Rock") — confirmed current WME client**, [returned to the agency after a stint elsewhere](https://www.imdb.com/news/ni10245599/). Legitimate internal ask, not a reach.
+- **Damon / Affleck — confirmed still with Patrick Whitesell/WME** as of most recent reporting ([HR](https://www.hollywoodreporter.com/business/business-news/patrick-whitesell-ari-emanuel-wme-1236172966/)), **not** Range Media Partners. **Artists Equity is their own production/financing company** (Affleck CEO, Damon Chief Content Officer, RedBird-backed) — separate from personal talent representation, does not replace WME for acting reps.
+- ⭐ **BONUS FIND, not asked for: Denzel Washington is also a Whitesell/WME client**, per the same HR piece. Denzel is already on the vault's **Fordham** row, flagged *"top-tier, on-thesis"* — verified alum, verified basketball tie. That's now **4 shortlist names on one agent's roster** (Damon + Affleck on Northeastern, Denzel on Fordham). Worth naming to Hodes directly as a pattern, not just individual asks.
+
+⚠️ **LIVE QUESTION FOR THE CONTINUED CONVERSATION — Whitesell's own status at WME is unstable in current reporting.** One report has him **exiting** to run an NFL sports-management spinoff plus a Silver Lake-backed investment platform ([TheWrap](https://www.thewrap.com/patrick-whitesell-leaving-endeavor-wme-sports-ari-emanuel/)); another lists him as WME's **Executive Chairman**. If he's stepping back from day-to-day client work, whoever inherits Damon/Affleck/Denzel changes who Hodes actually needs to route you to. **Ask Hodes directly — he'd know the real-time internal picture better than any article.**
+
 ---
 
 ## 6b. Mike Stein call — 2026-08-28 (outcomes)
