@@ -8,6 +8,42 @@
 - **Public footprint:** Wikipedia page; documentary about China coaching stint 
   on Amazon Prime Video
 
+## Devices
+
+- **Primary device:** Windows.
+- **MacBook:** always on, always connected, accessible remotely anytime via 
+  **Chrome Remote Desktop**. Has an **external hard drive attached with 
+  valuable files/data.**
+- **Text message / iMessage data workflow (updated 2026-09-03 — supersedes the
+  earlier "no direct access" note).** Norman runs `imessage-dump.sh` on the
+  MacBook and lands the output in Google Drive → **`iMessage dumps`** folder:
+  - `imessage-latest.json` (~40KB) — rolling **most recent 24–48 hrs**, manually
+    refreshed, **overwritten each time**. Readable directly via Drive
+    `read_file_content`. **Read this at the start of any session where recent
+    context matters.**
+  - `imessage-6mo.json` (~4.7MB) — six-month backlog. **Too large to pull through
+    Drive in one read** (base64 through context would cost ~1M+ tokens). Needs
+    chunking or a local copy to be searchable.
+  - `imessage-dump.sh` + `com.norman.imessage-dump.plist` — the generator and its
+    scheduler.
+  - ⚠️ **HARD LIMIT — I have no memory between sessions.** Once `imessage-latest.json`
+    is overwritten, that content is **gone to me** unless it was written into this
+    git vault first. "Just remember it" is not something I can do. **The persistence
+    rule: whenever I read the latest dump, I distill anything deal-relevant into the
+    vault in the same session** — working-state files for substance, `Inputs/` for raw
+    capture. The vault is the memory; the Drive file is only a window.
+  - Privacy: this is Norman's most personal data source. Business/network use only;
+    don't surface personal-life content back to him unprompted.
+
+## What Norman calls me
+
+**Jimmy.** (As of 2026-09-03. Also the handle `@jimmydesilva` on his Inkbox
+iMessage bridge, +1 917-984-4907 — a separate surface from Claude Code sessions.)
+There is a private lookup index in Drive → **`Jimmy network`** (README + `search.py`),
+but note the actual JSON indexes it describes (`sweep-index.json`, `ncd-index.json`)
+live on a *different* machine's local disk — **they are not in Drive and not reachable
+from a Claude Code session.** Only the README and the script are.
+
 ## Background
 NBA scout and basketball lifer with deep international experience:
 - University of New Haven (coaching/scouting)
@@ -79,6 +115,34 @@ crossed with "Welcome to Wrexham" storytelling. We fund a national championship 
 - **Notion "Why" note** is never to be edited.
 - **Be careful in group chats / messaging surfaces** — never speak as me 
   unauthorized.
+
+## Document delivery — standing rule
+
+**Hand me the file. Don't upload it to Drive.** I open documents in Drive myself.
+
+**The standard workflow:**
+1. Author or edit the source in the vault as markdown (git-tracked — this is the 
+   record of truth, and it happens anyway)
+2. A **script** converts it to `.docx` / `.xlsx` / `.pdf`
+3. Deliver the file directly in chat
+4. **No Drive upload** unless I ask for one
+
+**Why this is the rule.** Anything uploaded to Drive has to pass through context 
+inline. Binary files go as base64, which tokenizes at roughly **0.4 characters per 
+token** vs. ~4 for prose — about **10x worse per character**, on a payload already 
+33% inflated. Measured 2026-08-31: a 45KB `.xlsx` would have cost **~151,000 tokens** 
+to upload, versus **~2–5k** to generate with a script and hand over. A script-built 
+file never enters context at all — only the script does — and delivery takes a file 
+path, not the contents.
+
+Rough costs: **script → file → me ≈ 2–5k** · native Google Doc/Sheet via HTML or CSV 
+≈ **15–25k** · base64 upload of a binary ≈ **150–300k**.
+
+**Never base64 a binary into Drive.**
+
+**Exceptions I'll flag rather than assume** (still my call to approve): something 
+Loeb or a counterparty needs to comment in directly, something needing a live 
+shareable link, or something Claude will need to read back in a later session.
 
 ## What's in this repo
 

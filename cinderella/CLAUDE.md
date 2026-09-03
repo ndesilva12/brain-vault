@@ -8,9 +8,14 @@
 
 The format pairs celebrities with schools through **authentic connections** (alma mater, regional roots, adopted-city narratives), injects private capital to drive program transformation, and captures the season as a premium documentary series. Returns come from streaming licensing, sponsorships, NIL commissions, and media rights.
 
-**Norman's role:** Operational lead — EVP of Basketball Operations / GM role in any deal structure. His moat is the combination of NBA scouting background (Celtics, Spurs, Rockets, 76ers), coaching experience, Babson finance training, and the franchise IP architecture he's built.
+**Norman's role:** Operational lead **at the parent company** — basketball operations / GM function for the franchise, **employed by Cinderella Corp and never by a school or an SPV** (see "Norman's operational role" under Legal & compliance; he mentors and advises but does not recruit). His moat is the combination of NBA scouting background (Celtics, Spurs, Rockets, 76ers), coaching experience, Babson finance training, and the franchise IP architecture he's built.
 
-**Pitch materials:** cinderella.short.gy/deck and cinderella.short.gy/video
+**Pitch materials:** cinderella.short.gy/deck and cinderella.short.gy/video ·
+per-target decks: `/tb` (Brady), `/sas` (Stephen A. Smith)
+
+**Pitch language — `Pitches/PITCH-LIBRARY.md`.** Every description and explainer we've used,
+by audience (celebrity · buyer · investor · school · press) and length. **Check here before
+writing a new pitch, and append new versions rather than overwriting old ones.**
 
 **Reference benchmarks:** Welcome to Wrexham (structural and commercial model), Drive to Survive, Quarterback, Full Swing, Last Chance U
 
@@ -158,6 +163,69 @@ Norman wants to keep as the dedicated China thread rather than over-concentrate 
 
 ### Business stakeholders
 
+> ⚠️ **CURRENT WORKING STATE (updated 2026-09-03) — read first:**
+> `Process/2026-08-28-partner-buyer-landscape-and-network-map.md`
+> Covers the **EverWonder shopping-agreement negotiation** (nothing signed; their paper
+> demands full IP assignment — see `legal/2026-08-27-everwonder-counter-redline-memo.md`),
+> the **buyer executive map** (Netflix/Apple/Amazon/FX/Hulu/Paramount/HBO with named
+> targets), the **production-company ranking** (Boardwalk Pictures = priority target,
+> EverWonder ≈ #25), and the **network map** (Gerry Corcoran, Walid Samaha, Mike Stein,
+> Nikki Stier Justice, Josh/Straylight, Deirdre Fenton — independent).
+>
+> **⭐ THE CENTRAL BLOCKER (found 2026-08-28, via Stein → Sherman):** Curry/Unanimous and
+> TCG are each waiting on proof from the other — Unanimous wants to see TCG's money is real;
+> TCG wants to see Curry will genuinely commit time. **Neither has walked away; nobody is
+> trying to cut Norman out.** Fix in motion: a **conditional, mutual, time-boxed definitive
+> agreement** (not an LOI — Unanimous won't sign those) attaching Curry to the **Davidson SPV
+> specifically**, drafted as `legal/2026-08-29-curry-conditional-attachment-agreement.md`.
+> The real unlock is a second proof point Curry can see — a streamer commitment, RedBird, or
+> Ankur's self-funded path — **not** the $1.5M parent round, which is the wrong capital layer.
+>
+> **New legal infrastructure (2026-08-29):** the whole agreement stack now has a master
+> index — `legal/CONTRACT-REGISTER.md` (3 layers: parent-co, parent↔SPV, SPV↔counterparty;
+> tracks what's drafted vs. still needed). Keystone addition: the **Format License**
+> (`legal/2026-08-29-format-license-cinderella-to-spv.md`) — Cinderella Corp grants each SPV
+> only a limited, revocable, single-project license, so no counterparty can ever acquire the
+> franchise. **Top priorities per the register: SPV Operating Agreement (not yet drafted —
+> nothing at Layer 3 can close without it), the Definitive School Agreement converting the
+> signed Davidson/SJU LOIs into real rights, and a Shane & Jay finder/producer agreement**
+> (they're actively sourcing talent with no paper covering it).
+>
+> **Sunjay Mathews' Partner Agreement — negotiated and finalized 2026-09-03:** Title
+> **Founding Partner**; base equity **20%** vesting over 3 years (5% at signing, 5%/yr Y1–Y3);
+> milestones now stack to a **25% maximum** (Track A: lead/presenting sponsor, any season, no
+> dollar minimum, 12-month clawback; Track B: board-attributed celebrity attachment, **Season 2
+> or later only**, no clawback — flagged open item). Cap table target: Norman 72% / Sunjay 20%
+> / Ankur Jain 4% / Greg Kristof 4%, with Ankur held non-diluting through the Seed round. Full
+> doc: `legal/2026-08-25-sunjay-partner-agreement.md`.
+>
+> **Standing decisions:** go to HBO independently and now; no party may represent
+> attachment before signature; Norman assigns schools (partners bring names only);
+> keep multiple buyers live for competitive tension.
+>
+> **Celebrity deltas:** Wahlberg **NO** (Levinson killed it) · **Jamie Foxx LIVE** — best
+> current target, pair with **North Texas** (Terrell TX roots) for commercial buyers,
+> **CSUN/LMU** for HBO — but the "manager" contact chain is unresolved (2026-08-31: per Jay
+> Jackson, surname is **King**; the only findable Marcus King managed Foxx until 2011, so this
+> needs verification before treating it as current representation — actual public reps remain
+> Rick Yorn/LBI and Ian Montone) · Snoop→Long Beach State · Ice Cube (BIG3) · Sandler warming ·
+> **Michael Tollin** (EP, *The Last Dance*; co-chair Mandalay Sports Media with Warriors
+> co-owner Peter Guber) surfaced via Mike Stein as the highest-value new intro to date.
+>
+> **WME / Jason Hodes track (2026-08-31 call — going well, NYC meeting week after next):**
+> confirmed still-current WME clients relevant to the shortlist — **Dwayne Johnson**, **Matt
+> Damon** and **Ben Affleck** (both still with Patrick Whitesell, not Range MP or their own
+> Artists Equity), and **Denzel Washington** (bonus find — already the vault's Fordham name).
+> Hodes is pushing **Russell Wilson** (real Richmond, VA tie) as an opener. **Open question for
+> the next call: Whitesell's own status at WME is reported both as exiting and as Executive
+> Chairman** — determines who Hodes actually routes you to for Damon/Affleck/Denzel.
+>
+> **Dex CRM sweep (2026-08-29, corrected 2026-08-30):** full notable-contact sweep of Norman's
+> synced Dex CRM completed and provenance-audited after an initial overcount; corrected
+> findings in `Process/2026-08-29-dex-sweep-CORRECTION-provenance.md` and the workbook in
+> `Outputs/2026-08-29-dex-notable-names-sweep.xlsx`. Tagging schema + import plan for
+> converting `contacts.md` into Dex: `Process/2026-08-29-dex-crm-schema-and-import-plan.md`.
+
 |Party|Role|Key Contact|Status|
 |---|---|---|---|
 |The Chernin Group (TCG)|Lead funding + development|Peter Chernin, Jesse Jacobs|Engaged|
@@ -182,6 +250,10 @@ Rebecca Gitlitz's casual "flat 10% fee" framing is the kind of structural signal
 ---
 
 ## Legal & compliance
+
+**Master agreement index:** `legal/CONTRACT-REGISTER.md` — every agreement the structure
+requires, across parent-co / parent↔SPV / SPV↔counterparty layers, with drafted-vs-needed
+status. Check here before assuming a contract exists or asking what's still open.
 
 ### NCAA Compliance Posture — Summary (see Process/2026-06-24-ncaa-compliance-donor-collective-analysis.md for full analysis)
 
@@ -208,9 +280,40 @@ Rebecca Gitlitz's casual "flat 10% fee" framing is the kind of structural signal
 - New York governing law
 - **Note:** The Word doc reference path from the project memory (`/mnt/user-data/outputs/Cinderella_Corp_Mutual_NDA_Template.docx`) is from a prior Claude session environment, not local disk. If Norman doesn't have the file locally, it needs to be regenerated or downloaded.
 
-### Norman's operational role — protection strategy
+### Norman's operational role — parent-co employee, never a school employee
 
-Best structured as a **university employee position** with hiring protected through **"good faith consideration"** language in partnership agreements — NOT hard contractual requirements that could draw NCAA scrutiny.
+> **Corrected 2026-08-30.** This section previously read *"best structured as a university
+> employee position."* **That was wrong and is superseded.** The governing statement is
+> `Outputs/2026-07-24-structuring-principles-for-loeb.md` §§ G and H.
+
+- **Employer: Cinderella Corp, and only Cinderella Corp.** Norman takes **no school-employee
+  and no school-consultant role at any MC school.** Doing so would put him on both sides of the
+  MC↔school transaction and re-collapse institutional control (§17). **Title is irrelevant** to
+  this analysis — "consultant" and "GM" fail the same way (§18).
+- **Paid per school, but through the parent.** SPV compensation reaches him via the
+  **Management Services Agreement** (SPV → Cinderella Corp, Register 2.4); the parent then pays
+  his salary. **Never a direct SPV or school employment relationship.** One employer means no
+  divided loyalty across competing MC schools (§18). Economically identical to being "paid by
+  the SPV," structurally much safer.
+- **Permitted:** sanctioned, disclosed basketball advisor/mentor to **enrolled** student-athletes
+  — game, mindset, NBA/draft development, performance. **Expertise and time, not benefits** (§20).
+  Speaking with the existing team and staff, mentoring, and offering advice are all fine.
+- **Prohibited:** contacting not-yet-committed prospects; evaluating or opining on specific
+  unsigned prospects **even if the staff shares its target list first** (direction of information
+  does not cleanse it); acting as a player agent for compensation; tying marketability guidance
+  to compensation or using it as an inducement (§§20, 24). The permissible lane is **general
+  team-building philosophy** — archetypes and positions — with the staff mapping philosophy to
+  specific names privately.
+- **Evaluator/checkbook separation:** walled off from comp-setting and pricing (§19). Note this
+  is an institutional-control measure — it does **not** insulate him from being a principal of
+  the paying entity (which is permitted). The payment defense rests on FMV + MC independence +
+  school control.
+- **On screen:** evaluator / storyteller / mentor only. **Never depicted** pricing players,
+  directing roster or pay decisions, or touching any compensation mechanism. MC reserves approval
+  over the portrayal and **compliance counsel reads the cut** before release (§§21–23).
+
+**Open item:** the **Management Services Agreement (Register 2.4)** is the document that carries
+all of this, and it is **not yet drafted.**
 
 ---
 
@@ -264,6 +367,15 @@ schools because parent costs are fixed.
 - **IP ownership is non-negotiable.** Cinderella Corp. owns all IP and backend; production partners are service vendors.
 - **Structural signals matter early.** Catch casual framings ("flat 10% fee") before they become assumed positions.
 - **Strict pairing criteria.** Small D1 + authentic connection. Don't dilute.
+- **Chase multiple celebrities per school until one is formalized.** Nothing counts until it's
+  signed, and no name is ever certain — so two or three live options for the same school is the
+  normal state, not a conflict to resolve. **Never advise Norman to drop or reorder a target
+  because it "competes" with another name at the same school.** (Kevin Hart and Stephen A. Smith
+  are both live for Saint Joseph's; either could end up the lead, or neither.)
+- **Ownership: a buyer is not a production company.** The IP non-negotiable is aimed at
+  **production partners**, who are service vendors and get no rights. With a **buyer/platform**,
+  a rights-and-ownership conversation is expected and normal — target a license rather than a
+  buyout, but the negotiation itself is not a red flag the way EverWonder's assignment demand was.
 - **Franchise pitch > single-show pitch.** Multiple celebrity anchors (Curry + Hart) elevate to franchise-level streaming deal.
 - **Map counterparty value-capture vectors preemptively** and build contractual counters.
 - **Compliance is table stakes, not the pitch.** The moat is narrative (only mid-majors have the story), capital structure (we create the investment vehicle mid-major donors never had), and execution speed (signed LOIs). Lock up schools fast.
