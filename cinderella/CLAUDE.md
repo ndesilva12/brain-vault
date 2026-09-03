@@ -191,12 +191,12 @@ Norman wants to keep as the dedicated China thread rather than over-concentrate 
 > signed Davidson/SJU LOIs into real rights, and a Shane & Jay finder/producer agreement**
 > (they're actively sourcing talent with no paper covering it).
 >
-> **Sunjay Mathews' Partner Agreement — negotiated and finalized 2026-09-03:** Title
+> **Sunjay Mathews' Partner Agreement — drafted, not executed (revised after 2026-09-01 call):** Title
 > **Founding Partner**; base equity **20%** vesting over 3 years (5% at signing, 5%/yr Y1–Y3);
-> milestones now stack to a **25% maximum** (Track A: lead/presenting sponsor, any season, no
+> milestones stack to a **25% maximum** (Track A: lead/presenting sponsor, any season, no
 > dollar minimum, 12-month clawback; Track B: board-attributed celebrity attachment, **Season 2
-> or later only**, no clawback — flagged open item). Cap table target: Norman 72% / Sunjay 20%
-> / Ankur Jain 4% / Greg Kristof 4%, with Ankur held non-diluting through the Seed round. Full
+> or later only**, no clawback — flagged open item). Cap table after the three grants: Norman 72% / Sunjay 20%
+> / Ankur Jain 4% / Greg Kristof 4%. **15% seed dilutes Norman, Sunjay, and Greg; Ankur stays 4%.** Post-seed: 60.75 / 16.875 / 4 / 3.375 / 15. Working-state: `Process/2026-09-03-jimmy-working-state.md`. Full
 > doc: `legal/2026-08-25-sunjay-partner-agreement.md`.
 >
 > **Standing decisions:** go to HBO independently and now; no party may represent
