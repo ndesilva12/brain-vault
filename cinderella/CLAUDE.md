@@ -158,7 +158,7 @@ Norman wants to keep as the dedicated China thread rather than over-concentrate 
 
 ### Business stakeholders
 
-> ⚠️ **CURRENT WORKING STATE (Aug 2026) — read first:**
+> ⚠️ **CURRENT WORKING STATE (updated 2026-09-03) — read first:**
 > `Process/2026-08-28-partner-buyer-landscape-and-network-map.md`
 > Covers the **EverWonder shopping-agreement negotiation** (nothing signed; their paper
 > demands full IP assignment — see `legal/2026-08-27-everwonder-counter-redline-memo.md`),
@@ -167,13 +167,59 @@ Norman wants to keep as the dedicated China thread rather than over-concentrate 
 > EverWonder ≈ #25), and the **network map** (Gerry Corcoran, Walid Samaha, Mike Stein,
 > Nikki Stier Justice, Josh/Straylight, Deirdre Fenton — independent).
 >
+> **⭐ THE CENTRAL BLOCKER (found 2026-08-28, via Stein → Sherman):** Curry/Unanimous and
+> TCG are each waiting on proof from the other — Unanimous wants to see TCG's money is real;
+> TCG wants to see Curry will genuinely commit time. **Neither has walked away; nobody is
+> trying to cut Norman out.** Fix in motion: a **conditional, mutual, time-boxed definitive
+> agreement** (not an LOI — Unanimous won't sign those) attaching Curry to the **Davidson SPV
+> specifically**, drafted as `legal/2026-08-29-curry-conditional-attachment-agreement.md`.
+> The real unlock is a second proof point Curry can see — a streamer commitment, RedBird, or
+> Ankur's self-funded path — **not** the $1.5M parent round, which is the wrong capital layer.
+>
+> **New legal infrastructure (2026-08-29):** the whole agreement stack now has a master
+> index — `legal/CONTRACT-REGISTER.md` (3 layers: parent-co, parent↔SPV, SPV↔counterparty;
+> tracks what's drafted vs. still needed). Keystone addition: the **Format License**
+> (`legal/2026-08-29-format-license-cinderella-to-spv.md`) — Cinderella Corp grants each SPV
+> only a limited, revocable, single-project license, so no counterparty can ever acquire the
+> franchise. **Top priorities per the register: SPV Operating Agreement (not yet drafted —
+> nothing at Layer 3 can close without it), the Definitive School Agreement converting the
+> signed Davidson/SJU LOIs into real rights, and a Shane & Jay finder/producer agreement**
+> (they're actively sourcing talent with no paper covering it).
+>
+> **Sunjay Mathews' Partner Agreement — negotiated and finalized 2026-09-03:** Title
+> **Founding Partner**; base equity **20%** vesting over 3 years (5% at signing, 5%/yr Y1–Y3);
+> milestones now stack to a **25% maximum** (Track A: lead/presenting sponsor, any season, no
+> dollar minimum, 12-month clawback; Track B: board-attributed celebrity attachment, **Season 2
+> or later only**, no clawback — flagged open item). Cap table target: Norman 72% / Sunjay 20%
+> / Ankur Jain 4% / Greg Kristof 4%, with Ankur held non-diluting through the Seed round. Full
+> doc: `legal/2026-08-25-sunjay-partner-agreement.md`.
+>
 > **Standing decisions:** go to HBO independently and now; no party may represent
 > attachment before signature; Norman assigns schools (partners bring names only);
 > keep multiple buyers live for competitive tension.
 >
 > **Celebrity deltas:** Wahlberg **NO** (Levinson killed it) · **Jamie Foxx LIVE** — best
 > current target, pair with **North Texas** (Terrell TX roots) for commercial buyers,
-> **CSUN/LMU** for HBO · Snoop→Long Beach State · Ice Cube (BIG3) · Sandler warming.
+> **CSUN/LMU** for HBO — but the "manager" contact chain is unresolved (2026-08-31: per Jay
+> Jackson, surname is **King**; the only findable Marcus King managed Foxx until 2011, so this
+> needs verification before treating it as current representation — actual public reps remain
+> Rick Yorn/LBI and Ian Montone) · Snoop→Long Beach State · Ice Cube (BIG3) · Sandler warming ·
+> **Michael Tollin** (EP, *The Last Dance*; co-chair Mandalay Sports Media with Warriors
+> co-owner Peter Guber) surfaced via Mike Stein as the highest-value new intro to date.
+>
+> **WME / Jason Hodes track (2026-08-31 call — going well, NYC meeting week after next):**
+> confirmed still-current WME clients relevant to the shortlist — **Dwayne Johnson**, **Matt
+> Damon** and **Ben Affleck** (both still with Patrick Whitesell, not Range MP or their own
+> Artists Equity), and **Denzel Washington** (bonus find — already the vault's Fordham name).
+> Hodes is pushing **Russell Wilson** (real Richmond, VA tie) as an opener. **Open question for
+> the next call: Whitesell's own status at WME is reported both as exiting and as Executive
+> Chairman** — determines who Hodes actually routes you to for Damon/Affleck/Denzel.
+>
+> **Dex CRM sweep (2026-08-29, corrected 2026-08-30):** full notable-contact sweep of Norman's
+> synced Dex CRM completed and provenance-audited after an initial overcount; corrected
+> findings in `Process/2026-08-29-dex-sweep-CORRECTION-provenance.md` and the workbook in
+> `Outputs/2026-08-29-dex-notable-names-sweep.xlsx`. Tagging schema + import plan for
+> converting `contacts.md` into Dex: `Process/2026-08-29-dex-crm-schema-and-import-plan.md`.
 
 |Party|Role|Key Contact|Status|
 |---|---|---|---|
@@ -199,6 +245,10 @@ Rebecca Gitlitz's casual "flat 10% fee" framing is the kind of structural signal
 ---
 
 ## Legal & compliance
+
+**Master agreement index:** `legal/CONTRACT-REGISTER.md` — every agreement the structure
+requires, across parent-co / parent↔SPV / SPV↔counterparty layers, with drafted-vs-needed
+status. Check here before assuming a contract exists or asking what's still open.
 
 ### NCAA Compliance Posture — Summary (see Process/2026-06-24-ncaa-compliance-donor-collective-analysis.md for full analysis)
 
