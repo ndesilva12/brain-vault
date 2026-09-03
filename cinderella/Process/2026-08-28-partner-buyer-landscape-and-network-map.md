@@ -196,6 +196,84 @@ What actually answers Unanimous, in order of likely impact:
 
 ---
 
+## 6e. STEPHEN A. SMITH — channel map (opened 2026-09-02; from iMessage dump)
+
+**Dedicated deck: `cinderella.short.gy/sas`.**
+
+**Channels already fired:**
+1. **Darren Prince** (Prince Marketing Group — phone + email in Dex, validated reachable)
+   sent the deck. **Norman's own read: "probably gets to his manager and dies there."**
+2. **Sunjay → Brandan Kaminsky and Rushion McDonald** — sent 2026-09-02. Kaminsky is a
+   booking/appearance agent; McDonald is a producer/manager (Steve Harvey's ex-manager).
+   Both are **appearance-booking-tier**, not the person who signs a multi-year equity deal —
+   same "manager likes it ≠ principal approved it" trap as the Foxx/Marcus King problem.
+
+**Best non-Sunjay paths in the network, ranked:**
+1. ⭐ **Jackie MacMullan** — in Dex (media lane), and **already volunteered to help** (told
+   Norman 2026-09-01 in the UNH thread). Basketball-HOF-honored ESPN NBA writer, SAS's
+   colleague for years. **Highest warmth + highest standing of any option. Ask her directly.**
+2. ⭐ **Joe Mihalich (GM, Saint Joseph's — 716-807-1899, `jmihalich@sju.edu`)** — raised SAS
+   unprompted in this exact thread, offered to "hunt it down," and volunteered **Joe Lunardi**
+   (ESPN bracketologist **and** St. Joe's) as a second ESPN door. **Philly + SJU + ESPN is the
+   exact overlap SAS sits in** — SAS covered the 76ers for the Philadelphia Inquirer.
+3. **Gerry Corcoran → Sean McDonough (ESPN)** — nephew; already flagged in §5 as the
+   "ESPN/McDonough media door." Colleague-level access, entirely unused so far.
+4. **Kevin Hart channels (Boss Everline · Walid Samaha · Mike Stein)** — Hart and SAS are both
+   Philadelphia and have appeared together repeatedly. Any Hart opening is SAS-adjacent.
+5. **Rich Kleiman** (Boardroom/Durant — email; blast sent Mar 2026, no response) and
+   **Molly Mita, Senior Publicist at ESPN** (in Dex) — the underrated internal door; publicists
+   know who actually handles talent.
+
+⚠️ **Two things to settle before spending more on this:**
+- **The non-compete question Mihalich raised is real and unanswered.** SAS's ESPN deal is
+  exclusive by default; reporting around his 2025 extension suggested he negotiated *more*
+  latitude for outside ventures, **but that is unverified — confirm before pitching him as an
+  equity-holding face of a series that could land at a non-Disney buyer.** Note Norman's own
+  fallback: "there's always a path where this goes to Hulu (Disney/ESPN), or ESPN Films."
+- **What school?** SAS's alma mater is **Winston-Salem State — D2 (CIAA), not D1**, so it does
+  not fit the core model without a reclassification story. His usable tie is **Philadelphia**
+  (SJU/Temple), which collides with the Hart/SJU pairing already in play. **Decide the school
+  before the meeting, not after.**
+
+## 6f. New nodes and updates (2026-09-01 → 09-03, from iMessage dump)
+
+- **Ryan Colton — new Director of Athletics, New Hampshire.** Inbound to Norman 2026-09-01,
+  got the number from **Nathan Davis** (UNH HC). Call set for Friday. Norman's framing to him:
+  *"this comes down to Adam Sandler. If we can get him, it's yours."* **Jackie MacMullan has
+  been willing to help on this one too.**
+- ⚠️ **Foxx "manager" — Sunjay confirmed the name is Marcus King** (2026-09-01). Per §6, the
+  findable Marcus King **stopped managing Foxx in 2011**. Treat this as a *downgrade* of that
+  channel, not a confirmation, until someone establishes he's currently in Foxx's circle.
+- **Out of Pocket Studios (Josh Allen's studio)** — Sunjay has a friend who is **president**
+  there, and the studio is **connected with Skydance**. Offered as a conversation. New,
+  unworked node; Skydance adjacency makes it more than a courtesy intro.
+- **Jamie Foxx meeting likely by end of week** (via Hollywood Shane, as of 09-02). **Sandler
+  knows about the project**; shooting a movie in NJ currently.
+- **Brady deck exists: `cinderella.short.gy/tb`.** Sent 09-01 to a head coach contact with
+  "keep internally." Brady still undecided; **if he takes it, school choice hinges on whether
+  he wants a Boston school or an SF/Miami one.**
+- **Loeb investor docs expected late Friday (09-04).** The parent-round close is being pushed
+  again *because the investor docs aren't ready* — that is the gating item, not investor demand.
+- **2nd HBO meeting** being scheduled this week for next.
+
+### The refined one-paragraph celebrity pitch (Norman's own tightening, 09-02 — use this)
+
+> Making Cinderella is Welcome to Wrexham meets D1 men's basketball — rebuilding a small
+> program into a national contender overnight.
+> • We pair the school with a famous alum or celebrity who becomes the lead investor
+> (**no capital required**) and create a docu-series around the journey
+> • The revenue committed to the docu-series funds the NIL for the players, to support a
+> **top-10 budget nationally**
+> • Most importantly, we have agreed to long-term and significant revenue shares with the
+> school to economically participate in their success.
+
+Improvement over the prior version: **"no capital required"** removes the celebrity's biggest
+objection in the first line, and "top-10 budget nationally" is concrete where "build a national
+contender" was aspirational. Drop the Curry/Davidson line when pitching a *different* celebrity —
+it reads as "the seat is taken."
+
+---
+
 ## 7. Open items
 
 1. **Take the Michael Tollin intro from Mike Stein — top priority.**

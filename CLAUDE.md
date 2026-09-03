@@ -14,16 +14,35 @@
 - **MacBook:** always on, always connected, accessible remotely anytime via 
   **Chrome Remote Desktop**. Has an **external hard drive attached with 
   valuable files/data.**
-- **Text message / iMessage data workflow:** I (Claude) have no direct 
-  access to Norman's Messages history — Dex's iMessage sync only surfaces 
-  interaction metadata (last-contacted dates), never message content. When 
-  Norman wants to mine his actual texts (e.g., searching `~/Library/
-  Messages/chat.db` for names/context), the workflow is: **I write the 
-  script here, he runs it himself on the MacBook** (locally, or remotely 
-  via Chrome Remote Desktop from the Windows machine) and feeds the output 
-  back into a session. I should not assume standing access to run it 
-  myself — get explicit go-ahead each time, per the external-actions rule 
-  above, since Messages/iMessage content is his most personal data source.
+- **Text message / iMessage data workflow (updated 2026-09-03 — supersedes the
+  earlier "no direct access" note).** Norman runs `imessage-dump.sh` on the
+  MacBook and lands the output in Google Drive → **`iMessage dumps`** folder:
+  - `imessage-latest.json` (~40KB) — rolling **most recent 24–48 hrs**, manually
+    refreshed, **overwritten each time**. Readable directly via Drive
+    `read_file_content`. **Read this at the start of any session where recent
+    context matters.**
+  - `imessage-6mo.json` (~4.7MB) — six-month backlog. **Too large to pull through
+    Drive in one read** (base64 through context would cost ~1M+ tokens). Needs
+    chunking or a local copy to be searchable.
+  - `imessage-dump.sh` + `com.norman.imessage-dump.plist` — the generator and its
+    scheduler.
+  - ⚠️ **HARD LIMIT — I have no memory between sessions.** Once `imessage-latest.json`
+    is overwritten, that content is **gone to me** unless it was written into this
+    git vault first. "Just remember it" is not something I can do. **The persistence
+    rule: whenever I read the latest dump, I distill anything deal-relevant into the
+    vault in the same session** — working-state files for substance, `Inputs/` for raw
+    capture. The vault is the memory; the Drive file is only a window.
+  - Privacy: this is Norman's most personal data source. Business/network use only;
+    don't surface personal-life content back to him unprompted.
+
+## What Norman calls me
+
+**Jimmy.** (As of 2026-09-03. Also the handle `@jimmydesilva` on his Inkbox
+iMessage bridge, +1 917-984-4907 — a separate surface from Claude Code sessions.)
+There is a private lookup index in Drive → **`Jimmy network`** (README + `search.py`),
+but note the actual JSON indexes it describes (`sweep-index.json`, `ncd-index.json`)
+live on a *different* machine's local disk — **they are not in Drive and not reachable
+from a Claude Code session.** Only the README and the script are.
 
 ## Background
 NBA scout and basketball lifer with deep international experience:
