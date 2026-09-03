@@ -10,7 +10,12 @@ The format pairs celebrities with schools through **authentic connections** (alm
 
 **Norman's role:** Operational lead **at the parent company** — basketball operations / GM function for the franchise, **employed by Cinderella Corp and never by a school or an SPV** (see "Norman's operational role" under Legal & compliance; he mentors and advises but does not recruit). His moat is the combination of NBA scouting background (Celtics, Spurs, Rockets, 76ers), coaching experience, Babson finance training, and the franchise IP architecture he's built.
 
-**Pitch materials:** cinderella.short.gy/deck and cinderella.short.gy/video
+**Pitch materials:** cinderella.short.gy/deck and cinderella.short.gy/video ·
+per-target decks: `/tb` (Brady), `/sas` (Stephen A. Smith)
+
+**Pitch language — `Pitches/PITCH-LIBRARY.md`.** Every description and explainer we've used,
+by audience (celebrity · buyer · investor · school · press) and length. **Check here before
+writing a new pitch, and append new versions rather than overwriting old ones.**
 
 **Reference benchmarks:** Welcome to Wrexham (structural and commercial model), Drive to Survive, Quarterback, Full Swing, Last Chance U
 
