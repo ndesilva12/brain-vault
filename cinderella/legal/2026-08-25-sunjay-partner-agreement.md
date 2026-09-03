@@ -9,7 +9,7 @@ _Working draft, 2026-08-25 · revised 2026-08-30 · **revised 2026-09-03**, for 
 > **§1.6(b)** (formerly §1.7(b)) narrowed from all public communication to major public representation only — press, broadcast, panels, press statements.
 > **§1.6(d) and (e)** (formerly §1.7(d)/(e)) kept, per Norman's invitation to make the case — see the drafting note before the counsel checklist.
 > **§1.5(g)** (formerly §1.6(g), no-apparent-authority) **removed** per instruction.
-> **Milestone Tracks drastically simplified** — Track A is now lead/presenting sponsor status for any single season (no franchise-wide requirement, no dollar minimums); Track B is now a two-condition test (definitive celebrity attachment + Board-determined attribution to Partner), with no stature test and no Season-2+ restriction. **Schedule B removed entirely.** Schedule A trimmed to 10 illustrative names.
+> **Milestone Tracks drastically simplified** — Track A is now lead/presenting sponsor status for any single season (no franchise-wide requirement, no dollar minimums); Track B is now a two-condition test (definitive celebrity attachment for Season 2 or later + Board-determined attribution to Partner), with no stature test. **Schedule B removed entirely.** Schedule A trimmed to 10 illustrative names.
 > Partner Start Date in Recital B is filled in (April 28, 2026) — resolved from the prior revision.
 
 # PARTNER AGREEMENT — RESTRICTED STOCK, VESTING & MILESTONE EQUITY
@@ -95,15 +95,15 @@ The Milestone is earned if:
 
 *[Norman: the prior draft also required a minimum 3-consecutive-season term. Dropped here as part of the simplification — confirm you're comfortable with a single-season sponsorship qualifying, with (f)'s 12-month clawback as the only durability protection.]*
 
-### TRACK B — Board-Approved Celebrity Attachment, Any Season
+### TRACK B — Board-Approved Celebrity Attachment, Season 2 or Later
 
 The Milestone is earned if:
-&nbsp;&nbsp;**(a) Attachment.** A celebrity is attached, on a **definitive, fully executed** basis, as talent for any Company school project, for any season.
+&nbsp;&nbsp;**(a) Attachment.** A celebrity is attached, on a **definitive, fully executed** basis, as talent for any Company school project, for **Season 2 or any later season**. A celebrity procured for Season 1 does not qualify, regardless of when the Board's determination under (b) is made.
 &nbsp;&nbsp;**(b) Procuring cause and attribution.** The **Board determines, in its sole discretion**, that Partner **directly procured** that attachment and that the attachment is **properly attributable to Partner**.
 
 Board approval under this Track B is not a formality and may be withheld or granted for any reason, in the Board's sole discretion.
 
-*[Norman: this Track no longer contains any post-attachment clawback — if the celebrity later withdraws or is replaced, there is currently no mechanism to unwind Milestone Shares already issued. Track A keeps a 12-month clawback (§(f) above); confirm whether Track B should have an equivalent, or whether Board discretion at the time of attribution is sufficient. Also note: removing the prior "Season 2 or later" restriction means this Track is no longer limited to seasons beyond the first — confirm that's intended.]*
+*[Norman: this Track no longer contains any post-attachment clawback — if the celebrity later withdraws or is replaced, there is currently no mechanism to unwind Milestone Shares already issued. Track A keeps a 12-month clawback (§(f) above); confirm whether Track B should have an equivalent, or whether Board discretion at the time of attribution is sufficient.]*
 
 3.4 **Determination.** Whether a Track has been achieved is determined by the **Board in good faith**, whose determination is final and binding. Partner will provide such documentation as the Board reasonably requests.
 
@@ -189,4 +189,3 @@ Nike · State Farm · Coca-Cola · Gatorade · Apple · AT&T · Ford · Dick's S
 11. **Moral rights waiver (§5.2A(c))** — confirm formulation for any non-US exploitation, where moral rights may be inalienable.
 12. **⭐ Track A — minimum term dropped.** The prior 3-consecutive-season minimum was removed as part of simplifying Track A. Confirm the 12-month clawback (Track A(f)) is sufficient protection on its own, or restore a minimum term.
 13. **⭐ Track B — no clawback.** As simplified, Track B has no post-attachment clawback if the celebrity later withdraws. Confirm whether one should be added, matching Track A's structure, or whether Board discretion at the attribution stage is intended to be the only check.
-14. **⭐ Track B — "any season."** The prior Season-2-or-later restriction is removed. Confirm this is intended, since it means a Sunjay-procured attachment could in principle qualify even for an unattached Season 1 school.
