@@ -76,9 +76,9 @@ _Master list of every agreement the structure requires. Status as of 2026-09-03.
 9. **Capital Subscription (3.7)** — ready when a partner confirms.
 10. **Long-form talent + inducement (3.2 / 3.3)** — triggered by the conditional attachment.
 
-## Cap table (modeled 2026-09-01, not papered)
+## Cap table (target, not all papered)
 
-Start 80/20 Norman–Sunjay, then 4% Ankur + 4% Greg, then 15% seed. Recommended post-seed pro-rata: **Norman 62.56 / Sunjay 15.64 / Ankur 3.40 / Greg 3.40 / seed 15**. Rejected: freezing later grants or starting 72/20/4/4.
+After Sunjay + Ankur + Greg grants: **Norman 72 / Sunjay 20 / Ankur 4 / Greg 4**. Then 15% seed dilutes Norman, Sunjay, and Greg; **Ankur stays 4%**. Post-seed: **Norman 60.75 / Sunjay 16.875 / Ankur 4 / Greg 3.375 / seed 15**. Ankur's non-dilution through seed must be in his agreement.
 
 ## Standing drafting rules
 - **Format and Franchise IP never leave Cinderella Corp.** Counterparties attach to an SPV holding a single-project license.

@@ -2,7 +2,7 @@
 
 Capture from Norman ↔ Jimmy (Grok Bot), Sep 1–3 2026. Public vault: no phones, no emails, no iMessage text, no Dex dumps.
 
-**This file supersedes the Sep 3 working-state bullets in `cinderella/CLAUDE.md` on three points:** (1) Sunjay Partner Agreement is **not** finalized; (2) cap table is **not** locked at 72/20/4/4; (3) founder Class B is **no longer** on a 4-year / 1-year cliff.
+**This file supersedes the Sep 3 working-state bullets in `cinderella/CLAUDE.md` on:** (1) Sunjay Partner Agreement is **not** executed — still in revision after the Sep 1 call; (2) founder Class B is **fully vested** as of 2026-09-03. The **72/20/4/4** split after those three grants **is** the target (Jimmy was wrong to reject it). Seed 15% then dilutes Norman, Sunjay, and Greg; **Ankur does not dilute.**
 
 ---
 
@@ -26,19 +26,30 @@ Capture from Norman ↔ Jimmy (Grok Bot), Sep 1–3 2026. Public vault: no phone
 
 Full note: `legal/2026-09-03-founder-rsa-acceleration.md`.
 
-## Cap table (modeled, not all papered)
+## Cap table
 
-Start **80/20 Norman–Sunjay**, then **4%** grants to Ankur Jain and Greg Kristof, then **15% seed**. Recommended post-seed pro-rata:
+Norman starts at 100%. Sunjay, Ankur, and Greg all dilute him. After those three grants are signed:
 
 | Holder | % |
 |---|---|
-| Norman | 62.56 |
-| Sunjay | 15.64 |
-| Ankur | 3.40 |
-| Greg | 3.40 |
+| Norman | 72 |
+| Sunjay | 20 |
+| Ankur | 4 |
+| Greg | 4 |
+
+Then the **15% seed** dilutes Norman, Sunjay, and Greg. **Ankur does not dilute** (stays 4%). Post-seed:
+
+| Holder | % |
+|---|---|
+| Norman | 60.75 |
+| Sunjay | 16.875 |
+| Ankur | 4.00 |
+| Greg | 3.375 |
 | Seed | 15.00 |
 
-**Rejected:** freezing later grants, or starting **72/20/4/4**. The `cinderella/CLAUDE.md` line that the Partner Agreement was “finalized” at 72/20/4/4 on 2026-09-03 is **wrong**.
+Math: Ankur 4 + seed 15 = 19; remaining 81 is the 72/20/4 pool (96) scaled by 81/96. This anti-dilution has to live in Ankur's paper, not just here.
+
+The Partner Agreement is **not** executed. The 72/20/4/4 *split* is the target; the *document* is still the revised draft after the Sep 1 call.
 
 ## Open paper
 
