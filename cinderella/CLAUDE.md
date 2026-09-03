@@ -367,6 +367,15 @@ schools because parent costs are fixed.
 - **IP ownership is non-negotiable.** Cinderella Corp. owns all IP and backend; production partners are service vendors.
 - **Structural signals matter early.** Catch casual framings ("flat 10% fee") before they become assumed positions.
 - **Strict pairing criteria.** Small D1 + authentic connection. Don't dilute.
+- **Chase multiple celebrities per school until one is formalized.** Nothing counts until it's
+  signed, and no name is ever certain — so two or three live options for the same school is the
+  normal state, not a conflict to resolve. **Never advise Norman to drop or reorder a target
+  because it "competes" with another name at the same school.** (Kevin Hart and Stephen A. Smith
+  are both live for Saint Joseph's; either could end up the lead, or neither.)
+- **Ownership: a buyer is not a production company.** The IP non-negotiable is aimed at
+  **production partners**, who are service vendors and get no rights. With a **buyer/platform**,
+  a rights-and-ownership conversation is expected and normal — target a license rather than a
+  buyout, but the negotiation itself is not a red flag the way EverWonder's assignment demand was.
 - **Franchise pitch > single-show pitch.** Multiple celebrity anchors (Curry + Hart) elevate to franchise-level streaming deal.
 - **Map counterparty value-capture vectors preemptively** and build contractual counters.
 - **Compliance is table stakes, not the pitch.** The moat is narrative (only mid-majors have the story), capital structure (we create the investment vehicle mid-major donors never had), and execution speed (signed LOIs). Lock up schools fast.

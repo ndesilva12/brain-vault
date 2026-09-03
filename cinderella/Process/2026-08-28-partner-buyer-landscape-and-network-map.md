@@ -216,6 +216,16 @@ What actually answers Unanimous, in order of likely impact:
    unprompted in this exact thread, offered to "hunt it down," and volunteered **Joe Lunardi**
    (ESPN bracketologist **and** St. Joe's) as a second ESPN door. **Philly + SJU + ESPN is the
    exact overlap SAS sits in** — SAS covered the 76ers for the Philadelphia Inquirer.
+   - ⚠️ **On Lunardi → SAS specifically: unverified, and POSSIBLE at best under the vault's
+     confidence tiers.** They share two axes (Philadelphia media, ESPN payroll) that make
+     acquaintance likely, but they work in different divisions with little overlap — Lunardi is
+     college-basketball bracketology, largely out of Philadelphia; SAS is NBA/debate out of
+     NY/Bristol. **"Both at ESPN" is not a relationship.** Do not route the ask through Lunardi
+     until Mihalich answers the direct question: *how well does Joe actually know Stephen A.?*
+   - **Lunardi's real value is not proximity to SAS.** He is the most credible national voice
+     *on Saint Joseph's* — a validator for the school's story, and an ESPN insider who can say
+     what the network's standards process actually requires of talent holding an outside sports
+     interest. Use him for that whether or not he knows SAS.
 3. **Gerry Corcoran → Sean McDonough (ESPN)** — nephew; already flagged in §5 as the
    "ESPN/McDonough media door." Colleague-level access, entirely unused so far.
 4. **Kevin Hart channels (Boss Everline · Walid Samaha · Mike Stein)** — Hart and SAS are both
@@ -230,10 +240,38 @@ What actually answers Unanimous, in order of likely impact:
   latitude for outside ventures, **but that is unverified — confirm before pitching him as an
   equity-holding face of a series that could land at a non-Disney buyer.** Note Norman's own
   fallback: "there's always a path where this goes to Hulu (Disney/ESPN), or ESPN Films."
-- **What school?** SAS's alma mater is **Winston-Salem State — D2 (CIAA), not D1**, so it does
-  not fit the core model without a reclassification story. His usable tie is **Philadelphia**
-  (SJU/Temple), which collides with the Hart/SJU pairing already in play. **Decide the school
-  before the meeting, not after.**
+- **School: Saint Joseph's** (Norman, 09-03). SAS's alma mater is Winston-Salem State — D2
+  (CIAA) — so the usable tie is **Philadelphia**, where he covered the 76ers for the Inquirer.
+  **This does NOT conflict with the Hart/SJU pairing.** Nothing is signed, so SJU runs multiple
+  live celebrity options until one formalizes; SAS is a backup, a complement, or — if he lands
+  bigger — the lead over Hart. (Standing principle, now in `cinderella/CLAUDE.md`.)
+
+### The ESPN conflict question — corrected analysis (2026-09-03)
+
+**The exclusivity clause is the smaller problem. The editorial-conflict policy is the real one,
+and Norman identified the sharpest version of it:** the model is *designed* to put NBA draft
+prospects on an SJU roster, and SAS covers the NBA and the draft for a living. Even if he never
+discusses SJU as a team, he would be talking about the draft stock of players whose NIL his own
+vehicle funded. **Success creates the conflict** — it doesn't avoid it.
+
+**The argument that answers it:** his economics don't move with any player's outcome. The SPV
+returns come from streaming, sponsorship, merchandise, and the school's incremental revenue —
+**not** from whether a given player gets drafted. He is the face of a show and a holder in the
+vehicle, not a stakeholder in a prospect's draft position, and he holds no agency relationship.
+That is a materially easier disclosure than an agent's or a team executive's, and it is handled
+the ordinary way: **disclose on air where relevant, recuse from SJU-specific segments.**
+
+**Two things that cut in his favor:**
+1. **He is opinion talent, not a beat reporter.** Networks give commentators far more latitude
+   than news-gathering staff; the standard is appearance-of-bias management, not prohibition.
+2. **He has more leverage than any on-air talent at ESPN.** Talent at that level gets waivers
+   ordinary talent never sees.
+
+⭐ **Therefore: treat this as a "does he want it" problem, not a "can he" problem.** Do not
+re-engineer the deal or pre-concede the buyer to Disney to solve a policy obstacle that his own
+representatives may waive away in one call. **Get his interest first; let his people tell us what
+his deal permits.** (See also the Disney/Hulu route below — it dissolves the conflict but costs
+the SPV its license fee, so it is a fallback, never the plan.)
 
 ## 6f. New nodes and updates (2026-09-01 → 09-03, from iMessage dump)
 
