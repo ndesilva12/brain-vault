@@ -1,6 +1,6 @@
 # Notion capture routing
 
-Standing rules for Jimmy and any other assistant. Source: Norman, 2026-09-04 (ported from Claude instructions); LIST-as-SoT system added 2026-09-04.
+Standing rules for Jimmy and any other assistant. Source: Norman, 2026-09-04 (ported from Claude instructions); LIST-as-SoT + checkbox sweep added 2026-09-04.
 
 **Never** touch or look at Apple Reminders. **Never** edit the Notion Why note.
 
@@ -10,19 +10,24 @@ Standing rules for Jimmy and any other assistant. Source: Norman, 2026-09-04 (po
 
 **Page:** [LIST — Norman / VAULT / TASK LIST](https://app.notion.com/p/3aebedd4141981f58664ed01bbb1242f)
 
-Sections on the page: **Open** (active) and **Done / Archive**.
+Sections: **Open** (Notion to-do checkboxes) and **Done / Archive** (plain completed bullets).
+
+### Checkboxes (Option A)
+- Open items are `- [ ]` (unchecked) or `- [x]` (Norman tapped done in Notion).
+- Checking does **not** auto-move. Jimmy **sweeps** checked items → Done / Archive with today's date, as plain bullets.
+- Sweep runs in the weekday 8am brief and on "sweep the list" / whenever Jimmy touches LIST.
+- A checked box **is** Norman's approval to move. Unchecked items that look finished from outside evidence still need a check or verbal OK.
 
 ### Everyday flow
-- Triggers (`list`, `to-do`, `my list`, `vault list`, `project list`, `tasks`, plus any clear "add this" / "what's on my list" / "mark X done") operate on this page.
-- When Jimmy (or another assistant) sees a real owed action pile up from email, texts, calendar, Inkbox, or chat — **append under Open without asking**, dated: `- **YYYY-MM-DD** — <action>`. Deduplicate against existing Open items. Mention the add in the reply or morning brief.
-- When something looks finished — **do not move it yet**. Propose a **Done candidate** and wait for Norman's OK, then move the line from Open → Done / Archive with the completion date. Never rewrite older Done entries.
-- Do not reorder Open on the page unless Norman asks; the morning brief may *present* a today-ordered view without rewriting Notion.
-- Still never use Apple Reminders for these.
+- Triggers (`list`, `to-do`, `my list`, `vault list`, `project list`, `tasks`, plus clear add / what's on my list / mark done) operate on this page.
+- **Add without asking:** append under Open as `- [ ] **YYYY-MM-DD** — <action>` when real work piles up from email, texts, calendar, Inkbox, or chat. Deduplicate. Mention the add.
+- Do not reorder Open on the page unless Norman asks; the morning brief may present a today-ordered view without rewriting Notion.
+- Never use Apple Reminders for these.
 
 ### Morning brief (weekday 8am)
-1. Fetch LIST first.
-2. Brief leads with a priority view of Open + today's ten cross-checked against LIST.
-3. Report overnight adds; list Done candidates needing OK.
+1. Fetch LIST.
+2. Sweep `- [x]` Open → Done / Archive.
+3. Brief: Swept to Done → Open priority view → today's ten → overnight adds → Done candidates (unchecked but look finished).
 
 Ideas and Thoughts remain separate capture pads (below). They are **not** the task SoT.
 
@@ -50,4 +55,4 @@ Append-only: newest at the bottom, each entry dated. Never reorder or edit prior
 
 **Page:** [VAULT / TASK LIST — Norman](https://app.notion.com/p/3aebedd4141981f58664ed01bbb1242f) (sidebar title may show as `LIST — Norman`)
 
-See **LIST = source of truth** above. Exception to pure append-only: approved Open → Done moves only.
+See **LIST = source of truth** above.
