@@ -2,43 +2,34 @@
 
 **Chosen 2026-09-04.** One private Google Sheet is the source of truth for Norman's complete network (all layers, full PII). The public vault never holds phones, emails, addresses, Dex dumps, or NCD rows.
 
+Dex is **cancelled**. Historical Dex (NCD + Sweep) was bootstrapped into the master. New people come from phone / Google Contacts exports — see Drive doc *Network Master — refresh process*.
+
 ## Source of truth (private)
 
-**Master sheet:** *(create / link TBD — working title "Norman Network Master")*
+**Master sheet:** [Norman Network Master](https://docs.google.com/spreadsheets/d/1pq0AdfTDbIvfnLX6-fOK9oiaNg-2LqkP5aUHi2QbXE/edit)  
+File id: `1pq0AdfTDbIvfnLX6-fOK9oiaNg-2LqkP5aUHi2QbXE`  
+Folder: [Jimmy network](https://drive.google.com/drive/folders/1sUlaC2KwkIax7avJ79txFX3yH05qkuot)
 
-- Lives in Drive (private). Prefer folder [Jimmy network](https://drive.google.com/drive/folders/1sUlaC2KwkIax7avJ79txFX3yH05qkuot) or Legal-adjacent private ops.
-- **One tab / one row per person.** Layers are **labels on the row**, not separate sheets or databases.
-- Upstream feeds (do not treat as SoT once master exists):
-  - Dex Contact Sweep — `1Ni-x4eBgFYW4spDV2LFOnR9WcYHlv54UbVPAY_X_-eY` (~404 curated)
-  - NCD – Raw Contacts Data — `1w5rhIP2TYBrYutO8V6WrUDS1oZ-_3z1K94DhlW-ILEU` (~12,106 Dex dump)
-  - Inner circle currently in `people.md` (phones must leave the public vault)
+- One tab / one row per person. Layers are **labels on the row**, not separate sheets.
+- Bootstrap 2026-09-04: **12,166** rows (NCD 12,106 + Sweep extras + inner circle).
 
-### Suggested master columns
+### Layers (tags, semicolon-separated)
+`inner_circle` · `sweep_working` · `ncd_dump` · `google_contacts` · `phone` · `cinderella` · `family` · `investor`
 
-| Column | Purpose |
-|---|---|
-| `contact_id` | Stable id (uuid or slug); never reuse |
-| `full_name` | Display name |
-| `name_aliases` | Other spellings / nicknames |
-| `layers` | Semicolon tags: `inner_circle` · `sweep_working` · `ncd_dump` · `cinderella` · `family` · `investor` · etc. |
-| `org` / `title` | Company, role |
-| `phones` / `emails` / `addresses` | Full PII (private sheet only) |
-| `socials` | LinkedIn, IG, X, etc. |
-| `provenance` | How the row got here (Dex phone, IG-follow-only, NCD mobile-import, intro path) |
-| `relationship` | Strength / how you actually know them |
-| `last_touch` | Date + channel if known |
-| `cinderella_notes` | Deal relevance / open asks |
-| `profile_md` | Optional path or flag if a long vault profile exists |
-| `sources` | Sweep / NCD / people.md / manual |
-| `updated_at` | Last sync or manual edit |
+### Feeds (historical / intake)
+- Dex Contact Sweep (frozen export) — `1Ni-x4eBgFYW4spDV2LFOnR9WcYHlv54UbVPAY_X_-eY`
+- NCD – Raw Contacts Data (frozen Dex dump) — `1w5rhIP2TYBrYutO8V6WrUDS1oZ-_3z1K94DhlW-ILEU`
+- Inner circle narrative: `people.md` / `network/notable.md` (strip phones from anything public)
+- **Going forward:** Google Contacts CSV (or iPhone vCard) dropped in Drive `Jimmy network / imports / google-contacts-YYYY-MM-DD.csv`
 
-Name rule: assume the most prominent public person unless the row clearly isn't (e.g. Thomas Brady = NFL Tom Brady).
+### Refresh (Dex is dead)
+1. Phone contacts stay synced to Google Contacts.
+2. Export Google Contacts → Google CSV → `imports/`.
+3. Jimmy matches phone, then email, then normalized name: INSERT new (`layers` include `google_contacts`/`phone`); UPDATE changed phones/emails; never delete (`archived=true` instead).
+4. 8am brief nags if newest import is older than 14 days.
 
-### Sync workflow
-
-1. **Bootstrap:** merge NCD (breadth) + Sweep (curation/provenance) + `people.md` into master; Sweep/people fields win on conflict for relationship quality; keep all NCD-only rows with `layers` including `ncd_dump`.
-2. **Periodic refresh:** after Dex export / Sweep edits / new intros — upsert by name+phone/email; never delete without a tombstone/`archived` flag.
-3. **Jimmy lookup:** query the master sheet (or a private index built from it). Sweep-alone / NCD-alone indexes become caches of the master.
+### TrackApp cleanup (pending Norman OK)
+Strip whole-word `Track` from names and `.trackapp.io` from emails (~3k rows). Do not touch substring names (Trackson / Backtrack). Flag title-like leftovers (e.g. General Track Manager).
 
 ---
 
@@ -46,18 +37,16 @@ Name rule: assume the most prominent public person unless the row clearly isn't 
 
 | Path | What |
 |---|---|
-| `network/README.md` | This file — system + sheet link once created |
-| `network/notable.md` | Long-form profiles for **select** people only (same spirit as today's `people.md`). Not 12k files. |
-| `network/basics.md` or `network/basics.csv` | Periodic PII-free mirror of master: name, org, title, layers, provenance class, last_touch, cinderella tag, link to `notable` if any. Refresh on sync. |
+| `network/README.md` | This file — system + sheet link |
+| Drive *Norman Network Master — basics (no PII)* | Periodic PII-free mirror (name, org, title, layers, provenance, last_touch). Id `1CzrdTSm8yHWXLtOReBLt0Q2v064kJjhmsYFz_eXdaEI`. Do **not** commit 12k names into this public repo. |
+| `network/notable.md` or `people.md` | Long-form profiles for **select** people only. Not 12k files. |
 
-**Do not:** one `.md` per contact. **Do not:** put phones/emails/addresses/NCD dumps in this public repo.
-
-Migrate inner-circle narrative from root `people.md` → `network/notable.md` (or keep `people.md` as the notable file and point here). Strip phones from anything public.
+**Do not** put phones/emails/addresses/NCD dumps in this public repo. Inner-circle phones currently in `people.md` should move off public.
 
 ---
 
 ## For a stranger AI
 
-1. Read this file + `network/basics.*` + `network/notable.md`.
+1. Read this file + notable/people long-form.
 2. Open the private master sheet (needs Drive access) for dial/email/full dump.
 3. Treat `layers` as filters, not separate worlds — one graph, labeled.
