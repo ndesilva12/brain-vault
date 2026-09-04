@@ -11,33 +11,37 @@ File id: `1pq0AdfTDbIvfnLX6-fOK9oiaNg-2LqkP5aUHi2QbXE`
 Folder: [Jimmy network](https://drive.google.com/drive/folders/1sUlaC2KwkIax7avJ79txFX3yH05qkuot)
 
 - One tab / one row per person. Layers are **labels on the row**, not separate sheets.
-- Bootstrap 2026-09-04: **12,166** rows (NCD 12,106 + Sweep extras + inner circle).
+- Bootstrap + org-merge 2026-09-04: **12,174** rows.
 
-### Tiers (private sheet only)
-- **Tier 1** — call-anytime / inner
-- **Tier 2** — warm
-- **Tier 3** — cold dump
+### Tiers (effective column `tier`)
+| Tier | Meaning |
+|------|--------|
+| 1 | Call-anytime |
+| 2 | Warm |
+| 3 | Cold dump |
 
-Tiers live as columns/labels on the private master — **not** mirrored as public files.
+- `tier_auto` — rules + email/SMS frequency (do not hand-edit)
+- `tier_manual` — **your override**: type `1`/`2`/`3` on the sheet, or leave blank to follow auto. Refreshes never overwrite a filled `tier_manual`.
+- `tier` — manual if set, else auto
+- Frequency fields: `email_90d`, `email_6mo`, `sms_90d`, `sms_6mo`, `freq_score`, `last_comm` (iMessage 6mo full; Gmail sample is partial)
 
-### Layers (tags, semicolon-separated)
-`inner_circle` · `sweep_working` · `ncd_dump` · `google_contacts` · `phone` · `cinderella` · `family` · `investor`
+### Layers (tags)
+`inner_circle` · `sweep_working` · `ncd_dump` · `google_contacts` · `phone` · `family` · `friend` · `cinderella` · `investor` · `agent_wme_caa` · `college_hoops` · `media` · `legal`
 
-### Feeds (historical / intake)
-- Dex Contact Sweep (frozen export) — `1Ni-x4eBgFYW4spDV2LFOnR9WcYHlv54UbVPAY_X_-eY`
-- NCD – Raw Contacts Data (frozen Dex dump) — `1w5rhIP2TYBrYutO8V6WrUDS1oZ-_3z1K94DhlW-ILEU`
-- Inner circle narrative: `people.md` / `network/notable.md` (strip phones from anything public)
-- **Going forward:** Google Contacts CSV (or iPhone vCard) dropped in Drive `Jimmy network / imports / google-contacts-YYYY-MM-DD.csv`
-- **Contacts merge in progress 2026-09-04** — Google Contacts / iPhone export → clean → re-import into the master (no live Contacts connector yet).
+### Feeds
+- Dex Contact Sweep (frozen) — `1Ni-x4eBgFYW4spDV2LFOnR9WcYHlv54UbVPAY_X_-eY`
+- NCD (frozen) — `1w5rhIP2TYBrYutO8V6WrUDS1oZ-_3z1K94DhlW-ILEU`
+- Google Contacts CSV → Drive `Jimmy network` (merged 2026-09-04)
+- Inner circle long-form: `people.md` / `network/notable.md` (no phones in public repo)
 
-### Refresh (Dex is dead)
-1. Phone contacts stay synced to Google Contacts.
-2. Export Google Contacts → Google CSV → `imports/`.
-3. Jimmy matches phone, then email, then normalized name: INSERT new (`layers` include `google_contacts`/`phone`); UPDATE changed phones/emails; never delete (`archived=true` instead).
-4. 8am brief nags if newest import is older than 14 days.
+### Refresh
+1. Phone → Google Contacts → export Google CSV → `imports/`.
+2. Jimmy match phone, then email, then name; never delete (`archived=true`).
+3. Recompute `tier_auto` + frequency; **preserve `tier_manual`**.
+4. 8am brief nags if newest Contacts import is older than 14 days.
 
 ### TrackApp cleanup (applied 2026-09-04)
-Stripped whole-word `Track` from names (3,018) and `.trackapp.io` from emails (3,021). Did not touch substring names (Trackson / Backtrack). Dirty originals kept in `name_aliases`. Leftovers flagged, not deleted: General Manager PA339, Mr. undefined Gonsalves, 978 My Printer, ~1,688 email-as-name rows. Google Contacts / iPhone still need a separate export → clean → re-import (no live Contacts connector).
+Whole-word `Track` / `.trackapp.io` stripped on Master and Google Contacts. Dirty Track-prefix Google cards moved to Trash after clean re-import.
 
 ---
 
@@ -45,17 +49,17 @@ Stripped whole-word `Track` from names (3,018) and `.trackapp.io` from emails (3
 
 | Path | What |
 |---|---|
-| `network/README.md` | This file — system + sheet link |
-| `network/notable.md` | **Public long-form layer** — curated PII-free profiles (~50–150 max). Start here for humans/AIs without Drive. |
-| `people.md` | Narrative / relationship mirror from Notion people DB — phones/emails stripped; pointer to master + notable. |
-| Drive *Norman Network Master — basics (no PII)* | Periodic PII-free mirror (name, org, title, layers, provenance, last_touch). Id `1CzrdTSm8yHWXLtOReBLt0Q2v064kJjhmsYFz_eXdaEI`. Do **not** commit 12k names into this public repo. |
+| `network/README.md` | This file |
+| `network/notable.md` | Curated long profiles (~22+) for AIs without Drive |
+| `people.md` | Inner-circle narrative; phones stripped |
+| Drive basics sheet | PII-free mirror id `1CzrdTSm8yHWXLtOReBLt0Q2v064kJjhmsYFz_eXdaEI` — do not commit 12k names here |
 
-**Do not** put phones/emails/addresses/NCD dumps/master CSV in this public repo.
+**Do not** put phones/emails/NCD dumps in this public repo.
 
 ---
 
 ## For a stranger AI
 
-1. Read this file + `network/notable.md` (long-form) + `people.md` (narrative, no phones).
-2. Open the private master sheet (needs Drive access) for dial/email/full dump and tiers 1/2/3.
-3. Treat `layers` as filters, not separate worlds — one graph, labeled.
+1. Read this + `network/notable.md` + `people.md`.
+2. Open the private Master (Drive) for dial/email, tiers, frequency, full graph.
+3. Respect `tier_manual` over `tier_auto`. Treat layers as filters, not separate worlds.
