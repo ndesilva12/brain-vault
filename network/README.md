@@ -28,8 +28,8 @@ Folder: [Jimmy network](https://drive.google.com/drive/folders/1sUlaC2KwkIax7avJ
 3. Jimmy matches phone, then email, then normalized name: INSERT new (`layers` include `google_contacts`/`phone`); UPDATE changed phones/emails; never delete (`archived=true` instead).
 4. 8am brief nags if newest import is older than 14 days.
 
-### TrackApp cleanup (pending Norman OK)
-Strip whole-word `Track` from names and `.trackapp.io` from emails (~3k rows). Do not touch substring names (Trackson / Backtrack). Flag title-like leftovers (e.g. General Track Manager).
+### TrackApp cleanup (applied 2026-09-04)
+Stripped whole-word `Track` from names (3,018) and `.trackapp.io` from emails (3,021). Did not touch substring names (Trackson / Backtrack). Dirty originals kept in `name_aliases`. Leftovers flagged, not deleted: General Manager PA339, Mr. undefined Gonsalves, 978 My Printer, ~1,688 email-as-name rows. Google Contacts / iPhone still need a separate export → clean → re-import (no live Contacts connector).
 
 ---
 
