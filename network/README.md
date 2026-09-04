@@ -6,14 +6,14 @@ Dex is **cancelled**. Historical Dex (NCD + Sweep) was bootstrapped into the mas
 
 ## Source of truth (private)
 
-**Master sheet:** [Norman Network Master](https://docs.google.com/spreadsheets/d/1pq0AdfTDbIvfnLX6-fOK9oiaNg-2LqkP5aUHi2QbXE/edit)  
-File id: `1pq0AdfTDbIvfnLX6-fOK9oiaNg-2LqkP5aUHi2QbXE`  
+**Master sheet:** [Norman Network Master](https://docs.google.com/spreadsheets/d/1pq0AdfTDblvfnLX6-fOK90iagNq-2LqkP5aUHi2QbXE/edit)  
+File id: `1pq0AdfTDblvfnLX6-fOK90iagNq-2LqkP5aUHi2QbXE`  
 Folder: [Jimmy network](https://drive.google.com/drive/folders/1sUlaC2KwkIax7avJ79txFX3yH05qkuot)
 
-- One tab / one row per person. Layers are **labels on the row**, not separate sheets.
-- Bootstrap + org-merge 2026-09-04: **12,174** rows.
+- One row per person. Layers are tags on the row.
+- **12,174** rows (2026-09-04). Columns include `tier`, `tier_auto`, `tier_manual`, frequency fields.
 
-### Tiers (effective column `tier`)
+### Tiers
 | Tier | Meaning |
 |------|--------|
 | 1 | Call-anytime |
@@ -21,27 +21,17 @@ Folder: [Jimmy network](https://drive.google.com/drive/folders/1sUlaC2KwkIax7avJ
 | 3 | Cold dump |
 
 - `tier_auto` — rules + email/SMS frequency (do not hand-edit)
-- `tier_manual` — **your override**: type `1`/`2`/`3` on the sheet, or leave blank to follow auto. Refreshes never overwrite a filled `tier_manual`.
+- `tier_manual` — **your override**: type `1`/`2`/`3`, or blank for auto. Refreshes never overwrite a filled `tier_manual`.
 - `tier` — manual if set, else auto
-- Frequency fields: `email_90d`, `email_6mo`, `sms_90d`, `sms_6mo`, `freq_score`, `last_comm` (iMessage 6mo full; Gmail sample is partial)
+- Freq: `email_90d`, `email_6mo`, `sms_90d`, `sms_6mo`, `freq_score`, `last_comm`
 
-### Layers (tags)
+How-to Drive doc: *Frequency and manual tier* in Jimmy network.
+
+### Layers
 `inner_circle` · `sweep_working` · `ncd_dump` · `google_contacts` · `phone` · `family` · `friend` · `cinderella` · `investor` · `agent_wme_caa` · `college_hoops` · `media` · `legal`
 
-### Feeds
-- Dex Contact Sweep (frozen) — `1Ni-x4eBgFYW4spDV2LFOnR9WcYHlv54UbVPAY_X_-eY`
-- NCD (frozen) — `1w5rhIP2TYBrYutO8V6WrUDS1oZ-_3z1K94DhlW-ILEU`
-- Google Contacts CSV → Drive `Jimmy network` (merged 2026-09-04)
-- Inner circle long-form: `people.md` / `network/notable.md` (no phones in public repo)
-
-### Refresh
-1. Phone → Google Contacts → export Google CSV → `imports/`.
-2. Jimmy match phone, then email, then name; never delete (`archived=true`).
-3. Recompute `tier_auto` + frequency; **preserve `tier_manual`**.
-4. 8am brief nags if newest Contacts import is older than 14 days.
-
-### TrackApp cleanup (applied 2026-09-04)
-Whole-word `Track` / `.trackapp.io` stripped on Master and Google Contacts. Dirty Track-prefix Google cards moved to Trash after clean re-import.
+### Feeds / refresh
+Google Contacts CSV into Jimmy network → Jimmy merge (phone, email, name). Never delete (`archived=true`). Preserve `tier_manual`. 8am brief nags if Contacts import >14 days old.
 
 ---
 
@@ -50,16 +40,14 @@ Whole-word `Track` / `.trackapp.io` stripped on Master and Google Contacts. Dirt
 | Path | What |
 |---|---|
 | `network/README.md` | This file |
-| `network/notable.md` | Curated long profiles (~22+) for AIs without Drive |
+| `network/notable.md` | Curated long profiles |
 | `people.md` | Inner-circle narrative; phones stripped |
-| Drive basics sheet | PII-free mirror id `1CzrdTSm8yHWXLtOReBLt0Q2v064kJjhmsYFz_eXdaEI` — do not commit 12k names here |
-
-**Do not** put phones/emails/NCD dumps in this public repo.
+| [Basics sheet](https://docs.google.com/spreadsheets/d/1CzrdTSm8yHWXLtOReBLt0Q2v064kJjhmsYFz_eXdaEI/edit) | PII-free mirror — do not commit 12k names here |
 
 ---
 
 ## For a stranger AI
 
 1. Read this + `network/notable.md` + `people.md`.
-2. Open the private Master (Drive) for dial/email, tiers, frequency, full graph.
-3. Respect `tier_manual` over `tier_auto`. Treat layers as filters, not separate worlds.
+2. Open private Master (Drive) for dial/email, tiers, frequency.
+3. Respect `tier_manual` over `tier_auto`.
