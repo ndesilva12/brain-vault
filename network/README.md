@@ -13,6 +13,13 @@ Folder: [Jimmy network](https://drive.google.com/drive/folders/1sUlaC2KwkIax7avJ
 - One tab / one row per person. Layers are **labels on the row**, not separate sheets.
 - Bootstrap 2026-09-04: **12,166** rows (NCD 12,106 + Sweep extras + inner circle).
 
+### Tiers (private sheet only)
+- **Tier 1** — call-anytime / inner
+- **Tier 2** — warm
+- **Tier 3** — cold dump
+
+Tiers live as columns/labels on the private master — **not** mirrored as public files.
+
 ### Layers (tags, semicolon-separated)
 `inner_circle` · `sweep_working` · `ncd_dump` · `google_contacts` · `phone` · `cinderella` · `family` · `investor`
 
@@ -21,6 +28,7 @@ Folder: [Jimmy network](https://drive.google.com/drive/folders/1sUlaC2KwkIax7avJ
 - NCD – Raw Contacts Data (frozen Dex dump) — `1w5rhIP2TYBrYutO8V6WrUDS1oZ-_3z1K94DhlW-ILEU`
 - Inner circle narrative: `people.md` / `network/notable.md` (strip phones from anything public)
 - **Going forward:** Google Contacts CSV (or iPhone vCard) dropped in Drive `Jimmy network / imports / google-contacts-YYYY-MM-DD.csv`
+- **Contacts merge in progress 2026-09-04** — Google Contacts / iPhone export → clean → re-import into the master (no live Contacts connector yet).
 
 ### Refresh (Dex is dead)
 1. Phone contacts stay synced to Google Contacts.
@@ -38,15 +46,16 @@ Stripped whole-word `Track` from names (3,018) and `.trackapp.io` from emails (3
 | Path | What |
 |---|---|
 | `network/README.md` | This file — system + sheet link |
+| `network/notable.md` | **Public long-form layer** — curated PII-free profiles (~50–150 max). Start here for humans/AIs without Drive. |
+| `people.md` | Narrative / relationship mirror from Notion people DB — phones/emails stripped; pointer to master + notable. |
 | Drive *Norman Network Master — basics (no PII)* | Periodic PII-free mirror (name, org, title, layers, provenance, last_touch). Id `1CzrdTSm8yHWXLtOReBLt0Q2v064kJjhmsYFz_eXdaEI`. Do **not** commit 12k names into this public repo. |
-| `network/notable.md` or `people.md` | Long-form profiles for **select** people only. Not 12k files. |
 
-**Do not** put phones/emails/addresses/NCD dumps in this public repo. Inner-circle phones currently in `people.md` should move off public.
+**Do not** put phones/emails/addresses/NCD dumps/master CSV in this public repo.
 
 ---
 
 ## For a stranger AI
 
-1. Read this file + notable/people long-form.
-2. Open the private master sheet (needs Drive access) for dial/email/full dump.
+1. Read this file + `network/notable.md` (long-form) + `people.md` (narrative, no phones).
+2. Open the private master sheet (needs Drive access) for dial/email/full dump and tiers 1/2/3.
 3. Treat `layers` as filters, not separate worlds — one graph, labeled.
