@@ -1,6 +1,6 @@
 # Advantage Rating — one-game MVP blueprint
 
-**Status:** parked for later (saved 2026-09-05). Do not build until Norman approves.
+**Status:** active (2026-09-05). Step 0 locked — see [advantage-rating-step0-spec.md](./advantage-rating-step0-spec.md). Sample: Illinois–MSU YT `Or0nrNcjQvU` cut 10:00–12:30.
 **Related:** Drive deck [Advantage Rating - Model Summary](https://docs.google.com/presentation/d/10Lvu7xI1jaKYUHox18ifkFqOqD4NwT_qgmqm96tIJRk/edit) (Feb 25, 2025, for Genius Sports).
 
 ## Goal
@@ -55,8 +55,8 @@ Raw MP4(s)
 ## Out of scope for v1
 Multi-cam fusion, Hawk-Eye/Genius feeds, live in-game, perfect jersey OCR, coach UI before numbers look right on film.
 
-## Next step when unpaused
-Approve blueprint → Step 0 + **2–3 min sample clip** test (homography + tracks) → then full game GPU.
+## Next step
+Sample-clip tracking QA on Illinois–MSU cut → then full game GPU.
 
 ## Film-layer vendors (context only; not the core)
 Kore, League Lens, Paloa, HoopIQ, Mixpeek, Anysports — upload film products. Prefer DIY XY for Advantage Rating; optionally compare one Kore match for sanity.
