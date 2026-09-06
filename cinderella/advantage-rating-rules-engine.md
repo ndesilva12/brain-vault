@@ -1,65 +1,76 @@
 # Advantage Rating — Rules Engine Spec (locked)
 
-**Status:** Locked from Norman interview 2026-09-05 (+ clarifications same day).  
-**Supersedes:** scoring-region default of ≤18 ft in older Step 0 drafts.  
-**Sources:** Genius Sports Advantage Rating Model Summary deck + Norman decisions.  
-**Downstream:** Google Sheet of YouTube links + scope (deferred until trial accuracy is OK).
+**Status:** Revised 2026-09-05 after Norman hand-review of ILL–MSU sample events.  
+**Sources:** Genius Sports deck + Norman interview + Events sheet annotations.
 
 ## Plain definition
-An **advantage** is a stretch where the **player with the ball** has compromised the defense. Off-ball players do **not** create advantages. It can start and end multiple times in one possession. Only **used** advantages count; if the defense **recovers** first, that advantage is **null**.
+An **advantage** is a stretch where the **ball-handler** has compromised the defense. Off-ball players do not create. Advantages can start/end multiple times in a possession.
 
-## Court / scoring region
-- Court: NCAA/NBA **94 × 50 ft**; player foot XY in court feet.
-- **Scoring region = inside the 3-point line** (locked).
+## Film gate (hard)
+Score **only live game action** from the **sideline / elevated sideline** camera.  
+If the **camera angle changes**, treat as **replay / non-live** → **do not log** advantages.  
+(Broadcast cutaways and replays caused most false positives on the ILL–MSU sample.)
 
-## Ball-handler (hard gate)
-- Create rules apply **only** to the current **ball-handler**.
-- Creator = ball-handler at advantage start.
-- If ball-handler is unknown, do **not** start an advantage.
+## Scoring region
+**Inside the 3-point line.**
 
-## START (OR — any one, ball-handler only)
-1. **15 ft auto-create:** Ball-handler within **15.0 ft** of the target rim.
-2. **Second defender:** Ball-handler **inside the 3** AND at least **two defenders within ~6 ft** of the ball-handler.
-3. **Closer to rim:** Ball-handler **inside the 3** AND closer to the rim than the nearest defender.
+## START (OR — ball-handler only)
+1. Within **15 ft** of rim.  
+2. Inside the 3 AND ≥2 defenders within **~6 ft**.  
+3. Inside the 3 AND closer to rim than nearest defender.  
 
-## END (OR)
-1. **Recover:** Create conditions (1–3) are all false for **~1.0 second continuously** → advantage is **null**.
-2. **Used:** Possession ends via **FGA**, **shooting foul**, or **turnover**.
+Multiple create reasons in the same continuous advantage = **one creation** (do not split duplicates).
 
-## Credit (who)
-- **Only the creator** (ball-handler who started it).
+## END
+1. **Recover:** create conditions false for **~1.0 s continuous**.  
+2. **Used:** FGA, shooting foul, or turnover (by anyone on that advantage chain as defined below).
 
-## Points (how much)
-`credit = shot_point_value × (quality / 100)`
+## Two ledgers (do not mix)
 
-- **Shot point value:** 2 or 3 (or foul as 2/3).
-- **Quality 0–100:** (1) distance to nearest defender, (2) small bump earlier in shot clock.
-- **Misses still get** quality×points (expected points).
-- **Shooting foul:** same as shot.
-- **Turnover:** **0 points**, but still **used** (not null).
+### A) Raw creation ability
+Every valid create (including ones that **never get used**) increments **creations**.  
+Unused creates: **creation credit only** — **$0** toward Advantage Rating.
 
-## Headline rating (locked)
-**Advantage Rating = total creator credits ÷ number of used advantages** (points per advantage).
+### B) Advantage Rating (headline)
+Only **used** advantages contribute points to the rating.  
+**Divisor = number of used advantages** (not total creations).
 
-Applies to a player or a team (team = that team’s total creator credits ÷ that team’s used advantages). Also keep raw totals for transparency.
+`Rating = rating_points ÷ used_advantages`
 
-## Aggregations (sheet scopes — later)
-| Scope | Output |
-|-------|--------|
-| One player | That player’s PPA (+ totals) |
-| Every player on a team | Per-player PPA |
-| Team total | Team PPA |
-| Full game both teams | Per-player + both team PPAs |
+## How rating_points are computed on a USED advantage
 
-## Non-goals for v1 engine
-- Deck credit types 2–5 (finisher / swing chains)
-- And-1 / technicals as separate types
-- Perfect roster names (use best tracking IDs)
+### Case 1 — Creator uses it themselves
+(shot, shooting foul, or turnover by the creator)
+
+Use **actual scored points**: **3 / 2 / 1 / 0**  
+- Include free throws made from that shooting foul.  
+- Turnover → **0**.  
+- **Do not** apply shot-quality scaling in this case.
+
+### Case 2 — Creator passes; teammate **immediately** uses
+Use **expected points**:  
+`rating_points = (2 or 3) × (quality / 100)`  
+Quality 0–100 from nearest-defender distance + small early shot-clock bump.  
+Misses still get EP in this pass-off case.
+
+### Case 3 — Created but never used (recover / dead)
+- Counts in **creations**  
+- **$0** rating_points; **excluded** from used_advantages divisor
+
+## Credit identity
+Creator = ball-handler at create. Roster jersey preferred over anonymous track IDs.
+
+## Team rollup
+Same formulas at team level: team rating_points ÷ team used_advantages; also report raw creations.
+
+## ILL–MSU sample lessons (2026-09-05)
+- Majority of auto events were **replay / non-gameplay** after camera cuts.  
+- Many false creates: wrong BH, not actually ≤15 ft / closer-to-rim.  
+- Duplicate splits of one real advantage.  
+- Quality sometimes too high on poor shots.
 
 ## Decision log
-- 2026-09-05: Scoring region = inside 3pt; keep all three create rules.
-- 2026-09-05: End = recover OR use; recover-before-use = null; recover ≈ 1s.
-- 2026-09-05: Second defender = ≥2 defenders within ~6 ft.
-- 2026-09-05: Credit = creator only; EP = quality×points even on miss; SF same; TO = 0 but used.
-- 2026-09-05: Headline = **credits ÷ used advantages** (PPA).
-- 2026-09-05: **Ball-handler only** — off-ball cannot create.
+- 2026-09-05: Inside 3; create OR×3; BH-only; recover ~1s.  
+- 2026-09-05: **Creation ≠ rating**; unused create ≠ divisor.  
+- 2026-09-05: Self-use = **actual points**; pass-then-use = **quality×points**.  
+- 2026-09-05: **Live sideline cam only**; ignore angle-change replays.
