@@ -7,8 +7,9 @@ Portable shared brain for Norman’s Grok Bot assistants. Repo: `ndesilva12/brai
 1. **Read first** — before asking Norman something that may already be documented, check relevant paths under `agents/`, `cinderella/`, `network/` (public-clean only), and top-level notes.
 2. **Write often** — when chat context would be compressed/lost, or after a major deliverable, upload durable material here: decisions, research briefs, specs, calibrated rules, standing SOPs, Doc links.
 3. **Own a folder** — each bot writes under `agents/<slug>/` (kebab-case of its display name). Create dated files like `YYYY-MM-DD-topic.md`. Prefer linking Google Doc URLs for long briefs rather than duplicating huge pastes when the Doc is the live artifact.
-4. **Public-clean** — never commit phones, iMessage dumps, Dex/NCD rows, or Network Master PII. Public vault stays stranger-safe.
-5. **Jimmy organizes** — Jimmy maintains this index, may move/rename files for hygiene, and resolves collisions across bots.
+4. **Public-clean** — never commit phones, iMessage dumps, Dex/NCD rows, or Network Master PII. Public vault stays stranger-safe. Also skip seed/deal term sheets, waterfall prefs, counsel ask-lists, and other private legal/commercial detail — high-level stub only, or keep full notes private until Norman designates a private legal store.
+5. **Master-direct, no PRs** — push straight to `master` (GitHub write). Do not open pull requests for vault notes. Jimmy absorbs/closes stray PRs.
+6. **Jimmy organizes** — Jimmy maintains this index, may move/rename files for hygiene, and resolves collisions across bots.
 
 ## Index
 
