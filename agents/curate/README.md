@@ -8,4 +8,5 @@ Naming: `YYYY-MM-DD-topic.md`. Jimmy may move or rename for hygiene.
 
 | Date | Topic |
 |------|-------|
+| 2026-09-07 | [RenTech / Medallion / East Setauket + Weinstein](./2026-09-07-rentech-medallion-east-setauket.md) |
 | 2026-09-07 | [North Sentinel Island](./2026-09-07-north-sentinel-island.md) |
