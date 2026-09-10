@@ -36,18 +36,50 @@ read as deliberate. An investor's counsel will argue the 2x is measured on its o
 payments under this Section 1 equal to two times (2x) its Investment Amount, inclusive of all
 amounts received under Section 1(a)."*
 
-### 2. It does not say whether Investors ALSO share in the remainder — a likely double-dip
+### 2. The residual is unaddressed — and the confirmed intent is NOT what the text implies
 
-The waterfall says a percentage of each distribution "shall be declared, paid or set aside **for
-the Investors**." It is silent on what happens to the other 50%. The natural reading is that the
-remaining 50% goes to **all** stockholders pro rata — **including the Investors' own 15%.**
+✅ **INTENT CONFIRMED 2026-09-10** (Norman, with Sunjay and Ankur): the seed investors take the
+50% preference **and are then excluded from the remainder**. The other 50% is distributed
+**pro rata among the non-seed holders only** (the other 85%, grossed up among themselves).
+**The seed investors do NOT double-dip.** This is **non-participating** preferred economics.
 
-On a $1M distribution that means: $500K preference **+ 15% of the remaining $500K ($75K) =
-$575K**, on a 15% stake. That is participating-preferred economics, which may be what was
-negotiated — **but nobody appears to have decided it.**
+⚠️ **The document does not say this — anywhere.** §1 says a percentage "shall be declared, paid
+or set aside **for the Investors**" and is then silent on the balance. Silence defaults to the
+charter, which distributes ratably across **all** shares — including the Investors' 15%. **An
+investor's counsel reading this cold gets the participating answer**, which is the opposite of
+what was agreed.
 
-**Fix:** say expressly whether the Class A held by Investors participates in the residual, or
-whether the preference is in lieu of pro rata participation until the Preferred Return is met.
+**What the confirmed deal is worth, per $1M distributed:**
+
+| | Investors | Norman (60.75%) |
+|---|---|---|
+| **As agreed** (non-participating) | $500K | **$357K** |
+| As currently drafted (participating) | $575K | $304K |
+
+≈ **$53K per $1M** to Norman, and materially more on a Liquidation Event, where the entire
+enterprise value runs through §1.
+
+**Drafting fix — add to §1 (concept, for Loeb to render):**
+> *"...shall be declared, paid or set aside for the Investors on a pro rata basis... **and the
+> balance of such dividend, distribution or other payment shall be declared, paid or set aside
+> for the holders of capital stock other than the Investors, pro rata among themselves. For the
+> avoidance of doubt, the Shares held by the Investors shall not participate in such balance
+> until this Agreement terminates in accordance with Section 2.**"*
+
+**Two gaps this leaves open — resolve both in the same pass:**
+
+**(a) Tier two has the identical hole.** The confirmation covers the 50% tier. §1(b)'s **10%**
+tier is silent in exactly the same way. Presumably the other **90%** likewise goes to non-seed
+holders pro rata among themselves — **say so explicitly**, or the ambiguity simply relocates.
+
+**(b) The mechanic assumes a stream of distributions; a sale is a single event.** §1 reads as a
+first/second waterfall running across many payments over time. On a **Liquidation Event** the
+whole thing has to resolve **inside one transaction**: 50% until 1x, then 10% until the Preferred
+Return, then the agreement terminates under §2 and the remainder — **including the Investors'
+15%** — goes pro rata. **Confirm the drafting executes that sequence within a single closing**,
+rather than assuming a series. Note this is also what protects the investors on a large exit:
+without termination-then-participation, a 2x cap on a $50M sale badly disadvantages a 15% holder,
+and they will fight it.
 
 ### 3. ⚠️ The economics are in a side letter, not in the charter
 
