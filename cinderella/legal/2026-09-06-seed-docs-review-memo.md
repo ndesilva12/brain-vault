@@ -8,6 +8,73 @@ Nothing signed. Norman's raise: **$1.5M for 15%** (15 × $100K for 1% each)._
 
 ---
 
+---
+
+# 🛑 SUPERSEDING FINDING — 2026-09-10
+
+**Ankur clarified the actual deal: the 50% is on GROSS REVENUE into the parent company, not on
+distributions.** Every dollar of parent gross revenue pays 50 cents to the seed investors; the
+balance is **retained by the company**, not distributed to anyone.
+
+**That means Loeb's Side Letter is the wrong instrument — not a document to be amended.** A
+distribution preference and a revenue share are different animals: one triggers only when the
+board declares a dividend, the other triggers on receipt of revenue regardless of profitability
+or any board action.
+
+**The deal Ankur describes is already drafted, in this vault:**
+`legal/clean/Revenue_Share_Agreement.md` §2.1 — *"Fifty percent (50%) of Gross Cash Revenue,
+until aggregate Revenue-Share Payments... equal one times (1.0×)... then... Ten percent (10%)...
+until... two times (2.0×)."* Verbatim the described structure.
+
+**The vault document already resolves both issues raised below, and does it better:**
+
+| Issue | Loeb Side Letter | Vault Revenue-Share Agreement |
+|---|---|---|
+| 2x inclusive or stacked 3x? | Ambiguous | ✅ §2.1(b) — expressly **aggregate**, no ambiguity |
+| Do investors also get pro-rata equity? | Silent | ✅ §2.5 — revenue share is **"in addition to, and not credited or offset against"** dividends; equity untouched. The two instruments are simply separate, so the question never arises |
+| Amendment unanimity | All 15 investors | ✅ §9.3 — Company + **Investor Representative** binds all holders |
+| Liquidation Event catches IP licensing | Unaddressed | ✅ Exclusion (viii) + §4 Change-of-Control acceleration |
+| Pass-through / SPV money counted as revenue | Unaddressed | ✅ Exclusion (iii) — agent/custodian amounts excluded to the extent remitted |
+| Financing proceeds counted | Unaddressed | ✅ Exclusions (i)/(ii) — the Seed Round itself is excluded |
+| Reporting / audit | None | ✅ §3 — quarterly statements, records, annual audit, 5% underpayment shifts cost |
+| Anti-avoidance | None | ✅ §6.1 no re-characterisation, §6.2 affiliate deals at arm's-length FMV |
+| Termination trigger | Circular | ✅ §2.2 automatic at 2.0× |
+
+### ⚠️ Recommendation: discard the Side Letter; use the vault set
+
+Adopt one **internally consistent** set. The vault set — Term Sheet (1.3), Stock Purchase
+Agreement (1.4), Revenue-Share Agreement (1.5), Stockholders' Agreement (1.6) — cross-references
+itself: the Revenue-Share Agreement depends on an **Investor Representative** and on a
+**return-of-capital right in the Stockholders' Agreement** (§5). **Loeb's Subscription Agreement
+defines neither.** Pairing Loeb's Subscription Agreement with the vault's Revenue-Share Agreement
+leaves both dangling.
+
+**Process question worth asking Brian directly: did he ever receive the vault set?** If he
+re-papered the economics from scratch without it, Cinderella is paying for work that duplicates —
+less well — documents that already exist, and the mismatch reached investors as a changed deal.
+
+### Two things to be clear-eyed about in the vault version
+
+1. **This is a rich deal, correctly understood.** §2.5 and §4 both confirm the revenue share is
+   **on top of** the 15% equity — investors receive 2× gross-revenue share **and** keep full
+   pro-rata equity participation and full sale proceeds on their Shares. That may well be what
+   was agreed; it should be stated plainly rather than discovered later.
+2. ⚠️ **There is no cash-flow protection for the Company.** 50% of *gross* revenue comes off the
+   top **before** salaries, legal, procurement and G&A. §6.3 subordinates only to senior secured
+   debt. In a period with real revenue but heavy fixed cost, the payment obligation still runs.
+   **Ask for a deferral mechanic** — the Company may defer (with accrual, and perhaps interest)
+   any payment that would drop it below a stated minimum operating reserve. Mitigating fact: per
+   the model the **SPVs** collect distributor license fees, so parent gross revenue is largely
+   already the parent's own margin (its 40% SPV share, franchise fees, management fees,
+   franchise-wide sponsorship, format licensing) rather than a pass-through-heavy P&L. That makes
+   50%-of-gross far less dangerous here than the phrase usually implies — **but it is not zero
+   risk, and the protection costs nothing to ask for.**
+
+**Everything below was written against the Side Letter and is retained only as a record of what
+that draft would have done. Sections 1 and 2 are moot if the Side Letter is discarded.**
+
+---
+
 ## ⭐ THE THREE THINGS TO FIX BEFORE ANYONE SIGNS
 
 ### 1. The Preferred Return is ambiguous — it reads as either 2x or 3x
