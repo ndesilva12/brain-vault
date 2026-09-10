@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Sunjay Mathews Partner Agreement — DRAFT 4 (final).
+"""Sunjay Mathews Partner Agreement — DRAFT 5 (final).
 DRAFT 3 plus: §2.6 Acceleration, Cause limbs (b)/(f)/(g) cut, conforming
 cross-reference fixes in §2.3(c), §2.4 and §6.3, and the OpenAI typo."""
 from docx import Document
@@ -7,7 +7,7 @@ from docx.shared import Pt, Inches, RGBColor
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 
 OUT = ("/tmp/claude-0/-home-user-brain-vault/cdeb7b3c-9b38-5f86-b0fa-23ce6e519c4c/"
-       "scratchpad/Sunjay Mathews Partner Agreement DRAFT 4 (FINAL).docx")
+       "scratchpad/Sunjay Mathews Partner Agreement DRAFT 5 (FINAL).docx")
 
 doc = Document()
 for s in doc.sections:
@@ -120,6 +120,16 @@ p("Partner will lead partnerships, media, legal coordination, and commercial exe
   "to the Chief Executive Officer, and will devote full-time or substantially all business time "
   "to the Company.", lead="1.4  Role.  ")
 
+COMP = ("Partner will receive no cash compensation, salary, bonus, benefits or other remuneration "
+        "from the Company during the first twelve (12) months of the term. Any compensation "
+        "payable thereafter will be determined and agreed separately in writing, and nothing in "
+        "this Agreement obligates the Company to pay, or entitles Partner to receive, any such "
+        "compensation absent such written agreement. Partner acknowledges and agrees that the "
+        "equity granted under this Agreement constitutes the entirety of the consideration for "
+        "Partner's services during that period. The Company will reimburse reasonable, documented "
+        "business expenses incurred by Partner in the performance of his duties in accordance "
+        "with Company policy.")
+
 p("For the avoidance of doubt, Partner:", lead="1.5  No special rights or authority.  ")
 for t in [
     "(a)  holds Class A Common Stock (1 vote per share) only — Partner does not hold, and is not "
@@ -170,6 +180,8 @@ for lead_txt, body in [
      "remedies."),
 ]:
     p(body, lead=lead_txt, indent=0.35)
+
+p(COMP, lead="1.7  Compensation.  ")
 
 rule()
 head("2.  BASE EQUITY — 20%")
@@ -436,20 +448,78 @@ p("On termination: unvested Base Shares are forfeited (Section 2.4, subject to S
 
 rule()
 head("7.  GENERAL")
-p("Delaware governing law; entire agreement together with the Restricted Stock Purchase Agreement "
-  "and Stockholders' Agreement; amendments in writing signed by both parties; Partner may not "
-  "assign; counterparts and electronic signature permitted.")
+
+for lead_txt, body in [
+    ("7.1  Governing law; jurisdiction; jury waiver.  ",
+     "This Agreement is governed by and construed in accordance with the laws of the State of "
+     "Delaware, without regard to its conflicts of laws principles. The Court of Chancery of the "
+     "State of Delaware has exclusive jurisdiction over any dispute arising out of or relating to "
+     "this Agreement (or, if that court lacks subject-matter jurisdiction, the federal or state "
+     "courts located in the State of Delaware). Each party consents to personal jurisdiction in "
+     "those courts and waives any objection to venue or forum non conveniens. TO THE FULLEST "
+     "EXTENT PERMITTED BY LAW, EACH PARTY WAIVES ANY RIGHT TO TRIAL BY JURY."),
+    ("7.2  Entire agreement.  ",
+     "This Agreement, together with the Restricted Stock Purchase Agreement and the Stockholders' "
+     "Agreement, constitutes the entire agreement between the parties with respect to its subject "
+     "matter and supersedes all prior and contemporaneous agreements, understandings, term "
+     "sheets, letters of intent, negotiations and discussions, whether written or oral, including "
+     "any letter of intent previously executed between the parties. In the event of a conflict "
+     "between this Agreement and the Restricted Stock Purchase Agreement as to the vesting, "
+     "acceleration or forfeiture of the Base Shares, this Agreement controls."),
+    ("7.3  Amendment; waiver.  ",
+     "This Agreement may be amended, modified or supplemented only by a writing signed by both "
+     "parties. No waiver of any provision is effective unless in writing and signed by the "
+     "waiving party. No failure or delay in exercising any right operates as a waiver of it, and "
+     "no single or partial exercise precludes any further exercise. A waiver on one occasion is "
+     "not a waiver on any other occasion."),
+    ("7.4  Assignment; successors.  ",
+     "Partner may not assign or delegate this Agreement or any right or obligation under it, and "
+     "any purported assignment is void. The Company may assign this Agreement to any successor to "
+     "its business or substantially all of its assets. This Agreement binds and inures to the "
+     "benefit of the parties and their permitted successors and assigns."),
+    ("7.5  Notices.  ",
+     "All notices under this Agreement must be in writing and delivered by hand, by nationally "
+     "recognized overnight courier, or by email, in each case to the address set forth on the "
+     "signature page (or such other address as a party designates by notice). Notice is deemed "
+     "given on delivery if by hand, one business day after deposit if by courier, and on "
+     "transmission if by email (provided no bounce or error notice is received)."),
+    ("7.6  Severability; reformation.  ",
+     "If any provision of this Agreement is held invalid or unenforceable in any jurisdiction, "
+     "that provision will be ineffective only to the extent of such invalidity or "
+     "unenforceability, without affecting the remaining provisions or the validity of that "
+     "provision in any other jurisdiction. If any restriction in Section 5.4 is held "
+     "unenforceable because of its duration, geographic scope or subject matter, the parties "
+     "intend that the court reduce that restriction to the maximum duration, scope or subject "
+     "matter that is enforceable, and enforce it as so reduced."),
+    ("7.7  Counterparts; electronic signature.  ",
+     "This Agreement may be executed in counterparts, each of which is an original and all of "
+     "which together constitute one instrument. Signatures delivered electronically or by "
+     "portable document format have the same effect as original signatures."),
+    ("7.8  Headings; construction.  ",
+     "Headings are for convenience only and do not affect interpretation. “Including” "
+     "means “including without limitation.” This Agreement is the product of "
+     "negotiation between the parties and will not be construed against either party as drafter."),
+    ("7.9  Independent counsel.  ",
+     "Partner acknowledges that he has been advised to consult, and has had the opportunity to "
+     "consult, independent legal and tax counsel of his own choosing regarding this Agreement, "
+     "and that he enters into it voluntarily and with full understanding of its terms."),
+]:
+    p(body, lead=lead_txt)
 
 rule()
 p("COMPANY: Cinderella Corp.", bold=True, before=10, after=16, justify=False)
 p("By:  ______________________________", after=2, justify=False)
 p("Name:  Norman C. de Silva", after=2, justify=False)
 p("Title:  Founder & Chief Executive Officer", after=2, justify=False)
-p("Date:  ______________", after=20, justify=False)
+p("Date:  ______________", after=6, justify=False)
+p("Address for notices:  ______________________________________________", after=2, justify=False)
+p("Email:  ______________________________", after=20, justify=False)
 
 p("PARTNER:  ______________________________", bold=True, after=2, justify=False)
 p("Sunjay Mathews", after=2, justify=False)
-p("Date:  ______________", justify=False)
+p("Date:  ______________", after=6, justify=False)
+p("Address for notices:  ______________________________________________", after=2, justify=False)
+p("Email:  ______________________________", justify=False)
 
 doc.save(OUT)
 print("wrote", OUT)
