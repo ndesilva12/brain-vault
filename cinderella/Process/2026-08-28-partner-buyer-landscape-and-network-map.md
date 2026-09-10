@@ -136,6 +136,68 @@ Made ***Welcome to Wrexham*, *Last Chance U*, *Last Chance U: Basketball*, *Chee
 
 ---
 
+## 6d-2. WME escalation — whiteboard session invite, 2026-09-10
+
+**What happened:** Hodes called Sunjay with **Sean Moran** also on the line. Both read as very
+enthusiastic — Hodes had to **slow Sean down on questions**, saying they'd cover everything when
+Norman and Sunjay come in. Invitation extended to a **whiteboard session in NYC with the WME
+team.**
+
+**Read: this is a real escalation, not a courtesy.** A single agent who likes something sits on
+it. Hodes brought a **peer** onto the call and is now assembling a **room** — that only happens
+after an agent has decided internally that a project is worth spending colleagues' time on.
+Senior agent hours in a room are an agency's scarcest resource. Detailed mechanical questions
+(Sean's) mean someone is modeling feasibility, not being polite.
+
+**⚠️ HIGHEST-VALUE PREP ITEM — identify which Sean Moran / which WME division.** Not in the vault
+and unverified. **This determines what deal they are actually building:**
+- **Talent/filmed-entertainment side** → a **packaging** play: attach multiple WME clients, take
+  the package to buyers, earn across the package. Most likely, and good for Norman — it means
+  roster access rather than one name.
+- **Sports media-rights / properties side** → they are looking at the **live-game inventory**
+  (the neutral-site non-conference "money games" the format one-pager calls unclaimed live
+  inventory). That is a far more institutional conversation, and a much bigger one.
+
+**What a whiteboard session is:** a working packaging session, not a pitch and not a negotiation.
+The agency thinks out loud — which clients attach, which buyers to approach, what the package
+looks like, what WME's own role would be. **Norman is not there to sell; he is there to shape
+what gets drawn on the board.**
+
+### The fork to be ready for
+
+The real question the room will surface is **whether WME wants to supply talent or represent the
+project.**
+- **Talent supply** — they bring names; Norman keeps buyer strategy. Clean.
+- **Agency of record** — WME shops *Making Cinderella* itself. Opens every door, and takes
+  commission on the whole thing. **This collides with two standing decisions:** go to HBO
+  independently and now, and keep multiple buyers live for competitive tension.
+
+**Decide the answer before the session, not in it.**
+
+### Risks specific to this room
+
+1. ⚠️ **No NDA / non-circumvention is in place with WME.** The vault has one ready (5-yr term,
+   3-yr non-circ tail, concept-ownership acknowledgment). **Execute it before the whiteboard** —
+   this is precisely the situation it exists for.
+2. ⚠️ **Origination capture.** Names generated on the whiteboard can later be claimed as
+   WME-originated even if Norman reaches them another way. Same structural risk as the EverWonder
+   9-month tail and the Foxx CAA-vs-manager channel collision. **Whatever goes on the board,
+   WME will treat as theirs.**
+3. **Packaging incentive divergence.** WME maximizes clients attached; Norman needs the *right*
+   pairing. Standing rule holds and matters more here, not less: **partners bring names, Norman
+   assigns schools.**
+4. **Structural conflict.** An agency repping the talent *and* the project sits on both sides of
+   talent compensation. Normal agency practice (this is what packaging is), but know it's there.
+
+### Use the room to close the open questions
+
+- **Whitesell's status** (§6d) — who actually controls Damon / Affleck / Denzel now.
+- Whether Hodes will **widen past Russell Wilson** to Brady / The Rock / the Whitesell roster.
+- **Do not accept Wilson by default** because he is the name in the room; Richmond's 2021-22
+  Round of 32 run weakens the "never won" story for an HBO-style buyer.
+
+---
+
 ## 6b. Mike Stein call — 2026-08-28 (outcomes)
 
 **Stein's positions:** loves the concept; **not high on Kevin Hart** — believes **Curry/Davidson alone is enough** and a more authentic connection than a bigger, broader celebrity. **Agreed the EWS shopping agreement is unnecessary** (third independent professional to say so, after Deirdre and Nikki). Willing to help without asking for anything yet. Recommends **lining up all buyer meetings and going in with Steph visibly committed.**
