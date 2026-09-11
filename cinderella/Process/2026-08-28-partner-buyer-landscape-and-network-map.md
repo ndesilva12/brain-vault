@@ -358,9 +358,10 @@ the SPV its license fee, so it is a fallback, never the plan.)
 
 ## 6g. Updates from the 2026-09-09 iMessage dump (read 09-11)
 
-⚠️ **Coverage gap — see `CLAUDE.md`.** The rolling dump held **only 09-09** when read. Sept 4–8
-and Sept 10 were overwritten before being read and are **permanently lost**; the 6-month archive
-has not refreshed since 09-02. What follows is one day, not a week.
+⚠️ **Coverage gap — recoverable.** The Drive copy held **only 09-09** when read, so what follows
+is one day, not a week. **Sept 4–8 and Sept 10 are NOT lost** — `imessage-dump.sh` writes a dated
+file on every run to `~/Documents/iMessage-dumps` on the MacBook and only *copies* it over
+`imessage-latest.json`. Those days exist locally and need uploading. See `CLAUDE.md`.
 
 - ⭐ **WME whiteboard — logistics settling.** Sunjay is available **any day except Tuesday**;
   Norman decided he **wants to be there in person** ("only 2-3 hour drive" — NYC). Sunjay offered

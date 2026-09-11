@@ -34,17 +34,22 @@
     I distill anything deal-relevant into the vault in the same session** — working-state
     files for substance, `Inputs/` for raw capture. The vault is the memory; the Drive
     file is only a window.
-  - **Measured 2026-09-11 — the overwrite is losing days.** Read on 09-03 (covering
-    09-01→09-03) and again on 09-11, when the file held **only 09-09**. Sept 4–8 and
-    Sept 10 were never read and are **permanently gone** — `imessage-6mo.json` has not
-    refreshed since 09-02, so it is no safety net. **A day without a session is a day
-    lost.**
-  - **The fix, when Norman is ready:** have `imessage-dump.sh` write **dated files**
-    (`imessage-2026-09-09.json`) instead of overwriting one `latest`. One line in a
-    script that already runs on a schedule; nothing is ever lost, and any gap can be
-    read later. It also solves a second problem — at 45KB the single file already
-    **exceeds what Drive `read_file_content` returns inline**, and has to be pulled to
-    disk and parsed with a script.
+  - ✅ **The dated archive already exists — on the Mac, not in Drive** (established
+    2026-09-11 by reading the script). `imessage-dump.sh` writes a permanent
+    `imessage-daily-YYYY-MM-DD-HHMMSS.json` on **every** run and then merely *copies*
+    it over `imessage-latest.json`. The launchd plist runs it automatically, so
+    `~/Documents/iMessage-dumps` on the MacBook holds a complete day-by-day archive.
+    **Only the Drive upload is manual, and the script's instructions say to upload only
+    `latest`** — so the dated originals never leave the Mac and are invisible to Claude.
+  - **Therefore: a missed day is recoverable, not lost.** If a gap appears, ask Norman
+    to upload the dated files for those dates rather than treating the content as gone.
+    (Wrongly recorded as unrecoverable earlier on 09-11 — corrected same day.)
+  - **The real fix: sync, don't upload.** Point **Google Drive for Desktop** at
+    `~/Documents/iMessage-dumps` so every dated file lands in Drive automatically and
+    the manual step disappears entirely.
+  - ⚠️ **Size:** at 45KB `imessage-latest.json` already **exceeds what Drive
+    `read_file_content` returns inline** — it must be pulled to disk and parsed with a
+    script. Per-day files stay comfortably under that; the 6-month file never will.
   - Privacy: this is Norman's most personal data source. Business/network use only;
     don't surface personal-life content back to him unprompted.
 
