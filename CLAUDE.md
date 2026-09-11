@@ -26,12 +26,25 @@
     chunking or a local copy to be searchable.
   - `imessage-dump.sh` + `com.norman.imessage-dump.plist` — the generator and its
     scheduler.
-  - ⚠️ **HARD LIMIT — I have no memory between sessions.** Once `imessage-latest.json`
-    is overwritten, that content is **gone to me** unless it was written into this
-    git vault first. "Just remember it" is not something I can do. **The persistence
-    rule: whenever I read the latest dump, I distill anything deal-relevant into the
-    vault in the same session** — working-state files for substance, `Inputs/` for raw
-    capture. The vault is the memory; the Drive file is only a window.
+  - ⚠️ **HARD LIMIT — I have no memory between sessions, and no background process.**
+    I do not monitor anything. I only see the dump when I open it **inside a session**,
+    and only when prompted. Once `imessage-latest.json` is overwritten, that content is
+    **gone to me** unless it was written into this git vault first. "Just remember it"
+    is not something I can do. **The persistence rule: whenever I read the latest dump,
+    I distill anything deal-relevant into the vault in the same session** — working-state
+    files for substance, `Inputs/` for raw capture. The vault is the memory; the Drive
+    file is only a window.
+  - **Measured 2026-09-11 — the overwrite is losing days.** Read on 09-03 (covering
+    09-01→09-03) and again on 09-11, when the file held **only 09-09**. Sept 4–8 and
+    Sept 10 were never read and are **permanently gone** — `imessage-6mo.json` has not
+    refreshed since 09-02, so it is no safety net. **A day without a session is a day
+    lost.**
+  - **The fix, when Norman is ready:** have `imessage-dump.sh` write **dated files**
+    (`imessage-2026-09-09.json`) instead of overwriting one `latest`. One line in a
+    script that already runs on a schedule; nothing is ever lost, and any gap can be
+    read later. It also solves a second problem — at 45KB the single file already
+    **exceeds what Drive `read_file_content` returns inline**, and has to be pulled to
+    disk and parsed with a script.
   - Privacy: this is Norman's most personal data source. Business/network use only;
     don't surface personal-life content back to him unprompted.
 

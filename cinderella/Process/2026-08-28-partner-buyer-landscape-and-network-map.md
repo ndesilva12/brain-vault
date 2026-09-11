@@ -356,6 +356,40 @@ the SPV its license fee, so it is a fallback, never the plan.)
   again *because the investor docs aren't ready* — that is the gating item, not investor demand.
 - **2nd HBO meeting** being scheduled this week for next.
 
+## 6g. Updates from the 2026-09-09 iMessage dump (read 09-11)
+
+⚠️ **Coverage gap — see `CLAUDE.md`.** The rolling dump held **only 09-09** when read. Sept 4–8
+and Sept 10 were overwritten before being read and are **permanently lost**; the 6-month archive
+has not refreshed since 09-02. What follows is one day, not a week.
+
+- ⭐ **WME whiteboard — logistics settling.** Sunjay is available **any day except Tuesday**;
+  Norman decided he **wants to be there in person** ("only 2-3 hour drive" — NYC). Sunjay offered
+  to go alone and dial Norman in; Norman declined. Sunjay on the session itself: *"I mean I d k
+  wtf it is"* — so **he has no more insight into the format than we do.**
+- ⚠️ **NDA before the whiteboard — partly blocked.** Norman asked whether an NDA could be signed
+  in the room. **Sunjay: no — "WME has a legal team that reviews NDAs," unlike a solo
+  counterparty.** Plan: Sunjay raises it when he next sees them, and **sends the NDA to Hodes'
+  assistant once a date is locked.** Start that now rather than at the door; a legal review takes
+  longer than the days remaining.
+- **CAA is live.** A call was set for **09-09, 3:00–3:30 ET with "Rob/Will" plus Sunjay.**
+  Outcome unknown — not captured before the dump rolled. **Ask Norman.** Note the vault already
+  holds CAA contacts (Peter Hess, Carla Laur, Kevin Gelbard) flagged as gone quiet.
+- **Merrimack LOI still not countersigned** — the brief lists *"execute Norm's copy + send back to
+  Coach Gallo"* as open. This is the locked-PDF problem from 09-10. **Third signed school LOI is
+  sitting one signature away.**
+- **"Shamrock"** — a deck and blurb were being prepared with Sunjay. Unidentified; likely
+  **Shamrock Capital** (LA media/entertainment PE). **Confirm before use.**
+- **Ankur introduced Norman to "Wiz" / Andrew** (group thread, 09-09). Red Star Belgrade
+  ("Zvezda") connection in the banter — suggests European basketball or sports-investment
+  background. Unworked node.
+- **Megan** — Sunjay outreach target from his **FanDuel** days; deck sent by email with a short
+  LinkedIn note. Norman's coaching: *"keep the LinkedIn one 2-3 sentences… less is more. Let her
+  be intrigued to open the deck."*
+- **"Robbie D" canceled** on 09-09. Unidentified.
+- **A separate automated 8am daily brief** is reaching Norman via the Inkbox/Jimmy bridge
+  (+1 917-984-4907) — "Top 3 Open" plus a ten-item list. **That is a different surface from these
+  Claude Code sessions** and its state is not visible here.
+
 ### The refined one-paragraph celebrity pitch (Norman's own tightening, 09-02 — use this)
 
 > Making Cinderella is Welcome to Wrexham meets D1 men's basketball — rebuilding a small
