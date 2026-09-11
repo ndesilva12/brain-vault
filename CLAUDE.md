@@ -1,5 +1,7 @@
 # About Norman
 
+> **Hot state (last 7 days):** read [`CURRENT.md`](CURRENT.md) immediately after this standing context. Jimmy overwrites it daily. Do not treat chat memory as a substitute.
+
 ## Identity
 - **Name:** Norman C. de Silva
 - **Pronouns:** he/him
@@ -146,10 +148,12 @@ shareable link, or something Claude will need to read back in a later session.
 
 ## What's in this repo
 
-- `CLAUDE.md` — this front-door file
+- `CLAUDE.md` — this front-door file (standing identity / rules)
+- `CURRENT.md` — **rolling last-7-day hot state** (Jimmy overwrites daily; read after this file)
 - `people.md` — full contact database
 - `notes.md` — periodic storage for content & thoughts
 - `Inputs/` (top-level) — quick captures not yet tied to a project
+- `agents/` — per-bot durable notes (organized by Jimmy)
 - One folder per project (currently `cinderella/`) — each with its own `CLAUDE.md`
   plus `Process/` (working notes) and `Outputs/` (deliverables)
 
@@ -203,4 +207,4 @@ at Boston Scientific. Lives with me in Wellesley.
 
 This file is the front door. Edit it freely when something changes — new 
 project, finished project, change of mind on something. The whole point 
-is that the next time we talk I already know.
+is that the next time we talk I already know. For **what happened in the last week**, use `CURRENT.md` — don't invent recent deal state from this file alone.
