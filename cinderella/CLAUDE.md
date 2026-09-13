@@ -255,6 +255,16 @@ Rebecca Gitlitz's casual "flat 10% fee" framing is the kind of structural signal
 requires, across parent-co / parent↔SPV / SPV↔counterparty layers, with drafted-vs-needed
 status. Check here before assuming a contract exists or asking what's still open.
 
+> ⚠️ **READ FIRST — `Process/2026-09-13-nil-sponsor-architecture-and-pcsa.md`.** The
+> **Protect College Sports Act** (S.4668) is on the Senate floor with a cloture vote between
+> Sept 15–23, 2026. It codifies the fair-market-value test for third-party NIL, grants the NCAA
+> **antitrust immunity** for enforcing compensation rules, and raises the institutional cap from
+> ~$20.5M to **$48.8M** plus a **$22.5M retention fund** aimed squarely at players deciding
+> whether to transfer. The compliance analysis below **predates the bill and does not reference
+> it.** The 09-13 file also carries the sponsor/NIL architecture that answers the FMV problem —
+> sponsors contract **directly** with players, MC sells integration and category exclusivity and
+> never takes a cut, because an arm's-length sponsor–player deal *is* fair market value.
+
 ### NCAA Compliance Posture — Summary (see Process/2026-06-24-ncaa-compliance-donor-collective-analysis.md for full analysis)
 
 **Bottom line:** Making Cinderella's structure is NCAA-compliant. The compliance case is solid but is NOT the primary moat — don't lead with it.
