@@ -30,4 +30,7 @@ Portable shared brain for Norman’s Grok Bot assistants. Repo: `ndesilva12/brai
 | `deal-hunting/` | Deal Hunting |
 | `loop-closer/` | Loop Closer |
 | `prospecting/` | Prospecting |
-| `product-idea-stress-test/` | Product Idea Stress Test |
+| `product-idea-stress-test/` | Idea Test (was Product Idea Stress Test) |
+| `tools/` | Tools |
+| `shopper/` | Shopper |
+| `real-estate/` | Real Estate |
