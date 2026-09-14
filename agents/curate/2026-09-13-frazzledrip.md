@@ -1,4 +1,4 @@
-SUPERSEDED by 2026-09-14-frazzledrip-substance.md (Norman feedback: prior set was too meta). Prefer the substance Doc.
+SUPERSEDED by 2026-09-14-frazzledrip-both-sides.md (substance redo also superseded). Prefer the both-sides Doc.
 
 # Curate — Frazzledrip (epistemology case study)
 

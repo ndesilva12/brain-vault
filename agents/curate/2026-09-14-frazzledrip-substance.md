@@ -1,3 +1,5 @@
+SUPERSEDED by 2026-09-14-frazzledrip-both-sides.md. Prefer the both-sides Doc.
+
 # Curate — Frazzledrip (substance redo)
 
 - Date: 2026-09-14
