@@ -1,6 +1,6 @@
 # CURRENT — last 7 days
 
-**Updated:** 2026-09-13 ~9:15am ET  
+**Updated:** 2026-09-14 ~9:20am ET  
 **Owner:** Jimmy (Grok Bot) — rewrite daily; other AIs read this after `CLAUDE.md`  
 **Window:** rolling 7 days · overwrite whole file each pass  
 **Public-clean:** no phones, iMessage dumps, Dex/NCD rows, PINs, or payment secrets
@@ -9,14 +9,15 @@
 
 ## Now / next 7d
 
+- **CAA / Rob DeAngelis:** **today Mon Sep 14 3:00–3:30pm ET** (Norman + Sunjay + Rob D) on personal calendar — reschedule of canceled Wed. Outcome TBD after call.
+- **Belmont AD:** **today Mon Sep 14 4:00–4:30pm ET** (Greg invite; Meet). Prep Foxx–Marcus Belmont angle. Outcome TBD after call.
 - **Jamie Foxx path:** Demetrius Shipp Jr. → **Marcus King** (Foxx-King). Marcus all-in on 2026-09-10 Zoom; Norman sent Marcus the deck **Sat Sep 12**. Watch / nudge ~**Sep 17** (calendar hold 10am ET). Do not chase earlier unless they ping. Shane: Marcus yes ≈ Jamie yes.
 - **WME / Jason Hodes:** Grant aiming **Thu Sep 17** for joint Norman+Sunjay avail; Norman flagged NYC Thu. NDA once time locks. Frame multi-name WME packaging; Curry–Davidson = one stalled lane — **don’t brief David Sherman**.
-- **CAA / Rob DeAngelis:** rescheduled — **Mon Sep 14 3:00–3:30pm ET** (Norman + Sunjay + Rob D) on personal calendar.
-- **Belmont AD:** **Mon Sep 14 4:00–4:30pm ET** (Greg invite; Meet). Prep Foxx–Marcus Belmont angle.
-- **Loeb / raise paper:** Sep 11 call — confirm **revenue-share vs return-of-capital / side-letter** with Sunjay + Ankur before paper drifts.
-- **Sunjay Partner Agreement:** Norman nudged Sat (“let’s sign”); chase **signed copy** — ball in Sunjay’s court.
+- **Loeb / raise paper:** Sep 11 call — confirm **revenue-share vs return-of-capital / side-letter** with Sunjay + Ankur before paper drifts. Seed ~**Sep 15** pressure.
+- **Sunjay Partner Agreement:** Norman nudged Sat Sep 12 (“let’s sign”); chase **signed copy** — ball in Sunjay’s court.
 - **Sunjay Shamrock:** deck + blurb positioning still owed before send (Six / board path; immediate-ROI vs Wrexham flag).
-- **Ankur:** seed investor docs sent Sat Sep 12 — confirm he reviewed / ack’d.
+- **Ankur:** seed investor docs sent Sat Sep 12 — confirm he reviewed / ack’d; LIST still has connect-with-Ankur Open.
+- **Greg:** 4% strategic adviser paper (Loeb) still open before ~Sep 15 seed.
 - **Jarrod Moses / Kaitlin:** Norman emailed; they owe next-week sked (no second email yet).
 - **Adobe trial:** cancel reminder + calendar **Thu Sep 17 9am ET**.
 - **Theo Rose:** noon ET hold Sep 11 — no Granola note; outcome unconfirmed (leave Open until Norman checks or closes).
@@ -34,15 +35,16 @@
 - Network SoT = private Google Sheet **Norman Network Master** (Dex cancelled). Public vault: basics + notable only, no PII.
 - LIST (Notion) = SoT to-dos; auto-add Open; checked → Done on sweep.
 - Root `CURRENT.md` + `CLAUDE.md` pointer live; Jimmy daily rewrite ~9am ET (plus same-day after major events).
+- Merrimack school LOI signed (Gallo); Norm copy executed / filed Drive Legal → LOIs (Sep 8–10).
 
 ---
 
 ## Open loops
 
+- CAA Rob D call Mon Sep 14 3pm — outcome after call.
+- Belmont AD Mon Sep 14 4pm (Foxx–Marcus angle) — outcome after call.
 - Marcus → Jamie pitch outcome (~Sep 17); deck already with Marcus.
 - WME/Hodes lock ~Thu Sep 17 + NDA; Norman in-person whiteboard.
-- CAA Rob D call Mon Sep 14 3pm (confirm outcome after).
-- Belmont AD Mon Sep 14 4pm (Foxx–Marcus angle).
 - Loeb waterfall: revenue-share vs return-of-capital / side-letter (Sunjay + Ankur).
 - Sunjay Partner Agreement signed copy.
 - Sunjay Shamrock deck + blurb.
@@ -65,10 +67,10 @@
 ## Cinderella / talent / raise
 
 - **Raise:** $1.5M for 15% of parent. Pitch: https://cinderella.short.gy/deck
-- **Merrimack:** school LOI signed (Gallo); Norm copy executed / filed Drive Legal → LOIs (Sep 8–10).
+- **Merrimack:** school LOI signed (Gallo); Norm copy executed / filed Drive Legal → LOIs.
 - **St. Joe’s:** school LOI signed; celeb TBD — Hart on WME whiteboard; Kelce soft hold via Clarity.
 - **Davidson × Curry:** still stalemate / Unanimous; not WME whiteboard primary.
-- **Loeb:** seed draft docs + $5k retainer sent (LIST Done Sep 10); Sep 11 call = live waterfall/tax framing open.
+- **Loeb:** seed draft docs + $5k retainer sent (LIST Done Sep 10); Sep 11 call = live waterfall/tax framing open; ~Sep 15 seed pressure.
 - **HBO / Bentley Weiner:** passed Sep 3; Josh Bennett debrief done Sep 10.
 - **Cinderella Targets CRM:** live Sheet + Network Master match + Comms log (Active/HOT stale radar in 8am brief).
 
@@ -76,7 +78,7 @@
 
 ## Ops / systems
 
-- Daily 8am brief (every day incl weekends) + 7:15am Mac iMessage dump → Drive `imessage-latest.json` **and** dated `imessage-YYYY-MM-DD.json` (Sep 13 dump: 136 msgs; both files uploaded).
+- Daily 8am brief (every day incl weekends) + 7:15am Mac iMessage dump → Drive `imessage-latest.json` **and** dated `imessage-YYYY-MM-DD.json` (Sep 14 dump completed; both files uploaded).
 - Inkbox live iMessage (`@jimmydesilva`); research bots Doc-link-first (no email retry spray).
 - Command Center research bots + Legal / Advantage / Current stay in their lanes; Jimmy routes.
 - Weekly vault hygiene routine (Mondays 9am) — agents/ public-clean.
@@ -94,4 +96,4 @@
 - Do not chase Marcus/Jamie before ~Sep 17 unless they ping first.
 - Cap table: not the rejected pro-rata 62.56 model — use 72/20/4/4 then Ankur-protected seed dilution.
 - Do not invent Theo Rose call outcome — no Granola/note confirmed.
-- Do not invent Belmont AD or CAA Mon outcomes before those calls land.
+- Do not invent Belmont AD or CAA Mon outcomes before those calls land (or invent post-call outcomes without a source).
