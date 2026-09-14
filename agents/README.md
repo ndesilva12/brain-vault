@@ -32,5 +32,10 @@ Portable shared brain for Norman’s Grok Bot assistants. Repo: `ndesilva12/brai
 | `prospecting/` | Prospecting |
 | `product-idea-stress-test/` | Idea Test (was Product Idea Stress Test) |
 | `tools/` | Tools |
-| `shopper/` | Shopper |
+| `style/` | Style (was Shopper) |
+| `shopper/` | Shopper (legacy stub — prefer `style/`) |
 | `real-estate/` | Real Estate |
+| `evening-journal/` | Evening Journal |
+| `inner-circle/` | Inner Circle |
+| `travel/` | Travel |
+| `household-os/` | Household OS |
