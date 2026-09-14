@@ -1,8 +1,14 @@
 # Occasions & gifts
 
-Public-clean gift / occasion tracker for Inner Circle. Ideas only — never buy or send unless Norman asks.
+Public-clean pointer. **Live SoT:** [Inner Circle Gifts & Occasions](https://docs.google.com/spreadsheets/d/1rP89kVjaDqgT9CdaDrCHs2DyFxoJRxAcffSBCrv0Xyg/edit) (People · Plan · Gift History · Holidays).
+
+Ideas only in vault notes — never buy or send unless Norman asks.
 
 **As of:** 2026-09-14
+
+## Kim ideas
+
+- BoomBoom Naturals Nasal Stick — https://boomboomnaturals.com/products/nasal-stick?selling_plan=11103600663&variant=42597494521879 (on Plan for her birthday / Valentine's / Christmas — buy for one occasion)
 
 ## Next 90 days
 
@@ -25,6 +31,7 @@ Public-clean gift / occasion tracker for Inner Circle. Ideas only — never buy 
 | When | Who | Occasion |
 |------|-----|----------|
 | 2027-01-12 | Kim | Birthday |
+| 2027-02-14 | Kim | Valentine's Day |
 | 2027-02-18 | Kim | Anniversary (together since 2018) |
 | 2027-05-09 | Mom | Mother's Day (US) |
 | 2027-05-19 | Mom | Birthday |
@@ -32,10 +39,8 @@ Public-clean gift / occasion tracker for Inner Circle. Ideas only — never buy 
 
 ## Preferences log
 
-_(fill as Norman shares likes/dislikes)_
-
 - Erica:
-- Kim:
+- Kim: BoomBoom Naturals Nasal Stick (2026-09-14)
 - Mom / Dad:
 - Zach:
 - Cullen / college crew:
