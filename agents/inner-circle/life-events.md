@@ -2,29 +2,45 @@
 
 Public-clean. Distilled from `people.md`, Drive iMessage dumps, and Norman. No phones/emails/addresses.
 
-**Last Inner Circle pass:** 2026-09-14
+**Last Inner Circle pass:** 2026-09-14 (imessage-6mo.json + imessage-latest.json)
 
-## Confirmed / vault-backed
+## Confirmed
 
+### Zach Etten — Lillian Mae
+- Due ~2026-08-24; announced ~2026-08-27 as **Lillian Mae** ("newest Etten") with group congrats.
+- He already has two boys; this is the third.
+
+### Erica McCann — Thomas Patrick McCann
+- Shower ~2026-04-26 ("this Sunday 11 to 2" from Apr 22 note).
+- Labor ~2026-05-18/19; born **2026-05-20 1:37am**, 7lbs 8oz — **Thomas Patrick McCann**.
+- Parents visited Erica/baby around that window.
+
+### Parents (Norman David & Brenda) — move to Padanaram
+- Spring 2026: house hunt (incl. 676 Elm Street, Mattapoisett); nearly lost then re-offered.
+- Norman framed preference as Padanaram area if/when possible.
+- Jun–Jul: packing/moving; rented 676 for July while still selling prior house.
+- 2026-08-05: Norman — parents "in the process of selling their house - moving to Padanaram"; he was helping.
+- **Status:** move underway / largely in motion; exact settle/fully-moved date not crystal-clear in texts. Still Dartmouth in older people.md — update when address is final.
+
+### Standing people.md facts
 - **Kim D'Agostino** — partner since 2018-02-18; birthday 1987-01-12; Wellesley.
-- **Erica McCann** — sister; birthday 1987-10-26; remarried Mike 2025; Scituate + Newport.
-- **Brenda de Silva** — mom; birthday 1957-05-19; Dartmouth; remission noted in people.md (keep factual).
-- **Norman David de Silva** — dad; birthday 1956-12-22; Dartmouth; retired; Bay Club gate guard.
-- **Zach Etten** — college best friend; Amherst NH; people.md (Feb 2026 sync): two boys + one more due — **status needs confirmation from Norman or newer texts**.
+- **Erica** — birthday 1987-10-26; remarried Mike 2025; Scituate + Newport.
+- **Brenda** — birthday 1957-05-19; remission noted (keep factual).
+- **Dad** — birthday 1956-12-22; Bay Club gate guard.
 
-## Open / needs Norman confirm (named 2026-09-14)
+## Dump notes (imessage-latest ~Sep 13–14)
 
-- Zach’s newest child — landed? name/date?
-- Erica / sister’s child — details?
-- Parents’ new home — address change or still Dartmouth dream home?
+- Family group: Newport Polo Sat Sep 19 invite; several declines.
+- No new baby/move confirmations in that thin window (signals were in 6mo archive).
 
-## Recent dump notes (imessage-latest ~Sep 13–14)
+## Still soft / follow later
 
-- Family group: Newport Polo Sat Sep 19 invite circulating; several declines (concert, shoulder surgery recovery, helping neighbors move + celebration of life).
-- No clear baby / parents-move confirmation in that 24–48h window.
+- Have parents fully closed into Padanaram? New address for cards/gifts?
+- Any leftover gift obligations for Lillian Mae or Thomas Patrick?
+- College-crew holiday gift coverage if Norman wants it.
 
 ## Operating rules
 
-- Source of truth narrative: vault `people.md` (fetch fresh).
+- Narrative SoT: vault `people.md` (fetch fresh).
 - Recency: Drive `imessage-latest.json` daily; distill durable facts here same session.
 - PII: Network Master sheet only — never copy phones into this folder.
