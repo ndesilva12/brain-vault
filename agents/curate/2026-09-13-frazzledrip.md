@@ -1,3 +1,5 @@
+SUPERSEDED by 2026-09-14-frazzledrip-substance.md (Norman feedback: prior set was too meta). Prefer the substance Doc.
+
 # Curate — Frazzledrip (epistemology case study)
 
 - Date: 2026-09-13
