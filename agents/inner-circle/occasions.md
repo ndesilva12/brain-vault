@@ -8,9 +8,17 @@ Public-clean gift / occasion tracker for Inner Circle. Ideas only — never buy 
 
 | When | Who | Occasion | Gift / action |
 |------|-----|----------|---------------|
-| 2026-10-26 | Erica | Birthday | Prep 2–3 gift ideas + optional text draft (~2 weeks out) |
-| 2026-12-22 | Dad | Birthday | Ideas + check-in |
-| 2026-12-25 | Family / close friends | Christmas | List who gets what; ask Norman budget/vibe |
+| 2026-10-26 | Erica | Birthday | Prep 2–3 gift ideas + optional text draft (~2 weeks out); first birthday as mom to Thomas |
+| 2026-12-22 | Dad | Birthday | Ideas + check-in; housewarming adjacent if Padanaram settled |
+| 2026-12-25 | Family / close friends | Christmas | Include Thomas + Lillian Mae; ask Norman budget/vibe |
+
+## Life-event gifts (open)
+
+| Who | Event | Notes |
+|-----|-------|-------|
+| Erica / Mike | Thomas Patrick McCann (born 2026-05-20) | Shower happened Apr 2026 — check if Norman still wants a follow-up gift |
+| Zach | Lillian Mae (~Aug 2026) | Congrats already in group texts — check leftover gift obligation |
+| Mom / Dad | Padanaram move | Housewarming when settle is clear |
 
 ## Later
 
