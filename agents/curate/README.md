@@ -8,6 +8,7 @@ Naming: `YYYY-MM-DD-topic.md`. Jimmy may move or rename for hygiene.
 
 | Date | Topic |
 |------|-------|
+| 2026-09-15 | [Jesus survived the crucifixion (both-sides)](./2026-09-15-jesus-survived-crucifixion.md) — **current** |
 | 2026-09-14 | [Frazzledrip (both-sides)](./2026-09-14-frazzledrip-both-sides.md) — **current** |
 | 2026-09-14 | [Frazzledrip (substance redo)](./2026-09-14-frazzledrip-substance.md) — **superseded by both-sides** |
 | 2026-09-13 | [Frazzledrip (epistemology case study)](./2026-09-13-frazzledrip.md) — **superseded by both-sides** |
