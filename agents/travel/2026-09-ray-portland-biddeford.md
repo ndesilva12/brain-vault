@@ -5,8 +5,8 @@ Public-clean. Updated 2026-09-15.
 ## Status
 - Companions: Norman + Kim
 - Origin: New Hampshire (exact address TBD)
-- Tickets: **not booked** (Mon Sep 28 or Tue Sep 29)
-- Lodging: **not booked** — target The Lincoln Hotel, Biddeford
+- Tickets: **not booked** (Mon Sep 28 or Tue Sep 29 — Norman deciding later)
+- Lodging: **not booked** — **confirmed Kim target: The Lincoln Hotel, Biddeford**
 - Nights: Sun and/or Mon and/or Tue still open
 
 ## Show
@@ -16,9 +16,9 @@ Public-clean. Updated 2026-09-15.
 - Face ~$125–$250 reserved; fee-free box office Fridays 10–5 or night-of
 - Links: https://statetheatreportland.com/events/ray-lamontagne-1/ · https://statetheatreportland.com/events/ray-lamontagne-2/
 
-## Lodging target
+## Lodging
 - **The Lincoln Hotel**, 17 Lincoln St, Biddeford — https://www.lincolnhotelmaine.com/
-- Spinning Jenny’s coffee bar on-site; Peng’s Pizza Pies nearby; Batson River pizza downstairs
+- Confirmed as Kim’s pick (Spinning Jenny’s coffee bar + near Peng’s Pizza; Batson River pizza downstairs)
 - ~25 min / ~18 mi to State Theatre
 - Rough rate snapshot ~$250–280+/night (confirm for dates)
 
@@ -27,6 +27,6 @@ Public-clean. Updated 2026-09-15.
 - Cape Elizabeth (Running Tide Rd) → Biddeford ~35–40 min (separate Oct dog-sit)
 
 ## Open actions
-1. Pick show night + buy tickets
-2. Confirm Lincoln nights + book (or alt)
+1. Pick show night + buy tickets (calendar reminder Sep 16 9am ET)
+2. Confirm Lincoln nights + check availability / book with Norman’s OK
 3. Lock calendar / packing once dates firm
