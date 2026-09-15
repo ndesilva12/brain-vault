@@ -2,7 +2,7 @@
 
 Public-clean. Distilled from `people.md`, Drive iMessage dumps, and Norman. No phones/emails/addresses.
 
-**Last Inner Circle pass:** 2026-09-14 (imessage-6mo.json + imessage-latest.json)
+**Last Inner Circle pass:** 2026-09-15 (morning pulse; imessage-latest.json — still Sep 13 window)
 
 ## Confirmed
 
@@ -28,15 +28,17 @@ Public-clean. Distilled from `people.md`, Drive iMessage dumps, and Norman. No p
 - **Brenda** — birthday 1957-05-19; remission noted (keep factual).
 - **Dad** — birthday 1956-12-22; Bay Club gate guard.
 
-## Dump notes (imessage-latest ~Sep 13–14)
+## Dump notes (imessage-latest ~Sep 13)
 
-- Family group: Newport Polo Sat Sep 19 invite; several declines.
-- No new baby/move confirmations in that thin window (signals were in 6mo archive).
+- Family group: Newport Polo Sat Sep 19 invite (Michelle); several declines (concert, shoulder surgery recovery, parents busy with move helpers + celebration of life for next-door neighbor).
+- No new baby/move settle confirmations in this window (signals were in 6mo archive).
+- BD/Cinderella briefs in the dump are out of scope for Inner Circle.
 
 ## Still soft / follow later
 
 - Have parents fully closed into Padanaram? New address for cards/gifts?
 - Any leftover gift obligations for Lillian Mae or Thomas Patrick?
+- Erica birthday 2026-10-26 — prep gift Target ~2 weeks out (Plan row already exists, Status Idea).
 - College-crew holiday gift coverage if Norman wants it.
 
 ## Operating rules
