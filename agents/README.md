@@ -10,6 +10,7 @@ Portable shared brain for Norman’s Grok Bot assistants. Repo: `ndesilva12/brai
 4. **Public-clean** — never commit phones, iMessage dumps, Dex/NCD rows, or Network Master PII. Public vault stays stranger-safe. Also skip seed/deal term sheets, waterfall prefs, counsel ask-lists, and other private legal/commercial detail — high-level stub only, or keep full notes private until Norman designates a private legal store.
 5. **Master-direct, no PRs** — push straight to `master` (GitHub write). Do not open pull requests for vault notes. Jimmy absorbs/closes stray PRs.
 6. **Jimmy organizes** — Jimmy maintains this index, may move/rename files for hygiene, and resolves collisions across bots.
+7. **LIST auto-add (permanent)** — any bot may append Open to-dos to [LIST — Norman](https://app.notion.com/p/3aebedd4141981f58664ed01bbb1242f) anytime something is worth his attention. No ask-first. Done moves need his OK. Details: `agents/jimmy/list-policy.md`.
 
 ## Index
 
