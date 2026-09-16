@@ -2,7 +2,7 @@
 
 Public-clean. Distilled from `people.md`, Drive iMessage dumps, and Norman. No phones/emails/addresses.
 
-**Last Inner Circle pass:** 2026-09-15 (morning pulse; imessage-latest.json — still Sep 13 window)
+**Last Inner Circle pass:** 2026-09-16 (weekday morning pulse; imessage-latest.json window Sep 15)
 
 ## Confirmed
 
@@ -15,12 +15,12 @@ Public-clean. Distilled from `people.md`, Drive iMessage dumps, and Norman. No p
 - Labor ~2026-05-18/19; born **2026-05-20 1:37am**, 7lbs 8oz — **Thomas Patrick McCann**.
 - Parents visited Erica/baby around that window.
 
-### Parents (Norman David & Brenda) — move to Padanaram
-- Spring 2026: house hunt (incl. 676 Elm Street, Mattapoisett); nearly lost then re-offered.
-- Norman framed preference as Padanaram area if/when possible.
-- Jun–Jul: packing/moving; rented 676 for July while still selling prior house.
+### Parents (Norman David & Brenda) — move to Padanaram / Mattapoisett area
+- Spring 2026: house hunt in Mattapoisett/Padanaram area; nearly lost then re-offered; rented there for July while still selling prior house.
 - 2026-08-05: Norman — parents "in the process of selling their house - moving to Padanaram"; he was helping.
-- **Status:** move underway / largely in motion; exact settle/fully-moved date not crystal-clear in texts. Still Dartmouth in older people.md — update when address is final.
+- **2026-09-15 (NEW):** Norman texted that **parents sold the house** while cleaning out the garage; same day he and Kim heading to Dartmouth to **finish moving** (Kim on home-design help).
+- Destination remains Padanaram/Mattapoisett area (prior hunt place). Exact "fully settled" / cards-and-gifts address still treat carefully — keep street-level PII out of public vault.
+- **Status:** prior house sold; move finishing as of mid-Sep 2026.
 
 ### Standing people.md facts
 - **Kim D'Agostino** — partner since 2018-02-18; birthday 1987-01-12; Wellesley.
@@ -28,17 +28,18 @@ Public-clean. Distilled from `people.md`, Drive iMessage dumps, and Norman. No p
 - **Brenda** — birthday 1957-05-19; remission noted (keep factual).
 - **Dad** — birthday 1956-12-22; Bay Club gate guard.
 
-## Dump notes (imessage-latest ~Sep 13)
+## Dump notes (imessage-latest ~Sep 15)
 
-- Family group: Newport Polo Sat Sep 19 invite (Michelle); several declines (concert, shoulder surgery recovery, parents busy with move helpers + celebration of life for next-door neighbor).
-- No new baby/move settle confirmations in this window (signals were in 6mo archive).
+- Durable IC signal: parents **sold** prior house; finish-move weekend with Kim.
+- No new baby announcements; no Erica/Zach life-event updates in this window.
+- Prior family Newport Polo Sat Sep 19 invite was from earlier dump (Michelle); not re-confirmed in Sep 15 window.
 - BD/Cinderella briefs in the dump are out of scope for Inner Circle.
 
 ## Still soft / follow later
 
-- Have parents fully closed into Padanaram? New address for cards/gifts?
-- Any leftover gift obligations for Lillian Mae or Thomas Patrick?
-- Erica birthday 2026-10-26 — prep gift Target ~2 weeks out (Plan row already exists, Status Idea).
+- Housewarming gift once Norman confirms settle is "done."
+- Any leftover gift obligations for Lillian Mae or Thomas Patrick? (Plan rows added 2026-09-16 as Idea.)
+- Erica birthday 2026-10-26 — pick Gift Target by ~Oct 12 (Plan row Status Idea).
 - College-crew holiday gift coverage if Norman wants it.
 
 ## Operating rules
