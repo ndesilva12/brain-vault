@@ -4,7 +4,7 @@ Public-clean pointer. **Live SoT:** [Inner Circle Gifts & Occasions](https://doc
 
 Ideas only in vault notes — never buy or send unless Norman asks.
 
-**As of:** 2026-09-14
+**As of:** 2026-09-16
 
 ## Kim ideas
 
@@ -14,17 +14,18 @@ Ideas only in vault notes — never buy or send unless Norman asks.
 
 | When | Who | Occasion | Gift / action |
 |------|-----|----------|---------------|
-| 2026-10-26 | Erica | Birthday | Prep 2–3 gift ideas + optional text draft (~2 weeks out); first birthday as mom to Thomas |
-| 2026-12-22 | Dad | Birthday | Ideas + check-in; housewarming adjacent if Padanaram settled |
-| 2026-12-25 | Family / close friends | Christmas | Include Thomas + Lillian Mae; ask Norman budget/vibe |
+| 2026-10-26 | Erica | Birthday | **Needs Gift Target** by ~Oct 12; first birthday as mom to Thomas |
+| 2026-12-22 | Dad | Birthday | Needs Gift Target; housewarming-adjacent if settle clear |
+| 2026-12-25 | Family / close friends | Christmas | Include Thomas + Lillian Mae; most Plan rows still Idea / empty Target |
+| TBD | Mom / Dad | Housewarming | Prior house **sold ~2026-09-15**; finishing move — gift when Norman confirms settle done |
 
 ## Life-event gifts (open)
 
 | Who | Event | Notes |
 |-----|-------|-------|
-| Erica / Mike | Thomas Patrick McCann (born 2026-05-20) | Shower happened Apr 2026 — check if Norman still wants a follow-up gift |
-| Zach | Lillian Mae (~Aug 2026) | Congrats already in group texts — check leftover gift obligation |
-| Mom / Dad | Padanaram move | Housewarming when settle is clear |
+| Erica / Mike | Thomas Patrick McCann (born 2026-05-20) | Shower Apr 2026 — Plan row added 2026-09-16 (Idea); confirm if follow-up gift still wanted |
+| Zach | Lillian Mae (~Aug 2026) | Congrats already in group texts — Plan row added 2026-09-16 (Idea); confirm leftover obligation |
+| Mom / Dad | Padanaram move | Prior house sold; housewarming when settle is clear |
 
 ## Later
 
