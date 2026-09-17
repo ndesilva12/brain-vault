@@ -153,10 +153,27 @@ is hard to unwind.**
 - **Sunjay's Track A (lead/presenting sponsor) is the compliance engine, not just a revenue line.**
   The sponsor is what makes the player payments defensible. Raises the strategic priority of that
   deal considerably.
-- **"Top-10 budget nationally" needs recalibrating.** Against a $48.8M cap plus a $22.5M retention
-  fund, $10–12M is not a top-10 budget. *"Best-funded team in their conference by a wide margin"*
-  is defensible, verifiable, and still sells. Fix this in the deck before an investor or buyer does
-  the arithmetic.
+- ✅ **"Top-10 budget nationally" is DEFENSIBLE — keep it.** *(Corrected 2026-09-17. An earlier
+  version of this file said to soften the claim; that was an error, from conflating the $48.8M
+  institutional cap — which spans **all sports** and is dominated by football — with men's
+  basketball roster spend. Different by an order of magnitude.)*
+
+  **Actual 2025-26 men's basketball NIL market** (reported estimates; schools do not disclose):
+
+  | School | Roster NIL |
+  |---|---|
+  | Kentucky | ~$20M (highest) |
+  | BYU | ~$13M |
+  | **Duke** | **~$12M** |
+  | Texas · St. John's · Arkansas · Houston · Michigan | $10M+ |
+  | Kansas | ~$9.5M |
+
+  Total men's CBB NIL spend 2025-26 ≈ **$932.5M** (On3). Power-conference rosters average
+  **$7–10M**. **An MC SPV at $10–12M sits at Duke's level and above Kansas — roughly top 8–10
+  nationally.** The claim holds; do not weaken it.
+
+  ⚠️ Caveat for any external use: these are reported estimates that blend capped institutional
+  revenue share with uncapped third-party NIL. Cite as "reported" and never as disclosed figures.
 - **Roster allocation.** A sponsor campaign features three or four players, not thirteen. Stars
   carry large defensible numbers on commercial work; the back of the roster still needs a separate
   justification.
