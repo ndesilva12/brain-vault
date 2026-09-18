@@ -52,19 +52,19 @@ Cross-references resolve by **section name**, so inserting a section cannot brea
 - **Subscription Agreement now names the Investor Representative** and has each investor
   acknowledge that his actions bind them — otherwise SL §5 binds people who never agreed to it.
 
-## ⚠️ Dropped by Loeb between 9/11 and the settled version — consider restoring
+## ✅ Dropped by Loeb between 9/11 and the settled version — both restored
 
-Neither is an Ankur item; both protect Norman and both appeared in `17XLRBuQ`:
+Neither was an Ankur item; both protect Norman, both appeared in `17XLRBuQ`, and **both are now back in**:
 
 1. ~~**§1(e) — no personal obligation of the Class B Stockholder.**~~ ✅ **RESTORED 2026-09-18**
    at Norman's direction. The signature block is also re-qualified to read *"CLASS B STOCKHOLDER
    (solely for purposes of Section 1(e))"* — the qualifier is half the protection and travels with
    the clause.
-2. **Liquidation Event carve-out for format licensing.** *"a Liquidation Event does not include
-   the grant of a license of the Company's format or other intellectual property to any special
-   purpose vehicle, production partner, distributor or other counterparty in the ordinary course."*
-   Without it, an aggressive reading of limb (c) — disposition of substantially all assets — could
-   treat a major format license as a Liquidation Event and accelerate the full 2× Preferred Return.
+2. ✅ **RESTORED 2026-09-18.** Liquidation Event carve-out for format licensing. Without it,
+   limb (c) of the definition — disposition of all or substantially all assets — could be argued
+   to cover a major exclusive format license, accelerating the full 2x Preferred Return (up to
+   $3M) at the moment of signing, while the license fee itself arrives over years. Sunjay's
+   agreement already carries the identical carve-out, so the two documents are now consistent.
 
 **Also still open:** price per share is `$[____]` in the Subscription Agreement. Per the cap table
 that is **$2.025** for **740,741** shares. 409A/Board determination required first.

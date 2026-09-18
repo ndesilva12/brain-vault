@@ -124,7 +124,10 @@ for t in [
  "or substantially all the assets of the Company and its consolidated subsidiaries to an entity "
  "(other than a wholly owned subsidiary of the Company) of which more than 50% of the combined "
  "voting power of its outstanding securities is owned by persons who are not stockholders of the "
- "Company at the effective time of such sale, transfer or disposition.",
+ "Company at the effective time of such sale, transfer or disposition. Notwithstanding the "
+ "foregoing, a Liquidation Event does not include the grant of a license of the Company's format "
+ "or other intellectual property to any special purpose vehicle, production partner, distributor "
+ "or other counterparty in the ordinary course of the Company's business.",
  "“Minimum Reserve” means the greater of (x) two hundred fifty thousand dollars ($250,000) and "
  "(y) an amount equal to six (6) months of the Company’s budgeted operating expenses under the "
  "then-current operating budget approved by the Board of Directors.",
