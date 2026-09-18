@@ -1,3 +1,20 @@
+> ⛔ **SUPERSEDED — NOT A LIVE DOCUMENT. DO NOT SEND.**
+> Generated in a Claude session on 2026-08-27 as a pre-Loeb draft. **It was never Loeb's paper and
+> there is no record of it being circulated to any investor.** It prices at **$1.00/share for
+> 1,500,000 shares**, which implies a 10,000,000-share company and would put Norman at **30%** —
+> the same defect as `Stockholders_Agreement.md` in this folder.
+>
+> **The live seed documents are in Drive → Legal → Seed Round:**
+> `Cinderella Corp - Subscription Agreement Final` and
+> `Cinderella Corp - Side Letter Agreement Revenue Share Final`
+> (revised as `../2026-09-18-side-letter-FINALv2-generator.py`).
+> **The live investor-facing summary is the one-pager (MANCO-LEVEL INVESTOR OVERVIEW)**, not this
+> file — that is the document Ankur's item 7 refers to.
+>
+> ⚠️ On 2026-09-18 I edited this file believing it was the circulating term sheet and told Norman
+> it created a 10b-5 exposure. **That was wrong** — I never checked its provenance. Edits left in
+> place; the file is retained as history only.
+
 **CONFIDENTIAL — FOR DISCUSSION PURPOSES ONLY**
 _This term sheet is a summary of proposed terms and is **not** an offer to sell or a solicitation of an offer to buy securities, and (other than the Confidentiality provision) is **non-binding** and subject to definitive documentation, applicable law, and completion of investor diligence._
 
