@@ -114,7 +114,8 @@ p("Adviser may continue Tabor and his other activities, subject to OBA Approval 
 
 head("2.  COMPENSATION — EQUITY ONLY; NO CASH")
 p("The Company will grant Adviser restricted Class A Common Stock equal to four percent (4%) of "
-  "the Company (the “Role Shares”), measured per Section 2.5, which shall be fully "
+  "the Company (the “Role Shares”), measured and adjusted per Sections 2.4 and 2.5, "
+  "which shall be fully "
   "vested as of the Effective Date and not subject to any repurchase option for unvested shares. "
   "The Role Shares compensate the advisory role and are not contingent on any financing.",
   lead="2.1  Role Equity — 4%, fully vested.  ")
@@ -161,24 +162,42 @@ p("(d)  Attribution. Adviser shall give the Company written notice identifying e
   "at the time it is made. A milestone is attributable to Adviser only where such notice was "
   "given, or where the Company otherwise confirms attribution in writing.", indent=0.3)
 
+p("(e)  Measurement. Each tranche of milestone equity is measured on the Company’s "
+  "fully-diluted capitalization as of the date the applicable milestone is achieved, and is "
+  "subject to ordinary, pro-rata dilution thereafter. The Top-Up Shares under Section 2.4 "
+  "apply only to the Role Shares and not to milestone equity.", indent=0.3)
+
 p("If Adviser introduces or materially advances a relationship with a Qualifying Platform during "
   "the term, Adviser remains eligible for the corresponding milestone equity if the applicable "
   "term sheet or definitive agreement is completed within twelve (12) months after termination of "
   "this Agreement, provided Adviser was not terminated for material breach or loss of OBA "
   "Approval.", lead="2.3  Tail — 12 months.  ")
 
+p("The Role Shares are issued on the Effective Date in a number equal to four percent (4%) of the "
+  "Company’s fully-diluted capitalization as of that date. At the closing of the Seed Round, "
+  "the Company shall issue to Adviser, for no additional consideration, such number of additional "
+  "shares of Class A Common Stock as is necessary so that the Role Shares represent four percent "
+  "(4%) of the Company’s fully-diluted capitalization immediately following that closing "
+  "(the “Top-Up Shares”). The Top-Up Shares are fully vested on issuance, are treated as "
+  "Role Shares for all purposes of this Agreement, and are issued without further action by or "
+  "approval of the Board. Based on the Company’s capitalization as of the date of this "
+  "Agreement, the parties expect the Role Shares to be 166,667 shares and the Top-Up Shares to be "
+  "approximately 30,864 shares, for a post-Seed total of approximately 197,531 shares; the actual "
+  "numbers are those required to produce four percent (4%) and are subject to rounding.",
+  lead="2.4  Seed Round top-up.  ")
+
 p("Adviser’s equity is measured on the fully-diluted capitalization immediately after "
   "completion of the Seed Round (the $1,500,000 / 15% raise), so the Seed Round does not dilute "
   "Adviser. After the Seed Round is complete, Adviser’s shares are subject to ordinary, "
   "pro-rata dilution on the same basis as the Founder on all subsequent issuances — no further "
   "anti-dilution protection. This post-Seed measurement is specific to Adviser and is not a "
-  "precedent for any other grant.", lead="2.4  Anti-dilution — Seed Round only.  ")
+  "precedent for any other grant.", lead="2.5  Anti-dilution — Seed Round only.  ")
 p("All shares are Class A Common (1 vote per share); Adviser does not receive Class B or any "
-  "super-voting stock, which is held solely by Norman C. de Silva.", lead="2.5  Class A only.  ")
+  "super-voting stock, which is held solely by Norman C. de Silva.", lead="2.6  Class A only.  ")
 p("Issued as restricted stock under the Company’s Restricted Stock Purchase Agreement and "
   "subject to the Stockholders’ Agreement; Adviser is advised to consider an 83(b) election "
-  "within thirty (30) days of each grant.", lead="2.6  Mechanics; tax.  ")
-p("No cash fees, salary, or bonus are payable.", lead="2.7  No cash.  ")
+  "within thirty (30) days of each grant.", lead="2.7  Mechanics; tax.  ")
+p("No cash fees, salary, or bonus are payable.", lead="2.8  No cash.  ")
 
 head("3.  GOVERNANCE AND INFORMATION")
 p("Adviser may attend all meetings of the Board in a non-voting observer capacity and shall "

@@ -192,16 +192,34 @@ p("The Company grants Partner restricted Class A Common Stock equal to twenty pe
   lead="2.1  Grant.  ")
 
 p("Because the Base Shares are measured pre-Seed, Partner is diluted by the Seed Round on the "
-  "same basis as Norman and Greg Kristof. For illustration only: on a pre-Seed capitalization of "
-  "Norman 72% / Partner 20% / Ankur Jain 4% / Greg Kristof 4%, and assuming a [15]% Seed Round in "
-  "which Ankur Jain's position does not dilute (per the Company's separate arrangement with him), "
-  "Norman, Partner, and Greg collectively absorb more than 15% dilution to hold Ankur flat and "
-  "still deliver 15% to the Seed investors. On that assumption, Partner's approximate post-Seed "
-  "position would be ~16.9% (not the ~17% a simple pro-rata calculation would suggest). This "
-  "figure is illustrative only and must be confirmed against the actual Seed Round terms and cap "
-  "table model before use. Partner has no anti-dilution protection with respect to the Seed Round "
-  "or any subsequent issuance.",
+  "same basis as Norman and Greg Kristof. Ankur Jain’s position does not dilute in the Seed "
+  "Round (per the Company’s separate arrangement with him), so Norman, Partner and Greg "
+  "collectively absorb more than 15% of dilution in order to hold Ankur at 4% and still deliver "
+  "15% to the Seed investors. Against the Company’s current capitalization — 3,000,000 shares "
+  "of Class B Common Stock held by Norman — that produces the following, which the parties "
+  "acknowledge as the expected outcome rather than a mere illustration:",
   lead="2.2  Seed dilution applies.  ")
+
+tbl = doc.add_table(rows=5, cols=4); tbl.style = "Table Grid"
+_rows = [("Holder", "Pre-Seed", "Post-Seed", "Post-Seed shares"),
+         ("Norman (Class B)", "72.000%", "60.750%", "3,000,000"),
+         ("Partner", "20.000%", "16.875%", "833,333"),
+         ("Ankur Jain", "4.000%", "4.000%", "197,531"),
+         ("Greg Kristof", "4.000%", "3.375%", "166,667")]
+for _i, _row in enumerate(_rows):
+    for _j, _val in enumerate(_row):
+        _c = tbl.cell(_i, _j); _c.text = ""
+        _rr = _c.paragraphs[0].add_run(_val)
+        _rr.bold = (_i == 0); _rr.font.size = Pt(9.5); _rr.font.name = "Calibri"
+p("", after=4)
+
+p("The Seed investors hold 740,741 shares, being 15%, on a post-Seed fully-diluted total of "
+  "4,938,272 shares. Partner’s 16.875% is lower than the 17.000% a simple pro-rata "
+  "calculation would produce; the 0.125-point difference is Partner’s share of holding Ankur "
+  "Jain flat, and Partner acknowledges it. Share counts are subject to rounding and to "
+  "confirmation against the final Seed Round terms and the Company’s stock ledger. Partner "
+  "has no anti-dilution protection with respect to the Seed Round or any subsequent issuance.",
+  indent=0.0)
 
 p("The Base Shares vest as follows:", lead="2.3  Vesting.  ", after=6)
 p("(a)  Fifty percent (50%) of the Base Shares (being ten percent (10%) of the Company as "

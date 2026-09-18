@@ -138,6 +138,72 @@ what makes the whole section safe.
 §2.7 no cash · §5 NIL approval · §6 confidentiality (now with standard exceptions) · §7 IP ·
 §9 independent contractor · §10 term/termination · §11 Delaware + Court of Chancery.
 
+## ⭐ Share counts — the actual numbers (2026-09-18)
+
+Norman holds **3,000,000 Class B** and nothing else is outstanding. That anchors everything.
+
+**Pre-Seed (what goes in Ankur's RSPA today):**
+
+| Holder | Shares | % |
+|---|---|---|
+| Norman (Class B) | 3,000,000 | 72.000% |
+| Sunjay | 833,333 | 20.000% |
+| **Ankur** | **166,667** | **4.000%** |
+| Greg | 166,667 | 4.000% |
+| **Total** | **4,166,667** | 100% |
+
+**Post-Seed (15% for $1.5M at $2.025/share):**
+
+| Holder | Shares | % |
+|---|---|---|
+| Norman (Class B) | 3,000,000 | 60.750% |
+| Sunjay | 833,333 | 16.875% |
+| **Ankur** | **197,531** | **4.000%** |
+| Greg | 166,667 | 3.375% |
+| Seed | 740,741 | 15.000% |
+| **Total** | **4,938,272** | 100% |
+
+Class A issued post-Seed 1,938,272 of 6,000,000 authorized; Class B stays 3,000,000 of
+4,000,000. **No charter amendment needed.** Exact math is 4,166,666.67 pre / 4,938,271.6 post —
+3,000,000 is not divisible by 18, so no share count hits 72/20/4/4 exactly. Rounding error is
+under 0.0001%. Do not chase it.
+
+- ⭐ **§2.4 Seed Round top-up (NEW).** The old §2.4 said Ankur's equity "is measured on the
+  fully-diluted capitalization immediately after the Seed Round" — that is a **measuring
+  convention, not an obligation to issue.** 166,667 shares cannot be 4% of a company that just
+  issued 740,741 new ones. §2.4 now obliges the Company to issue **~30,864 top-up shares at the
+  Seed closing**, for no additional consideration, fully vested, no further Board action. Without
+  this the anti-dilution promise was unenforceable and would have surfaced as an argument at
+  closing with the person running the round.
+- **§2.2(e) milestone measurement (NEW).** Milestone tranches are measured on the fully-diluted
+  cap **as of the achievement date**, with ordinary dilution thereafter, and **the top-up does
+  not apply to milestone equity.** Previously unstated — "1.25% of the Company" had no as-of date.
+- **§2.1 cross-reference fixed.** It said the 4% was "measured per Section 2.5" — the Class A-only
+  clause. Now points to §§2.4 and 2.5. Bug inherited from the 08-15 original.
+
+⚠️ **The RSPA price per share is left blank on purpose.** Restricted stock for services below
+FMV creates taxable spread. This is a 409A/Board determination — **counsel sets it, and it must
+be set before the Seed prices the common.**
+
+## ⚠️ Sunjay pays 0.125 points for Ankur's protection
+
+Issuing Ankur today does **not** dilute Sunjay — 72/20/4/4 is one simultaneous table off a single
+denominator, so all of it comes out of Norman (100% → 72%).
+
+**At the Seed it is different.** Holding Ankur flat compresses the other three:
+
+| | Plain pro-rata | Actual | Cost |
+|---|---|---|---|
+| Norman | 61.200% | 60.750% | −0.450 pts |
+| Sunjay | 17.000% | 16.875% | −0.125 pts |
+| Greg | 3.400% | 3.375% | −0.025 pts |
+
+The 0.6 points is exactly what Ankur keeps (4% vs 3.4%). **Norman absorbs three-quarters of it.**
+
+Sunjay's §2.2 already disclosed this and estimated "~16.9%" under a
+**[MATERIAL — CONFIRM AGAINST THE FINAL CAP TABLE]** flag. **That flag is now cleared** — the
+estimate was right, and §2.2 carries the exact table plus an express acknowledgment by Partner.
+
 ## Companion stock documents — conformed 2026-09-18
 
 The Stockholders' Agreement and RSPA (`2026-09-18-stockholders-and-rspa-generator.py`) were
