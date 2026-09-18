@@ -32,24 +32,32 @@ Every change below is in the .docx; the generator is the record of truth.
   hook. Norman closed the item, so the draft has **no protection if Ankur walks in month two**.
   Sunjay, by contrast, is on accrual. **This is the asymmetry to be aware of, not a drafting bug.**
 - **§2.2 Milestone Equity — broadened from Netflix-only to any "Qualifying Platform,"
-  tiered by platform**, per Norman's instruction (Netflix 5%, Apple/Amazon 2.5%, all others 1%):
+  tiered by platform.** Final grid (Norman, 2026-09-18 — Disney moved up into the second tier
+  at 3.5%; every tier holds Netflix's 25/25/50 tranche split):
 
   | Qualifying Platform | Meeting (25%) | Term sheet (25%) | Definitive (50%) | Total |
   |---|---|---|---|---|
   | Netflix | 1.25% | 1.25% | 2.50% | **5.00%** |
-  | Apple | 0.625% | 0.625% | 1.25% | **2.50%** |
-  | Amazon Prime Video | 0.625% | 0.625% | 1.25% | **2.50%** |
+  | Apple | 0.875% | 0.875% | 1.75% | **3.50%** |
+  | Amazon Prime Video | 0.875% | 0.875% | 1.75% | **3.50%** |
+  | Disney / Hulu / ESPN | 0.875% | 0.875% | 1.75% | **3.50%** |
   | All other Qualifying Platforms | 0.25% | 0.25% | 0.50% | **1.00%** |
 
-  Qualifying Platform = Netflix, Apple, Amazon, HBO/Max, Disney/ESPN/Hulu, Paramount,
+  Qualifying Platform = Netflix, Apple, Amazon, HBO/Max, Disney/Hulu/ESPN, Paramount,
   NBCU/Peacock, or another comparable platform **approved by the Board**.
+
+  _(Norman's instruction read "3.5% with a 1, 1, 2.5 structure," which sums to 4.5. Asked;
+  he chose the 3.5% total with the proportional 0.875/0.875/1.75 split.)_
 - ⭐ **§2.2(c) aggregate 5% cap** across *all* platforms. **This is the single most important
   addition.** Without it, broadening to seven platforms lets Ankur stack meeting-tranches and
   blow past 5% on introductions alone. With it, the tiering is a priority ranking, not a
   multiplier.
-- **§2.2(b) first-tranche trigger tightened.** "A meeting proceeding to diligence" was
-  unmeasurable; now requires **"a written request for materials or a scheduled follow-up
-  engagement."**
+- ⚠️ **§2.2(b) first tranche is now an UNGATED meeting.** Norman removed every qualifier
+  on 2026-09-18 — no diligence, no written request for materials, no scheduled follow-up.
+  A senior-level meeting attributable to Ankur's introduction vests the tranche, full stop.
+  **The aggregate 5% cap in §2.2(c) is now the only brake in the section.** Three tier-2
+  meetings alone = 2.625%; four = 3.5%, earned without a single term sheet. That is the
+  deliberate trade, and it is why the cap cannot be given up in any later round of edits.
 - **§2.2(d) attribution requires contemporaneous written notice** of each introduction.
   Prevents retroactive claims on relationships the Company developed itself.
 - **§2.3 12-month tail** — Ankur's ask, granted. Forfeited if terminated for material breach
@@ -104,6 +112,29 @@ position Norman had not yet sent to Ankur as of 2026-09-18. **Do not treat as ag
 §0 OBA condition precedent (Tabor) · §1.5 no-broker · §2.5 Class A only · §2.6 RSPA + 83(b) ·
 §2.7 no cash · §5 NIL approval · §6 confidentiality (now with standard exceptions) · §7 IP ·
 §9 independent contractor · §10 term/termination · §11 Delaware + Court of Chancery.
+
+## Companion stock documents — conformed 2026-09-18
+
+The Stockholders' Agreement and RSPA (`2026-09-18-stockholders-and-rspa-generator.py`) were
+swept against the adviser agreement. Four gaps closed:
+
+- **SHA §6.2 (new)** — SHA information rights (annual only, 1% threshold) were *narrower* than
+  what §3.3 of the adviser agreement promises Ankur (annual **and quarterly**, plus the annual
+  budget). The SHA floor no longer caps a separate agreement.
+- **SHA §7.3 (new)** — two different non-circ regimes applied to Ankur: the SHA's generic one
+  and the adviser agreement's narrowed "Restricted Project" with five carve-outs. The separate
+  agreement now controls, and §7.2 cannot operate to broaden it.
+- **SHA §9.7 (new)** — general precedence clause. The SHA is the common floor; a Stockholder's
+  own agreement controls on vesting, acceleration, forfeiture, repurchase, information rights,
+  governance, indemnification and non-circumvention.
+- **RSPA §2.4 + Schedule A (new)** — the RSPA only contemplated time-vesting. Milestone shares
+  now have a home: issued on the Company's written determination that the milestone is met,
+  fully vested on issuance, Article 3 repurchase disapplied, and the cap left to the adviser
+  agreement so the 5% ceiling lives in exactly one place.
+
+Already aligned, no change needed: SHA §2.3 automatic seat · §2.4 observer exclusions ·
+§2.5 Investor Representative · §2.6 indemnification + D&O in both capacities · §9.2 amendment
+consent · RSPA Schedule A fully-vested example.
 
 ## Still open
 

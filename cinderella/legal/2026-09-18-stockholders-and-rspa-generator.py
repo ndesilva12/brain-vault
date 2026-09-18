@@ -168,9 +168,13 @@ p("The Company will furnish to each Stockholder holding at least one percent (1%
   "(120) days after each fiscal year end; and (b) material financing updates as they occur. "
   "Information rights terminate on the closing of a sale of the Company.",
   lead="6.1  Reporting.  ")
+p("The rights in Section 6.1 are a floor and not a ceiling. Where a Stockholder’s separate "
+  "written agreement with the Company provides for additional or more frequent information — "
+  "including quarterly financial statements and the annual budget — that agreement governs as to "
+  "that Stockholder.", lead="6.2  Additional rights preserved.  ")
 p("Nothing in this Article entitles any Stockholder to the Company’s trade secrets, the "
   "Format or franchise intellectual property, privileged materials, or information the Board "
-  "determines in good faith to be competitively sensitive.", lead="6.2  Limits.  ")
+  "determines in good faith to be competitively sensitive.", lead="6.3  Limits.  ")
 
 head("7.  CONFIDENTIALITY AND NON-CIRCUMVENTION")
 p("Each Stockholder will hold in confidence all non-public information regarding the Company and "
@@ -187,6 +191,10 @@ p("During the term and for twelve (12) months thereafter, no Stockholder will, u
   "any Stockholder from initiating, continuing or maintaining any personal or professional "
   "relationship with any person, whenever and however that relationship arose.",
   lead="7.2  Non-circumvention.  ")
+p("Where a Stockholder’s separate written agreement with the Company contains a "
+  "non-circumvention or non-solicitation provision, including any definition of a restricted "
+  "project and any carve-outs, that provision governs as to that Stockholder and Section 7.2 does "
+  "not operate to broaden it.", lead="7.3  Separate agreements control.  ")
 
 head("8.  LEGENDS")
 p("All certificates and book-entry positions representing shares subject to this Agreement bear a "
@@ -212,6 +220,12 @@ p("If any provision is held invalid or unenforceable, it is ineffective only to 
 p("This Agreement may be executed in counterparts and by electronic signature. Any person may "
   "become a party by executing a counterpart signature page or joinder.",
   lead="9.6  Counterparts; joinder.  ")
+p("This Agreement sets out rights and obligations common to all Stockholders. Where a "
+  "Stockholder’s separate written agreement with the Company addresses the same subject "
+  "matter — including vesting, acceleration, forfeiture, repurchase, information rights, "
+  "governance participation, indemnification or non-circumvention — that separate agreement "
+  "controls as to that Stockholder, and nothing in this Agreement reduces or conditions a right "
+  "granted there.", lead="9.7  Separate agreements.  ")
 
 p("[Remainder of page intentionally left blank]", center=True, italic=True, before=14, after=14,
   justify=False)
@@ -264,6 +278,12 @@ p("Except as expressly provided in Schedule A or in Purchaser’s separate writt
 p("Any acceleration of vesting provided in Purchaser’s separate written agreement with the "
   "Company is incorporated by reference and applies to the Shares.",
   lead="2.3  Acceleration.  ")
+p("Where Schedule A identifies the Shares as a milestone grant, the Shares are issued only upon "
+  "the Company’s written determination that the applicable milestone under Purchaser’s "
+  "separate written agreement has been achieved, and are fully vested on issuance. Article 3 does "
+  "not apply to such Shares. The milestone itself, its definition, and any cap on the aggregate "
+  "equity issuable across milestones are governed exclusively by that separate agreement.",
+  lead="2.4  Milestone grants.  ")
 
 head("3.  REPURCHASE OPTION")
 p("On termination of Purchaser’s service with the Company for any reason, the Company has "
@@ -352,7 +372,10 @@ p("•  Fifty percent (50%) vested on the Effective Date; the remainder in twent
   "monthly installments, vesting on the last day of each full calendar month thereafter, subject "
   "to continuous service.", indent=0.25, after=4)
 p("•  Monthly over thirty-six (36) months from the vesting commencement date, no cliff, subject "
-  "to continuous service.", indent=0.25)
+  "to continuous service.", indent=0.25, after=4)
+p("•  Milestone grant under Section 2.4. Issued on the Company’s written determination that "
+  "the [____] milestone under the holder’s separate agreement dated [____] has been achieved, "
+  "and fully vested on issuance. No repurchase option applies.", indent=0.25)
 
 d.add_page_break()
 title("SCHEDULE B — FORM OF 83(b) ELECTION", size=12)

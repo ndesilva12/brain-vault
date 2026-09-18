@@ -112,7 +112,8 @@ p("The Company will grant Adviser restricted Class A Common Stock equal to four 
 p("The Company will additionally grant restricted Class A Common Stock upon achievement, during "
   "OBA-approved activity, of the milestones below with respect to a Qualifying Platform. A "
   "“Qualifying Platform” means Netflix, Apple, Amazon Prime Video, HBO/Max (Warner "
-  "Bros. Discovery), Disney/ESPN/Hulu, Paramount, NBCUniversal/Peacock, or another comparable "
+  "Bros. Discovery), Disney/Hulu/ESPN (The Walt Disney Company), Paramount, "
+  "NBCUniversal/Peacock, or another comparable "
   "major streaming or distribution platform approved by the Board, in each case where the "
   "relationship is directly attributable to Adviser’s introduction.",
   lead="2.2  Distribution Milestone Equity — up to 5%.  ")
@@ -122,11 +123,12 @@ p("(a)  Platform tiers. The milestone equity available with respect to each Qual
   "respect to that platform; the tranche columns correspond to clauses (i), (ii) and (iii) of "
   "Section 2.2(b).", indent=0.3, after=5)
 
-tbl = d.add_table(rows=5, cols=5); tbl.style = "Table Grid"
+tbl = d.add_table(rows=6, cols=5); tbl.style = "Table Grid"
 rows = [("Qualifying Platform", "Meeting (25%)", "Term sheet (25%)", "Definitive (50%)", "Total"),
         ("Netflix", "1.25%", "1.25%", "2.50%", "5.00%"),
-        ("Apple", "0.625%", "0.625%", "1.25%", "2.50%"),
-        ("Amazon Prime Video", "0.625%", "0.625%", "1.25%", "2.50%"),
+        ("Apple", "0.875%", "0.875%", "1.75%", "3.50%"),
+        ("Amazon Prime Video", "0.875%", "0.875%", "1.75%", "3.50%"),
+        ("Disney / Hulu / ESPN", "0.875%", "0.875%", "1.75%", "3.50%"),
         ("All other Qualifying Platforms", "0.25%", "0.25%", "0.50%", "1.00%")]
 for i, row in enumerate(rows):
     for j, val in enumerate(row):
@@ -136,9 +138,8 @@ for i, row in enumerate(rows):
 
 p("", after=4)
 p("(b)  Milestones. For each Qualifying Platform: (i) the first tranche vests upon a "
-  "senior-level meeting with that platform, directly resulting from Adviser’s "
-  "introduction, that results in a written request for materials or a scheduled follow-up "
-  "engagement; (ii) the second tranche vests upon a qualifying term sheet from that platform; and "
+  "senior-level meeting with that platform, directly resulting from Adviser’s introduction; "
+  "(ii) the second tranche vests upon a qualifying term sheet from that platform; and "
   "(iii) the third tranche vests upon a definitive rights agreement with that platform together "
   "with receipt by the Company of the initial guaranteed payment.", indent=0.3)
 
