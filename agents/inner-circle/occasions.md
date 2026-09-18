@@ -4,7 +4,7 @@ Public-clean pointer. **Live SoT:** [Inner Circle Gifts & Occasions](https://doc
 
 Ideas only in vault notes — never buy or send unless Norman asks.
 
-**As of:** 2026-09-16
+**As of:** 2026-09-18
 
 ## Kim ideas
 
@@ -26,6 +26,11 @@ Ideas only in vault notes — never buy or send unless Norman asks.
 | Erica / Mike | Thomas Patrick McCann (born 2026-05-20) | Shower Apr 2026 — Plan row added 2026-09-16 (Idea); confirm if follow-up gift still wanted |
 | Zach | Lillian Mae (~Aug 2026) | Congrats already in group texts — Plan row added 2026-09-16 (Idea); confirm leftover obligation |
 | Mom / Dad | Padanaram move | Prior house sold; housewarming when settle is clear |
+
+## Awareness (not gift Plan)
+
+- **2026-09-17:** Kristin Thuerk death — Erica hit hard; Norman already texted condolences. No Plan row unless he asks for flowers/support idea.
+- **~2026-09-16:** Kim stitches / minor procedure — okay per Norman; private factual only.
 
 ## Later
 
