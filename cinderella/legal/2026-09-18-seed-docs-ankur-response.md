@@ -66,5 +66,37 @@ Neither was an Ankur item; both protect Norman, both appeared in `17XLRBuQ`, and
    $3M) at the moment of signing, while the license fee itself arrives over years. Sunjay's
    agreement already carries the identical carve-out, so the two documents are now consistent.
 
-**Also still open:** price per share is `$[____]` in the Subscription Agreement. Per the cap table
-that is **$2.025** for **740,741** shares. 409A/Board determination required first.
+## Seed price and share count — FILLED 2026-09-18
+
+**$2.025 per Share.** Not a choice — it is forced by the deal: Norman's 3,000,000 Class B shares,
+the 72/20/4/4 pre-Seed split, 15% for $1,500,000, and a $10,000,000 post-money.
+
+| Allocation | Shares | Price |
+|---|---|---|
+| One allocation (1.0%) | **49,383** | $100,000 |
+| Full round (15 allocations, 15%) | **740,745** | $1,500,000 |
+
+Post-Seed cap table:
+
+| Holder | Shares | % |
+|---|---|---|
+| Norman (Class B) | 3,000,000 | 60.7499% |
+| Sunjay | 833,333 | 16.8750% |
+| Greg | 166,667 | 3.3750% |
+| Ankur (after 30,864 top-up) | 197,531 | 4.0000% |
+| Seed investors | 740,745 | 15.0001% |
+| **Total** | **4,938,276** | 100% |
+
+Class A issued 1,938,276 of 6,000,000 authorized; Class B stays 3,000,000 of 4,000,000.
+**No charter amendment required.**
+
+⚠️ **Rounding.** 49,383 x $2.025 = $100,000.57, so a $100,000 subscription is being accepted for
+49,383 shares — a 57-cent concession per investor, $8.62 across the round. Immaterial, but it is
+why the round totals 740,745 rather than the mathematically exact 740,740.74.
+
+**Why the numbers are not round:** the founder block is 3,000,000. Had it been 6,075,000, the
+price would be exactly $1.00 and an allocation exactly 100,000 shares — which is where the
+`1,500,000 shares` figure in the superseded drafts came from. Getting there now needs a 2.025:1
+split and a charter amendment (6,075,000 exceeds the 4,000,000 Class B authorized). **Not worth
+it.** Nobody outside the stock ledger sees these numbers.
+

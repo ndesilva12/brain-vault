@@ -32,7 +32,7 @@ def num(n, title, body):
 p("SUBSCRIPTION AGREEMENT", bold=True, center=True, size=13, after=14)
 p("The undersigned individual or entity (the “Investor”) hereby subscribes for shares of Class A "
   "Common Stock, par value $0.001 (the “Shares”) of Cinderella Corp., a Delaware corporation (the "
-  "“Company”), at the price of $[____] per Share, on the terms and conditions set forth in this "
+  "“Company”), at the price of $2.025 per Share, on the terms and conditions set forth in this "
   "Subscription Agreement (this “Subscription Agreement”), the Side Letter Agreement (as defined "
   "below), and the Certificate of Incorporation, as amended, of the Company, which is attached "
   "hereto as Exhibit A.")
@@ -141,7 +141,12 @@ for lab in ["Print Name of Investor","Signature of Investor",
     par=d.add_paragraph(); par.paragraph_format.space_after=Pt(2); par.add_run("_"*52)
     q=d.add_paragraph(); q.paragraph_format.space_after=Pt(12); q.add_run(lab)
 p("Subscription Amount: $______________________", after=4)
-p("Number of Shares: _________________________", after=16)
+p("Number of Shares: _________________________", after=6)
+p("A minimum allocation is $100,000, being 49,383 Shares at $2.025 per Share and representing "
+  "approximately one percent (1.0%) of the Company on a fully-diluted basis immediately following "
+  "the closing of the offering. The offering comprises 15 such allocations, being 740,745 Shares "
+  "in the aggregate for $1,500,000, representing 15% of the Company.", italic=True, size=9.5,
+  after=16)
 p("ACCEPTANCE", bold=True, after=6)
 p("The undersigned, on behalf of the Company, hereby executes this Subscription Agreement and "
   "accepts the foregoing subscription this [____] day of ____________, 20[__].", after=14)
