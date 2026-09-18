@@ -1,4 +1,16 @@
 **DRAFT — FOR DISCUSSION ONLY — NOT LEGAL ADVICE**
+> ⚠️ **THE LIVE VERSION IS IN GOOGLE DRIVE, NOT HERE:**
+> **`Ankur_Jain_Strategic_Adviser_Agreement.docx`** (Founding Documents, file id
+> `1dDH32kojyD2v7OSI3MwtCVF9XNwUls8E`), last modified 2026-09-03. **Read that before
+> advising on this agreement.** This vault copy sat stale at a 2% milestone figure until
+> 2026-09-18, when the real number turned out to be **5%** — and the staleness produced a wrong
+> accusation that Ankur had inflated his own ask. Re-read Drive first, every time.
+>
+> **Total potential to Ankur: 4% role + 5% milestone = 9%.** The cap table in Sunjay's
+> agreement (Norman 72 / Sunjay 20 / Ankur 4 / Greg 4 pre-Seed) does **not** contemplate this.
+> If all Netflix milestones hit, Norman falls to roughly **57.7%** — still control via Class B,
+> but below 60%.
+
 _Working draft, 2026-08-15, for review with Loeb & Loeb and Sunjay before use. Not an offer of securities. **Entity: Cinderella Corp., a Delaware corporation.** Bracketed items **[LIKE THIS]** need confirmation. Confirm adviser's exact legal name (**Ankur Jain**)._
 
 # STRATEGIC ADVISER AGREEMENT
@@ -17,10 +29,10 @@ This Strategic Adviser Agreement (this "**Agreement**") is entered into as of **
 
 ## 2. Compensation — Equity (only; no cash)
 2.1 **Role Equity — 4%.** The Company will grant Adviser **restricted Class A Common Stock equal to 4% of the Company** (the "**Role Shares**"), measured per Section 2.4, vesting **monthly over 36 months** from the **[Effective Date / vesting commencement]**, **no cliff**, subject to continued service and OBA Approval. The Role Shares compensate the **advisory role** and are **not** contingent on any financing.
-2.2 **Netflix Milestone Equity — up to 2%.** The Company will additionally grant restricted Class A Common Stock, vesting **only** upon achievement (during OBA-approved activity) of the following **Netflix**-specific milestones **[breakdown scaled to 2% — confirm]**:
-&nbsp;&nbsp;(a) **0.5%** — a senior-level Netflix meeting proceeding to diligence;
-&nbsp;&nbsp;(b) **0.5%** — a qualifying Netflix term sheet; and
-&nbsp;&nbsp;(c) **1.0%** — a **definitive Netflix TV-rights agreement plus the initial guaranteed payment.**
+2.2 **Netflix Milestone Equity — up to 5%.** The Company will additionally grant restricted Class A Common Stock, vesting **only** upon achievement (during OBA-approved activity) of the following **Netflix**-specific milestones:
+&nbsp;&nbsp;(a) **1.25%** — a senior-level Netflix meeting proceeding to diligence;
+&nbsp;&nbsp;(b) **1.25%** — a qualifying Netflix term sheet; and
+&nbsp;&nbsp;(c) **2.5%** — a **definitive Netflix TV-rights agreement plus the initial guaranteed payment.**
 &nbsp;&nbsp;This milestone equity is **Netflix-specific** (a deal with another distributor does not trigger it — favorable to the Company). **[Confirm keep Netflix-only vs. broaden to any streamer.]**
 2.3 **Anti-dilution — Seed Round only.** Adviser's equity is **measured on the fully-diluted capitalization immediately after completion of the Seed Round** (the $1,500,000 / 15% raise), so **the Seed Round does not dilute Adviser.** **After** the Seed Round is complete, Adviser's shares are subject to **ordinary, pro-rata dilution on the same basis as the Founders** on all subsequent issuances — **no further anti-dilution protection.** _(Note: this post-Seed measurement is intentionally more favorable than the pre-Seed measurement applied to other equity holders; it is specific to Adviser and is not a precedent for any other grant.)_
 2.4 **Class A only.** All shares are **Class A Common (1 vote/share)**; Adviser does **not** receive Class B / super-voting stock (held solely by Norman C. de Silva).
