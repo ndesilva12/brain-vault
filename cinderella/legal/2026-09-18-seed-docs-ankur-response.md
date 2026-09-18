@@ -56,10 +56,10 @@ Cross-references resolve by **section name**, so inserting a section cannot brea
 
 Neither is an Ankur item; both protect Norman and both appeared in `17XLRBuQ`:
 
-1. **§1(e) — no personal obligation of the Class B Stockholder.** *"The Class B Stockholder
-   undertakes no personal obligation, and shall have no personal liability, in respect of the
-   Preferential Payments."* Norman signs the Side Letter personally. Without this, his signature
-   is unqualified.
+1. ~~**§1(e) — no personal obligation of the Class B Stockholder.**~~ ✅ **RESTORED 2026-09-18**
+   at Norman's direction. The signature block is also re-qualified to read *"CLASS B STOCKHOLDER
+   (solely for purposes of Section 1(e))"* — the qualifier is half the protection and travels with
+   the clause.
 2. **Liquidation Event carve-out for format licensing.** *"a Liquidation Event does not include
    the grant of a license of the Company's format or other intellectual property to any special
    purpose vehicle, production partner, distributor or other counterparty in the ordinary course."*

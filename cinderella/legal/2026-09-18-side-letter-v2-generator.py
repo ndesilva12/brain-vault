@@ -79,6 +79,11 @@ sub("(d)  The Preferential Payments are in addition to, and shall not be credite
     "against, any dividend, distribution or other amount payable to an Investor in respect of such "
     "Investor’s Shares. Each Investor’s equity interest in the Company is unaffected by this "
     "Agreement, and this Agreement confers no voting, governance, management or ownership rights.")
+sub("(e)  No personal obligation of the Class B Stockholder. The Class B Stockholder executes this "
+    "Agreement solely to acknowledge the arrangements described herein. The Class B Stockholder "
+    "undertakes no personal obligation, and shall have no personal liability, in respect of the "
+    "Preferential Payments or any other obligation of the Company under this Agreement.")
+
 sec("Definitions.", "As used in this Agreement:")
 for t in [
  "“Gross Revenue” means all cash actually received by the Company from its business operations "
@@ -299,7 +304,7 @@ sig("By:", ["Name:", "Title:"])
 plain("INVESTOR REPRESENTATIVE:", bold=True, before=6, after=0)
 plain("(solely for purposes of Sections «Investor Representative», «Return of Undeployed Seed Capital», «Expense Policy» and «Amendment and Modification|(b)»)", italic=True, after=0)
 sig("Ankur Jain", [])
-plain("CLASS B STOCKHOLDER:", bold=True, after=0)
+plain("CLASS B STOCKHOLDER (solely for purposes of Section 1(e)):", bold=True, after=0)
 sig("Norman de Silva", [])
 plain("COMPANY:", bold=True, after=0); plain("CINDERELLA CORP", after=0)
 sig("By:", ["Name: Norman de Silva", "Title: President & Founder"])
