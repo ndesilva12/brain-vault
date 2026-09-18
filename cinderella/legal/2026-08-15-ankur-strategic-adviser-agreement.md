@@ -62,7 +62,8 @@ Every change below is in the .docx; the generator is the record of truth.
   Prevents retroactive claims on relationships the Company developed itself.
 - **§2.3 12-month tail** — Ankur's ask, granted. Forfeited if terminated for material breach
   or loss of OBA Approval.
-- §2.4 anti-dilution (Seed-only measurement) unchanged.
+- **§2.5 anti-dilution** (Seed-only measurement) unchanged in substance — renumbered from §2.4,
+  and now backed by the §2.4 top-up that actually delivers it. See “Share counts” below.
 
 ## ⭐ Item 2 — approval rights. GRANTED IN FULL, then bounded by mechanics.
 
