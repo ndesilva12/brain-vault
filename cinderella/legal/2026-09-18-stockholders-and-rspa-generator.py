@@ -400,6 +400,122 @@ def build_rspa(outname, *, holder="[HOLDER NAME]", shares="[______]",
 
 build_rspa("Cinderella Corp - Restricted Stock Purchase Agreement (DRAFT).docx")
 
+# ---- cap-table arithmetic guard: these numbers must reconcile or nothing ships ----
+PRE_TOTAL = 4_166_667
+_HOLD = {"Norman": 3_000_000, "Sunjay": 833_333, "Ankur": 166_667, "Greg": 166_667}
+assert sum(_HOLD.values()) == PRE_TOTAL, sum(_HOLD.values())
+assert abs(_HOLD["Sunjay"]/PRE_TOTAL - 0.20) < 1e-6
+assert abs(_HOLD["Greg"]/PRE_TOTAL - 0.04) < 1e-6
+assert abs(_HOLD["Norman"]/PRE_TOTAL - 0.72) < 1e-6
+_SJ_VESTED, _SJ_UNVESTED = 416_666, 416_667
+assert _SJ_VESTED + _SJ_UNVESTED == _HOLD["Sunjay"]
+assert abs(_SJ_VESTED/PRE_TOTAL - 0.10) < 1e-6
+assert 17_361 * 23 + 17_364 == _SJ_UNVESTED
+assert 6_944 * 23 + 6_955 == _HOLD["Greg"]
+POST_TOTAL = 4_938_272
+_POST = {"Norman": 3_000_000, "Sunjay": 833_333, "Ankur": 197_531,
+         "Greg": 166_667, "Seed": 740_741}
+assert sum(_POST.values()) == POST_TOTAL, sum(_POST.values())
+for _k, _pct in (("Sunjay", .16875), ("Ankur", .04), ("Greg", .03375), ("Seed", .15)):
+    assert abs(_POST[_k]/POST_TOTAL - _pct) < 5e-7, _k
+assert _POST["Ankur"] - _HOLD["Ankur"] == 30_864   # the Seed top-up
+# ----------------------------------------------------------------------------------
+
+NO_TOPUP = (
+    "\u2022  Measured PRE-Seed. Unlike the Company\u2019s arrangement with Ankur Jain, these "
+    "Shares carry NO anti-dilution protection and NO top-up. They are diluted by the Seed Round "
+    "and by every subsequent issuance on an ordinary pro-rata basis.")
+
+build_rspa(
+    "Cinderella Corp - RSPA - Sunjay Mathews (DRAFT).docx",
+    holder="Sunjay Mathews",
+    shares="833,333",
+    price="$[____]",
+    note=("Completed for Sunjay Mathews pursuant to the Partner Agreement dated [____], 2026. "
+          "Share count reflects 20% of the Company\u2019s fully-diluted capitalization "
+          "immediately PRIOR to the Seed Round, against 3,000,000 shares of Class B Common Stock "
+          "held by the Founder and a pre-Seed fully-diluted total of 4,166,667 shares. Purchase "
+          "price per Share to be set at fair market value as determined in good faith by the "
+          "Board \u2014 confirm with counsel before execution."),
+    schedule=[
+        ("Purchaser:  Sunjay Mathews", dict(after=4, justify=False)),
+        ("Number of Shares:  833,333 shares of Class A Common Stock (the \u201cBase Shares\u201d)",
+         dict(after=4, justify=False)),
+        ("Purchase price per Share:  $______________  [FMV as determined by the Board]",
+         dict(after=4, justify=False)),
+        ("Percentage of the Company:  20.000% of the fully-diluted capitalization immediately "
+         "prior to the Seed Round (pre-Seed fully-diluted total: 4,166,667 shares); "
+         "approximately 16.875% immediately following the Seed Round",
+         dict(after=4, justify=False)),
+        ("Vesting commencement date:  Effective Date", dict(after=12, justify=False)),
+        ("Vesting schedule (Partner Agreement \u00a72.3):", dict(bold=True, after=6, justify=False)),
+        ("\u2022  416,666 Shares \u2014 fifty percent (50%) of the Base Shares, being 10% of the "
+         "Company as measured above \u2014 are fully vested on the Effective Date.",
+         dict(indent=0.25, after=4)),
+        ("\u2022  The remaining 416,667 Shares vest in twenty-four (24) equal monthly installments "
+         "of 17,361 Shares (the final installment 17,364 Shares), the first on the last day of "
+         "the first full calendar month following the Effective Date and each subsequent "
+         "installment on the last day of each full calendar month thereafter, subject to "
+         "continuous service. No installment vests for a partial calendar month. On termination "
+         "without Cause, service is deemed to continue through any notice period.",
+         dict(indent=0.25, after=10)),
+        ("Acceleration (Partner Agreement \u00a72.6):", dict(bold=True, after=6, justify=False)),
+        ("\u2022  Termination without Cause: the next six (6) monthly installments accelerate and "
+         "vest in full as of the termination date.", dict(indent=0.25, after=4)),
+        ("\u2022  Change of Control: all then-unvested Base Shares accelerate and vest in full "
+         "immediately prior to closing, subject to continuous service through closing. A "
+         "termination without Cause within the six (6) months preceding a Change of Control is "
+         "treated as though service had continued through closing.",
+         dict(indent=0.25, after=10)),
+        ("Dilution:", dict(bold=True, after=6, justify=False)),
+        (NO_TOPUP, dict(indent=0.25, after=10)),
+        ("Milestone Shares:", dict(bold=True, after=6, justify=False)),
+        ("\u2022  Up to 5% of the Company in Milestone Shares (2.5% per Track) may be earned under "
+         "Section 3 of the Partner Agreement, subject to a 25% absolute ceiling on Purchaser\u2019s "
+         "total equity. Milestone Shares are NOT granted by this Agreement and are issued under a "
+         "separate Restricted Stock Purchase Agreement on achievement of the relevant Track.",
+         dict(indent=0.25)),
+    ])
+
+build_rspa(
+    "Cinderella Corp - RSPA - Greg Kristof (DRAFT).docx",
+    holder="Greg Kristof",
+    shares="166,667",
+    price="$[____]",
+    note=("Completed for Greg Kristof pursuant to the Strategic Adviser Agreement dated [____], "
+          "2026. Share count reflects 4% of the Company\u2019s fully-diluted capitalization "
+          "immediately PRIOR to the Seed Round, against 3,000,000 shares of Class B Common Stock "
+          "held by the Founder and a pre-Seed fully-diluted total of 4,166,667 shares. The "
+          "vesting term and any acceleration remain bracketed in the Strategic Adviser Agreement "
+          "and must be settled before execution. Purchase price per Share to be set at fair "
+          "market value as determined in good faith by the Board \u2014 confirm with counsel."),
+    schedule=[
+        ("Purchaser:  Greg Kristof", dict(after=4, justify=False)),
+        ("Number of Shares:  166,667 shares of Class A Common Stock", dict(after=4, justify=False)),
+        ("Purchase price per Share:  $______________  [FMV as determined by the Board]",
+         dict(after=4, justify=False)),
+        ("Percentage of the Company:  4.000% of the fully-diluted capitalization immediately "
+         "prior to the Seed Round (pre-Seed fully-diluted total: 4,166,667 shares); "
+         "approximately 3.375% immediately following the Seed Round",
+         dict(after=4, justify=False)),
+        ("Vesting commencement date:  ______________  [Effective Date \u2014 confirm]",
+         dict(after=12, justify=False)),
+        ("Vesting schedule (Strategic Adviser Agreement \u00a72.3):",
+         dict(bold=True, after=6, justify=False)),
+        ("\u2022  Monthly over [24] months from the vesting commencement date, no cliff, subject to "
+         "continuous service \u2014 [24] equal monthly installments of 6,944 Shares (the final "
+         "installment 6,955 Shares). TERM STILL BRACKETED IN THE ADVISER AGREEMENT; confirm the "
+         "number of months and restate this schedule before execution.",
+         dict(indent=0.25, after=10)),
+        ("Acceleration:", dict(bold=True, after=6, justify=False)),
+        ("\u2022  [None provided. The Strategic Adviser Agreement leaves change-of-control "
+         "acceleration open as an optional, unresolved item. Compare Sunjay Mathews, who has both "
+         "six-month severance acceleration and full single-trigger acceleration on a Change of "
+         "Control.]", dict(indent=0.25, after=10)),
+        ("Dilution:", dict(bold=True, after=6, justify=False)),
+        (NO_TOPUP, dict(indent=0.25)),
+    ])
+
 build_rspa(
     "Cinderella Corp - RSPA - Ankur Jain (DRAFT).docx",
     holder="Ankur Jain",

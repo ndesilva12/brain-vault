@@ -17,6 +17,7 @@ _Master list of every agreement the structure requires. Status as of 2026-08-29.
 | 1.6 | Stockholders' Agreement | Company / Founder / Holders / Investors | ✅ Drafted (clean) | `clean/Stockholders_Agreement.md` |
 | 1.7 | Sunjay Mathews — Partner Agreement | Company ↔ Sunjay | ✅ Drafted | `2026-08-25-sunjay-partner-agreement.md` |
 | 1.8 | Ankur Jain — Strategic Adviser Agreement | Company ↔ Ankur | 🔄 **Revised 2026-09-18** post-redline; with Ankur | `2026-09-18-ankur-adviser-agreement-generator.py` (notes: `2026-08-15-ankur-strategic-adviser-agreement.md`) |
+| 1.9 | Restricted Stock Purchase Agreements — Ankur (166,667) · Sunjay (833,333) · Greg (166,667) | Company ↔ each holder | ✅ **Drafted 2026-09-18, values filled** | `2026-09-18-stockholders-and-rspa-generator.py` (blank template + all three) |
 | 1.9 | Greg Kristof — Strategic Adviser Agreement | Company ↔ Greg | ✅ Drafted | `2026-08-15-greg-strategic-adviser-agreement.md` |
 | 1.10 | Greg Kristof — Consulting Agreement (from 1/1/27) | Company ↔ Greg | ✅ Drafted | `2026-08-15-greg-consulting-agreement.md` |
 | 1.11 | **Shane Duffy / Jay Jackson — Finder & Producer Agreement** | Company or SPV ↔ Shane & Jay | ❌ **NOT DRAFTED — needed soon.** SPV equity + $100K fee per attachment sourced; cap it, tie to deals they actually source, no parent equity | — |

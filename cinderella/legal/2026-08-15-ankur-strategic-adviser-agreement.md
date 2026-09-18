@@ -205,6 +205,39 @@ Sunjay's §2.2 already disclosed this and estimated "~16.9%" under a
 **[MATERIAL — CONFIRM AGAINST THE FINAL CAP TABLE]** flag. **That flag is now cleared** — the
 estimate was right, and §2.2 carries the exact table plus an express acknowledgment by Partner.
 
+## RSPAs for all three holders — drafted 2026-09-18
+
+`2026-09-18-stockholders-and-rspa-generator.py` now emits the blank template **and** a completed
+copy for each holder, from one source, behind an **arithmetic guard** that asserts the whole cap
+table reconciles before any file is written. If a number is ever edited in isolation, the build
+fails rather than shipping.
+
+| Holder | Shares | Pre-Seed | Post-Seed | Vesting |
+|---|---|---|---|---|
+| **Ankur** | 166,667 | 4.000% | **4.000%** (top-up to 197,531) | Fully vested at signing, no repurchase |
+| **Sunjay** | 833,333 | 20.000% | 16.875% | 416,666 vested at signing; 416,667 over 24 months |
+| **Greg** | 166,667 | 4.000% | 3.375% | Monthly over **[24]** months — still bracketed |
+
+Each Schedule A states the holder's percentage, the 4,166,667 pre-Seed denominator, the vesting
+and acceleration terms drawn from that holder's own agreement, and — for Sunjay and Greg — an
+express line that they have **no anti-dilution and no top-up**, naming Ankur's arrangement as the
+contrast. That sentence exists so the asymmetry is visible on the face of the document a holder
+signs, rather than something discovered at the Seed closing.
+
+**Two open items surfaced while filling these in:**
+
+1. ⚠️ **Greg's vesting term is still `[24]` months in his own adviser agreement**, and his
+   change-of-control acceleration is an unresolved optional item. The RSPA carries the brackets
+   forward rather than inventing terms. **Compare Sunjay**, who has six-month severance
+   acceleration *and* full single-trigger acceleration on a Change of Control. Greg has neither.
+   Settle before execution.
+2. ⚠️ **Greg's adviser agreement has two sections numbered 2.3** (Vesting and Forfeiture).
+   Cosmetic, but fix it before the document goes out.
+
+**Purchase price per Share is blank in all three.** Restricted stock for services below FMV
+creates taxable spread for the holder. 409A/Board determination, **and it must be set before the
+Seed prices the common.**
+
 ## Companion stock documents — conformed 2026-09-18
 
 The Stockholders' Agreement and RSPA (`2026-09-18-stockholders-and-rspa-generator.py`) were
