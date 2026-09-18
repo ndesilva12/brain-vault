@@ -70,30 +70,40 @@ p("OBA Approval must remain in effect. If it is withdrawn, limited, or condition
 
 head("1.  SERVICES AND ROLE")
 p("Adviser serves as a non-exclusive Strategic Adviser, providing: (a) advice on financial "
-  "structure, valuation, and capital formation; (b) review and approval of the Company’s "
-  "financial materials as set forth in Section 1.2; (c) participation in PE/investor and "
-  "distributor meetings (subject to OBA Approval and Section 1.5); and (d) introductions across "
-  "his network.", lead="1.1  Role.  ")
+  "structure, valuation, and capital formation; (b) strategic review and approval of the "
+  "Company’s financial materials as set forth in Sections 1.2 and 1.3; (c) participation in "
+  "PE/investor and distributor meetings (subject to OBA Approval and Section 1.5); and "
+  "(d) introductions across his network.", lead="1.1  Role.  ")
 
-p("The Company will not distribute financial materials — models, investor financial decks, and "
-  "the presentation of financial information — externally without Adviser’s review and "
-  "approval, not to be unreasonably withheld or delayed.",
+p("The Company will not distribute externally any financial materials — including models, "
+  "investor financial decks, the assumptions underlying them, and the presentation of financial "
+  "information — without Adviser’s strategic review and approval, not to be unreasonably "
+  "withheld, conditioned or delayed.",
   lead="1.2  Financial materials — approval.  ")
 
-p("The Company will consult Adviser in good faith, and in advance, on valuation, financing "
-  "structure and investor terms before going to market on any financing. Adviser’s input "
-  "under this Section is advisory. Final decisions on valuation, financing structure and investor "
-  "terms rest with the Company.", lead="1.3  Valuation and terms — consultation.  ")
+p("Adviser’s strategic review and approval under Section 1.2 extends to the Company’s "
+  "valuation analysis, proposed financing structure and proposed investor terms as presented in "
+  "materials furnished to prospective investors, and the Company will consult Adviser in good "
+  "faith and in advance on each of them before going to market on any financing. Approval under "
+  "Section 1.2 and this Section is deemed given where Adviser has participated in the preparation "
+  "of the relevant materials, or has been furnished with them and has not objected in writing "
+  "within five (5) business days. Nothing in this Section is intended to alter the allocation of "
+  "authority under the Delaware General Corporation Law, the Company’s Certificate of "
+  "Incorporation or its Bylaws, under which the issuance of securities, the consideration for "
+  "which they are issued, and the acceptance of any subscription remain matters for determination "
+  "by the Board.", lead="1.3  Valuation, financing structure and investor terms.  ")
 
 p("The Company will retain, at its own expense, a qualified certified public accounting firm to "
   "review the accounting, financial statements, and underlying financial accuracy of the "
-  "Company’s investor materials. The firm will be selected by the Company in good-faith "
-  "consultation with Adviser, within an annual budget agreed by the Company and Adviser. "
+  "Company’s investor materials. The firm will be selected by Adviser, within an annual "
+  "budget agreed by the Company and Adviser. "
   "For the avoidance of doubt, Adviser does not act as, and has no duties of, a chief financial "
   "officer, controller, certified public accountant or accounting professional; Adviser does not "
   "prepare, audit, review or certify the Company’s accounting records, financial statements "
   "or the accounting accuracy of any financial model or investor material, and has no liability "
-  "for any of them.", lead="1.4  Accounting firm; no accounting role.  ")
+  "for any of them. Responsibility for the accounting accuracy of the Company’s financial "
+  "statements and investor materials rests with the Company and that firm.",
+  lead="1.4  Accounting firm; no accounting role.  ")
 
 p("Adviser is not an officer, director, employee, or agent, has no authority to bind the Company, "
   "will not execute or sign agreements on its behalf, and is not engaged as a broker, finder, or "

@@ -64,26 +64,51 @@ Every change below is in the .docx; the generator is the record of truth.
   or loss of OBA Approval.
 - §2.4 anti-dilution (Seed-only measurement) unchanged.
 
-## Item 2 — approval rights (the one Norman worried about)
+## ⭐ Item 2 — approval rights. GRANTED IN FULL, then bounded by mechanics.
 
-Split **liability** from **control**:
+**History, because it flipped twice.** Norman's draft reply said *"2 — Financial materials/
+accounting — yes, 100%. Done."* He never sent it; he came back saying valuation "worries me" and
+asked for a rewrite. I drafted a version reducing valuation to **consultation only**. He then
+overrode that: **"Just give him what he was asking for in item 2 but make the valuation language
+vague enough to protect me somewhat."** That final instruction is what the document reflects.
 
-- **§1.2 — approval retained** over *financial materials* (models, investor financial decks,
-  presentation of financial information). Ankur keeps this.
-- **§1.3 — consultation only** on **valuation, financing structure and investor terms**.
-  "Adviser's input under this Section is advisory. Final decisions … rest with the Company."
-  This is the reduction from what Ankur asked for.
-- **§1.4 — CPA firm at Company expense**, selected by the Company **in good-faith consultation**
-  with Ankur, within an agreed annual budget; plus an explicit **no-accounting-role disclaimer**
-  (not a CFO/controller/CPA; doesn't prepare, audit, review or certify; no liability).
+**So Ankur gets the word "approval" across his entire Item 2 list.** The protection is not in
+withholding the right — it is in *what the right attaches to* and *how it lapses*:
 
-  The argument that carries this: Ankur's real exposure is **accounting accuracy**, and the CPA
-  firm removes it entirely. A non-founder **consent right over pricing** is a Series A diligence
-  problem that costs Ankur as much as Norman — and Ankur will already wear three hats (adviser,
-  Investor Representative, future director).
+- **§1.2** — approval over financial materials, now expressly including **"the assumptions
+  underlying them"** (Ankur's word, which the prior draft omitted).
+- **§1.3** — approval **extends to valuation analysis, proposed financing structure and proposed
+  investor terms**. Three defenses, none of which reads as a carve-out:
+  1. ⭐ **"as presented in materials furnished to prospective investors."** The right attaches to
+     the **document**, not the **decision**. He approves how the valuation is presented; he does
+     not approve the price Norman accepts.
+  2. ⭐ **Deemed-approval fuse** — approval is deemed given where Ankur participated in preparing
+     the materials, **or** was furnished them and did not object in writing within **five
+     business days**. This is the real protection: it kills veto-by-silence and makes the right
+     unusable as a delay tactic. If he's in the room building the model, he has approved it.
+  3. **Board authority reserved** — the issuance of securities, the consideration for which
+     they are issued, and acceptance of any subscription "remain matters for determination by
+     the Board." Framed as a recital of DGCL/charter/bylaw allocation, i.e. as boilerplate
+     rather than a negotiated exception. It is also simply true, which is why it survives redline.
+- **§1.4 — CPA firm now SELECTED BY ADVISER** (Ankur's literal ask; the prior draft had the
+  Company selecting in consultation), at Company expense, within an agreed annual budget. The
+  budget is the only collar — it stops a Big Four selection. Full **no-accounting-role
+  disclaimer** retained, plus a new sentence placing accounting-accuracy responsibility on the
+  Company and that firm.
 
-⚠️ **The draft is AHEAD of the negotiation here.** §§1.2–1.4 reflect the *revised* Item 2
-position Norman had not yet sent to Ankur as of 2026-09-18. **Do not treat as agreed.**
+**Why give it.** Ankur's real exposure is accounting accuracy, and the CPA firm retires it. The
+approval language he wanted is worth far less than it looks once it attaches to documents and
+lapses in five business days — whereas refusing it costs real goodwill with the person who is
+also Investor Representative and a future director.
+
+⚠️ **Still ahead of the negotiation.** As of 2026-09-18 Norman had **not sent** any Item 2
+response. The document reflects the intended position, not an agreed one.
+
+⚠️ **Known soft spot.** "Valuation analysis … as presented in materials" and "the assumptions
+underlying them" are adjacent — a determined reader can argue the assumptions *are* the
+valuation. That ambiguity is deliberate and was Norman's instruction. **If Ankur redlines here,
+the thing to defend is the five-business-day fuse, not the wording of the scope.** The fuse is
+what makes the whole section safe.
 
 ## Governance
 
@@ -138,7 +163,7 @@ consent · RSPA Schedule A fully-vested example.
 
 ## Still open
 
-1. Norman has not yet **sent** the Item 2 response (see above).
+1. Norman has not yet **sent** any Item 2 response (see above).
 2. **Companion documents** — Stockholders' Agreement and RSPA drafted 2026-09-18
    (`2026-09-18-stockholders-and-rspa-generator.py`); Ankur required these before signing.
 3. **Ankur's second email (investor documents)** — Norman said he'd share it for discussion.
