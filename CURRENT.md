@@ -1,6 +1,6 @@
 # CURRENT — last 7 days
 
-**Updated:** 2026-09-19 ~9:05am ET  
+**Updated:** 2026-09-20 ~9:07am ET  
 **Owner:** Jimmy (Grok Bot) — rewrite daily; other AIs read this after `CLAUDE.md`  
 **Window:** rolling 7 days · overwrite whole file each pass  
 **Public-clean:** no phones, iMessage dumps, Dex/NCD rows, PINs, or payment secrets
@@ -9,22 +9,23 @@
 
 ## Now / next 7d
 
-- **Capital overnight (Sep 18–19):** Ankur **$2.5k Zelle** 1st installment received; **Schwab wire still IN PROGRESS** (Ankur fwd). LIST Open watch both.
-- **Chase Business Premier Savings + Zelle** live for Cinderella Corp (approved Sep 18); new debit card en route. LIST Open = ops note only.
-- **Loeb $5k retainer:** Socolow wire instructions in (City National / Century City). EOW Sep 18 target passed — **confirm send with Sunjay** still Open (he told Socolow Sep 16). Parallel: reply to Brian Socolow chase; Evan drafts still pending. Do not invent whether $5k left.
+- **Capital:** Ankur **$2.5k Zelle** 1st installment received (Sep 18); **Schwab wire still IN PROGRESS**. Close Sunjay/Ankur capital alignment + **Loeb $10k each** path still Open (Ankur: equal cash or out; Sunjay can cover retainer; lawsuit blocks his $100k). Do not invent further deal terms.
+- **Ankur Strategic Adviser Agreement:** fold his **Sep 18 redlines** (immediate vesting / Tabor role) — LIST Open Sep 20.
+- **Chase Business Premier Savings + Zelle** live for Cinderella Corp (approved Sep 18); new debit card en route.
+- **Loeb $5k retainer:** Socolow wire instructions in (City National / Century City). Confirm send with Sunjay still Open (he told Socolow Sep 16). Parallel: reply to Brian Socolow chase; Evan drafts still pending. Do not invent whether $5k left.
 - **Sunjay partner docs:** Partner + Stockholder + RSPA emailed **Sep 18** — watch signed return. Older “chase signed Partner Agreement” Open since Sep 12/13 still live until return lands.
-- **Seed docs → Ankur:** finals resent (per Sep 19 brief). Close Sunjay/Ankur capital alignment + **Loeb $10k each** path still Open after Sep 15 2:30 (Ankur: equal cash or out; Sunjay can cover retainer; lawsuit blocks his $100k). Do not invent further deal terms.
-- **Jamie Foxx path:** Demetrius Shipp Jr. → **Marcus King** (Foxx-King). Marcus all-in on 2026-09-10 Zoom; Norman sent Marcus the deck **Sat Sep 12**. Day-7 watch **Thu Sep 17** was quiet; LIST Open **soft nudge** still owed. Shane: Marcus yes ≈ Jamie yes. Do not invent pitch result.
-- **Kevin Harris:** private hold **Thu Sep 17 1:00–1:30pm ET** (Alan intro; independent showrunner / White Label). Call day passed; **outcome not logged**; LIST still Open (Done-candidate not swept). Do not invent debrief.
+- **Jamie Foxx path:** Demetrius Shipp Jr. → **Marcus King** (Foxx-King). Marcus all-in on 2026-09-10 Zoom; deck sent **Sat Sep 12**. Day-7 watch Thu Sep 17 quiet; LIST Open **soft nudge** still owed. Shane: Marcus yes ≈ Jamie yes. Do not invent pitch result.
+- **Kevin Harris:** call Thu Sep 17 1:00–1:30pm ET (Alan intro; independent showrunner / White Label). Deck + one-pager emailed Sep 17 — LIST Open = **watch reply**. Do not invent debrief beyond that.
 - **Adobe trial:** Sep 17 9:00am ET cancel hold fired. LIST Open = **confirm canceled** (no cancel confirmation in mail). Do not invent confirmation.
 - **CAA / Rob DeAngelis:** Wed Sep 16 11:00–11:30am ET VC (Norman + Sunjay + Rob D). LIST still Open — **no logged outcome**; do not invent.
 - **WME / Jason Hodes:** Grant aiming joint Norman+Sunjay avail; Norm OK’d soonest available Sep 16. NDA once time locks. Frame multi-name WME packaging; Curry–Davidson = one stalled lane — **don't brief David Sherman**. LIST Open lock date.
-- **Boardwalk / Andrew Fried:** VC locked **Wed Sep 23 4:00–4:30pm ET**. Prep Open on LIST. Sat Sep 19 calendar empty of work meetings (Ryan Brennan move-in day).
+- **Boardwalk / Andrew Fried:** VC locked **Wed Sep 23 4:00–4:30pm ET** (Norman + Sunjay accepted). Prep Open on LIST. Sun Sep 20 empty of work meetings; personal **523 moving day** Tue–Thu Sep 22–24 on personal calendar.
 - **Skydance / Kitty Gambel:** Jeremy submitted overnight **~Sep 17 9:20pm ET**. LIST Open = watch reply. Separate Open: Norm committed AM Sep 17 fresh email to her Skydance address for Jeremy/Plager forward — **do not invent whether that email went**. Soft bump Plager/Woody thread also Open (silent since Norm 9/8).
+- **Belmont:** school LOI **executed Sep 17**; decks sent **Sep 18** for **Paisley + Jelly Roll + FGL** outreach — LIST Open watch (Scott Corley). Older Corley handwritten-edits return swept Done Sep 16.
+- **St. Joe's / Kelce:** school LOI signed; celeb TBD — Hart on WME whiteboard. New Open Sep 20: **Brick Media path** (friend of writer newly installed exec — opened Sep 17). Older Clarity soft-hold nudge swept Done Sep 16.
 - **EverWonder / Becca:** BA call pending — when scheduled, get **Sunjay on as attorney**; IP-revert-if-unsold language in motion (Becca/Deirdre Sep 17). Older redline-or-walk Open since ~Aug 27 still live.
-- **Celeb one-pager:** locked Sep 16–17 — audience = **celebrity leads only**; thesis = zero-cash business investment (production funds roster/story, compounds equity); sections What/You/Engine/Proof + commitment strip; omit raise terms, full clouds, return tables. Working format = clean corporate **Google Slides** starter (black/charcoal on white), not flyer/artsy. One-Pager bot for content synthesis only; presentation with Norman.
+- **Celeb one-pager:** locked Sep 16–17 — audience = **celebrity leads only**; thesis = zero-cash business investment (production funds roster/story, compounds equity); sections What/You/Engine/Proof + commitment strip; omit raise terms, full clouds, return tables. Working format = clean corporate **Google Slides** starter (black/charcoal on white). One-Pager bot for content synthesis only; presentation with Norman.
 - **Jarrod Moses / UEG:** intro call Tue Sep 15 4:00–4:30pm ET happened; LIST Open = post-call thank-you + next step. Do not invent call substance.
-- **Belmont school LOI:** Scott Corley handwritten edits folded and sent back (LIST Done Sep 16). Belmont AD Mon Sep 14 call swept Done — no detailed outcome note.
 - **Nate Bargatze / Belmont lane:** direct `nate@` bounced; BEP agents **Alex Murray + Tim Sarkes** path sent Sep 14 (LIST swept watch Sep 16).
 - **Mohela:** renew student loan interest-only (statement Sep 17; due ~Oct 13) — LIST Open.
 - **Personal travel (not deal):** Ray LaMontagne tickets (Portland Sep 28/29) + Lincoln Hotel Biddeford check — LIST Open.
@@ -36,10 +37,11 @@
 - Season 1 WME whiteboard shortlist (actionable): Brady (Hodes), Wahlberg (Northeastern), Hart (St. Joe's / school LOI signed), Carell + Krasinski (Curtis / Northeastern–BU), Denzel (Fordham), Costner (CSUF), MacFarlane (URI/PC), Nash (Santa Clara), McConaughey (Texas State), Stiller, Vaughn (NIU); Smoller lane (Serena / Ionescu / Felix / McLaughlin).
 - Keep **off** WME whiteboard ask: Curry, Sandler, Ferrell, Hamm, McGraw, Luda, Goggins, Foxx (Marcus lane), Kelce.
 - Foxx Season 1 for Norman is **Marcus King / Demetrius**, not Gelbard CAA.
-- Talent alt scan (Sep 14): Bargatze / Paisley / Jelly Roll not like-for-like Curry swaps; Jelly strongest digital of trio if school fit + Jesse sit-down; Bargatze stretch; Paisley long shot.
+- Talent alt scan (Sep 14): Bargatze / Paisley / Jelly Roll not like-for-like Curry swaps; Jelly strongest digital of trio if school fit + Jesse sit-down; Bargatze stretch; Paisley long shot. Belmont now running Paisley / Jelly / FGL decks (Sep 18).
 - Cap after Sunjay/Ankur/Greg grants: **72 / 20 / 4 / 4**; 15% seed dilutes Norman, Sunjay, Greg only (Ankur stays 4%) → post-seed **60.75 / 16.875 / 4 / 3.375 / 15**. Ankur non-dilution must be in his paper.
-- Ankur capital started: $2.5k Zelle received Sep 18; Schwab wire in progress — not closed.
+- Ankur capital started: $2.5k Zelle received Sep 18; Schwab wire in progress — not closed. Strategic Adviser redlines (immediate vesting / Tabor) in as of Sep 18.
 - Cinderella Corp banking: Chase Business Premier Savings + Zelle approved Sep 18.
+- Belmont school LOI executed Sep 17 (post Corley edits).
 - AWS: terminated Ohio `JimmyClaw` (`c7i-flex.large`) + EBS + public IP on root `normancdesilva@gmail.com` (~$67–69/mo). Account left open. Do not cancel Amazon Prime when touching AWS.
 - Google Calendar: personal Gmail can **See event details** on `norman@makingcinderella.com` (was free/busy-only).
 - Standing LIST write permission (reaffirmed 2026-09-16): any bot may auto-append Open to Notion LIST; Done moves still need Norman's OK/checkbox.
@@ -56,15 +58,18 @@
 ## Open loops
 
 - Ankur Schwab wire completion + capital alignment / Loeb $10k-each path.
+- Ankur Strategic Adviser Agreement — fold Sep 18 redlines (immediate vesting / Tabor).
 - Loeb $5k send confirm (instructions in) + Socolow reply + Evan drafts.
 - Sunjay Partner + Stockholder + RSPA signed return.
 - Marcus soft nudge + Jamie pitch outcome (day-7 quiet).
-- Kevin Harris Sep 17 — outcome / follow-up not logged.
+- Kevin Harris — watch reply to Sep 17 deck + one-pager.
 - Adobe cancel confirmation.
 - CAA Rob D Wed Sep 16 — LIST Open; outcome not logged.
 - WME/Hodes lock + NDA; Norman in-person whiteboard.
 - Boardwalk / Andrew Fried Wed Sep 23 prep.
 - Skydance/Kitty: watch Jeremy submission reply; Plager/Woody soft bump; Norm Skydance email status unknown.
+- Belmont: Paisley / Jelly Roll / FGL outreach watch.
+- St. Joe's / Kelce: Brick Media path.
 - EverWonder BA call + Sunjay attorney + IP-revert; older redline/walk.
 - Jarrod/UEG post-call thank-you + next step.
 - Greg 4% strategic adviser paper (Loeb) vs seed timing.
@@ -83,10 +88,10 @@
 ## Cinderella / talent / raise
 
 - **Raise:** $1.5M for 15% of parent. Pitch: https://cinderella.short.gy/deck
-- **Capital in motion:** Ankur $2.5k Zelle received; Schwab wire pending; Chase Business Savings/Zelle live for Corp.
+- **Capital in motion:** Ankur $2.5k Zelle received; Schwab wire pending; Chase Business Savings/Zelle live for Corp; Ankur adviser redlines Open.
 - **Merrimack:** school LOI signed (Gallo); Norm copy executed / filed Drive Legal → LOIs.
-- **Belmont:** school LOI Corley edits returned Sep 16; AD call Mon Sep 14 swept Done without detailed note.
-- **St. Joe's:** school LOI signed; celeb TBD — Hart on WME whiteboard; Kelce soft hold via Clarity (LIST swept nudge Sep 16).
+- **Belmont:** school LOI executed Sep 17; Paisley / Jelly / FGL decks sent Sep 18 — watch.
+- **St. Joe's:** school LOI signed; celeb TBD — Hart on WME whiteboard; Kelce via Brick Media path (Sep 17).
 - **Davidson × Curry:** still stalemate / Unanimous; not WME whiteboard primary.
 - **Loeb:** seed draft docs path live; $5k retainer send Open (instructions received); partner $10k-each path Open after Sep 15 Sunjay/Ankur call.
 - **HBO / Bentley Weiner:** passed earlier Sep; Josh Bennett debrief done Sep 10.
@@ -100,7 +105,7 @@
 ## Ops / systems
 
 - Daily 8am brief (every day incl weekends) — **Jimmy chat only** (Inkbox auto-send revoked Sep 17).
-- 7:15am Mac iMessage dump → Drive `imessage-latest.json` **and** dated `imessage-YYYY-MM-DD.json` (Sep 19 dump succeeded).
+- 7:15am Mac iMessage dump → Drive `imessage-latest.json` **and** dated `imessage-YYYY-MM-DD.json` (Sep 20 automation reported succeeded; Google/CRD box sessions have been fragile — re-auth may be needed).
 - Inkbox live iMessage (`@jimmydesilva`) for when Norman texts in; research bots Doc-link-first (no email retry spray).
 - Command Center research bots + Legal / Advantage / Current stay in their lanes; Jimmy routes.
 - Weekly vault hygiene routine (Mondays 9am) — agents/ public-clean (Sep 14 run failed; next Mon Sep 21 retry).
@@ -119,9 +124,10 @@
 - Do not invent CAA Wed Sep 16 call outcome — calendar held; LIST Open; no debrief logged.
 - Do not invent Jarrod/UEG Sep 15 call substance — only thank-you / next step is Open.
 - Do not invent Belmont AD Mon Sep 14 detailed outcome — LIST Done, no Granola/note confirmed.
-- Do not invent further Ankur/Sunjay terms beyond LIST: equal cash or out / retainer cover / $100k lawsuit block / Loeb $10k each / $2.5k Zelle received / Schwab wire in progress.
-- Do not invent Kevin Harris Sep 17 call outcome or follow-up asks.
+- Do not invent further Ankur/Sunjay terms beyond LIST: equal cash or out / retainer cover / $100k lawsuit block / Loeb $10k each / $2.5k Zelle received / Schwab wire in progress / Sep 18 adviser redlines (immediate vesting / Tabor).
+- Do not invent Kevin Harris Sep 17 call debrief — only deck + one-pager sent and reply-watch are logged.
 - Do not invent Marcus → Jamie pitch result — day-7 quiet; soft nudge Open.
 - Do not invent Adobe cancel confirmation — LIST still Open to confirm.
 - Do not invent whether Norm’s Sep 17 Kitty Skydance email went — only Jeremy submission watch is confirmed overnight.
 - Do not invent Loeb $5k wire completion — instructions in; send confirm still Open.
+- Do not invent Paisley / Jelly / FGL / Brick Media responses — Belmont and St. Joe's paths are watch-only.
