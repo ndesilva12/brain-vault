@@ -14,7 +14,7 @@ Portable shared brain for Norman’s Grok Bot assistants. Repo: `ndesilva12/brai
 
 ## Index
 
-| Slug | Bot |
+| Slug | Bot (sidebar name if different) |
 |------|-----|
 | `jimmy/` | Jimmy (ops, CRM, briefs, vault hygiene) |
 | `legal/` | Legal |
@@ -26,17 +26,22 @@ Portable shared brain for Norman’s Grok Bot assistants. Repo: `ndesilva12/brai
 | `dark-search/` | Dark Search |
 | `summarizer/` | Summarizer |
 | `advantage/` | Advantage Rating |
-| `love/` | Love |
+| `love/` | Love — **no live bot** (folder stub only as of 2026-09-21) |
 | `connections/` | Connections |
 | `deal-hunting/` | Deal Hunting |
 | `loop-closer/` | Loop Closer |
-| `prospecting/` | Prospecting |
+| `prospecting/` | Prospecting (two live bots share this slug — see hygiene note) |
 | `product-idea-stress-test/` | Idea Test (was Product Idea Stress Test) |
 | `tools/` | Tools |
-| `style/` | Style (was Shopper) |
+| `style/` | Style (sidebar: Style; was Shopper) |
 | `shopper/` | Shopper (legacy stub — prefer `style/`) |
 | `real-estate/` | Real Estate |
-| `evening-journal/` | Evening Journal |
-| `inner-circle/` | Inner Circle |
+| `evening-journal/` | Evening Journal (sidebar: **Brain Dump**) |
+| `inner-circle/` | Inner Circle (sidebar: **People**) |
 | `travel/` | Travel |
-| `household-os/` | Household OS |
+| `household-os/` | Household OS (sidebar: **Home Admin**) |
+
+## Hygiene notes (Jimmy)
+
+- Sidebar display names may differ from folder slugs; use the slug column for vault paths.
+- `New Bot` (`650d2251…`) is an empty profile orphan, not a live UpdateAgent target.
