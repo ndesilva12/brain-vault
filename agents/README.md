@@ -26,11 +26,10 @@ Portable shared brain for Norman’s Grok Bot assistants. Repo: `ndesilva12/brai
 | `dark-search/` | Dark Search |
 | `summarizer/` | Summarizer |
 | `advantage/` | Advantage Rating |
-| `love/` | Love — **no live bot** (folder stub only as of 2026-09-21) |
 | `connections/` | Connections |
 | `deal-hunting/` | Deal Hunting |
 | `loop-closer/` | Loop Closer |
-| `prospecting/` | Prospecting (two live bots share this slug — see hygiene note) |
+| `prospecting/` | Prospecting (one keeper bot as of 2026-09-21) |
 | `product-idea-stress-test/` | Idea Test (was Product Idea Stress Test) |
 | `tools/` | Tools |
 | `style/` | Style (sidebar: Style; was Shopper) |
@@ -44,4 +43,5 @@ Portable shared brain for Norman’s Grok Bot assistants. Repo: `ndesilva12/brai
 ## Hygiene notes (Jimmy)
 
 - Sidebar display names may differ from folder slugs; use the slug column for vault paths.
-- `New Bot` (`650d2251…`) is an empty profile orphan, not a live UpdateAgent target.
+- `agents/love/` removed 2026-09-21 (no live Love bot).
+- Prospecting: keep sidebar bot with ICP→list→relationships→drafts description; Norman deletes the duplicate Prospecting row and empty `New Bot` from the sidebar (Jimmy cannot delete agents via API).
