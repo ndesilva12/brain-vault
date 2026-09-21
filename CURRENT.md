@@ -1,6 +1,6 @@
 # CURRENT — last 7 days
 
-**Updated:** 2026-09-21 ~9:46am ET  
+**Updated:** 2026-09-21 ~10:04am ET  
 **Owner:** Jimmy (Grok Bot) — rewrite daily; other AIs read this after `CLAUDE.md`  
 **Window:** rolling 7 days · overwrite whole file each pass  
 **Public-clean:** no phones, iMessage dumps, Dex/NCD rows, PINs, or payment secrets
@@ -43,11 +43,11 @@
 - LIST swept (Sep 20–21): Loeb $5k retainer path items, Sunjay/Ankur capital-alignment Open, Belmont Paisley/Jelly/FGL watch, CAA Rob D calendar item, Kitty Skydance email commit, Adobe confirm — treat as Done on LIST only; do not invent bank wires or counterparty replies.
 - AWS: terminated Ohio `JimmyClaw` (`c7i-flex.large`) + EBS + public IP on root `normancdesilva@gmail.com` (~$67–69/mo). Account left open. Do not cancel Amazon Prime when touching AWS.
 - Google Calendar: personal Gmail can **See event details** on `norman@makingcinderella.com` (was free/busy-only).
-- Standing LIST write permission (reaffirmed 2026-09-16; shape updated 2026-09-21): any bot may auto-append unchecked dated items to Notion LIST; when Norman checks an item, delete it forever — no Done section / no Done moves.
-- Standing delivery (2026-09-17): Daily 8am brief + other Jimmy routines deliver **in Jimmy chat only**. Never send iMessages/SMS on Norman’s behalf unless he explicitly asks for that specific send.
+- Standing LIST write permission (reaffirmed 2026-09-16; revised 2026-09-21): any bot may auto-append unchecked dated items to Notion LIST; one continuous checkbox list (no Open/Done sections); when Norman checks an item, leave it checked; each morning reorder unchecked first / checked at bottom; **Sunday morning ONLY** permanently delete all checked items.
+- Standing delivery (2026-09-17 / 2026-09-21): Daily 8am brief + other Jimmy routines deliver **in Jimmy chat only**. Never send iMessages/SMS on Norman’s behalf unless he explicitly asks for that specific send.
 - Celeb one-pager format: corporate Slides; NIL roster comps pulled Sep 17 for KY / Duke / BYU peers (research only).
 - Network SoT = private Google Sheet **Norman Network Master** (Dex cancelled). Public vault: basics + notable only, no PII.
-- LIST (Notion) = SoT to-dos; one open checkbox list only; auto-add unchecked dated items; checked → delete forever on sweep (no Done section).
+- LIST (Notion) = SoT to-dos; one continuous checkbox list only; auto-add unchecked dated items; morning reorder (unchecked first, checked last); Sunday-only purge of checked items (no Done section).
 - Root `CURRENT.md` + `CLAUDE.md` pointer live; Jimmy daily rewrite ~9am ET (plus same-day after major events).
 - Merrimack school LOI signed (Gallo); Norm copy executed / filed Drive Legal → LOIs (Sep 8–10).
 - Rob DeAngelis = CAA Sports CRO (property sales / naming rights; F1, Clippers, etc.) — not a personal talent roster.
