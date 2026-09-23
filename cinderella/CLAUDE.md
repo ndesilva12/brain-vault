@@ -208,7 +208,11 @@ Norman wants to keep as the dedicated China thread rather than over-concentrate 
 > he has a greenlit show on our exact thesis, which is why it took two hours. **Frame MC as the
 > inverse:** Texas Tech is a power program buying more power; MC is capital going to a school the
 > system never let win. **Skydance = a studio** (produces *and* finances *and* its parent owns
-> Paramount+/CBS) — not a pure vendor like EverWonder. ⚠️ **Do not sign EverWonder while this is
+> Paramount+/CBS) — not a pure vendor like EverWonder. ⭐ **RedBird is a voting co-owner of
+> Skydance's parent** — led Skydance's 2020 raise, put **$2B** into the Paramount merger, holds
+> **22.5% of Paramount's voting rights**. Our RedBird capital thread and this production thread
+> are the same ownership story: aligned, but ⚠️ **one counterparty in two hats** erodes leverage
+> on the format. ⚠️ **Do not sign EverWonder while this is
 > live**, and make Skydance say whether they are the producer or the path to the buyer.
 >
 > **Standing decisions:** go to HBO independently and now; no party may represent

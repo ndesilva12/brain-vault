@@ -110,3 +110,43 @@ owns the distributor (Groggel's Texas Tech series goes to Paramount+); and Tier 
 buyer."* Directionally right but it **understates them**. Groggel has demonstrably gotten a series
 greenlit at the platform his parent owns. He is not a buyer, but he is a producer with a very
 short walk to one.
+
+---
+
+## ⭐ RedBird and Skydance are the same ownership story (verified 2026-09-23)
+
+RedBird is not adjacent to Skydance. **Gerry Cardinale is a five-year backer of David Ellison and
+a voting co-owner of the company that owns Skydance Sports.**
+
+| | |
+|---|---|
+| **2020** | RedBird led a **$275M** raise into Skydance, becoming its **second-largest investor** |
+| **2022** | Cardinale raised a further **$400M** for Skydance |
+| **2025** | RedBird committed **$2B** to the **$8.4B Skydance-Paramount merger** (closed Aug 2025) — the largest PE investment in a Hollywood studio in history |
+| **Now** | RedBird holds **22.5% of Paramount's voting rights** |
+
+RedBird runs ~$15B across sports, media and entertainment (AC Milan, a Fenway Sports Group stake).
+Sports-meets-media capital is their entire thesis — which is MC's model.
+
+**Sources:** [Fortune](https://www.fortune.com/2025/08/09/paramount-skydance-redbird-capital-gerry-cardinale-ellisons) ·
+[Forbes](https://www.forbes.com/sites/johnhyatt/2025/08/05/meet-the-other-billionaire-behind-skydances-paramount-deal/) ·
+[RedBird](https://redbirdcap.com/team/gerry-cardinale/)
+
+### What it means
+
+**Upside.** The two parallel conversations — RedBird for the SPV roster capital, Skydance for
+production — sit inside one aligned structure. If Cardinale likes MC he can move both sides.
+
+⚠️ **Risk — one counterparty, two hats.** Leverage today comes from RedBird and Skydance being
+*separate* negotiations. If they coordinate, that disappears: a single party financing the roster,
+producing the show, and sitting inside the distributor has enormous pull on the format. **The
+format is the one non-negotiable.** Watch for the two threads merging without being told.
+
+### How to use it
+
+- **Do not present the connection as a discovery.** Cardinale knows what he owns; so does Groggel.
+- ⭐ **The line for the room:** *"Roster capital is a separate conversation, and we're already in
+  it with RedBird."* True, signals command of the landscape, and answers the NIL-financing
+  question without asking them for anything.
+- **Check the RedBird thread before the meeting** — has anyone there already heard about Skydance?
+  Same fragmentation risk as the five uncoordinated Netflix doors.
