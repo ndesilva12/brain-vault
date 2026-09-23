@@ -1,6 +1,6 @@
 # CURRENT — last 7 days
 
-**Updated:** 2026-09-23 — Skydance Q&A logged on top of the 2026-09-22 ~9:25am ET rewrite. Other bullets not re-verified this pass.
+**Updated:** 2026-09-23 ~9:40am ET — daily full rewrite (rolling last 7 days). Skydance Zoom locked; EverWonder shopping call + Boardwalk today.
 **Owner:** Jimmy (Grok Bot) — rewrite daily; other AIs read this after `CLAUDE.md`
 **Window:** rolling 7 days · overwrite whole file each pass
 **Public-clean:** no phones, iMessage dumps, Dex/NCD rows, PINs, or payment secrets
@@ -9,21 +9,20 @@
 
 ## Now / next 7d
 
-- **Personal (live):** **523 moving day** Tue–Thu Sep 22–24 (in progress today); **523 closing** Fri Sep 25; **Ray LaMontagne** State Theatre Portland Mon Sep 28 8pm ET (tickets Done; Lincoln Hotel Biddeford check still Open). Douro dinner Oct 9 + Tommy baptism Nov 29 calendared (outside this window).
-- **Next work meeting:** **Boardwalk / Andrew Fried** VC **Wed Sep 23 4:00–4:30pm ET** (Norman + Sunjay accepted). Prep still Open on LIST.
+- **Personal (live):** **523 moving day** Tue–Thu Sep 22–24 (in progress); **523 closing** Fri Sep 25; **Ray LaMontagne** State Theatre Portland Mon Sep 28 8pm ET (tickets Done; Lincoln Hotel Biddeford check still Open). Douro dinner Oct 9 + Tommy baptism Nov 29 calendared (outside this window).
+- **Today Wed Sep 23:** (1) **EverWonder / Cinderella Man Shopping Agreement** 12:45–1:15pm ET (Deirdre / Becca / Sunjay / Michael) — IP-revert-if-unsold still in motion. Do not invent call outcome. (2) **Boardwalk / Andrew Fried** VC 4:00–4:30pm ET (Norman + Sunjay accepted; Meet `nju-mqer-syx`). Prep still Open on LIST. Do not invent call outcome.
+- **Skydance / Kitty Gambel + Greg Groggel:** **HOT — Zoom locked Tue Sep 29 3:00–3:30pm PT / 6:00–6:30pm ET** (Adrienne sent link; Norman accepted). Classification: **Skydance Sports = Tier-1 sports content studio / producer-packager under Paramount Sports Entertainment — not a streamer or buyer.** Can produce and sell to **Paramount+ and third parties** (Netflix, Amazon, Apple, etc.). Q&A: `cinderella/Process/2026-09-23-skydance-sports-what-they-are.md`. Do not invent deal terms.
 - **Paraag Lal / Netflix path:** Ankur forwarded **Making Cinderella Update** morning of Sep 22 — LIST Open = watch reply. Norman began a vault-sourced progress email for Paraag (close to Ted Sarandos) — **several claimed statuses still need verification before send**. Do not invent celebrity / capital / streamer / school / agency / production outcomes from that draft wish-list.
 - **Capital:** Ankur **$2.5k Zelle** 1st installment received (Sep 18); **Schwab wire still IN PROGRESS** (LIST Open). Chase Business Premier Savings + Zelle live for Cinderella Corp (approved Sep 18). **Loeb / Socolow:** Norm asked Sep 21 to **confirm retainer wire received** — no reply yet (LIST Open). Do not invent bank receipt or further deal terms.
 - **Ankur Strategic Adviser Agreement:** fold his **Sep 18 redlines** (immediate vesting / Tabor role) — LIST Open.
 - **Sunjay partner docs:** Partner + Stockholder + RSPA emailed **Sep 18** — watch signed return (LIST Open).
 - **Jamie Foxx path:** Demetrius Shipp Jr. → **Marcus King** (Foxx-King). Deck sent **Sat Sep 12**. Soft nudge still Open (past day-7). Shane: Marcus yes ≈ Jamie yes. Do not invent pitch result.
 - **Kevin Harris:** call Thu Sep 17 happened; deck + one-pager emailed Sep 17 — LIST Open = **watch reply**. Do not invent debrief.
-- **CAA / Rob DeAngelis:** Wed Sep 16 VC held (no logged outcome). Norm nudged Will **Sep 21** to **lock NYC follow-up** — no date yet (LIST Open).
+- **CAA / Rob DeAngelis:** Wed Sep 16 VC held (no logged outcome). Norm nudged Will **Sep 21**; Will coordinating times as of Sep 22 — **no NYC date yet** (LIST Open).
 - **WME / Jason Hodes:** Grant aiming joint Norman+Sunjay avail; Norm OK’d soonest available Sep 16; nudged again Sep 21. NDA once time locks. Frame multi-name WME packaging; Curry–Davidson = one stalled lane — **don't brief David Sherman**. LIST Open lock date.
-- **Skydance / Kitty Gambel:** **HOT.** Kitty replied to Jeremy’s **~Sep 17** submission; same night **~8pm ET** asked a meeting with **Greg Groggel** on creative + production. **No meeting date logged.** Classification: **Skydance Sports = Tier-1 sports content studio / producer-packager under Paramount Sports Entertainment — not a streamer or buyer.** Can produce and sell to **Paramount+ and third parties** (Netflix, Amazon, Apple, etc.). Norman’s clarifying questions logged **2026-09-23**; assessment in `cinderella/Process/2026-09-23-skydance-sports-what-they-are.md`. Do not invent a meeting date or deal terms. Plager/Woody soft bump **checked Done** on LIST Sep 22.
-- **Belmont:** school LOI **executed Sep 17**; decks sent **Sep 18** for Paisley + Jelly Roll + FGL — watch previously swept; no logged replies. Do not invent outreach replies.
+- **Belmont:** school LOI **executed Sep 17**; decks sent **Sep 18** for Paisley + Jelly Roll + FGL — no logged celeb replies. Fresh Open Sep 23: Norm took **Scott Corley** call for Greg (Sep 22) — **reply Greg’s “How’d it go?” with next edit path**. Do not invent Corley substance beyond that Open.
 - **St. Joe's / Kelce:** school LOI signed; celeb TBD — Hart on WME whiteboard. LIST Open: **Brick Media path** (opened Sep 17).
-- **EverWonder / Becca:** BA call pending — when scheduled, get **Sunjay on as attorney**; IP-revert-if-unsold language in motion (Becca/Deirdre Sep 17).
-- **UEG / Jarrod Moses:** intro call Sep 15 done; thank-you + materials sent. Fresh Open Sep 22: keep thread hot — ask what “similar concepts” he poked; Pharrell / JB Smoove framing; Netflix goal already stated. Do not invent call substance.
+- **UEG / Jarrod Moses:** intro call Sep 15 done; thank-you + materials sent. Keep-hot Open Sep 22: similar concepts / Pharrell–JB Smoove framing; Netflix goal already stated. Do not invent call substance.
 - **Celeb one-pager:** locked Sep 16–17 — audience = **celebrity leads only**; thesis = zero-cash business investment (production funds roster/story, compounds equity). Working format = clean corporate **Google Slides** starter.
 - **Adobe trial:** canceled Sep 17 (routine deleted).
 - **Ops personal:** Squarespace billing fix for domain `listid.us` (payment failed Sep 20) — LIST Open. Erica birthday Oct 26: gift target by ~Oct 12 — LIST Open. Mohela interest-only renewal (~Oct 13) — LIST Open.
@@ -32,7 +31,7 @@
 
 ## Decisions this week
 
-- **Skydance Sports (2026-09-23):** Tier-1 sports content studio / producer-packager inside **Paramount Sports Entertainment**. Not a streamer and not the buyer. Produces and can sell to **Paramount+ and to third parties** (Netflix, Amazon, Apple, and others). Full Q&A: `cinderella/Process/2026-09-23-skydance-sports-what-they-are.md`.
+- **Skydance Sports (2026-09-23):** Tier-1 sports content studio / producer-packager inside **Paramount Sports Entertainment**. Not a streamer and not the buyer. Produces and can sell to **Paramount+ and to third parties**. Full Q&A: `cinderella/Process/2026-09-23-skydance-sports-what-they-are.md`. **Meeting locked:** Kitty + Greg Groggel Zoom **Tue Sep 29 3:00–3:30pm PT**.
 - Season 1 WME whiteboard shortlist (actionable): Brady (Hodes), Wahlberg (Northeastern), Hart (St. Joe's / school LOI signed), Carell + Krasinski (Curtis / Northeastern–BU), Denzel (Fordham), Costner (CSUF), MacFarlane (URI/PC), Nash (Santa Clara), McConaughey (Texas State), Stiller, Vaughn (NIU); Smoller lane (Serena / Ionescu / Felix / McLaughlin).
 - Keep **off** WME whiteboard ask: Curry, Sandler, Ferrell, Hamm, McGraw, Luda, Goggins, Foxx (Marcus lane), Kelce.
 - Foxx Season 1 for Norman is **Marcus King / Demetrius**, not Gelbard CAA.
@@ -56,19 +55,20 @@
 
 ## Open loops
 
-- Boardwalk / Andrew Fried Wed Sep 23 prep.
-- Paraag Lal — watch reply to Ankur’s Making Cinderella Update; progress-email statuses still need verification before send.
+- EverWonder shopping agreement — today’s call + IP-revert-if-unsold; do not invent outcome.
+- Boardwalk / Andrew Fried — today’s VC + prep; do not invent outcome.
+- Skydance Kitty + Groggel — **locked Tue Sep 29**; watch only until then; no deal terms.
+- Paraag Lal — watch reply to Ankur’s Update; progress-email statuses still need verification before send.
 - Ankur Schwab wire completion.
 - Ankur Strategic Adviser Agreement — fold Sep 18 redlines (immediate vesting / Tabor).
 - Sunjay Partner + Stockholder + RSPA signed return.
 - Loeb / Socolow — confirm retainer wire received (asked Sep 21; no reply yet).
 - Marcus soft nudge + Jamie pitch outcome.
 - Kevin Harris — watch reply to Sep 17 deck + one-pager.
-- CAA / Rob DeAngelis — lock NYC follow-up (nudged Will Sep 21).
+- CAA / Rob DeAngelis — lock NYC follow-up (Will coordinating as of Sep 22).
 - WME/Hodes lock + NDA; Norman in-person whiteboard.
-- Skydance/Kitty: **HOT** — Groggel creative + production meeting requested (~8pm ET, night of the ~Sep 17 reply). No date locked. Watch scheduling only.
+- Belmont — reply Greg on Corley call / next edit path; celeb deck replies still unlogged.
 - St. Joe's / Kelce: Brick Media path.
-- EverWonder BA call + Sunjay attorney + IP-revert.
 - UEG / Jarrod — keep thread hot (similar concepts / Pharrell–JB Smoove framing).
 - Greg 4% strategic adviser paper (Loeb) vs seed timing.
 - Bird / Jill Leone — confirm overnight paper or next ask (Mathilda intro live).
@@ -91,16 +91,17 @@
 - **Raise:** $1.5M for 15% of parent. Pitch: https://cinderella.short.gy/deck
 - **Capital in motion:** Ankur $2.5k Zelle received; Schwab wire pending; Chase Business Savings/Zelle live for Corp; Ankur adviser redlines Open; Loeb retainer confirmation Open (asked Sep 21).
 - **Paraag Lal:** Netflix-intro friend path live via Ankur Update forward Sep 22 — watch only; do not invent progress-email block claims.
-- **Skydance / Kitty:** **HOT.** Reply in on the ~Sep 17 submission; Groggel meeting asked the same night (~8pm ET) for creative + production. Studio/packager under PSE, not the buyer. No date, no terms. See `cinderella/Process/2026-09-23-skydance-sports-what-they-are.md`.
+- **Skydance / Kitty + Groggel:** **HOT.** Zoom **Tue Sep 29 3:00–3:30pm PT**. Studio/packager under PSE, not the buyer. No deal terms. See Process Q&A note.
+- **EverWonder:** shopping-agreement call **Wed Sep 23 12:45–1:15pm ET** locked; IP-revert language in motion. Do not invent outcome.
+- **Boardwalk / Andrew Fried:** VC **Wed Sep 23 4–4:30pm ET** locked.
 - **Merrimack:** school LOI signed (Gallo); Norm copy executed / filed Drive Legal → LOIs.
-- **Belmont:** school LOI executed Sep 17; Paisley / Jelly / FGL decks sent Sep 18 — no logged replies.
+- **Belmont:** school LOI executed Sep 17; Paisley / Jelly / FGL decks sent Sep 18 — no logged replies; Corley call (Sep 22) → reply Greg next-edit Open.
 - **St. Joe's:** school LOI signed; celeb TBD — Hart on WME whiteboard; Kelce via Brick Media path (Sep 17).
 - **Davidson × Curry:** still stalemate / Unanimous; not WME whiteboard primary.
 - **Loeb:** seed draft docs path live; retainer confirmation Open — do not invent final terms.
 - **HBO / Bentley Weiner:** passed earlier Sep; Josh Bennett debrief done Sep 10.
 - **Cinderella Targets CRM:** live Sheet + Network Master match + Comms log (Active/HOT stale radar in 8am brief).
 - **Jarrod / UEG:** intro Sep 15; keep-hot Open Sep 22 — substance not logged here.
-- **Boardwalk / Andrew Fried:** VC Wed Sep 23 4–4:30pm ET locked.
 - **Shamrock:** Sunjay AM deck + blurb positioning swept Done Sep 16 (Six / board path).
 
 ---
@@ -108,10 +109,10 @@
 ## Ops / systems
 
 - Daily 8am brief (every day incl weekends) — **Jimmy chat only** (Inkbox auto-send revoked Sep 17).
-- 7:15am Mac iMessage dump → Drive `imessage-latest.json` **and** dated `imessage-YYYY-MM-DD.json` (Sep 22 run succeeded).
+- 7:15am Mac iMessage dump → Drive `imessage-latest.json` **and** dated `imessage-YYYY-MM-DD.json` (Sep 23 run succeeded).
 - Inkbox live iMessage (`@jimmydesilva`) for when Norman texts in; research bots Doc-link-first (no email retry spray).
 - Command Center research bots + Legal / Advantage / Current stay in their lanes; Jimmy routes.
-- Weekly vault hygiene (Mondays 9am) — Sep 21 run succeeded; prospecting bots consolidated; `agents/love` removed.
+- Weekly vault hygiene (Mondays ~9am) — Sep 21 run succeeded; prospecting bots consolidated; `agents/love` removed.
 - Browser sessions warm for connector-less services; Venmo not logged in. No book/order/pay/post without Norman's yes.
 - Composio Spotify playlist create still 403 (missing modify scopes); browser create works.
 - Squarespace: `listid.us` domain billing failed Sep 20 — Open.
@@ -127,11 +128,12 @@
 - Cap table: not the rejected pro-rata 62.56 model — use 72/20/4/4 then Ankur-protected seed dilution.
 - Do not invent CAA Wed Sep 16 call outcome — only NYC follow-up chase is logged.
 - Do not invent Jarrod/UEG Sep 15 call substance — only keep-hot / framing asks are Open.
-- Do not invent Belmont AD Mon Sep 14 detailed outcome — no Granola/note confirmed.
+- Do not invent Belmont AD Mon Sep 14 detailed outcome — no Granola/note confirmed. Do not invent Corley Sep 22 call substance beyond LIST Open (reply Greg / next edit path).
 - Do not invent further Ankur/Sunjay terms beyond LIST: equal cash or out / retainer cover / $100k lawsuit block / Loeb $10k each / $2.5k Zelle received / Schwab wire in progress / Sep 18 adviser redlines (immediate vesting / Tabor).
 - Do not invent Kevin Harris Sep 17 call debrief — only deck + one-pager sent and reply-watch are logged.
 - Do not invent Marcus → Jamie pitch result — soft nudge Open.
 - Do not invent Loeb retainer bank completion — Norm asked Sep 21 to confirm receipt; no reply logged.
-- Do not invent Paisley / Jelly / FGL / Brick Media responses — Belmont watch swept; St. Joe's Brick Media is watch-only.
-- Do not invent a Skydance meeting date or any deal terms. Logged only: Kitty replied to Jeremy’s ~Sep 17 submission; same night ~8pm ET she asked a Greg Groggel meeting on creative + production. Do not invent the rest of that email. Classification and the 2026-09-23 Q&A live in the Process note.
+- Do not invent Paisley / Jelly / FGL / Brick Media responses — Belmont celeb watch unlogged; St. Joe's Brick Media is watch-only.
+- Do not invent Skydance deal terms. Logged: Kitty replied to Jeremy’s ~Sep 17 submission; same night ~8pm ET asked Greg Groggel meeting; **Zoom now locked Tue Sep 29 3:00–3:30pm PT**. Classification + 2026-09-23 Q&A in the Process note.
+- Do not invent EverWonder shopping-agreement or Boardwalk call outcomes — both are on calendar for Wed Sep 23; outcomes not logged yet.
 - Do not invent Paraag progress-email block statuses (celebrity / capital / streamers / schools / agencies / production) — verification still owed before send.
