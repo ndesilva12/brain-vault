@@ -214,6 +214,11 @@ Norman wants to keep as the dedicated China thread rather than over-concentrate 
 > are the same ownership story: aligned, but ⚠️ **one counterparty in two hats** erodes leverage
 > on the format. ⚠️ **Do not sign EverWonder while this is
 > live**, and make Skydance say whether they are the producer or the path to the buyer.
+> ⚠️⚠️ **EverWonder originated RedBird and the Pravin meeting** (Norman, 09-23) — so RedBird is
+> NOT clean leverage. Nothing with EWS is signed, but **establish whether an NDA/non-circ was
+> ever executed** before the Skydance meeting, and keep RedBird out of that room.
+> `contacts.md` shows a **Jan 19 2026 RedBird cold touch and a May 9 NYC meeting**, both
+> predating the Aug 26 EWS term sheet — pull and date-stamp that correspondence.
 >
 > **Standing decisions:** go to HBO independently and now; no party may represent
 > attachment before signature; Norman assigns schools (partners bring names only);

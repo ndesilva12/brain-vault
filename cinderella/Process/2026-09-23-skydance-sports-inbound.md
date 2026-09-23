@@ -150,3 +150,66 @@ format is the one non-negotiable.** Watch for the two threads merging without be
   question without asking them for anything.
 - **Check the RedBird thread before the meeting** — has anyone there already heard about Skydance?
   Same fragmentation risk as the five uncoordinated Netflix doors.
+
+---
+
+## ⚠️⚠️ EVERWONDER ORIGINATED REDBIRD (Norman, 2026-09-23) — this reframes everything above
+
+**EverWonder introduced us to RedBird Capital and the Pravin meeting.** That was not recorded
+anywhere in the vault before today, and it undercuts the advice written earlier in this file.
+
+### ❌ Retracted
+
+The suggested line for the Skydance room — *"Roster capital is a separate conversation, and
+we're already in it with RedBird"* — **do not use it.** Two reasons:
+
+1. It leans on a relationship **EverWonder originated**, at the same time as we plan not to sign
+   EverWonder. That is the fact pattern a non-circumvention claim is built from.
+2. **RedBird co-owns Skydance's parent.** Anything said to Skydance about RedBird can travel to
+   RedBird, and from there back to EverWonder.
+
+### Where the paper actually stands
+
+- **Nothing with EverWonder is signed.** The shopping agreement was countered 2026-08-27 and never
+  executed, so **no contractual tail exists today.**
+- ⭐ **The one fact that decides this: was a mutual NDA / non-circ ever signed with EverWonder?**
+  The vault holds an NDA template with a **3-year non-circumvention tail**, "drafted and ready for
+  use." **Whether EWS executed one is unknown and must be established before the Skydance meeting.**
+- **EWS's drafted tail was the dangerous version:** nine months, capturing any third party
+  contacted about the Project, *expressly including contacts initiated by Producer* (= Cinderella
+  Corp). Our counter narrowed it to **Buyers first introduced by EWS**, three months, with
+  Producer-originated relationships excluded by name.
+- ⚠️ **The counter's carve-out is drafted around "Buyers" — streamers. RedBird is capital, not a
+  Buyer.** Under EWS's original language RedBird is plainly captured. Under ours it is arguably
+  outside, but by silence rather than by design. **If any EverWonder paper is ever signed, the
+  exclusion schedule must name capital sources, not just buyers.**
+
+### ⭐ The helpful fact — a pre-existing RedBird contact
+
+`contacts.md` line 177 records **RedBird Capital — B. Snow, K. Laforce — "Jan 19 cold blast,"
+dated 2026-01-19**, and line 348 a **"RedBird NYC meeting" via Kevin Hussey, 2026-05-09**. Both
+**predate** the 2026-08-26 EverWonder term sheet.
+
+That maps directly onto our own counter language — *"any party contacted by Producer prior to the
+Effective Date."* **Pull those January and May emails and date-stamp them now.**
+
+⚠️ **Do not over-rely on it.** A cold blast is not a live relationship. If EverWonder made the
+introduction that produced the actual Pravin meeting, they have a real claim to having originated
+the *working* relationship regardless of a prior cold touch. The January record narrows the
+dispute; it does not end it.
+
+### What to do
+
+1. **Establish whether an EverWonder NDA/non-circ was signed.** Everything else follows from this.
+2. **Document the January 19 and May 9 RedBird contacts** — emails, dates, into the vault.
+3. **Keep RedBird out of the Skydance meeting.** No leverage, no mention.
+4. **Resolve EverWonder deliberately rather than by drift.** Walking away silently while using
+   capital they introduced is the worst of the options — it carries reputational cost in a small
+   business and gives them a story to tell during a Paramount or Netflix diligence. Cleanest fix
+   is likely a **narrow, paid finder arrangement limited to RedBird capital**, which costs little
+   and extinguishes the claim.
+
+### Unlogged
+
+**"Pravin" is not in the vault.** Full name, firm and role unknown — presumed RedBird. Norman to
+confirm so the relationship can be recorded properly.
