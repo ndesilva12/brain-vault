@@ -199,6 +199,18 @@ Norman wants to keep as the dedicated China thread rather than over-concentrate 
 > / Ankur Jain 4% / Greg Kristof 4%, with Ankur held non-diluting through the Seed round. Full
 > doc: `legal/2026-08-25-sunjay-partner-agreement.md`.
 >
+> ⭐ **SKYDANCE SPORTS INBOUND (2026-09-22 night) — read
+> `Process/2026-09-23-skydance-sports-inbound.md`.** **Kitty Gambel** (now SVP Alternative
+> Unscripted at Skydance Sports, as the 08-05 note predicted) sent a holding reply to our
+> submission and then, **two hours later at 8pm**, asked for a meeting with herself and
+> **Greg Groggel** on **creative and production**. Groggel is already flagged ⭐⭐ here and is
+> **producing a Paramount+ docuseries about boosters buying a transfer-portal class via NIL** —
+> he has a greenlit show on our exact thesis, which is why it took two hours. **Frame MC as the
+> inverse:** Texas Tech is a power program buying more power; MC is capital going to a school the
+> system never let win. **Skydance = a studio** (produces *and* finances *and* its parent owns
+> Paramount+/CBS) — not a pure vendor like EverWonder. ⚠️ **Do not sign EverWonder while this is
+> live**, and make Skydance say whether they are the producer or the path to the buyer.
+>
 > **Standing decisions:** go to HBO independently and now; no party may represent
 > attachment before signature; Norman assigns schools (partners bring names only);
 > keep multiple buyers live for competitive tension.
