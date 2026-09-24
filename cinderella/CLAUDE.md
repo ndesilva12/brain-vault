@@ -199,6 +199,14 @@ Norman wants to keep as the dedicated China thread rather than over-concentrate 
 > / Ankur Jain 4% / Greg Kristof 4%, with Ankur held non-diluting through the Seed round. Full
 > doc: `legal/2026-08-25-sunjay-partner-agreement.md`.
 >
+> ⭐ **BOARDWALK PICTURES — strong first call 2026-09-24** —
+> `Process/2026-09-24-boardwalk-pictures-call.md`. **Andrew Fried brought his CFO**, pointed at
+> the *Last Chance U* and *Welcome to Wrexham* posters and put his fingers together. **Boardwalk
+> is the only company that made BOTH our comps.** Wants a second call soon. ⭐ **They are also the
+> only live production conversation with no captive buyer** — EverWonder, RedBird, Skydance and
+> Paramount+ all route to Cardinale; Boardwalk does not. Prep the *Last Chance U* distinction
+> (observational vs. interventionist) before call two.
+>
 > ⭐ **SKYDANCE SPORTS INBOUND (2026-09-22 night) — read
 > `Process/2026-09-23-skydance-sports-inbound.md`.** **Kitty Gambel** (now SVP Alternative
 > Unscripted at Skydance Sports, as the 08-05 note predicted) sent a holding reply to our
