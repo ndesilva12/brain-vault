@@ -257,9 +257,9 @@ Norman wants to keep as the dedicated China thread rather than over-concentrate 
 
 |Party|Role|Key Contact|Status|
 |---|---|---|---|
-|The Chernin Group (TCG)|Lead funding + development|Peter Chernin, Jesse Jacobs|Engaged|
+|The Chernin Group (TCG)|Lead funding + development|Peter Chernin, Jesse Jacobs|Engaged — ⚠️ **owns Words + Pictures** via North Road; a W+P push is related-party, not taste. See `Process/2026-09-27-captive-producer-pattern.md`|
 |EverWonder|Production partner candidate|Introduced via Deirdre Fenton, Rebecca Gitlitz|Under consideration — risk-managed|
-|Words + Pictures|Strategic counterweight to EverWonder|Connor Schell|Identified|
+|Words + Pictures|⚠️ **NOT independent — a Chernin company** (folded into North Road 2022). Schell works for Chernin|Connor Schell|Identified|
 |WME|Non-scripted side|David Sherman|Existing connection|
 |Loeb & Loeb|Lead legal counsel|Brian Socolow|Not yet formally engaged — pending capital raise|
 |RedBird Capital Partners|Franchise fee + SPV backstop discussions|—|Active — see Capitalization|
