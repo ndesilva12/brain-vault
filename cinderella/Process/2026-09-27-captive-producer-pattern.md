@@ -76,11 +76,20 @@ So if Chernin's motive is capturing production economics, satisfy it **without g
 Boardwalk** — W+P as co-producer, with Boardwalk leading. Cheap, standard, and it removes the
 false binary.
 
-## ⚠️ Premise not verified
+## ✅ Premise resolved — Jesse has NOT conditioned anything
 
-**Nothing in the vault records TCG saying it will only fund with Words + Pictures.** That came
-from Norman on 09-27 and may be something Jesse said, or an inference. **Establish which before
-conceding anything** — the fix above only costs something if the condition is real.
+**Norman, 2026-09-27:** Jesse has never said the project has to be Words + Pictures. He is
+enthusiastic about them and recommends them to others, but has attached no condition.
+**Co-producing is explicitly on the table — Jesse already agreed to let Unanimous co-produce on a
+Curry season.**
+
+So the ownership fact above is **context, not a conflict.** Know that a W+P push would be
+related-party economics, and do not read it as a demand that has been made. **It has not been.**
+
+## ⭐ The real concern — concentration, not conditions
+
+Norman's actual worry: **TCG is the most advanced capital source, and that hands Jesse leverage.**
+Correct thing to worry about. See `2026-09-27-capital-concentration-and-leverage.md`.
 
 ## The capital question, corrected
 
