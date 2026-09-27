@@ -136,6 +136,68 @@ Made ***Welcome to Wrexham*, *Last Chance U*, *Last Chance U: Basketball*, *Chee
 
 ---
 
+## 6d-2. WME escalation — whiteboard session invite, 2026-09-10
+
+**What happened:** Hodes called Sunjay with **Sean Moran** also on the line. Both read as very
+enthusiastic — Hodes had to **slow Sean down on questions**, saying they'd cover everything when
+Norman and Sunjay come in. Invitation extended to a **whiteboard session in NYC with the WME
+team.**
+
+**Read: this is a real escalation, not a courtesy.** A single agent who likes something sits on
+it. Hodes brought a **peer** onto the call and is now assembling a **room** — that only happens
+after an agent has decided internally that a project is worth spending colleagues' time on.
+Senior agent hours in a room are an agency's scarcest resource. Detailed mechanical questions
+(Sean's) mean someone is modeling feasibility, not being polite.
+
+**⚠️ HIGHEST-VALUE PREP ITEM — identify which Sean Moran / which WME division.** Not in the vault
+and unverified. **This determines what deal they are actually building:**
+- **Talent/filmed-entertainment side** → a **packaging** play: attach multiple WME clients, take
+  the package to buyers, earn across the package. Most likely, and good for Norman — it means
+  roster access rather than one name.
+- **Sports media-rights / properties side** → they are looking at the **live-game inventory**
+  (the neutral-site non-conference "money games" the format one-pager calls unclaimed live
+  inventory). That is a far more institutional conversation, and a much bigger one.
+
+**What a whiteboard session is:** a working packaging session, not a pitch and not a negotiation.
+The agency thinks out loud — which clients attach, which buyers to approach, what the package
+looks like, what WME's own role would be. **Norman is not there to sell; he is there to shape
+what gets drawn on the board.**
+
+### The fork to be ready for
+
+The real question the room will surface is **whether WME wants to supply talent or represent the
+project.**
+- **Talent supply** — they bring names; Norman keeps buyer strategy. Clean.
+- **Agency of record** — WME shops *Making Cinderella* itself. Opens every door, and takes
+  commission on the whole thing. **This collides with two standing decisions:** go to HBO
+  independently and now, and keep multiple buyers live for competitive tension.
+
+**Decide the answer before the session, not in it.**
+
+### Risks specific to this room
+
+1. ⚠️ **No NDA / non-circumvention is in place with WME.** The vault has one ready (5-yr term,
+   3-yr non-circ tail, concept-ownership acknowledgment). **Execute it before the whiteboard** —
+   this is precisely the situation it exists for.
+2. ⚠️ **Origination capture.** Names generated on the whiteboard can later be claimed as
+   WME-originated even if Norman reaches them another way. Same structural risk as the EverWonder
+   9-month tail and the Foxx CAA-vs-manager channel collision. **Whatever goes on the board,
+   WME will treat as theirs.**
+3. **Packaging incentive divergence.** WME maximizes clients attached; Norman needs the *right*
+   pairing. Standing rule holds and matters more here, not less: **partners bring names, Norman
+   assigns schools.**
+4. **Structural conflict.** An agency repping the talent *and* the project sits on both sides of
+   talent compensation. Normal agency practice (this is what packaging is), but know it's there.
+
+### Use the room to close the open questions
+
+- **Whitesell's status** (§6d) — who actually controls Damon / Affleck / Denzel now.
+- Whether Hodes will **widen past Russell Wilson** to Brady / The Rock / the Whitesell roster.
+- **Do not accept Wilson by default** because he is the name in the room; Richmond's 2021-22
+  Round of 32 run weakens the "never won" story for an HBO-style buyer.
+
+---
+
 ## 6b. Mike Stein call — 2026-08-28 (outcomes)
 
 **Stein's positions:** loves the concept; **not high on Kevin Hart** — believes **Curry/Davidson alone is enough** and a more authentic connection than a bigger, broader celebrity. **Agreed the EWS shopping agreement is unnecessary** (third independent professional to say so, after Deirdre and Nikki). Willing to help without asking for anything yet. Recommends **lining up all buyer meetings and going in with Steph visibly committed.**
@@ -293,6 +355,41 @@ the SPV its license fee, so it is a fallback, never the plan.)
 - **Loeb investor docs expected late Friday (09-04).** The parent-round close is being pushed
   again *because the investor docs aren't ready* — that is the gating item, not investor demand.
 - **2nd HBO meeting** being scheduled this week for next.
+
+## 6g. Updates from the 2026-09-09 iMessage dump (read 09-11)
+
+⚠️ **Coverage gap — recoverable.** The Drive copy held **only 09-09** when read, so what follows
+is one day, not a week. **Sept 4–8 and Sept 10 are NOT lost** — `imessage-dump.sh` writes a dated
+file on every run to `~/Documents/iMessage-dumps` on the MacBook and only *copies* it over
+`imessage-latest.json`. Those days exist locally and need uploading. See `CLAUDE.md`.
+
+- ⭐ **WME whiteboard — logistics settling.** Sunjay is available **any day except Tuesday**;
+  Norman decided he **wants to be there in person** ("only 2-3 hour drive" — NYC). Sunjay offered
+  to go alone and dial Norman in; Norman declined. Sunjay on the session itself: *"I mean I d k
+  wtf it is"* — so **he has no more insight into the format than we do.**
+- ⚠️ **NDA before the whiteboard — partly blocked.** Norman asked whether an NDA could be signed
+  in the room. **Sunjay: no — "WME has a legal team that reviews NDAs," unlike a solo
+  counterparty.** Plan: Sunjay raises it when he next sees them, and **sends the NDA to Hodes'
+  assistant once a date is locked.** Start that now rather than at the door; a legal review takes
+  longer than the days remaining.
+- **CAA is live.** A call was set for **09-09, 3:00–3:30 ET with "Rob/Will" plus Sunjay.**
+  Outcome unknown — not captured before the dump rolled. **Ask Norman.** Note the vault already
+  holds CAA contacts (Peter Hess, Carla Laur, Kevin Gelbard) flagged as gone quiet.
+- **Merrimack LOI still not countersigned** — the brief lists *"execute Norm's copy + send back to
+  Coach Gallo"* as open. This is the locked-PDF problem from 09-10. **Third signed school LOI is
+  sitting one signature away.**
+- **"Shamrock"** — a deck and blurb were being prepared with Sunjay. Unidentified; likely
+  **Shamrock Capital** (LA media/entertainment PE). **Confirm before use.**
+- **Ankur introduced Norman to "Wiz" / Andrew** (group thread, 09-09). Red Star Belgrade
+  ("Zvezda") connection in the banter — suggests European basketball or sports-investment
+  background. Unworked node.
+- **Megan** — Sunjay outreach target from his **FanDuel** days; deck sent by email with a short
+  LinkedIn note. Norman's coaching: *"keep the LinkedIn one 2-3 sentences… less is more. Let her
+  be intrigued to open the deck."*
+- **"Robbie D" canceled** on 09-09. Unidentified.
+- **A separate automated 8am daily brief** is reaching Norman via the Inkbox/Jimmy bridge
+  (+1 917-984-4907) — "Top 3 Open" plus a ten-item list. **That is a different surface from these
+  Claude Code sessions** and its state is not visible here.
 
 ### The refined one-paragraph celebrity pitch (Norman's own tightening, 09-02 — use this)
 

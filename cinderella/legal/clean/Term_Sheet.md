@@ -1,3 +1,20 @@
+> ⛔ **SUPERSEDED — NOT A LIVE DOCUMENT. DO NOT SEND.**
+> Generated in a Claude session on 2026-08-27 as a pre-Loeb draft. **It was never Loeb's paper and
+> there is no record of it being circulated to any investor.** It prices at **$1.00/share for
+> 1,500,000 shares**, which implies a 10,000,000-share company and would put Norman at **30%** —
+> the same defect as `Stockholders_Agreement.md` in this folder.
+>
+> **The live seed documents are in Drive → Legal → Seed Round:**
+> `Cinderella Corp - Subscription Agreement Final` and
+> `Cinderella Corp - Side Letter Agreement Revenue Share Final`
+> (revised as `../2026-09-18-side-letter-FINALv2-generator.py`).
+> **The live investor-facing summary is the one-pager (MANCO-LEVEL INVESTOR OVERVIEW)**, not this
+> file — that is the document Ankur's item 7 refers to.
+>
+> ⚠️ On 2026-09-18 I edited this file believing it was the circulating term sheet and told Norman
+> it created a 10b-5 exposure. **That was wrong** — I never checked its provenance. Edits left in
+> place; the file is retained as history only.
+
 **CONFIDENTIAL — FOR DISCUSSION PURPOSES ONLY**
 _This term sheet is a summary of proposed terms and is **not** an offer to sell or a solicitation of an offer to buy securities, and (other than the Confidentiality provision) is **non-binding** and subject to definitive documentation, applicable law, and completion of investor diligence._
 
@@ -55,7 +72,6 @@ Capital is deployed from closing through December 2027, with the balance held in
 | **Total deployed** | **$952,000** |
 | Reserve | Balance |
 
-**Additional Capital.** The Company may call an additional $1,500,000 on the same terms following the initial closing.
 
 ---
 
@@ -74,7 +90,7 @@ Class B Common Stock converts automatically into Class A Common Stock upon any t
 
 **Voting.** Class A and Class B vote together as a single class. Investors' shares carry one vote per share.
 
-**Investor Protective Provisions.** The Company will not, without the consent of holders of a majority of the Investor shares:
+**Investor Protective Provisions.** So long as any portion of the Preferred Return remains unpaid, the Company will not, without the consent of the Investor Representative acting on the direction of holders of a majority of the Investor shares (Side Letter Agreement, Section 7):
 
 1. amend its charter or governing agreements in a manner that disproportionately and adversely affects the Investors; or
 2. issue any security senior in payment priority to the Revenue-Share Right.
@@ -85,13 +101,13 @@ Class B Common Stock converts automatically into Class A Common Stock upon any t
 
 **Information Rights.** Investors receive annual financial statements within 120 days of fiscal year end, applicable annual tax forms, and written business updates not less than annually.
 
-**Return of Capital.** Beginning January 1, 2027, the Investor Representative may require the Company to return undeployed capital to Investors, pro rata, from the Company's available reserve, if the Company has not achieved sufficient operating progress to warrant continued deployment. Sufficient progress is measured by the Company's achievement of at least two of the following:
+**Return of Capital.** At any time, without regard to any anniversary of the closing or to the Company's achievement of any operating milestone, the Investor Representative, acting on the written direction of Investors holding a majority of the Seed shares, may require the Company to return Undeployed Capital to Investors pro rata, payable within 60 days. "Undeployed Capital" is the Company's unrestricted cash less amounts contractually committed, accrued liabilities, amounts reserved for obligations due within 180 days, and a Minimum Reserve equal to the greater of $250,000 or six months of budgeted operating expenses. A return reduces each Investor's Investment Amount dollar-for-dollar, with the Preferred Return recomputed accordingly, and does not affect any Investor's shares. See the Side Letter Agreement, Section 6.
 
-1. an executed agreement or letter of intent with at least one Division I institution;
-2. an executed agreement with at least one lead celebrity; and
-3. an executed term sheet or definitive agreement with a distribution partner or capital partner for a school-level special purpose vehicle.
+**Investor Representative.** Ankur Jain will serve as Investor Representative under the Side Letter Agreement, authorized to give and receive notices, consents, waivers and directions binding all Investors. He is replaceable at any time by holders of a majority of the Investor shares. The Company indemnifies him for good-faith actions in that capacity, including claims brought by an Investor.
 
-**Investor Representative.** Ankur Jain will serve as Investor Representative, acting on behalf of the Investors with respect to the return-of-capital right and the protective provisions.
+**Amendment.** The Side Letter Agreement may be amended by the Company and holders of a majority of the Investor shares, except that **no amendment may adversely affect any Investor's preferential payments, Preferred Return, invested amount, payment priority or return-of-capital right, or affect one Investor disproportionately, without that Investor's written consent.**
+
+**D&O Insurance.** The Company does not currently maintain directors' and officers' liability insurance and will use commercially reasonable efforts to obtain it within 90 days of closing.
 
 ---
 

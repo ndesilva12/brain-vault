@@ -199,6 +199,35 @@ Norman wants to keep as the dedicated China thread rather than over-concentrate 
 > / Ankur Jain 4% / Greg Kristof 4%. **15% seed dilutes Norman, Sunjay, and Greg; Ankur stays 4%.** Post-seed: 60.75 / 16.875 / 4 / 3.375 / 15. Working-state: `Process/2026-09-03-jimmy-working-state.md`. Full
 > doc: `legal/2026-08-25-sunjay-partner-agreement.md`.
 >
+> ⭐ **BOARDWALK PICTURES — strong first call 2026-09-24** —
+> `Process/2026-09-24-boardwalk-pictures-call.md`. **Andrew Fried brought his CFO**, pointed at
+> the *Last Chance U* and *Welcome to Wrexham* posters and put his fingers together. **Boardwalk
+> is the only company that made BOTH our comps.** Wants a second call soon. ⭐ **They are also the
+> only live production conversation with no captive buyer** — EverWonder, RedBird, Skydance and
+> Paramount+ all route to Cardinale; Boardwalk does not. Prep the *Last Chance U* distinction
+> (observational vs. interventionist) before call two.
+>
+> ⭐ **SKYDANCE SPORTS INBOUND (2026-09-22 night) — read
+> `Process/2026-09-23-skydance-sports-inbound.md`.** **Kitty Gambel** (now SVP Alternative
+> Unscripted at Skydance Sports, as the 08-05 note predicted) sent a holding reply to our
+> submission and then, **two hours later at 8pm**, asked for a meeting with herself and
+> **Greg Groggel** on **creative and production**. Groggel is already flagged ⭐⭐ here and is
+> **producing a Paramount+ docuseries about boosters buying a transfer-portal class via NIL** —
+> he has a greenlit show on our exact thesis, which is why it took two hours. **Frame MC as the
+> inverse:** Texas Tech is a power program buying more power; MC is capital going to a school the
+> system never let win. **Skydance = a studio** (produces *and* finances *and* its parent owns
+> Paramount+/CBS) — not a pure vendor like EverWonder. ⭐ **RedBird is a voting co-owner of
+> Skydance's parent** — led Skydance's 2020 raise, put **$2B** into the Paramount merger, holds
+> **22.5% of Paramount's voting rights**. Our RedBird capital thread and this production thread
+> are the same ownership story: aligned, but ⚠️ **one counterparty in two hats** erodes leverage
+> on the format. ⚠️ **Do not sign EverWonder while this is
+> live**, and make Skydance say whether they are the producer or the path to the buyer.
+> ⚠️⚠️ **EverWonder originated RedBird and the Pravin meeting** (Norman, 09-23) — so RedBird is
+> NOT clean leverage. Nothing with EWS is signed, but **establish whether an NDA/non-circ was
+> ever executed** before the Skydance meeting, and keep RedBird out of that room.
+> `contacts.md` shows a **Jan 19 2026 RedBird cold touch and a May 9 NYC meeting**, both
+> predating the Aug 26 EWS term sheet — pull and date-stamp that correspondence.
+>
 > **Standing decisions:** go to HBO independently and now; no party may represent
 > attachment before signature; Norman assigns schools (partners bring names only);
 > keep multiple buyers live for competitive tension.
@@ -254,6 +283,16 @@ Rebecca Gitlitz's casual "flat 10% fee" framing is the kind of structural signal
 **Master agreement index:** `legal/CONTRACT-REGISTER.md` — every agreement the structure
 requires, across parent-co / parent↔SPV / SPV↔counterparty layers, with drafted-vs-needed
 status. Check here before assuming a contract exists or asking what's still open.
+
+> ⚠️ **READ FIRST — `Process/2026-09-13-nil-sponsor-architecture-and-pcsa.md`.** The
+> **Protect College Sports Act** (S.4668) is on the Senate floor with a cloture vote between
+> Sept 15–23, 2026. It codifies the fair-market-value test for third-party NIL, grants the NCAA
+> **antitrust immunity** for enforcing compensation rules, and raises the institutional cap from
+> ~$20.5M to **$48.8M** plus a **$22.5M retention fund** aimed squarely at players deciding
+> whether to transfer. The compliance analysis below **predates the bill and does not reference
+> it.** The 09-13 file also carries the sponsor/NIL architecture that answers the FMV problem —
+> sponsors contract **directly** with players, MC sells integration and category exclusivity and
+> never takes a cut, because an arm's-length sponsor–player deal *is* fair market value.
 
 ### NCAA Compliance Posture — Summary (see Process/2026-06-24-ncaa-compliance-donor-collective-analysis.md for full analysis)
 
