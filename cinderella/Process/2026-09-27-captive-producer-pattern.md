@@ -28,16 +28,43 @@ If TCG conditions funding on Words + Pictures, **that is not a view about qualit
 capturing the production economics as well as the investment return.** Read every W+P push as a
 related-party preference, not a creative judgment.
 
-## The pattern, now twice
+## The pattern — three for three, but NOT all the same
 
-| Capital partner | Captive producer | Also reaches |
-|---|---|---|
-| **Chernin / TCG** | **Words + Pictures** (via North Road) | — |
-| **RedBird / Cardinale** | **EverWonder** (RedBird IMI launched it) | Skydance Sports · Paramount+ / CBS (22.5% voting) |
+⚠️ **Corrected 2026-09-27, same day. Norman caught this.** An earlier version of this file called
+Boardwalk "the only independent producer in the mix." **That was wrong.**
+**Shamrock Capital took a minority stake in Boardwalk in February 2023** (reported nine figures;
+LionTree and Venable for Boardwalk, ACF and Willkie for Shamrock).
 
-**Every capital partner in this deal arrives with a producer attached.** That is why both would
-resist Boardwalk, and it is exactly what makes Boardwalk valuable: ⭐ **Boardwalk is the only
-independent producer in the mix — no captive buyer, no parent fund.**
+| Producer | PE backer | Nature of the stake | Can the backer steer the slate? |
+|---|---|---|---|
+| **Words + Pictures** | Chernin / TCG | **Wholly owned** — Chernin bought the other 50%, folded it into North Road 2022. Schell is an employee | **Yes** |
+| **EverWonder** | RedBird IMI | **Launched by them** — RedBird IMI's first investment, built with Orefice | **Yes** |
+| **Boardwalk** | Shamrock Capital | ⭐ **Minority growth investment**, Feb 2023. **Fried remains CEO and controls the company** | **No** |
+
+⭐ **The distinction that matters: minority financial investor vs. parent.** A minority holder does
+not decide which projects the company takes or force a co-production onto a deal. A parent does.
+So Boardwalk is **not independent, but it is not captive either** — and on the axis that matters
+for us (who dictates terms), that is the meaningful difference.
+
+**Sources:** [Deadline](https://deadline.com/2023/02/chefs-table-boardwalk-pictures-sells-minority-stake-to-shamrock-capital-1235260141/) ·
+[Shamrock](https://shamrockcap.com/media/boardwalk-pictures-receives-minority-growth-investment-from-boardwalk-pictures/) ·
+[C21](https://www.c21media.net/news/shamrock-capital-invests-in-chefs-table-producer-boardwalk-pictures/)
+
+## ⭐⭐ This makes Shamrock a WARM capital path, not a cold one
+
+**Reverses an answer given on 09-27.** Asked whether Boardwalk could realistically bring Shamrock
+in, the answer given was no. **It should have been yes, and it is the better path.**
+
+- Sunjay's Shamrock thread is **cold** — A. Howard, bcc'd on a ROS thread April 2026; deck and
+  blurb swept Done Sep 16.
+- **Boardwalk's line to Shamrock is their own cap table.** Fried deals with them as an investor.
+- ⭐ **Shamrock's incentive is aligned:** funding a project their own portfolio company produces
+  protects and grows an asset they already own.
+
+⚠️ **Caveat:** Shamrock Capital buys media companies and IP — music catalogues, production
+companies. A basketball roster is not their usual shape. But **$3M per team** (see below) is small
+for them, and the strategic logic of backing a portfolio company's flagship franchise is real.
+**Raise it with Fried on the second call.**
 
 ## ⭐ The resolution — you do not have to choose
 

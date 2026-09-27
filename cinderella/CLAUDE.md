@@ -168,7 +168,7 @@ Norman wants to keep as the dedicated China thread rather than over-concentrate 
 > Covers the **EverWonder shopping-agreement negotiation** (nothing signed; their paper
 > demands full IP assignment — see `legal/2026-08-27-everwonder-counter-redline-memo.md`),
 > the **buyer executive map** (Netflix/Apple/Amazon/FX/Hulu/Paramount/HBO with named
-> targets), the **production-company ranking** (Boardwalk Pictures = priority target,
+> targets), the **production-company ranking** (Boardwalk Pictures = priority target (⚠️ **Shamrock Capital holds a MINORITY stake since Feb 2023 — Fried still controls; not captive, and Shamrock is therefore a warm capital path**),
 > EverWonder ≈ #25), and the **network map** (Gerry Corcoran, Walid Samaha, Mike Stein,
 > Nikki Stier Justice, Josh/Straylight, Deirdre Fenton — independent).
 >
