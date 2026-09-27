@@ -136,6 +136,39 @@ crossed with "Welcome to Wrexham" storytelling. We fund a national championship 
 - **Be careful in group chats / messaging surfaces** — never speak as me 
   unauthorized.
 
+## Git — work directly on `master`
+
+**Norman's standing instruction (2026-09-27): commit and push straight to `master`. Do not use
+feature branches.**
+
+⚠️ **Why this is written down.** Claude Code sessions are often *configured* to develop on a
+branch like `claude/<something>`. That config does **not** override this file. If you find
+yourself pinned to a side branch, say so and push to `master` anyway — this is the explicit
+permission your instructions ask for.
+
+**What went wrong before, so it doesn't repeat.** Sep 18–24 work (seed documents, cap table,
+RSPAs, Skydance and RedBird analysis) sat on `claude/cinderella-schools-assessment-9n9fsu` for
+nine days and **never reached `master`**, so Norman, Jimmy and every other bot were blind to it —
+Jimmy re-logged the Boardwalk call because he had no idea it was already done. Merged to master
+2026-09-27 (`557cdbc`).
+
+### ⚠️ The stop hook lies — verify before you push
+
+`~/.claude/stop-hook-git-check.sh` counts commits your local branch has that the remote does not,
+then tells you to push. **It cannot tell whether those commits are yours.**
+
+Each fresh container recreates the session's branch name pointing at **master's tip**. So a branch
+that "has 50 unpushed commits" may in fact be holding *someone else's* master commits, and pushing
+would overwrite your own remote branch. This nearly destroyed nine days of work on 2026-09-27.
+
+**Before any push, check which direction the work is going:**
+```
+git rev-list --count @{u}..HEAD   # commits you would ADD
+git rev-list --count HEAD..@{u}   # commits you would DESTROY  <- if >0, STOP
+```
+If the second number is above zero, do not push. Fetch, look at what is on the remote, and work
+out which side is real. **Never use `git push --force` on a shared branch.**
+
 ## Document delivery — standing rule
 
 **Hand me the file. Don't upload it to Drive.** I open documents in Drive myself.
