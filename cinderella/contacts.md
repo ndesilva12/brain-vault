@@ -30,7 +30,7 @@ _Companion spreadsheet: `Outputs/2026-08-12-cinderella-contacts.xlsx`. `(confirm
 | Matt Sherman | TFO Equity / TFO Sports | Investor; set TFO call | matt.sherman@tfoequity.com | TFO Sports | 2026-07-16 | Active — follow up |
 | David Foster | TFO Equity | Investor | david.foster@tfoequity.com | TFO Sports | 2026-07-16 | Active |
 | Jesse Jacobs | The Chernin Group (TCG) | Lead funding + development (w/ Peter Chernin) | jj@cherninent.com / cell +1 323-243-0157 | TCG = lead funding+dev per vault | 2026-07 | Active — key |
-| Kitan (confirm surname) | Dynasty Equity | Investor | kitan@dynastyequity.com | Long June/July thread | 2026-07-01 | Active — follow up |
+| Kitan (confirm surname) | Dynasty Equity | Investor | kitan@dynastyequity.com | Long June/July thread; **good call held ~Sep 2026**. Sports-dedicated PE (Jonathan Nelson / Don Cornwell; Liverpool FC stake). ⚠️ **Nelson sits on TCG's board** — do not play against Jesse | 2026-09-27 | **Warm — best structural fit for SPV capital** |
 | J. Leary (confirm) | Sixth Street | Investor | jleary@sixthstreet.com | May/June thread | 2026-06-23 | Active — follow up |
 | Ishu (confirm surname) | Main Street Advisors (Paul Wachter) | Investor / advisor | ishu@mainstreetadvisors.com | Recontacted Aug 12; Wachter = principal | 2026-08-12 | Active — re-engaged |
 | T. Marcy (confirm) | Avenue Capital | Investor | tmarcy@avenuecapital.com | w/ J. Greenbaum | 2026-05-12 | Cold — revisit |

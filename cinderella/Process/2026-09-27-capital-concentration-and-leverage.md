@@ -56,6 +56,7 @@ worried about.
 |---|---|---|
 | ⭐ **Shamrock Capital** | Newly warm | Holds a **minority stake in Boardwalk**. Would be funding a project its own portfolio company produces — aligned interests, and $3M is small for them. **Ask Fried** |
 | **RedBird / Pravin** | Revivable | Head of Capital Solutions; took the meeting, asked for production-cost detail, **EverWonder's Orefice never made himself available and the thread died. No NDA, no contract — re-entry is clean and honest** |
+| ⭐⭐ **Dynasty Equity** | Warm — good call held | **Kitan** (`kitan@dynastyequity.com`, long June/July thread, Active). **Sports-dedicated PE**, co-founded by **Jonathan Nelson** (founder of Providence Equity) with **Don Cornwell** (ex-PJT); ~$1B target; **Liverpool FC stake 2023**; advisory board includes Richard Parsons. ⭐ **Best structural fit on this list** — TCG is media capital, Dynasty buys sports |
 | **Tabor / Ankur** | Live, already funding | $2.5k first installment received Sep 18; Schwab wire in progress. Self-funded SPV path is his thesis |
 | Main Street Advisors (Wachter) | Identified | Capital + celebrity network |
 | Patricof (via Matt Siegel) | Open loop | Athlete Relations roster / SPV syndicate |
@@ -85,3 +86,46 @@ prospecting more investors.**
    relationships (valuable). **Do not pay for the second and third with terms on the first.**
 5. **Never signal that he is the only source** — and do not behave as if he is. Urgency reads as
    weakness and manufactures the leverage.
+
+---
+
+## ⭐⭐ Nelson sits on TCG's board — verified 2026-09-27
+
+Kitan told Norman that Dynasty's founder **Jonathan Nelson seeded TCG**. **True, and understated:**
+
+- Nelson **founded Providence Equity** in 1989.
+- **The Chernin Group was a Providence Equity portfolio company**, and Nelson served as a director.
+- ⭐ **He currently sits on the Board of Directors of The Chernin Group.**
+- Providence separately put **up to $500M into Chernin's North Road Company** — the studio that
+  owns Words + Pictures.
+- He co-founded **Dynasty Equity** with Don Cornwell to invest in sports teams.
+
+**Sources:** [Providence Equity](https://www.provequity.com/people/jonathan-nelson) ·
+[Wikipedia](https://en.wikipedia.org/wiki/Jonathan_M._Nelson) ·
+[Sportico](https://www.sportico.com/personalities/executives/2022/dynasty-equity-advisors-include-1234693818/)
+
+### ⚠️ This changes the leverage advice
+
+**Dynasty is not an independent alternative to TCG. Nelson is on Jesse's board.**
+
+- ❌ **Do not play Dynasty against TCG.** Anything said in one room can reach the other through a
+  director. That is the fastest way to damage both.
+- ✅ **Treat them as mutually reinforcing.** Dynasty enthusiasm is a signal that lands inside TCG's
+  boardroom. Jesse's enthusiasm reaches Nelson. Running both honestly and in parallel is strictly
+  better than leveraging either.
+
+### ⭐ The web, four for four
+
+Every partner in this deal traces to a handful of people:
+
+| Principal | Reaches |
+|---|---|
+| **Peter Chernin** | TCG · Words + Pictures (via North Road) |
+| **Gerry Cardinale / RedBird** | EverWonder (RedBird IMI) · Skydance Sports · Paramount+ / CBS |
+| **Jonathan Nelson / Providence** | **TCG board seat** · Dynasty Equity · $500M into North Road |
+| **Shamrock Capital** | Boardwalk (minority) |
+
+⭐ **Conclusion: sports-media capital is small and interlocked.** Our "independent alternatives"
+are less independent than they look. **Therefore optionality is still right, but leverage plays are
+not** — behaving well with everyone beats playing anyone off anyone, because they share boards and
+they talk. Build alternatives quietly, never as a threat.
