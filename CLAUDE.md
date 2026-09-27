@@ -152,22 +152,25 @@ nine days and **never reached `master`**, so Norman, Jimmy and every other bot w
 Jimmy re-logged the Boardwalk call because he had no idea it was already done. Merged to master
 2026-09-27 (`557cdbc`).
 
-### ⚠️ The stop hook lies — verify before you push
+### The stop hook can be wrong — check before you push
 
 `~/.claude/stop-hook-git-check.sh` counts commits your local branch has that the remote does not,
 then tells you to push. **It cannot tell whether those commits are yours.**
 
-Each fresh container recreates the session's branch name pointing at **master's tip**. So a branch
-that "has 50 unpushed commits" may in fact be holding *someone else's* master commits, and pushing
-would overwrite your own remote branch. This nearly destroyed nine days of work on 2026-09-27.
+Each fresh container recreates the session's branch name pointing at **master's tip**, so a branch
+can appear to have dozens of "unpushed" commits that are really *someone else's* master history.
+That happened on 2026-09-27: the hook reported 50 unpushed commits that were Jimmy's CURRENT.md
+rewrites.
 
-**Before any push, check which direction the work is going:**
-```
-git rev-list --count @{u}..HEAD   # commits you would ADD
-git rev-list --count HEAD..@{u}   # commits you would DESTROY  <- if >0, STOP
-```
-If the second number is above zero, do not push. Fetch, look at what is on the remote, and work
-out which side is real. **Never use `git push --force` on a shared branch.**
+**It is noise, not a hazard.** A normal `git push` in that situation is **rejected** — git refuses
+non-fast-forward pushes by default, which is precisely this case. Only `git push --force` could
+cause loss, and that should never be used on a shared branch.
+
+So: if the hook fires and the commits are not yours, ignore it and fix your local branch instead
+of pushing. If you want to know which way the work flows, `git status` shows ahead/behind.
+
+_(An earlier version of this note said the hook "nearly destroyed nine days of work." That was
+wrong — Norman caught it. The push would simply have failed.)_
 
 ## Document delivery — standing rule
 
