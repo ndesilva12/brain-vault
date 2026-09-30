@@ -118,6 +118,87 @@ door on the board and a circumvention exposure. **Ask directly.**
 7. **Will Mayer is not on the invite.** Either he handed the thread up or he is off it — worth a
    neutral question to the assistant.
 
+---
+
+## Strategy — Norman's read, developed (2026-09-30)
+
+**Correction:** Will sent the invite, not DeAngelis' assistant. The "thread moved under DeAngelis"
+inference is withdrawn — Will Mayer has coordinated throughout (he is on the Sep 9 line in
+CURRENT.md too), so ownership has not visibly shifted.
+
+### ⭐⭐ Frischer's roster is ACTIVE players only — the basketball desk is the weakest fit
+Verified clients: **Devin Booker, Donovan Mitchell, Karl-Anthony Towns, Julius Randle, Jaren
+Jackson Jr., Jordan Poole.** All active. Given the standing preference for a **non-basketball,
+non-active lead**, Frischer's own roster is close to useless to us as talent.
+
+**So the ask to Frischer is a referral, not a client list.** The right desks inside CAA are:
+- **Bret Just** — CAA's college basketball head-coach agent (Shaka Smart, Kelvin Sampson, Brad
+  Underwood, Frank Martin, Andy Enfield and others).
+- **Kauffman Sports Management** — acquired by CAA; specializes in **NBA and NCAA coaches and
+  front-office executives**.
+- **Clint Dowdle** — hired from Kansas State AD ranks specifically to find **young, upcoming**
+  football and basketball coaches. ⭐ That remit is mid-major, which is our pool.
+
+### ⭐⭐ The coaching angle is the highest-synergy, zero-cost ask
+A CAA-repped coach at an MC school gets a funded roster, a national platform and a career
+springboard; CAA gets a client whose market value multiplies. **Pure aligned interest, no equity
+cost to us.** It also fixes a real weakness: our school list is selected by celebrity tie, not by
+coach quality — and coach quality is what actually produces the tournament run the whole thesis
+needs. ⚠️ Compliance: identifying schools where a CAA coaching client already works is partner
+selection, not recruiting. Norman must not be depicted directing coach hiring (§§19–23).
+
+### EMC vs. TCG / RedBird — the distinction that matters
+EMC is **primarily an intermediary**, not a fund. Realistic version is not "EMC funds the SPV" but
+**"EMC raises the SPV from institutions for a fee."** That is arguably BETTER than TCG/RedBird as
+principals:
+- A fee does not take SPV equity — it preserves the **30% capital slot** for whoever pays best.
+- It creates competitive tension among capital sources instead of dependence on one.
+- ⭐⭐ **CAA Evolution is a genuinely new node.** Per `2026-09-27-capital-concentration-and-leverage.md`
+  every current partner traces to Chernin, Cardinale, Nelson or Shamrock. **EMC traces to none of
+  them.** This is the diversification Norman was worried about not having.
+
+⚠️ Costs: placement mandates come with **exclusivity, a tail, a retainer and typically 2–5%** of
+capital raised.
+
+**Layer reconciliation with Ankur:** Ankur is running the **parent** raise ($1.5M / 15%). EMC
+belongs at the **SPV** layer ($10–12M per school), which is bigger and more institutional. They are
+different layers and need not conflict — **say this to Ankur before the call, not after.**
+
+### ⭐⭐ Sponsorship shrinks the raise rather than sourcing it — sequence DeAngelis FIRST
+Per `2026-09-13-nil-sponsor-architecture-and-pcsa.md`, sponsors contract **directly with players**
+and MC never takes a cut, because an arm's-length sponsor–player deal **is** fair market value.
+
+Therefore **every dollar of direct player sponsorship CAA sells is a dollar the SPV never has to
+raise.** DeAngelis does not offset the capital requirement — he *reduces* it. That is worth more
+than EMC sourcing the same dollar, because it cuts dilution, lifts MOIC, and reduces dependence on
+any principal at all. **DeAngelis is the first ask; EMC is the second.**
+
+⚠️ **The conflict to raise with them, as a structuring question not an objection:** if CAA both
+sells the sponsorship and represents the player, arm's-length FMV gets harder to defend — and the
+**PCSA codifies the FMV test and grants the NCAA antitrust immunity to enforce it.** Get ahead of
+this.
+
+### Curry / active-player direction — agree, with one pushback
+Steering toward a broad non-basketball lead is sound: active players have an availability floor
+during **exactly the season we film**, carry team/league media restrictions, and the vault already
+documents the Curry ↔ TCG mutual-proof standoff as **the central blocker**.
+
+⚠️ **But Curry is the only attachment we have and the signed Davidson LOI rests on it.** Do not drop
+him — **de-risk dependence on him.** Keep Davidson/Curry as one of three, and make the
+non-basketball name the lead at the other two.
+
+### The institutional pitch to CAA
+Not "pay us a fee" — **"MC is a platform that raises the market value of your own clients."**
+Coaches get exposure and leverage, broadcast talent gets on-camera work, players get NIL. That
+makes CAA's incentive client servicing, not just commission, which is what actually gets a large
+agency to do work.
+
+### ⚠️ Naming collision — note hygiene
+**"CAA" is also the Coastal Athletic Association**, a D1 conference containing **Charleston,
+Northeastern, Elon and William & Mary — four names already on our target list.** Always disambiguate
+"CAA (agency)" from "CAA (conference)" in notes, and treat that four-school cluster as a real
+mid-major pool.
+
 ## Sources
 - Hollywood Reporter / Variety / IMDb — CAA Sports promotes Alexa Cook and Rob DeAngelis (2024)
 - SportsBusinessDaily — CAA Sports promotes DeAngelis, Slocum to lead property sales (2021)
