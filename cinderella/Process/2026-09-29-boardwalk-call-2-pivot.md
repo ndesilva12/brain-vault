@@ -61,8 +61,10 @@ Three the vault had never surfaced and which score at the top on merit:
 
 ## Open
 
-- ⚠️ **SPV equity %** — not discussed. Our model has SPV at 40% ManCo / 30% talent / 30% capital.
-  A producer stake has no slot yet. **Decide where it comes from before the next call.**
+- ✅ **SPV equity % — resolved by Norman 2026-09-30.** A producer stake comes **from the talent or
+  capital tranches, not from ManCo's 40%.** Two reasons: the model may need **less capital** than
+  30%, and **30% for talent is too high** — ⭐ **talent now opens at 10–15% unless they put up
+  money.** That reprices every celebrity conversation and frees real room for Boardwalk.
 - Merrimack as the anchor: LOI signed (Gallo). Fried likes it. HBO's Bentley Weiner also wants a
   school that has never won — **Merrimack sits on her shortlist too.**
 - No paper, no exclusivity. Still chemistry plus intent.

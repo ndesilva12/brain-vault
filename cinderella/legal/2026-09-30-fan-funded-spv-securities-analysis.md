@@ -162,3 +162,105 @@ compensation, and an NCAA fight we do not need.
 4. Model **Founders Club proceeds against the Side Letter Gross Revenue waterfall.**
 5. If equity crowdfunding is pursued regardless: **Reg CF vs. Reg A+ vs. intrastate**, and whether
    schools and talent will consent to the required disclosure.
+
+---
+---
+
+# ⚠️ REVISION 2026-09-30 (same day) — Norman pushed back and was right twice
+
+Norman challenged three conclusions above. **Two of my objections were overstated and one was
+simply wrong-headed.** This section supersedes §2, §4 and §5 where they conflict.
+
+## ❌ What I got wrong
+
+### 1. "Being a security" is not a problem — it is a paperwork route
+
+§1 establishes correctly that a profit-bearing fan stake is a security. **I then treated that as a
+reason to avoid it.** That was the error. Nearly every private investment is a security. The question
+is only **which exemption**, and the answer is well-trodden.
+
+### 2. Tokens are fine — what is not fine is *pretending* a token isn't a security
+
+§2 said "do not pursue this." **Too absolute.** The SEC enforcement record I cited — Telegram, Kik,
+LBRY — punished issuers for claiming their tokens were **not** securities. **None of them stand for
+the proposition that a registered or exempt tokenised security is impermissible.**
+
+**A tokenised security, properly exempt, trading on a registered venue, is legal and routine.**
+Registered ATSs that do exactly this: **Securitize** (also an SEC-registered transfer agent and
+broker-dealer; BlackRock's tokenised BUIDL fund runs on it), **tZERO**, **INX**, **Texture Capital**.
+
+⭐ **And tradability is on-thesis, not a luxury.** A ticker with a visible price is *engagement*.
+That is the GameStop dynamic Fried described, and dismissing it was a mistake.
+
+⚠️ **The one real constraint:** **Reg CF securities carry a 12-month resale restriction.**
+**Reg A+ Tier 2 securities are freely tradeable.** So if a live secondary market is wanted,
+**Reg A+ is the route, not Reg CF.**
+
+### 3. The disclosure objection was inflated
+
+§5 said the filing would expose "athlete NIL amounts, school revenue-share terms, talent
+compensation, sponsor pricing." **That describes Reg A+, not Reg CF — and overstates even Reg A+.**
+
+- **Reg CF (Form C)** requires a business description, use of proceeds, capital structure,
+  related-party transactions, a financial-condition discussion and financial statements. **It does
+  not require filing the school agreement or per-athlete compensation.** Aggregate roster spend
+  would surface — but "top-10 budget nationally" is already in our own pitch deck.
+- **Reg A+ (Form 1-A)** is heavier: audited financials plus **material contracts as exhibits.**
+  *That* is where the school agreement and talent deals genuinely become public.
+
+**Financial-statement tiers under Reg CF:** ≤$124k → officer-certified · $124k–$1.235M → **CPA
+reviewed** · above that → **audited**, though a first-time issuer may use reviewed financials for
+its first offering. **Verify current thresholds with counsel — these are inflation-adjusted.**
+
+## ✅ Norman's booster point — he is right, and §4 overstated it
+
+**The source of the SPV's capital is not the NCAA test. The fair market value of the athlete payment
+is.**
+
+NIL Go reviews the **deal** — athlete ↔ payor — for a valid business purpose and compensation
+commensurate with non-student-athlete comparables. **It does not review the payor's cap table.** A
+sponsor paying FMV is compliant whether funded by fans, PE or a pension.
+
+What makes a **collective** a collective is that it is school-specific, donor-driven, and pays
+athletes **for the school's benefit** rather than for genuine services. MC pays athletes for
+participation in a commercial docuseries plus real sponsor work. **A diffuse minority of $10–$100
+fan holders does not convert that into a collective.**
+
+⭐ **Norman's 5–15% cap is the correct mitigation** and it is more than sufficient. What actually
+matters, in descending order:
+
+1. ⚠️ **Inducement, not ownership.** If fan-investors publicly recruit prospects, that *is* a
+   violation. Put it in the membership terms: **no contact with prospective student-athletes.**
+2. **Geographic and school diffusion** — franchise-level solicitation rather than "Merrimack fans,"
+   with a per-school concentration cap.
+3. **The school's own compliance office**, which may refuse regardless of the legal analysis. That is
+   a relationship problem, not a securities one.
+4. State NIL law and conference policy, which can be stricter than NCAA rules.
+
+## ⭐ Revised recommendation
+
+| Goal | Route |
+|---|---|
+| **Maximum participants, zero filing, fastest** | **Non-economic membership** (NFT or certificate) — no SEC process, unlimited holders, no disclosure. Still the best *audience* play |
+| **Real economics, non-accredited, speed** | **Reg CF — ~$5M per issuer / 12 months.** Each SPV is its own issuer, so each could run its own raise ⚠️ *confirm affiliate-aggregation with counsel*. 12-month resale lock |
+| ⭐ **Real economics + a tradeable ticker** | **Reg A+ Tier 2 — up to $75M, freely tradeable, listable on a registered ATS.** Heaviest disclosure and cost ($100–300K, 4–8 months) but the only route that delivers the live-price engagement flywheel |
+| Small circle of wealthy fans | **506(c)** accredited-only, or **506(b)** with up to 35 non-accredited — but 506(b) forbids advertising, which kills a fan campaign |
+
+**A non-economic NFT membership can also be layered on top of any of these.** It is not either/or.
+
+⚠️ **NFT caution that does matter:** if the membership is marketed as likely to appreciate, or the
+issuer promises to drive its value, it becomes a security regardless of stated utility — that is
+exactly what *Impact Theory* and *Stoner Cats* were charged for. **Utility-first language, no price
+promises, no issuer-driven resale narrative.**
+
+## Revised question list for Loeb
+
+1. **Reg A+ Tier 2 vs. Reg CF** for a tradeable fan instrument — and whether the school and talent
+   will consent to Form 1-A material-contract exhibits.
+2. Whether **separate SPVs count as separate issuers** for the Reg CF annual cap, or are aggregated
+   as affiliates.
+3. Confirm a **non-economic membership sits outside the security definition**, and vet marketing.
+4. **Registered ATS selection** (Securitize / tZERO / INX) and the transfer-agent function.
+5. Confirm the **capital source does not affect NIL/FMV analysis**, and draft the
+   **no-contact-with-prospects** covenant into membership terms.
+6. Current inflation-adjusted **Reg CF caps and financial-statement thresholds.**
