@@ -1,7 +1,14 @@
-> 📄 **Google Doc (the shareable version):**
-> https://docs.google.com/document/d/1HTsI3OfjSC0HhPmkF4uXvavO4F_pZZOw_4jDmcmezek/edit
-> _"Making Cinderella — Fan Engagement (v2)". A v1 exists with broken table formatting — delete it._
-> This markdown file is the source of truth; regenerate the Doc from here if it changes.
+> 📄 **Google Doc (the shareable version) — v3, current:**
+> https://docs.google.com/document/d/1UH4RIc4NHJt5px5em_ELLDT2H8GOcY6N21322rYKDIk/edit
+> _"Making Cinderella — Fan Engagement (v3)" — adds §6 Where it lives, and who owns it._
+>
+> ⚠️ **The Drive connector cannot rewrite a Doc's contents — only create one.** So every revision of
+> this page is a NEW Doc and a new link. Superseded, safe to trash:
+> v2 `1HTsI3OfjSC0HhPmkF4uXvavO4F_pZZOw_4jDmcmezek` · v1 `11ScGj7BhrEJou3sJo-Y1kI0itHRZ6j4XwBd08mA_0vQ`
+> (v1 also has broken table formatting).
+>
+> **This markdown file is the source of truth.** Regenerate the Doc from here when it changes.
+> Platform and ownership detail behind §6: `../Process/2026-09-30-social-platforms-and-membership-ownership.md`
 
 # MAKING CINDERELLA — FAN ENGAGEMENT
 ### Fans don't watch the team. They join it.
@@ -89,7 +96,30 @@ under letter of intent. Bracket format, run over several weeks.
 - **The winner arrives with a mandate** — the emotional core of the whole story
 - ⭐ **And it is episode one.**
 
-## 6 · The four rules
+## 6 · Where it lives — and who owns it
+
+**The membership lives on our own domain.** One join URL → our database. Not on Discord, not on a
+social platform, not on a rented loyalty app.
+
+| Layer | Runs on | |
+|---|---|---|
+| **The membership record** — who, what tier, how many points | **Our own site** | ⭐ **Owned** |
+| Money — merch, backer tiers | Shopify | Rented, fine |
+| Daily community — chat, watch parties, leaderboard | Discord, tiers synced from our site | Rented, never the record |
+| Discovery — how strangers find us | Instagram · TikTok · YouTube | Rented, disposable |
+
+**Reach comes from the players first.** Twelve players posting to their own accounts out-reaches any
+team account, costs nothing, and is a contracted content service under their NIL agreements.
+**Instagram** is home base, **TikTok** is the cold-start engine, **YouTube** is the archive and the
+proof a buyer respects, **Discord** is where members actually live. One X account for college
+basketball media, because that is who turns a run into a national story.
+
+⭐ **The members belong to Cinderella Corp — not to any one school's SPV**, and are licensed down to
+each season the same way the format is. A franchise-held membership carries to the next school; an
+SPV-held list dies with the SPV. **It is the one audience asset no partner, producer or platform can
+take.**
+
+## 7 · The four rules
 
 1. **Status is earned.** Money buys products, never rank.
 2. **Fans vote on culture, never on competition.** Jerseys yes, lineups no.
@@ -103,4 +133,5 @@ under letter of intent. Bracket format, run over several weeks.
 **A streamer isn't buying a basketball team. They're buying an audience that already cares.**
 
 50,000 members who chose the school, voted on the jersey and funded the charter flight **are the
-asset** — and they exist before episode one airs.
+asset** — and they exist before episode one airs. **Because the list sits on our own domain, that
+number is a fact we can prove, not a follower count we rent.**

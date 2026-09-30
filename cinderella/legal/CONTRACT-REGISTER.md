@@ -33,7 +33,7 @@ _Master list of every agreement the structure requires. Status as of 2026-09-03.
 
 | # | Agreement | Parties | Status | File |
 |---|---|---|---|---|
-| 2.1 | **Format License** ⭐ | Cinderella Corp → SPV | ✅ Drafted | `2026-08-29-format-license-cinderella-to-spv.md` |
+| 2.1 | **Format License** ⭐ | Cinderella Corp → SPV | ✅ Drafted. ⚠️ **OPEN 2026-09-30 — licenses the format but is silent on the AUDIENCE.** Add the fan membership data and the fan-facing channels as licensed assets alongside the format, revocable on the same terms, so a franchise-held member list carries to the next school instead of dying with the SPV. Rationale: `Process/2026-09-30-social-platforms-and-membership-ownership.md` | `2026-08-29-format-license-cinderella-to-spv.md` |
 | 2.2 | SPV Certificate of Formation | Delaware | ❌ Per school | — |
 | 2.3 | **SPV Operating Agreement** | All SPV members (Cinderella 40% · Talent 30% · Capital 30%) | ❌ **Core document — not drafted** | — |
 | 2.4 | Management Services Agreement (2.5% annual fee) | Cinderella Corp ↔ SPV | ❌ Not drafted | — |

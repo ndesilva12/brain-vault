@@ -3,6 +3,15 @@
 _2026-09-30. What to actually run the Founders Club and leaderboard on, and how each action gets
 verified. Companion to `2026-09-30-gamestop-engagement-playbook.md`._
 
+> ⭐ **See also `2026-09-30-social-platforms-and-membership-ownership.md`** — which *social*
+> platforms the community runs on (players first, then IG / TikTok / YouTube / Discord), and the
+> ownership call below.
+>
+> ⭐ **Ownership decision, 2026-09-30: the membership is held at CINDERELLA CORP and licensed down
+> to each SPV**, on the same logic as the Format License — a franchise-held list carries to the next
+> school, an SPV-held list dies with the SPV. ⚠️ **Not yet papered** in the Format License; flagged
+> in `legal/CONTRACT-REGISTER.md`.
+
 ---
 
 ## The honest answer up front
