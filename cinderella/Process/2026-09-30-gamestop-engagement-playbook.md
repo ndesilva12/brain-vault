@@ -149,3 +149,140 @@ economics are wanted, use §A of the legal memo properly rather than dressing a 
 ⭐ **Build bottom-up.** The free and rewards tiers cost nothing legally and deliver the thing that
 actually matters — **audience**. They also *prove demand*, which is the only honest basis for
 spending $200K on a Reg A+ qualification later. **Do not start at the top of the ladder.**
+
+---
+---
+
+# ADDENDUM 2026-09-30 — Norman's follow-ups
+
+## Where the $100–300K comes from, and the correction he is owed
+
+Reg A+ Tier 2 components: securities counsel drafting Form 1-A **$50–150K** · PCAOB-standard audited
+financials **$15–50K** · EDGAR/financial printer **$5–15K** · transfer agent setup **$5–15K/yr** ·
+platform or broker-dealer fee often **3–7% of the raise** · then **$30–75K/yr** ongoing for the
+1-K/1-SA and annual audit.
+
+⚠️ **Norman is right that the SPV, not the $1.5M parent raise, is where token equity would sit.**
+**But the fees land before the raise closes, and the SPV has no cash until it does.** So the money
+comes from the parent's $1.5M or from a capital partner. **That chicken-and-egg is the real
+constraint — not the percentage arithmetic I used.**
+
+## Reg CF vs. Reg D for non-accredited fans
+
+| | **Reg CF** ⭐ | **506(b)** | **Rule 504** |
+|---|---|---|---|
+| Cap / 12 mo | **~$5M per issuer** | Unlimited | $10M |
+| Non-accredited | **Unlimited number** | **Max 35** | Yes |
+| Advertise? | ✅ **Yes**, via the portal | ❌ **No general solicitation — fatal for a fan campaign** | Yes |
+| Disclosure | Form C + C-AR annual | Reg A-level to non-accredited (Rule 502(b)) | Varies |
+| Financials | ≤$124k officer-certified · $124k–$1.235M **CPA-reviewed** · above **audited** (first-timers may use reviewed) | — | — |
+| Resale | ⚠️ **12-month lock** | Restricted | Restricted |
+| Blue sky | Preempted | Preempted | ❌ **Not preempted — register state by state** |
+| Cost / time | **$15–50K, 2–4 months** | Low | Impractical |
+| Per-investor limits | Both income and net worth <$124k → greater of $2,500 or 5% of the lesser. Both ≥$124k → 10% of the lesser, capped $124k. Accredited unlimited | — | — |
+
+**Verdict: Reg CF is the right tool. 506(b) is useless here — 35 people and no advertising. Rule 504
+dies on blue sky.** Must run through a registered funding portal (Wefunder, StartEngine, Republic,
+Netcapital); self-hosting is not permitted.
+
+## ✅ Can fans realistically trade on Securitize / tZERO / INX? Norman's skepticism is correct
+
+**Technically yes. Culturally no.**
+
+Account opening, KYC, suitability checks, brokerage-style UX, and **thin liquidity** — most tokenised
+securities on ATSs barely trade. Securitize is largely institutional; tZERO volume has been modest.
+
+⭐ **GameStop happened because of Robinhood's frictionless UX plus Reddit. An ATS has neither.**
+Do not expect a regulated ATS to produce a social phenomenon. It will not.
+
+## ⭐⭐ "Why not a crypto token?" — the actual answer
+
+**You can. It depends entirely on what the token represents, and there are two completely different
+paths.**
+
+| | **(a) Token = economic stake** | **(b) Token = membership / access / voting, no economics** |
+|---|---|---|
+| Security? | **Yes** | **No** |
+| Offering | Reg CF or Reg A+ required | None |
+| Venue | Registered ATS only | ⭐ **Any chain, any wallet, OpenSea** |
+| KYC | Required | Not required |
+| UX | Brokerage | ⭐ **Full crypto UX** |
+
+**(b) is what Norman actually wants for engagement, and it is unconstrained.**
+
+### ⚠️ But *Stoner Cats* is the precedent to respect — it is nearly our exact fact pattern
+
+The SEC charged **Stoner Cats** as an unregistered securities offering: **NFTs sold to fund an
+animated series, with holders getting access to it.** Also **Impact Theory** — NFTs marketed as
+"we're building the next Disney, these will be worth more."
+
+**So the line is marketing, not technology:**
+- ❌ Do **not** sell the token as a way to **fund** the team or the show.
+- ❌ Do **not** tie its value to the project's performance, or promise to drive its price.
+- ✅ Sell it as **access, identity and community** — a season ticket or fan-club card, not a stake.
+- ✅ **Free or nominal mint** is far safer than a fundraise.
+
+⭐ **The clean resolution: separate the token from the money.**
+**Token = engagement (free/cheap, access-only, full crypto UX). Money = rewards commerce (§B).**
+Combining them is what created Stoner Cats.
+
+## ⭐ Fan ranking — how to rank and reward engagement
+
+**Points from verifiable actions**, weighted by cost to the fan:
+ticket scan at a home game **50** · road game **150** · watch-party check-in **30** · watched minutes
+**1/10 min** · share with attributed click **5** · referral who signs up **100** · vote cast **10** ·
+UGC submitted **25** · UGC used in the show **500** · merch purchase **1/$1** · consecutive-game
+streak **multiplier**.
+
+**Tiers, with scarcity concentrated at the top:**
+
+| Tier | Size | Reward |
+|---|---|---|
+| Member | Millions | Numbered ID, votes, dashboard |
+| Sixth Man | ~100k | Early ticket window, discount |
+| Road Crew | ~10k | Road-game presale, members' channel |
+| Bench | ~1,000 | Courtside lottery entry, shootaround access |
+| Founders Circle | ~100 | Bench seat, team bus, film room, name on the floor |
+| ⭐ **GM of the Game** | **1 per game** | Sits with Norman, **appears in the episode** |
+
+**The five mechanics that make it work:**
+1. ⭐ **A public leaderboard.** Visible status is the whole engine.
+2. ⭐⭐ **Top rewards are earn-only, never purchasable.** If courtside can be bought, the status is
+   worthless. **This is the single most important rule.** The money tiers (§B) buy *different*
+   perks, never rank.
+3. **Referral multipliers** — the viral loop.
+4. **Permanent legacy badges** — "2027 Founding Season" kept forever, even after a seasonal reset.
+5. ⭐ **The top fan appears on camera.** The ranking system becomes content, which costs nothing and
+   is the most valuable prize available.
+
+Plus **regional leaderboards** to manufacture city-vs-city rivalry.
+
+## ⭐ The Kickstarter model — what fans are actually paying for
+
+**Rewards-based crowdfunding: a pre-purchase of a product or experience. No equity, no profit share,
+therefore not a security** — there is no expectation of financial return. Legally it is commerce.
+
+⚠️ **And you do not need Kickstarter.** Kickstarter's terms are built for creative projects and a
+basketball roster may not qualify. **Selling merch, experiences and naming rights is just a store.**
+The campaign framing is marketing, not a legal requirement — self-host and avoid platform rules
+entirely.
+
+**The framing that matters: fund a named line item, not "the team."**
+*"This campaign funds the charter flight to the conference tournament — $180,000."* With a counter.
+
+**Illustrative tiers:**
+
+| | |
+|---|---|
+| **$25** | Founding Member kit — numbered card, sticker, name on the digital wall |
+| **$50** | First-drop tee + name in the docuseries credit crawl |
+| **$100** | Jersey + name on the floorboard graphic |
+| **$250** | Signed team photo + a live Q&A with Norman |
+| **$500** | ⭐ **You fund the pregame meal for a named road game** — your name on that night's broadcast, with a certificate saying which game |
+| **$1,000** | You fund a specific item — a film-room session, a recovery day, an hour on the shooting machine. Named plaque |
+| **$2,500** | Two tickets + pregame shootaround + the team bus to a road game |
+| **$5,000** | Name permanently on the court or a banner |
+| **$10,000** | Associate Producer credit on an episode + bench seat for a home game |
+
+⭐ **Every tier states exactly what the money bought.** That attribution is the emotional payload,
+and it is the thing a profit share cannot deliver.
