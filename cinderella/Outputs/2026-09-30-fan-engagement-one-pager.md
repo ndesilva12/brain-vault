@@ -1,3 +1,8 @@
+> 📄 **Google Doc (the shareable version):**
+> https://docs.google.com/document/d/1HTsI3OfjSC0HhPmkF4uXvavO4F_pZZOw_4jDmcmezek/edit
+> _"Making Cinderella — Fan Engagement (v2)". A v1 exists with broken table formatting — delete it._
+> This markdown file is the source of truth; regenerate the Doc from here if it changes.
+
 # MAKING CINDERELLA — FAN ENGAGEMENT
 ### Fans don't watch the team. They join it.
 
