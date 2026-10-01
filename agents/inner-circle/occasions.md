@@ -4,7 +4,7 @@ Public-clean pointer. **Live SoT:** [Inner Circle Gifts & Occasions](https://doc
 
 Ideas only in vault notes — never buy or send unless Norman asks.
 
-**As of:** 2026-10-01
+**As of:** 2026-10-01 (Norman correction: income property ≠ primary settle)
 
 ## Kim ideas
 
@@ -18,7 +18,7 @@ Ideas only in vault notes — never buy or send unless Norman asks.
 | 2026-11-29 | Thomas (Tommy) | Baptism | St Mary's Scituate; small house after — calendar / attend; gift TBD (Plan Idea) |
 | 2026-12-22 | Dad | Birthday | Needs Gift Target; housewarming-adjacent if settle clear |
 | 2026-12-25 | Family / close friends | Christmas | Include Thomas + Lillian Mae; most Plan rows still Idea / empty Target |
-| TBD | Mom / Dad | Housewarming | Prior-house sale **still open as of 2026-09-30** (buyer outreach; ~$700k+) — gift when Norman confirms settle done |
+| TBD | Mom / Dad | Housewarming | Soft until Norman confirms **primary** settle done — Sep 30 buyer outreach was **income two-family** (~$600k, casual), not primary-house sale |
 
 ## Life-event gifts (open)
 
@@ -27,12 +27,13 @@ Ideas only in vault notes — never buy or send unless Norman asks.
 | Erica / Mike | Thomas Patrick McCann (born 2026-05-20) | Shower Apr 2026 — Plan row added 2026-09-16 (Idea); confirm if follow-up gift still wanted |
 | Erica / Mike | Tommy baptism 2026-11-29 | Announced 2026-09-20; Plan Baptism row added 2026-09-21 |
 | Zach | Lillian Mae (~Aug 2026) | Congrats already in group texts — Plan row added 2026-09-16 (Idea); confirm leftover obligation |
-| Mom / Dad | Padanaram move | Sale still open as of Sep 30; housewarming when settle is clear |
+| Mom / Dad | Padanaram move | Housewarming when Norman confirms settle; income-property casual sale is separate |
 
 ## Awareness (not gift Plan)
 
 - **2026-09-17:** Kristin Thuerk death — Erica hit hard; Norman already texted condolences. No Plan row unless he asks for flowers/support idea.
 - **~2026-09-16:** Kim stitches / minor procedure — okay per Norman; private factual only. No new signal Sep 30.
+- **2026-10-01:** Parents' Old Westport **income** two-family — casually interested in selling (~$600k). Not a gift trigger; street details stay private.
 
 ## Later
 

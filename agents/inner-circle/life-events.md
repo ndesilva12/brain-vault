@@ -2,7 +2,7 @@
 
 Public-clean. Distilled from `people.md`, Drive iMessage dumps, and Norman. No phones/emails/addresses.
 
-**Last Inner Circle pass:** 2026-10-01 (weekday morning pulse; imessage-latest.json through Sep 30 ~9:30pm ET; Drive mtime Oct 1 ~7:26am ET)
+**Last Inner Circle pass:** 2026-10-01 (Norman correction: Sep 30 outreach was income property, not primary-house sale)
 
 ## Confirmed
 
@@ -29,9 +29,9 @@ Public-clean. Distilled from `people.md`, Drive iMessage dumps, and Norman. No p
 - Spring 2026: house hunt in Mattapoisett/Padanaram area; nearly lost then re-offered; rented there for July while still selling prior house.
 - 2026-08-05: Norman — parents "in the process of selling their house - moving to Padanaram"; he was helping.
 - **2026-09-15:** Norman texted that **parents sold the house** while cleaning out the garage; same day he and Kim heading to Dartmouth to **finish moving** (Kim on home-design help).
-- **2026-09-30 (NEW):** Cold outreach from a local property-investment firm about the family Dartmouth house. Norman said selling **soon**, ballpark **~$700k+**, and referred them to family for an afternoon call. Treat earlier "sold ~Sep 15" as **premature or contingent** — sale still appears **open** as of Sep 30. No settle-confirmed / housewarming-ready signal.
-- Destination remains Padanaram/Mattapoisett area (prior hunt place). Keep street-level PII out of public vault.
-- **Status (as of 2026-10-01 pulse):** prior-house sale still open / unfinished; Padanaram move in progress; housewarming not ready.
+- **2026-09-30 → corrected 2026-10-01:** Cold outreach from a local property-investment firm was about the family's **income property** (two-family next to the primary on Old Westport Rd), **not** the primary residence. Norman: casually interested in selling; ballpark **~$600k**. Do **not** treat that outreach as evidence the primary Dartmouth house is still for sale.
+- Destination remains Padanaram/Mattapoisett area (prior hunt place). Keep street-level PII out of public vault (addresses live in private notes / Network Master).
+- **Status (as of 2026-10-01 Norman correction):** primary-house move/sale track separate from income-property casual sale; Padanaram move in progress; housewarming still soft until Norman confirms settle is done.
 
 ### Standing people.md facts
 - **Kim D'Agostino** — partner since 2018-02-18; birthday 1987-01-12; Wellesley.
@@ -42,13 +42,13 @@ Public-clean. Distilled from `people.md`, Drive iMessage dumps, and Norman. No p
 ## Dump notes (imessage-latest / 2026-10-01 pulse = through Sep 30 ~21:30 ET)
 
 - FRESH dump: 65 msgs; latest Sep 30 ~9:30pm ET; Drive mtime Oct 1 ~7:26am ET.
-- **NEW durable IC signal:** parents' Dartmouth house sale still open as of Sep 30 (buyer outreach facilitated; ~$700k+).
+- **CORRECTED (Norman 2026-10-01):** Sep 30 buyer outreach = income two-family (~$600k, casual interest), not primary-house "still for sale."
 - No new baby / baptism / Erica birthday / Zach updates; Kristin/Kim health items unchanged (do not reopen).
 - BD/Cinderella / agency / fundraising / betting chatter in dumps is out of scope for Inner Circle.
 
 ## Still soft / follow later
 
-- Housewarming gift once Norman confirms settle is "done" (sale still open as of Sep 30).
+- Housewarming gift once Norman confirms primary settle is "done" (do not gate on income-property casual sale).
 - Any leftover gift obligations for Lillian Mae or Thomas Patrick? (Plan rows Status Idea as of 2026-09-16.)
 - Erica birthday 2026-10-26 — pick Gift Target by ~Oct 12 (Plan row Status Idea; ~11 days as of Oct 1).
 - Tommy baptism 2026-11-29 — calendar / attend; optional gift TBD (Plan row added 2026-09-21).
