@@ -1,0 +1,245 @@
+MAKING CINDERELLA — GRASSROOTS TARGETS RANKED BY SHARE VELOCITY (v5)
+Re-ranked on SHARING. Shares are the only metric that produces NEW audience — likes and comments come from people who already follow you; a share lands in a stranger's feed.
+"⚠️ SHARE IS A MODEL, NOT MEASURED DATA. Retweets are public on X and TikTok shows shares, but Instagram sends and YouTube shares are creator-only analytics. SHARE is estimated from format, clip economy, emotional trigger, platform mix, participation and earned media."
+VELOCITY = SHARE x Cadence. Rate x volume = total distributed reach: a modest account posting daily shareable content out-distributes a mega-account posting weekly.
+⭐ Reach is now nearly irrelevant. Brandon Walker at 1M ties Kai Cenat at 40M. Share-weighting collapses the price/performance gap — distribution is buyable far cheaper than the reach list implied.
+"⚠️ Connect and Avail are carried over for cross-reference. The best CONNECTORS are the worst SHARERS (Curry, Rubin, Reynolds, Iverson) — connector, share engine and celebrity lead are three different jobs needing three different casts."
+
+Rank,Name,Category,SHARE_1_10,Cadence_1_10,VELOCITY,Reach_M,Connect_1_10,Avail_1_10,Hoops_1_10,School_Tie,Notes
+"=RANK(F9,F$9:F$245)",IShowSpeed,Mega creator,10,10,=D9*E9,75,8,5,7,—,"⭐ Extraordinary engagement + streams constantly. Global, chaotic, young"
+"=RANK(F10,F$9:F$245)",Druski,Mega creator,10,9,=D10*E10,16,9,8,7,—,"⭐ Coulda Been is a talent-assembly machine. Currently the connective tissue between rap, comedy and sports"
+"=RANK(F11,F$9:F$245)",Sketch,Mega creator,10,9,=D11*E11,8,6,7,6,—,
+"=RANK(F12,F$9:F$245)",Kai Cenat,Mega creator,9,10,=D12*E12,40,9,5,6,—,"⭐⭐ Mafiathon proved he can summon anyone — Hart, Nicki, Durant all appeared. Extraordinary convening for a 23-year-old"
+"=RANK(F13,F$9:F$245)",Dave Portnoy,Sports media,9,10,=D13*E13,5,8,8,7,—,⭐ Barstool's entire model IS adopting an underdog in real time. Highest thesis fit of any non-hoops name
+"=RANK(F14,F$9:F$245)",Pat McAfee,Sports media,9,10,=D14*E14,4,8,6,8,—,
+"=RANK(F15,F$9:F$245)",Brandon Walker,Sports media,9,10,=D15*E15,1,7,10,10,—,"⭐ Runs Barstool college basketball; publicly obsessed with small-school hoops. Perfect fit, tiny cost"
+"=RANK(F16,F$9:F$245)",Theo Von,Comedian,9,9,=D16*E16,12,7,8,4,—,"⭐ Daily-ish, relatable, Southern; strong grassroots energy"
+"=RANK(F17,F$9:F$245)",Deestroying (Donald De La Haye),Sports creator,9,9,=D17*E17,12,6,8,4,UCF,⭐⭐ Lost NCAA eligibility over YouTube income — he IS the NIL story. Thematically perfect
+"=RANK(F18,F$9:F$245)",Angel Reese,Athlete,9,9,=D18*E18,10,7,7,10,LSU,
+"=RANK(F19,F$9:F$245)",Stephen A. Smith,Sports media,9,9,=D19*E19,7,7,5,8,St. Joseph's,
+"=RANK(F20,F$9:F$245)",Cam Wilder,Hoops creator,9,9,=D20*E20,4,7,10,10,—,
+"=RANK(F21,F$9:F$245)",Shannon Sharpe,Sports media,9,9,=D21*E21,4,7,6,8,—,
+"=RANK(F22,F$9:F$245)",Elon Musk,Other,8,10,=D22*E22,230,5,2,1,—,"⚠️ Posts constantly, zero hoops, and a political liability that would define the show"
+"=RANK(F23,F$9:F$245)",Adin Ross,Mega creator,8,10,=D23*E23,15,7,6,6,—,
+"=RANK(F24,F$9:F$245)",Jynxzi,Creator,8,10,=D24*E24,15,6,8,5,—,"⭐ Streams daily to an enormous young audience and does sports content. High fit, low cost"
+"=RANK(F25,F$9:F$245)",Plaqueboymax,Creator,8,10,=D25*E25,6,7,8,5,—,⭐ One of the highest live-cadence creators right now
+"=RANK(F26,F$9:F$245)",Logan Paul,Mega creator,8,9,=D26*E26,75,8,7,5,—,⭐ On Fried's list. WWE + Prime; proven brand builder
+"=RANK(F27,F$9:F$245)",Jake Paul,Mega creator,8,9,=D27*E27,65,9,8,6,—,"⭐ MVP proves he assembles names into a VENTURE, not just a video"
+"=RANK(F28,F$9:F$245)",Jesser (Jesse Riedel),Hoops creator,8,9,=D28*E28,16,7,9,10,—,
+"=RANK(F29,F$9:F$245)",Livvy Dunne,Athlete-creator,8,9,=D29*E29,15,7,7,6,—,⭐ NIL's defining face. Thematically perfect — college athlete commercial value personified
+"=RANK(F30,F$9:F$245)",Duke Dennis,Hoops creator,8,9,=D30*E30,9,8,8,9,—,
+"=RANK(F31,F$9:F$245)",FlightReacts,Hoops creator,8,9,=D31*E31,8,5,7,9,—,
+"=RANK(F32,F$9:F$245)",Chad Johnson,Sports media,8,9,=D32*E32,8,6,8,3,Oregon State,"⭐ Hyper-online, hyper-available, loves a stunt"
+"=RANK(F33,F$9:F$245)",Flau'jae Johnson,Female athlete,8,9,=D33*E33,5,7,7,10,LSU,"⭐⭐ Rapper and starting guard, NIL-native, posts daily. Closest thing to a purpose-built fit"
+"=RANK(F34,F$9:F$245)",Skip Bayless,Sports media,8,9,=D34*E34,4,4,7,8,—,
+"=RANK(F35,F$9:F$245)",Pat Beverley,Athlete media,8,9,=D35*E35,3,6,8,10,Arkansas,
+"=RANK(F36,F$9:F$245)",Big Cat (Dan Katz),Sports media,8,9,=D36*E36,2,7,7,7,—,
+"=RANK(F37,F$9:F$245)",PFT Commenter,Sports media,8,9,=D37*E37,1,7,7,6,—,
+"=RANK(F38,F$9:F$245)",Tyler1,Creator,7,10,=D38*E38,8,5,6,2,—,
+"=RANK(F39,F$9:F$245)",HasanAbi,Creator,7,10,=D39*E39,5,6,6,2,—,⚠️ Politically polarizing
+"=RANK(F40,F$9:F$245)",YourRAGE,Creator,7,10,=D40*E40,5,6,7,6,—,
+"=RANK(F41,F$9:F$245)",Kevin Hart,Celebrity,8,8,=D41*E41,185,9,6,7,St. Joseph's (regional),⭐ Vault target; posts constantly; Philly
+"=RANK(F42,F$9:F$245)",Matt Rife,Comedian,8,8,=D42*E42,25,5,6,3,—,
+"=RANK(F43,F$9:F$245)",Tristan Jass,Hoops creator,8,8,=D43*E43,13,6,8,10,—,
+"=RANK(F44,F$9:F$245)",Jelly Roll,Musician,8,8,=D44*E44,12,7,8,4,Belmont (target),⚠️ Belmont deck sent Sep 18. Underdog-story authenticity is exceptional
+"=RANK(F45,F$9:F$245)",Andrew Schulz,Comedian,8,8,=D45*E45,10,6,6,5,—,
+"=RANK(F46,F$9:F$245)",Bert Kreischer,Comedian,8,8,=D46*E46,8,7,8,4,Florida State,
+"=RANK(F47,F$9:F$245)",Cash Nasty (CashNasty),Hoops creator,8,8,=D47*E47,7,7,8,10,—,
+"=RANK(F48,F$9:F$245)",Draymond Green,Athlete media,8,8,=D48*E48,7,7,5,10,—,
+"=RANK(F49,F$9:F$245)",Filayyyy,Hoops creator,8,8,=D49*E49,6,5,8,9,—,
+"=RANK(F50,F$9:F$245)",Caleb Pressley,Sports creator,8,8,=D50*E50,5,7,8,6,North Carolina,"⭐ Barstool, ex-UNC QB, Sundae Conversation. Ideal on-camera presence for this format"
+"=RANK(F51,F$9:F$245)",Marcelas Howard,Hoops creator,8,8,=D51*E51,2,6,9,10,—,
+"=RANK(F52,F$9:F$245)",Jalen Rose,Athlete media,8,8,=D52*E52,2,7,7,10,Michigan,
+"=RANK(F53,F$9:F$245)",Caitlin Clark,Athlete,9,7,=D53*E53,6,6,5,10,Iowa,
+"=RANK(F54,F$9:F$245)",Snoop Dogg,Celebrity,7,9,=D54*E54,90,9,8,8,Long Beach State,⭐ Youth football league founder; genuinely shows up; daily poster
+"=RANK(F55,F$9:F$245)",Alix Earle,Lifestyle,7,9,=D55*E55,10,6,6,4,—,
+"=RANK(F56,F$9:F$245)",Sexyy Red,Musician,7,9,=D56*E56,10,5,6,4,—,
+"=RANK(F57,F$9:F$245)",Agent00,Creator,7,9,=D57*E57,6,7,8,8,—,
+"=RANK(F58,F$9:F$245)",Fanum,Creator,7,9,=D58*E58,6,7,8,6,—,
+"=RANK(F59,F$9:F$245)",Jomboy (Jimmy O'Brien),Sports media,7,9,=D59*E59,2,7,7,5,—,
+"=RANK(F60,F$9:F$245)",Colin Cowherd,Sports media,7,9,=D60*E60,2,7,6,7,—,
+"=RANK(F61,F$9:F$245)",Trill Withers (Tyler),Sports media,7,9,=D61*E61,1,7,8,7,—,
+"=RANK(F62,F$9:F$245)",Jack Mac,Sports media,7,9,=D62*E62,1,7,8,6,—,
+"=RANK(F63,F$9:F$245)",Gary Vaynerchuk,Owner-operator,6,10,=D63*E63,35,8,7,4,—,⭐ Enormous rolodex and gives intros away for free
+"=RANK(F64,F$9:F$245)",xQc,Mega creator,6,10,=D64*E64,15,6,4,3,—,
+"=RANK(F65,F$9:F$245)",Joe Rogan,Comedian,8,7,=D65*E65,30,8,4,3,UMass Boston (vault D3),⭐ The single biggest gateway in podcasting; an appearance moves other bookings
+"=RANK(F66,F$9:F$245)",Tom Segura,Comedian,8,7,=D66*E66,8,6,6,3,—,
+"=RANK(F67,F$9:F$245)",Shane Gillis,Comedian,8,7,=D67*E67,6,6,7,6,Elon (weak tie),
+"=RANK(F68,F$9:F$245)",Nicki Minaj,Musician,7,8,=D68*E68,250,6,3,2,—,
+"=RANK(F69,F$9:F$245)",Cardi B,Musician,7,8,=D69*E69,180,6,4,2,—,
+"=RANK(F70,F$9:F$245)",Shaquille O'Neal,Athlete,7,8,=D70*E70,45,8,8,10,LSU,⭐ Famously says yes; DJ/appearance culture = on-the-ground willing
+"=RANK(F71,F$9:F$245)",Bryce Hall,Lifestyle,7,8,=D71*E71,25,5,7,4,—,
+"=RANK(F72,F$9:F$245)",Magic Johnson,NBA retired,7,8,=D72*E72,20,8,6,10,Michigan State,⭐ Owner-operator who posts daily and understands the capital structure instinctively
+"=RANK(F73,F$9:F$245)",Ice Spice,Musician,7,8,=D73*E73,15,5,5,3,—,
+"=RANK(F74,F$9:F$245)",GloRilla,Musician,7,8,=D74*E74,10,5,5,4,—,
+"=RANK(F75,F$9:F$245)",Ludwig,Creator,7,8,=D75*E75,10,8,7,3,—,⭐ Has produced events that pulled in dozens of creators — an operator with a rolodex
+"=RANK(F76,F$9:F$245)",Kai Trump,Creator,7,8,=D76*E76,6,6,6,4,Miami,
+"=RANK(F77,F$9:F$245)",Alex Cooper,Sports media,7,8,=D77*E77,6,8,5,5,Boston University,"⭐ Unwell signs other creators — she has built a network, not just an audience"
+"=RANK(F78,F$9:F$245)",ImDavisss,Creator,7,8,=D78*E78,4,6,8,9,—,
+"=RANK(F79,F$9:F$245)",Tyrese Haliburton,NBA active,7,8,=D79*E79,3,6,5,10,Iowa State,⭐ Extremely online and enjoys being a character
+"=RANK(F80,F$9:F$245)",Cameron Brink,Female athlete,7,8,=D80*E80,3,6,6,10,Stanford,
+"=RANK(F81,F$9:F$245)",Hailey Van Lith,Female athlete,7,8,=D81*E81,2,5,6,10,—,
+"=RANK(F82,F$9:F$245)",Will Compton,Sports creator,7,8,=D82*E82,2,7,8,4,Nebraska,
+"=RANK(F83,F$9:F$245)",Taylor Lewan,Sports creator,7,8,=D83*E83,2,7,8,4,Michigan,
+"=RANK(F84,F$9:F$245)",Bill Simmons,Sports media,7,8,=D84*E84,1,8,5,8,Holy Cross,⭐ The Ringer is a network. Can put anyone in sports or Hollywood on a mic
+"=RANK(F85,F$9:F$245)",Kevin Durant,NBA active,6,9,=D85*E85,40,8,4,10,Texas,⭐ Boardroom + 35V — he invests in sports ventures and knows every athlete
+"=RANK(F86,F$9:F$245)",DJ Khaled,Musician,6,9,=D86*E86,40,9,6,5,—,⭐ His entire art form IS assembling other stars. Under-rated as a connector
+"=RANK(F87,F$9:F$245)",Rick Ross,Musician,6,9,=D87*E87,20,7,6,4,—,
+"=RANK(F88,F$9:F$245)",Steve Aoki,Musician,6,9,=D88*E88,20,7,7,4,—,
+"=RANK(F89,F$9:F$245)",Mark Cuban,Owner-operator,6,9,=D89*E89,10,9,6,10,Indiana,"⭐⭐ Shark Tank alumni + NBA owners + founders, and he answers email himself"
+"=RANK(F90,F$9:F$245)",Kyrie Irving,NBA active,7,7,=D90*E90,25,5,4,10,Duke,⚠️ Unpredictable partner
+"=RANK(F91,F$9:F$245)",Russell Westbrook,NBA active,7,7,=D91*E91,25,6,5,10,UCLA,
+"=RANK(F92,F$9:F$245)",Ryan Trahan,Creator,7,7,=D92*E92,25,6,7,2,—,⭐ Long-form documentary instinct and very high engagement. Would likely say yes
+"=RANK(F93,F$9:F$245)",Ja Morant,NBA active,7,7,=D93*E93,15,5,4,10,Murray State,⭐ The literal mid-major Cinderella — OVC to #2 pick. ⚠️ Off-court risk is real
+"=RANK(F94,F$9:F$245)",Trae Young,NBA active,7,7,=D94*E94,10,6,4,10,Oklahoma,
+"=RANK(F95,F$9:F$245)",Mikey Williams,Player-creator,7,7,=D95*E95,6,5,6,10,—,
+"=RANK(F96,F$9:F$245)",Marshawn Lynch,Athlete,7,7,=D96*E96,6,6,8,5,Cal,
+"=RANK(F97,F$9:F$245)",Master P,Musician,7,7,=D97*E97,5,8,9,9,—,⭐ Has actually run programs and NIL ventures; would absolutely engage
+"=RANK(F98,F$9:F$245)",Kris London,Hoops creator,7,7,=D98*E98,5,7,8,9,—,
+"=RANK(F99,F$9:F$245)",Bobby Lee,Comedian,7,7,=D99*E99,4,6,6,2,—,
+"=RANK(F100,F$9:F$245)",Jiedel,Hoops creator,7,7,=D100*E100,3,7,8,9,—,
+"=RANK(F101,F$9:F$245)",Mopi,Hoops creator,7,7,=D101*E101,3,7,8,9,—,
+"=RANK(F102,F$9:F$245)",ZackTTG,Hoops creator,7,7,=D102*E102,3,7,8,9,—,
+"=RANK(F103,F$9:F$245)",Paige Bueckers,Female athlete,7,7,=D103*E103,3,7,5,10,UConn,
+"=RANK(F104,F$9:F$245)",LSK (2HYPE),Hoops creator,7,7,=D104*E104,3,7,8,9,—,
+"=RANK(F105,F$9:F$245)",Jordan Lawley,Hoops creator,7,7,=D105*E105,2,7,9,10,—,
+"=RANK(F106,F$9:F$245)",Nick Briz,Hoops creator,7,7,=D106*E106,2,7,8,9,—,
+"=RANK(F107,F$9:F$245)",The Professor (Grayson Boucher),Hoops creator,8,6,=D107*E107,8,6,8,10,—,
+"=RANK(F108,F$9:F$245)",MrBeast (Jimmy Donaldson),Mega creator,6,8,=D108*E108,650,8,2,4,—,
+"=RANK(F109,F$9:F$245)",Neymar,Global athlete,6,8,=D109*E109,300,6,2,1,—,
+"=RANK(F110,F$9:F$245)",Ninja,Creator,6,8,=D110*E110,60,6,6,2,—,
+"=RANK(F111,F$9:F$245)",KSI,Mega creator,6,8,=D111*E111,45,8,6,5,—,
+"=RANK(F112,F$9:F$245)",Megan Thee Stallion,Musician,6,8,=D112*E112,40,6,4,4,—,
+"=RANK(F113,F$9:F$245)",FaZe Rug,Mega creator,6,8,=D113*E113,30,7,6,5,—,
+"=RANK(F114,F$9:F$245)",Lil Baby,Musician,6,8,=D114*E114,30,6,5,6,—,
+"=RANK(F115,F$9:F$245)",Dwyane Wade,NBA retired,6,8,=D115*E115,25,8,6,10,Marquette,"⭐ Media-native, produces, owns a WNBA stake — speaks our language"
+"=RANK(F116,F$9:F$245)",Carmelo Anthony,NBA retired,6,8,=D116*E116,25,8,7,10,Syracuse / Baltimore (vault D3),⭐ 7PM in Brooklyn gives him a daily voice; retired and genuinely available
+"=RANK(F117,F$9:F$245)",Offset,Musician,6,8,=D117*E117,25,6,5,5,—,
+"=RANK(F118,F$9:F$245)",Lil Yachty,Musician,6,8,=D118*E118,20,7,7,6,—,
+"=RANK(F119,F$9:F$245)",Pokimane,Creator,6,8,=D119*E119,20,6,6,1,—,
+"=RANK(F120,F$9:F$245)",Latto,Musician,6,8,=D120*E120,12,5,5,4,—,
+"=RANK(F121,F$9:F$245)",Diplo,Musician,6,8,=D121*E121,12,7,6,3,—,
+"=RANK(F122,F$9:F$245)",Metro Boomin,Musician,6,8,=D122*E122,10,7,5,5,—,
+"=RANK(F123,F$9:F$245)",Paul George,Athlete,6,8,=D123*E123,8,6,6,10,Fresno State,
+"=RANK(F124,F$9:F$245)",Valkyrae,Creator,6,8,=D124*E124,8,7,6,1,—,
+"=RANK(F125,F$9:F$245)",Nadeshot (Matt Haag),Org builder,6,8,=D125*E125,5,7,9,5,—,⭐ Built 100 Thieves by RECRUITING creators. Closest analog to what we need done
+"=RANK(F126,F$9:F$245)",Sean O'Malley,Combat,6,8,=D126*E126,5,5,6,2,—,
+"=RANK(F127,F$9:F$245)",Josh Hart,Athlete,6,8,=D127*E127,2,7,7,10,Villanova,
+"=RANK(F128,F$9:F$245)",Michael Rubin,Owner-operator,6,8,=D128*E128,2,10,7,7,—,⭐⭐ THE most connected person in sports. Convening IS his product — the July 4th party alone puts 30 A-list names in one room. Reach is irrelevant; treat him as a distribution channel for names
+"=RANK(F129,F$9:F$245)",Dude Perfect,Mega creator,7,6,=D129*E129,75,6,6,7,—,
+"=RANK(F130,F$9:F$245)",Victor Wembanyama,NBA active,7,6,=D130*E130,12,5,3,10,—,
+"=RANK(F131,F$9:F$245)",Anthony Edwards,NBA active,7,6,=D131*E131,8,6,4,10,Georgia,
+"=RANK(F132,F$9:F$245)",Jack Whitehall,Comedian,7,6,=D132*E132,8,5,5,2,—,
+"=RANK(F133,F$9:F$245)",JuJu Watkins,Female athlete,7,6,=D133*E133,2,6,4,10,USC (vault),⚠️ Still an enrolled athlete — NIL complexity cuts both ways
+"=RANK(F134,F$9:F$245)",Cristiano Ronaldo,Global athlete,6,7,=D134*E134,1000,6,1,1,—,
+"=RANK(F135,F$9:F$245)",Dwayne Johnson,Celebrity,6,7,=D135*E135,420,7,4,5,Miami,
+"=RANK(F136,F$9:F$245)",Khaby Lame,Mega creator,6,7,=D136*E136,190,4,3,2,—,
+"=RANK(F137,F$9:F$245)",Charli D'Amelio,Lifestyle,6,7,=D137*E137,180,6,4,2,—,
+"=RANK(F138,F$9:F$245)",Kylian Mbappe,Global athlete,6,7,=D138*E138,150,5,2,2,—,
+"=RANK(F139,F$9:F$245)",Zach King,Creator,6,7,=D139*E139,130,4,5,1,—,
+"=RANK(F140,F$9:F$245)",Will Smith,Global celebrity,6,7,=D140*E140,130,7,4,6,"St. Joseph's (vault, Philly)","⭐ Vault Season-1 option. Philly native, posts heavily, reputation rehab motive cuts both ways"
+"=RANK(F141,F$9:F$245)",Ryan Reynolds,Owner-operator,6,7,=D141*E141,70,10,5,4,—,"⭐⭐ Builds cap tables out of famous friends — Wrexham, Aviation, Mint. Exactly the skill MC needs. ⚠️ Also the reason he may decline: he already owns this format"
+"=RANK(F142,F$9:F$245)",Conor McGregor,Combat,6,7,=D142*E142,60,5,3,1,—,⚠️ Brand risk
+"=RANK(F143,F$9:F$245)",Doja Cat,Musician,6,7,=D143*E143,50,5,3,1,—,
+"=RANK(F144,F$9:F$245)",Sidemen (collective),Mega creator,6,7,=D144*E144,40,8,5,4,—,
+"=RANK(F145,F$9:F$245)",Josh Richards,Lifestyle,6,7,=D145*E145,40,7,6,3,—,
+"=RANK(F146,F$9:F$245)",Steve Harvey,Comedian,6,7,=D146*E146,40,6,5,3,Kent State (vault),
+"=RANK(F147,F$9:F$245)",Machine Gun Kelly,Musician,6,7,=D147*E147,30,5,6,5,Cleveland State,
+"=RANK(F148,F$9:F$245)",James Harden,NBA active,6,7,=D148*E148,30,6,5,10,Arizona State,
+"=RANK(F149,F$9:F$245)",Quavo,Musician,6,7,=D149*E149,25,6,7,8,—,
+"=RANK(F150,F$9:F$245)",Ludacris,Celebrity,6,7,=D150*E150,25,6,7,6,Georgia State,
+"=RANK(F151,F$9:F$245)",Mark Wahlberg,Celebrity,6,7,=D151*E151,25,6,6,5,Northeastern (regional),⚠️ Vault: Levinson previously killed it; CURRENT.md lists engaged
+"=RANK(F152,F$9:F$245)",Future,Musician,6,7,=D152*E152,25,6,3,4,—,
+"=RANK(F153,F$9:F$245)",Jack Harlow,Musician,6,7,=D153*E153,20,6,6,9,Louisville,
+"=RANK(F154,F$9:F$245)",2 Chainz,Musician,6,7,=D154*E154,15,7,7,8,Alabama State,
+"=RANK(F155,F$9:F$245)",Jayson Tatum,NBA active,6,7,=D155*E155,15,6,4,10,Duke / Saint Louis (vault),
+"=RANK(F156,F$9:F$245)",Jimmy Butler,NBA active,6,7,=D156*E156,15,6,5,10,Marquette / Tyler JC,
+"=RANK(F157,F$9:F$245)",Gunna,Musician,6,7,=D157*E157,15,5,5,4,—,
+"=RANK(F158,F$9:F$245)",Central Cee,Musician,6,7,=D158*E158,15,5,4,3,—,
+"=RANK(F159,F$9:F$245)",Simone Biles,Female athlete,6,7,=D159*E159,15,5,4,3,—,
+"=RANK(F160,F$9:F$245)",Israel Adesanya,Combat,6,7,=D160*E160,10,5,5,2,—,
+"=RANK(F161,F$9:F$245)",Triple H,Wrestling,6,7,=D161*E161,10,8,5,3,New Hampshire (vault),"⭐ Runs WWE talent — he is not connected to a network, he IS one"
+"=RANK(F162,F$9:F$245)",Rhea Ripley,Wrestling,6,7,=D162*E162,8,5,5,2,—,
+"=RANK(F163,F$9:F$245)",Bailey Zimmerman,Musician,6,7,=D163*E163,8,5,6,3,—,
+"=RANK(F164,F$9:F$245)",Cody Rhodes,Wrestling,6,7,=D164*E164,6,6,5,2,—,
+"=RANK(F165,F$9:F$245)",Sabrina Ionescu,Athlete,6,7,=D165*E165,3,6,6,10,Oregon,
+"=RANK(F166,F$9:F$245)",Jalen Brunson,NBA active,6,7,=D166*E166,3,7,5,10,Villanova,
+"=RANK(F167,F$9:F$245)",Suni Lee,Female athlete,6,7,=D167*E167,3,4,5,2,Auburn,
+"=RANK(F168,F$9:F$245)",Bianca Belair,Wrestling,6,7,=D168*E168,3,5,5,3,—,
+"=RANK(F169,F$9:F$245)",Jey Uso,Wrestling,6,7,=D169*E169,3,5,5,3,—,
+"=RANK(F170,F$9:F$245)",Rob McElhenney,Owner-operator,6,7,=D170*E170,3,8,6,4,—,"⭐⭐ The other half of the proof case. Lower reach than Reynolds, likely far more accessible"
+"=RANK(F171,F$9:F$245)",A'ja Wilson,Female athlete,6,7,=D171*E171,2,6,6,10,South Carolina (vault),
+"=RANK(F172,F$9:F$245)",Baron Davis,NBA retired,6,7,=D172*E172,2,7,8,10,UCLA,⭐ Already a media and investing operator. Very available
+"=RANK(F173,F$9:F$245)",Justin Bieber,Global celebrity,6,6,=D173*E173,380,6,3,7,—,
+"=RANK(F174,F$9:F$245)",Virat Kohli,Global athlete,6,6,=D174*E174,280,5,1,1,—,
+"=RANK(F175,F$9:F$245)",LeBron James,Athlete,6,6,=D175*E175,210,9,2,10,—,⭐ SpringHill can move any athlete and most of Hollywood. ⚠️ Builds his own things first
+"=RANK(F176,F$9:F$245)",Drake,Celebrity,6,6,=D176*E176,150,7,3,8,—,
+"=RANK(F177,F$9:F$245)",Addison Rae,Lifestyle,6,6,=D177*E177,100,5,3,2,—,
+"=RANK(F178,F$9:F$245)",Bad Bunny,Musician,6,6,=D178*E178,100,6,3,6,—,
+"=RANK(F179,F$9:F$245)",Bella Poarch,Creator,6,6,=D179*E179,100,5,5,1,—,
+"=RANK(F180,F$9:F$245)",Stephen Curry,Athlete,6,6,=D180*E180,90,8,7,10,Davidson,⚠️ ALREADY ATTACHED (verbal). Listed for comparison only
+"=RANK(F181,F$9:F$245)",Travis Scott,Celebrity,6,6,=D181*E181,90,6,4,6,Texas Southern,
+"=RANK(F182,F$9:F$245)",David Beckham,Global athlete,6,6,=D182*E182,90,8,3,2,—,
+"=RANK(F183,F$9:F$245)",Marshmello,Musician,6,6,=D183*E183,60,7,5,3,—,
+"=RANK(F184,F$9:F$245)",John Cena,Wrestling,6,6,=D184*E184,60,6,5,4,UMass (vault),
+"=RANK(F185,F$9:F$245)",Post Malone,Musician,6,6,=D185*E185,50,7,5,5,North Texas,
+"=RANK(F186,F$9:F$245)",Markiplier,Creator,6,6,=D186*E186,45,5,4,1,—,
+"=RANK(F187,F$9:F$245)",Giannis Antetokounmpo,NBA active,6,6,=D187*E187,40,5,4,10,—,
+"=RANK(F188,F$9:F$245)",Jamie Foxx,Celebrity,6,6,=D188*E188,25,7,7,7,North Texas (regional),⚠️ LIVE — Marcus King positive Sep 25
+"=RANK(F189,F$9:F$245)",Luka Doncic,NBA active,6,6,=D189*E189,25,5,3,10,—,
+"=RANK(F190,F$9:F$245)",21 Savage,Musician,6,6,=D190*E190,25,5,4,4,—,
+"=RANK(F191,F$9:F$245)",Serena Williams,Athlete,6,6,=D191*E191,20,7,5,4,—,
+"=RANK(F192,F$9:F$245)",Devin Booker,NBA active,6,6,=D192*E192,15,6,4,10,Kentucky,
+"=RANK(F193,F$9:F$245)",Roman Reigns,Wrestling,6,6,=D193*E193,15,5,4,3,—,
+"=RANK(F194,F$9:F$245)",Morgan Wallen,Musician,6,6,=D194*E194,15,6,4,3,—,
+"=RANK(F195,F$9:F$245)",Luke Combs,Musician,6,6,=D195*E195,12,6,6,4,Appalachian St.,
+"=RANK(F196,F$9:F$245)",Nelly,Musician,6,6,=D196*E196,10,6,7,7,—,
+"=RANK(F197,F$9:F$245)",Scottie Pippen,NBA retired,6,6,=D197*E197,8,5,8,10,Central Arkansas (vault),⭐⭐ Vault pairing at his OWN alma mater — NAIA walk-on to the NBA. Available and on-thesis
+"=RANK(F198,F$9:F$245)",Naomi Osaka,Female athlete,6,6,=D198*E198,6,6,4,4,—,
+"=RANK(F199,F$9:F$245)",Jon Jones,Combat,6,6,=D199*E199,6,4,4,2,—,⚠️ Brand risk
+"=RANK(F200,F$9:F$245)",Vince Carter,NBA retired,6,6,=D200*E200,5,6,7,10,North Carolina,"⭐ ESPN analyst now — media-native, available, universally liked"
+"=RANK(F201,F$9:F$245)",Shaboozey,Musician,6,6,=D201*E201,3,5,6,3,—,
+"=RANK(F202,F$9:F$245)",Sydney McLaughlin,Female athlete,6,6,=D202*E202,2,4,5,2,—,
+"=RANK(F203,F$9:F$245)",Zion Williamson,NBA active,7,5,=D203*E203,10,4,3,10,Duke,
+"=RANK(F204,F$9:F$245)",Kylie Jenner,Global celebrity,5,7,=D204*E204,450,6,2,1,—,
+"=RANK(F205,F$9:F$245)",Kim Kardashian,Global celebrity,5,7,=D205*E205,420,8,2,3,—,
+"=RANK(F206,F$9:F$245)",Khloe Kardashian,Global celebrity,5,7,=D206*E206,300,5,3,3,—,
+"=RANK(F207,F$9:F$245)",Lionel Messi,Global athlete,6,5,=D207*E207,700,5,1,1,—,
+"=RANK(F208,F$9:F$245)",PewDiePie,Creator,6,5,=D208*E208,120,4,3,1,—,
+"=RANK(F209,F$9:F$245)","Tyler, the Creator",Musician,6,5,=D209*E209,25,7,3,3,—,
+"=RANK(F210,F$9:F$245)",SZA,Musician,6,5,=D210*E210,20,5,3,3,—,
+"=RANK(F211,F$9:F$245)",Playboi Carti,Musician,6,5,=D211*E211,15,5,3,3,—,
+"=RANK(F212,F$9:F$245)",Zach Bryan,Musician,6,5,=D212*E212,8,5,4,3,—,
+"=RANK(F213,F$9:F$245)",Brad Paisley,Musician,6,5,=D213*E213,5,6,7,3,Belmont (target),⚠️ Belmont deck sent Sep 18
+"=RANK(F214,F$9:F$245)",Shai Gilgeous-Alexander,NBA active,6,5,=D214*E214,5,5,3,10,Kentucky,
+"=RANK(F215,F$9:F$245)",Tracy McGrady,NBA retired,6,5,=D215*E215,5,6,7,10,—,
+"=RANK(F216,F$9:F$245)",Kamilla Cardoso,Female athlete,6,5,=D216*E216,1,4,6,10,South Carolina,
+"=RANK(F217,F$9:F$245)",Selena Gomez,Global celebrity,5,6,=D217*E217,500,5,2,1,—,
+"=RANK(F218,F$9:F$245)",Kendall Jenner,Global celebrity,5,6,=D218*E218,290,6,2,4,—,
+"=RANK(F219,F$9:F$245)",Jennifer Lopez,Global celebrity,5,6,=D219*E219,280,6,2,1,—,
+"=RANK(F220,F$9:F$245)",Mark Rober,Creator,7,4,=D220*E220,70,6,6,2,—,"⭐ Best pure storyteller among the big creators. Low cadence, high craft, would likely engage"
+"=RANK(F221,F$9:F$245)",Allen Iverson,NBA retired,7,4,=D221*E221,20,6,6,10,Georgetown / Philly,"⚠️ Model under-rates him. For a St. Joe's build, Philly access is worth more than the score says"
+"=RANK(F222,F$9:F$245)",Charles Barkley,NBA retired,9,3,=D222*E222,2,7,6,10,"St. Joseph's (vault, Philly)",⭐ Inside the NBA means everyone takes his call. Social reach understates him badly
+"=RANK(F223,F$9:F$245)",Ariana Grande,Global celebrity,5,5,=D223*E223,450,5,2,1,—,
+"=RANK(F224,F$9:F$245)",Miley Cyrus,Global celebrity,5,5,=D224*E224,250,5,2,1,—,
+"=RANK(F225,F$9:F$245)",Katy Perry,Global celebrity,5,5,=D225*E225,210,5,3,1,—,
+"=RANK(F226,F$9:F$245)",Billie Eilish,Musician,5,5,=D226*E226,130,5,2,1,—,
+"=RANK(F227,F$9:F$245)",Shakira,Global celebrity,5,5,=D227*E227,130,5,2,1,—,
+"=RANK(F228,F$9:F$245)",Vin Diesel,Global celebrity,5,5,=D228*E228,110,5,3,1,—,
+"=RANK(F229,F$9:F$245)",Taylor Swift,Global celebrity,6,4,=D229*E229,400,6,1,2,—,
+"=RANK(F230,F$9:F$245)",Rihanna,Global celebrity,6,4,=D230*E230,200,6,2,5,—,
+"=RANK(F231,F$9:F$245)",Barack Obama,Other,6,4,=D231*E231,200,8,2,10,UIC / DePaul (vault),⭐ Real hoops obsessive and already a vault pairing. Availability is the whole problem
+"=RANK(F232,F$9:F$245)",The Weeknd,Musician,6,4,=D232*E232,80,6,2,4,—,
+"=RANK(F233,F$9:F$245)",Adam Sandler,Celebrity,6,4,=D233*E233,15,6,5,8,New Hampshire,⚠️ Engaged per CURRENT.md; low social cadence
+"=RANK(F234,F$9:F$245)",Will Ferrell,Celebrity,6,4,=D234*E234,15,6,5,6,USC / UC Irvine,
+"=RANK(F235,F$9:F$245)",Eric Church,Musician,6,4,=D235*E235,4,5,5,4,Appalachian St.,
+"=RANK(F236,F$9:F$245)",Zendaya,Global celebrity,5,4,=D236*E236,190,5,2,2,—,
+"=RANK(F237,F$9:F$245)",Beyonce,Global celebrity,6,3,=D237*E237,350,6,1,3,LIU (vault),
+"=RANK(F238,F$9:F$245)",Michelle Obama,Other,6,3,=D238*E238,90,6,2,6,DePaul (vault),
+"=RANK(F239,F$9:F$245)",Kendrick Lamar,Musician,6,3,=D239*E239,30,5,2,4,—,
+"=RANK(F240,F$9:F$245)",Dr. Dre,Musician,6,3,=D240*E240,10,6,2,3,—,
+"=RANK(F241,F$9:F$245)",Bill Murray,Celebrity,6,3,=D241*E241,3,5,5,9,Charleston / BC,
+"=RANK(F242,F$9:F$245)",Jay-Z,Musician,6,2,=D242*E242,10,9,2,8,LIU (vault),⭐ Roc Nation is literally a network business — athletes and musicians on tap. ⚠️ Access is the whole problem
+"=RANK(F243,F$9:F$245)",Michael Keaton,Celebrity,4,3,=D243*E243,2,3,4,4,Kent State (vault),
+"=RANK(F244,F$9:F$245)",Michael Jordan,NBA retired,4,2,=D244*E244,30,3,1,10,North Carolina,"⚠️ Maximum authority, near-zero connective willingness. Knows everyone, asks no one"
+"=RANK(F245,F$9:F$245)",Larry Bird,NBA retired,4,1,=D245*E245,1,2,3,10,Indiana State (vault),"⚠️ The original Cinderella, and the least networked name on the list"

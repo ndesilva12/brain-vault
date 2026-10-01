@@ -1,0 +1,236 @@
+US TOP ACCOUNTS BY SHARE VELOCITY — independent of the MC target list
+"⚠️ ESTIMATES. Share counts are not public on most platforms. SHARE is modelled from format, clip economy, emotional trigger, platform mix, participation and earned media."
+"VELOCITY = SHARE x Cadence. Sorted descending. US accounts only — UK/global (Sidemen, KSI, Khaby, Ronaldo, Messi) excluded."
+"⭐ THE FINDING: ranked by share velocity rather than followers, the top is AGGREGATOR and NEWS accounts, not celebrities. Aggregators are PURCHASABLE MEDIA — a paid post or an exclusive clip, not an equity deal."
+TYPE: AGG aggregator/media brand · NEWS news/politics · IND individual · LEAGUE league/team · POD podcast
+MC_FIT: Yes / Caution / No. 'No' = brand hazard for a school-facing docuseries. Several of the highest-velocity accounts in America are unusable for us.
+
+Rank,Account,Category,Type,SHARE_1_10,Cadence_1_10,VELOCITY,MC_FIT,Note
+"=RANK(G10,G$10:G$237)",Barstool Sports,Sports,AGG,10,10,=E10*F10,Caution,Adopting an underdog IS their model
+"=RANK(G11,G$10:G$237)",Bleacher Report,Sports,AGG,10,10,=E11*F11,Yes,⭐ Buyable. B/R Hoops sub-account also elite
+"=RANK(G12,G$10:G$237)",Daily Loud,Music/culture,AGG,10,10,=E12*F12,Caution,
+"=RANK(G13,G$10:G$237)",Donald Trump,Politics,NEWS,10,10,=E13*F13,No,Highest share velocity in America. Unusable
+"=RANK(G14,G$10:G$237)",Elon Musk,Politics/tech,IND,10,10,=E14*F14,No,Possibly the most-retweeted account on earth
+"=RANK(G15,G$10:G$237)",House of Highlights,Basketball,AGG,10,10,=E15*F15,Yes,⭐ Best distribution asset in US basketball. Buyable
+"=RANK(G16,G$10:G$237)",IShowSpeed,Mega creator,IND,10,10,=E16*F16,Caution,⭐ Most-clipped creator alive. Free third-party distribution
+"=RANK(G17,G$10:G$237)",Overtime,Basketball,AGG,10,10,=E17*F17,Yes,⭐⭐ Built on youth/HS hoops — closest editorial fit to MC here
+"=RANK(G18,G$10:G$237)",PopBase,Pop culture,AGG,10,10,=E18*F18,Yes,
+"=RANK(G19,G$10:G$237)",PopCrave,Pop culture,AGG,10,10,=E19*F19,Yes,⭐ Highest quote-tweet rate in pop culture
+"=RANK(G20,G$10:G$237)",Pubity,Memes,AGG,10,10,=E20*F20,Caution,Scale without editorial control
+"=RANK(G21,G$10:G$237)",TheShadeRoom,Culture,AGG,10,10,=E21*F21,Caution,⭐ Enormous Black-culture reach; gossip tone
+"=RANK(G22,G$10:G$237)",Druski,Mega creator,IND,10,9,=E22*F22,Yes,⭐⭐ Content engineered to be reposted
+"=RANK(G23,G$10:G$237)",Sketch,Mega creator,IND,10,9,=E23*F23,Caution,
+"=RANK(G24,G$10:G$237)",9GAG,Memes,AGG,9,10,=E24*F24,Caution,
+"=RANK(G25,G$10:G$237)",Benny Johnson,Politics,NEWS,9,10,=E25*F25,No,
+"=RANK(G26,G$10:G$237)",Bleacher Report Gridiron,Football,AGG,9,10,=E26*F26,Yes,
+"=RANK(G27,G$10:G$237)",Brandon Walker,College hoops,IND,9,10,=E27*F27,Yes,⭐⭐ Barstool CBB. Obsessed with small-school hoops
+"=RANK(G28,G$10:G$237)",Breaking911,News,NEWS,9,10,=E28*F28,Caution,
+"=RANK(G29,G$10:G$237)",Catturd2,Politics,NEWS,9,10,=E29*F29,No,
+"=RANK(G30,G$10:G$237)",Charlie Kirk,Politics,IND,9,10,=E30*F30,No,
+"=RANK(G31,G$10:G$237)",Collin Rugg,News,NEWS,9,10,=E31*F31,Caution,Straighter reporting than most of this cohort
+"=RANK(G32,G$10:G$237)",Crazy Clips,Memes,AGG,9,10,=E32*F32,Caution,
+"=RANK(G33,G$10:G$237)",Dexerto,Gaming,AGG,9,10,=E33*F33,Yes,
+"=RANK(G34,G$10:G$237)",End Wokeness,Politics,NEWS,9,10,=E34*F34,No,
+"=RANK(G35,G$10:G$237)",FearBuck,Memes,AGG,9,10,=E35*F35,Caution,
+"=RANK(G36,G$10:G$237)",Hoop Central,Basketball,AGG,9,10,=E36*F36,Yes,"Cheap, high volume"
+"=RANK(G37,G$10:G$237)",Jake Lucky,Gaming news,IND,9,10,=E37*F37,Yes,"⭐ Fast, high quote-tweet"
+"=RANK(G38,G$10:G$237)",Kai Cenat,Mega creator,IND,9,10,=E38*F38,Caution,⭐ Mafiathon convening
+"=RANK(G39,G$10:G$237)",Libs of TikTok,Politics,NEWS,9,10,=E39*F39,No,
+"=RANK(G40,G$10:G$237)",MeidasTouch,Politics,NEWS,9,10,=E40*F40,No,
+"=RANK(G41,G$10:G$237)",NBA,Basketball,LEAGUE,9,10,=E41*F41,Yes,
+"=RANK(G42,G$10:G$237)",NBA Memes,Basketball,AGG,9,10,=E42*F42,Yes,
+"=RANK(G43,G$10:G$237)",NFL,Football,LEAGUE,9,10,=E43*F43,Yes,
+"=RANK(G44,G$10:G$237)",Occupy Democrats,Politics,NEWS,9,10,=E44*F44,No,
+"=RANK(G45,G$10:G$237)",Pat McAfee Show,Sports,POD,9,10,=E45*F45,Yes,⭐ ESPN platform + clip machine
+"=RANK(G46,G$10:G$237)",SportsCenter / ESPN,Sports,AGG,9,10,=E46*F46,Yes,Earned-media multiplier more than a share engine
+"=RANK(G47,G$10:G$237)",UFC,Combat,LEAGUE,9,10,=E47*F47,Caution,
+"=RANK(G48,G$10:G$237)",Worldstar (WSHH),Culture,AGG,9,10,=E48*F48,No,Brand hazard for a school partner
+"=RANK(G49,G$10:G$237)",AOC,Politics,IND,9,9,=E49*F49,No,
+"=RANK(G50,G$10:G$237)",Angel Reese,Basketball,IND,9,9,=E50*F50,Yes,"⭐ Daily, hoops-native, culturally hot"
+"=RANK(G51,G$10:G$237)",Ballislife,Basketball,AGG,9,9,=E51*F51,Yes,⭐ Grassroots/HS hoops native
+"=RANK(G52,G$10:G$237)",Caleb Simpson,Creator,IND,9,9,=E52*F52,Yes,⭐ Apartment-tour format; very high share
+"=RANK(G53,G$10:G$237)",Cam Wilder,Hoops creator,IND,9,9,=E53*F53,Yes,⭐⭐ Hoop Diaries = real-time team-season content
+"=RANK(G54,G$10:G$237)",Deestroying,Sports creator,IND,9,9,=E54*F54,Yes,⭐⭐ Lost NCAA eligibility over YouTube money — IS the NIL story
+"=RANK(G55,G$10:G$237)",DiscussingFilm,Film,AGG,9,9,=E55*F55,Yes,
+"=RANK(G56,G$10:G$237)",Dudes Posting Their Ws,Memes,AGG,9,9,=E56*F56,Caution,
+"=RANK(G57,G$10:G$237)",Film Updates,Film,AGG,9,9,=E57*F57,Yes,
+"=RANK(G58,G$10:G$237)",No Context Humans,Memes,AGG,9,9,=E58*F58,Caution,
+"=RANK(G59,G$10:G$237)",SLAM,Basketball,AGG,9,9,=E59*F59,Yes,⭐ Culture authority in hoops
+"=RANK(G60,G$10:G$237)",Shannon Sharpe / Nightcap,Sports,POD,9,9,=E60*F60,Caution,⭐ Most memeable reactions in sports
+"=RANK(G61,G$10:G$237)",Stephen A. Smith,Sports,IND,9,9,=E61*F61,Yes,
+"=RANK(G62,G$10:G$237)",That Little Puff,Pets,IND,9,9,=E62*F62,Yes,Pure share format
+"=RANK(G63,G$10:G$237)",Theo Von,Comedy,IND,9,9,=E63*F63,Yes,⭐ Clip format is elite right now
+"=RANK(G64,G$10:G$237)",Kareem Rahma / SubwayTakes,Creator,IND,10,8,=E64*F64,Yes,⭐⭐ One of the most-shared formats in America
+"=RANK(G65,G$10:G$237)",Keith Lee,Food,IND,10,8,=E65*F65,Yes,⭐⭐ Moves entire cities. Enormous civic share effect
+"=RANK(G66,G$10:G$237)",Adin Ross,Mega creator,IND,8,10,=E66*F66,No,Brand hazard
+"=RANK(G67,G$10:G$237)",Autism Capital,Culture/news,NEWS,8,10,=E67*F67,No,
+"=RANK(G68,G$10:G$237)",Buckets,Basketball,AGG,8,10,=E68*F68,Yes,
+"=RANK(G69,G$10:G$237)",Complex,Culture,AGG,8,10,=E69*F69,Yes,
+"=RANK(G70,G$10:G$237)",Disclose.tv,News,NEWS,8,10,=E70*F70,Caution,
+"=RANK(G71,G$10:G$237)",Dom Lucre,Politics,NEWS,8,10,=E71*F71,No,
+"=RANK(G72,G$10:G$237)",Ian Miles Cheong,Politics,NEWS,8,10,=E72*F72,No,
+"=RANK(G73,G$10:G$237)",Jynxzi,Creator,IND,8,10,=E73*F73,Yes,
+"=RANK(G74,G$10:G$237)",Legion Hoops,Basketball,AGG,8,10,=E74*F74,Yes,Cheap
+"=RANK(G75,G$10:G$237)",Mario Nawfal,News,NEWS,8,10,=E75*F75,Caution,
+"=RANK(G76,G$10:G$237)",Plaqueboymax,Creator,IND,8,10,=E76*F76,Caution,
+"=RANK(G77,G$10:G$237)",The Spectator Index,News,NEWS,8,10,=E77*F77,Yes,
+"=RANK(G78,G$10:G$237)",Unusual Whales,Finance,AGG,8,10,=E78*F78,Yes,⭐ Retail-investor audience — relevant to fan funding
+"=RANK(G79,G$10:G$237)",WWE,Wrestling,LEAGUE,8,10,=E79*F79,Yes,
+"=RANK(G80,G$10:G$237)",Wall Street Apes,Politics,NEWS,8,10,=E80*F80,No,
+"=RANK(G81,G$10:G$237)",Zerohedge,Finance/news,NEWS,8,10,=E81*F81,Caution,
+"=RANK(G82,G$10:G$237)",Nara Smith,Lifestyle,IND,9,8,=E82*F82,Caution,⭐ Outrage-driven share rate
+"=RANK(G83,G$10:G$237)",Betches,Lifestyle,AGG,8,9,=E83*F83,Yes,
+"=RANK(G84,G$10:G$237)",Big Cat (Dan Katz),Sports,IND,8,9,=E84*F84,Yes,
+"=RANK(G85,G$10:G$237)",Chad Johnson,Sports,IND,8,9,=E85*F85,Yes,Hyper-available
+"=RANK(G86,G$10:G$237)",Chicks in the Office,Culture,POD,8,9,=E86*F86,Caution,Barstool
+"=RANK(G87,G$10:G$237)",Dime / Uproxx Sports,Basketball,AGG,8,9,=E87*F87,Yes,
+"=RANK(G88,G$10:G$237)",DramaAlert / Keemstar,Creator news,IND,8,9,=E88*F88,Caution,
+"=RANK(G89,G$10:G$237)",Duke Dennis,Hoops creator,IND,8,9,=E89*F89,Yes,AMP
+"=RANK(G90,G$10:G$237)",Field of 68,College hoops,AGG,8,9,=E90*F90,Yes,"⭐⭐ College-basketball native. Small, perfect fit"
+"=RANK(G91,G$10:G$237)",Flau'jae Johnson,Basketball,IND,8,9,=E91*F91,Yes,⭐⭐ Rapper + starting guard. Purpose-built fit
+"=RANK(G92,G$10:G$237)",FlightReacts,Hoops creator,IND,8,9,=E92*F92,Yes,
+"=RANK(G93,G$10:G$237)",Golden Balance,Food,IND,8,9,=E93*F93,Yes,
+"=RANK(G94,G$10:G$237)",HotNewHipHop,Music,AGG,8,9,=E94*F94,Caution,
+"=RANK(G95,G$10:G$237)",Jake Paul,Mega creator,IND,8,9,=E95*F95,Caution,Built MVP — understands the model
+"=RANK(G96,G$10:G$237)",Jesser,Hoops creator,IND,8,9,=E96*F96,Yes,2HYPE
+"=RANK(G97,G$10:G$237)",Livvy Dunne,Athlete-creator,IND,8,9,=E97*F97,Yes,⭐ NIL's defining face
+"=RANK(G98,G$10:G$237)",Logan Paul,Mega creator,IND,8,9,=E98*F98,Caution,
+"=RANK(G99,G$10:G$237)",Netflix US,Platform,AGG,8,9,=E99*F99,Yes,"⭐ Relevant as a BUYER, not a partner"
+"=RANK(G100,G$10:G$237)",No Jumper,Music,AGG,8,9,=E100*F100,No,
+"=RANK(G101,G$10:G$237)",Overtime Elite,Basketball,AGG,8,9,=E101*F101,Yes,
+"=RANK(G102,G$10:G$237)",Owen Han,Food,IND,8,9,=E102*F102,Yes,
+"=RANK(G103,G$10:G$237)",PFT Commenter,Sports,IND,8,9,=E103*F103,Yes,"⭐ ~1M followers, top-30 velocity"
+"=RANK(G104,G$10:G$237)",Pardon My Take,Sports,POD,8,9,=E104*F104,Yes,Barstool
+"=RANK(G105,G$10:G$237)",Pat Beverley,Sports,IND,8,9,=E105*F105,Yes,
+"=RANK(G106,G$10:G$237)",Skip Bayless,Sports,IND,8,9,=E106*F106,Caution,"Daily volume, declining relevance"
+"=RANK(G107,G$10:G$237)",HasanAbi,Creator,IND,7,10,=E107*F107,No,Politically polarizing
+"=RANK(G108,G$10:G$237)",Jon Rothstein,College hoops,IND,7,10,=E108*F108,Yes,⭐ The college hoops newswire
+"=RANK(G109,G$10:G$237)",Tyler1,Creator,IND,7,10,=E109*F109,Caution,
+"=RANK(G110,G$10:G$237)",YourRAGE,Creator,IND,7,10,=E110*F110,Yes,
+"=RANK(G111,G$10:G$237)",Andrew Schulz,Comedy,IND,8,8,=E111*F111,Caution,
+"=RANK(G112,G$10:G$237)",Bert Kreischer,Comedy,IND,8,8,=E112*F112,Yes,Very available
+"=RANK(G113,G$10:G$237)",Brittany Broski,Creator,IND,8,8,=E113*F113,Yes,
+"=RANK(G114,G$10:G$237)",Cash Nasty,Hoops creator,IND,8,8,=E114*F114,Yes,2HYPE
+"=RANK(G115,G$10:G$237)",DeuxMoi,Gossip,AGG,8,8,=E115*F115,No,
+"=RANK(G116,G$10:G$237)",Draymond Green,Sports,IND,8,8,=E116*F116,Caution,Active player
+"=RANK(G117,G$10:G$237)",Drew Afualo,Creator,IND,8,8,=E117*F117,Caution,
+"=RANK(G118,G$10:G$237)",Filayyyy,Hoops creator,IND,8,8,=E118*F118,Yes,
+"=RANK(G119,G$10:G$237)",Flagrant,Comedy,POD,8,8,=E119*F119,Caution,Schulz
+"=RANK(G120,G$10:G$237)",Gillie Da Kid,Podcast,IND,8,8,=E120*F120,Caution,⭐⭐ North Philly
+"=RANK(G121,G$10:G$237)",Jake Shane,Creator,IND,8,8,=E121*F121,Yes,
+"=RANK(G122,G$10:G$237)",Jalen Rose,Sports,IND,8,8,=E122*F122,Yes,
+"=RANK(G123,G$10:G$237)",Jelly Roll,Music,IND,8,8,=E123*F123,Yes,⭐ Belmont target; underdog authenticity
+"=RANK(G124,G$10:G$237)",Kevin Hart,Celebrity,IND,8,8,=E124*F124,Yes,⭐ Philly + Blue Coats co-owner
+"=RANK(G125,G$10:G$237)",Kill Tony,Comedy,POD,8,8,=E125*F125,Caution,
+"=RANK(G126,G$10:G$237)",Marcelas Howard,Hoops creator,IND,8,8,=E126*F126,Yes,
+"=RANK(G127,G$10:G$237)",March Madness (NCAA),College hoops,LEAGUE,8,8,=E127*F127,Yes,"Seasonal, enormous in March"
+"=RANK(G128,G$10:G$237)",Matt Rife,Comedy,IND,8,8,=E128*F128,Caution,
+"=RANK(G129,G$10:G$237)",Million Dollaz Worth of Game,Podcast,POD,8,8,=E129*F129,Caution,⭐⭐ Gillie + Wallo. North Philly natives
+"=RANK(G130,G$10:G$237)",Nick DiGiovanni,Food,IND,8,8,=E130*F130,Yes,Harvard; New England tie
+"=RANK(G131,G$10:G$237)",Tini Younger,Food,IND,8,8,=E131*F131,Yes,
+"=RANK(G132,G$10:G$237)",Tom Segura / YMH,Comedy,POD,8,8,=E132*F132,Caution,
+"=RANK(G133,G$10:G$237)",Tristan Jass,Hoops creator,IND,8,8,=E133*F133,Yes,
+"=RANK(G134,G$10:G$237)",Wallo267,Podcast,IND,8,8,=E134*F134,Yes,⭐⭐ North Philly. Redemption brand = MC's own theme
+"=RANK(G135,G$10:G$237)",XXL,Music,AGG,8,8,=E135*F135,Caution,
+"=RANK(G136,G$10:G$237)",Caitlin Clark,Basketball,IND,9,7,=E136*F136,Yes,⭐ Tribal share rate is extraordinary
+"=RANK(G137,G$10:G$237)",Club Shay Shay,Podcast,POD,9,7,=E137*F137,Yes,
+"=RANK(G138,G$10:G$237)",Agent00,Creator,IND,7,9,=E138*F138,Yes,AMP
+"=RANK(G139,G$10:G$237)",Alix Earle,Lifestyle,IND,7,9,=E139*F139,Yes,
+"=RANK(G140,G$10:G$237)",CBS Sports CBB,College hoops,AGG,7,9,=E140*F140,Yes,
+"=RANK(G141,G$10:G$237)",Colin Cowherd,Sports,IND,7,9,=E141*F141,Yes,Built The Volume
+"=RANK(G142,G$10:G$237)",Fanum,Creator,IND,7,9,=E142*F142,Yes,AMP
+"=RANK(G143,G$10:G$237)",Haley Kalil,Lifestyle,IND,7,9,=E143*F143,Caution,
+"=RANK(G144,G$10:G$237)",Jack Mac,Sports,IND,7,9,=E144*F144,Yes,Barstool
+"=RANK(G145,G$10:G$237)",Kirk Minihane,Sports,IND,7,9,=E145*F145,Caution,Massachusetts
+"=RANK(G146,G$10:G$237)",Sexyy Red,Music,IND,7,9,=E146*F146,No,
+"=RANK(G147,G$10:G$237)",Snoop Dogg,Music,IND,7,9,=E147*F147,Yes,⭐ Youth league founder; shows up
+"=RANK(G148,G$10:G$237)",Stadium College Hoops,College hoops,AGG,7,9,=E148*F148,Yes,
+"=RANK(G149,G$10:G$237)",Trill Withers,College sports,IND,7,9,=E149*F149,Yes,Barstool
+"=RANK(G150,G$10:G$237)",Trisha Paytas,Creator,IND,7,9,=E150*F150,No,
+"=RANK(G151,G$10:G$237)",Gary Vaynerchuk,Business,IND,6,10,=E151*F151,Yes,Gives intros away free
+"=RANK(G152,G$10:G$237)",xQc,Mega creator,IND,6,10,=E152*F152,Caution,
+"=RANK(G153,G$10:G$237)",Joe Rogan Experience,Podcast,POD,8,7,=E153*F153,Caution,Biggest gateway in podcasting
+"=RANK(G154,G$10:G$237)",New Heights (Kelce),Sports,POD,8,7,=E154*F154,Yes,⭐ Jason Kelce = Philly
+"=RANK(G155,G$10:G$237)",Shane Gillis,Comedy,IND,8,7,=E155*F155,Caution,Philly-area roots
+"=RANK(G156,G$10:G$237)",Bussin' With The Boys,Football,POD,7,8,=E156*F156,Yes,Compton + Lewan
+"=RANK(G157,G$10:G$237)",Call Her Daddy / Alex Cooper,Podcast,POD,7,8,=E157*F157,Yes,⭐ Built Unwell; women's sports credibility
+"=RANK(G158,G$10:G$237)",Cameron Brink,Basketball,IND,7,8,=E158*F158,Yes,Podcast host
+"=RANK(G159,G$10:G$237)",Cardi B,Music,IND,7,8,=E159*F159,Caution,
+"=RANK(G160,G$10:G$237)",GloRilla,Music,IND,7,8,=E160*F160,Caution,
+"=RANK(G161,G$10:G$237)",Hailey Van Lith,Basketball,IND,7,8,=E161*F161,Yes,Serial transfer — a story herself
+"=RANK(G162,G$10:G$237)",Ice Spice,Music,IND,7,8,=E162*F162,Caution,
+"=RANK(G163,G$10:G$237)",ImDavisss,Hoops creator,IND,7,8,=E163*F163,Yes,
+"=RANK(G164,G$10:G$237)",Joe Lunardi / Bracketology,College hoops,IND,7,8,=E164*F164,Yes,
+"=RANK(G165,G$10:G$237)",Ludwig,Creator,IND,7,8,=E165*F165,Yes,⭐ Produces live events
+"=RANK(G166,G$10:G$237)",Magic Johnson,Business,IND,7,8,=E166*F166,Yes,Understands the capital structure
+"=RANK(G167,G$10:G$237)",Nicki Minaj,Music,IND,7,8,=E167*F167,Caution,
+"=RANK(G168,G$10:G$237)",Shaquille O'Neal,Basketball,IND,7,8,=E168*F168,Yes,Famously says yes
+"=RANK(G169,G$10:G$237)",Spittin' Chiclets,Hockey,POD,7,8,=E169*F169,Yes,Ryan Whitney — Scituate MA
+"=RANK(G170,G$10:G$237)",Tyrese Haliburton,Basketball,IND,7,8,=E170*F170,Yes,Extremely online
+"=RANK(G171,G$10:G$237)",Ballerina Farm,Lifestyle,IND,9,6,=E171*F171,Caution,
+"=RANK(G172,G$10:G$237)",DJ Khaled,Music,IND,6,9,=E172*F172,Yes,⭐ Assembling stars IS his art form
+"=RANK(G173,G$10:G$237)",Kevin Durant,Basketball,IND,6,9,=E173*F173,Caution,Boardroom + 35V
+"=RANK(G174,G$10:G$237)",Mark Cuban,Business,IND,6,9,=E174*F174,Yes,⭐⭐ Answers email himself
+"=RANK(G175,G$10:G$237)",Rick Ross,Music,IND,6,9,=E175*F175,Caution,
+"=RANK(G176,G$10:G$237)",Airrack,Creator,IND,7,7,=E176*F176,Yes,
+"=RANK(G177,G$10:G$237)",Bobbi Althoff,Creator,IND,7,7,=E177*F177,Caution,
+"=RANK(G178,G$10:G$237)",Bobby Lee,Comedy,IND,7,7,=E178*F178,Caution,
+"=RANK(G179,G$10:G$237)",Ja Morant,Basketball,IND,7,7,=E179*F179,Caution,⭐ Murray State — literal mid-major Cinderella
+"=RANK(G180,G$10:G$237)",Jordan Lawley,Hoops creator,IND,7,7,=E180*F180,Yes,Trainer; player access
+"=RANK(G181,G$10:G$237)",Joshua Weissman,Food,IND,7,7,=E181*F181,Yes,
+"=RANK(G182,G$10:G$237)",Kris London,Hoops creator,IND,7,7,=E182*F182,Yes,2HYPE
+"=RANK(G183,G$10:G$237)",Marshawn Lynch,Football,IND,7,7,=E183*F183,Yes,"Beloved, available"
+"=RANK(G184,G$10:G$237)",Master P,Music,IND,7,7,=E184*F184,Yes,⭐ Has run programs and NIL ventures
+"=RANK(G185,G$10:G$237)",Nick Briz,Hoops creator,IND,7,7,=E185*F185,Yes,
+"=RANK(G186,G$10:G$237)",Paige Bueckers,Basketball,IND,7,7,=E186*F186,Yes,
+"=RANK(G187,G$10:G$237)",Russell Westbrook,Basketball,IND,7,7,=E187*F187,Yes,
+"=RANK(G188,G$10:G$237)",Ryan Trahan,Creator,IND,7,7,=E188*F188,Yes,
+"=RANK(G189,G$10:G$237)",Trae Young,Basketball,IND,7,7,=E189*F189,Yes,
+"=RANK(G190,G$10:G$237)",Michelle Khare,Creator,IND,8,6,=E190*F190,Yes,⭐ Challenge format; MC-adjacent
+"=RANK(G191,G$10:G$237)",The Professor,Hoops creator,IND,8,6,=E191*F191,Yes,
+"=RANK(G192,G$10:G$237)",Carmelo Anthony,Business,IND,6,8,=E192*F192,Yes,"Retired, available, daily voice"
+"=RANK(G193,G$10:G$237)",Dwyane Wade,Business,IND,6,8,=E193*F193,Yes,Produces; WNBA stake
+"=RANK(G194,G$10:G$237)",FaZe Rug,Mega creator,IND,6,8,=E194*F194,Yes,
+"=RANK(G195,G$10:G$237)",Lil Yachty,Music,IND,6,8,=E195*F195,Caution,
+"=RANK(G196,G$10:G$237)",Megan Thee Stallion,Music,IND,6,8,=E196*F196,Yes,Texas Southern alum
+"=RANK(G197,G$10:G$237)",Michael Rubin,Business,IND,6,8,=E197*F197,Yes,"⭐⭐ Convening is his product. Low share, max connectivity"
+"=RANK(G198,G$10:G$237)",MrBeast,Mega creator,IND,6,8,=E198*F198,Yes,"Watched, not shared — YouTube share rate is weak"
+"=RANK(G199,G$10:G$237)",Nadeshot,Org builder,IND,6,8,=E199*F199,Yes,Built 100 Thieves by recruiting
+"=RANK(G200,G$10:G$237)",Ninja,Creator,IND,6,8,=E200*F200,Yes,
+"=RANK(G201,G$10:G$237)",Pokimane,Creator,IND,6,8,=E201*F201,Yes,
+"=RANK(G202,G$10:G$237)",Sean O'Malley,Combat,IND,6,8,=E202*F202,Caution,
+"=RANK(G203,G$10:G$237)",Valkyrae,Creator,IND,6,8,=E203*F203,Yes,100 Thieves co-owner
+"=RANK(G204,G$10:G$237)",Anthony Edwards,Basketball,IND,7,6,=E204*F204,Yes,Best young personality
+"=RANK(G205,G$10:G$237)",JuJu Watkins,Basketball,IND,7,6,=E205*F205,Caution,Still enrolled — NIL complexity
+"=RANK(G206,G$10:G$237)",Quinta Brunson,Creator-showrunner,IND,7,6,=E206*F206,Yes,⭐ West Philly; Abbott Elementary
+"=RANK(G207,G$10:G$237)",Victor Wembanyama,Basketball,IND,7,6,=E207*F207,Yes,
+"=RANK(G208,G$10:G$237)",2 Chainz,Music,IND,6,7,=E208*F208,Yes,Played college basketball
+"=RANK(G209,G$10:G$237)",Cody Rhodes,Wrestling,IND,6,7,=E209*F209,Yes,
+"=RANK(G210,G$10:G$237)",Conor McGregor,Combat,IND,6,7,=E210*F210,No,Brand risk
+"=RANK(G211,G$10:G$237)",Jalen Brunson,Basketball,IND,6,7,=E211*F211,Yes,Villanova
+"=RANK(G212,G$10:G$237)",Quavo,Music,IND,6,7,=E212*F212,Yes,Celebrity-game regular
+"=RANK(G213,G$10:G$237)",Rhea Ripley,Wrestling,IND,6,7,=E213*F213,Yes,
+"=RANK(G214,G$10:G$237)",Rob McElhenney,Owner-operator,IND,6,7,=E214*F214,Yes,⭐⭐ Philadelphia native. The accessible half
+"=RANK(G215,G$10:G$237)",Ryan Reynolds,Owner-operator,IND,6,7,=E215*F215,Yes,⭐⭐ THE proof case. May decline — owns it already
+"=RANK(G216,G$10:G$237)",Triple H,Wrestling,IND,6,7,=E216*F216,Yes,⭐ Runs WWE talent — he IS a network
+"=RANK(G217,G$10:G$237)",Will Smith,Celebrity,IND,6,7,=E217*F217,Yes,West Philly
+"=RANK(G218,G$10:G$237)",Bad Bunny,Music,IND,6,6,=E218*F218,Yes,
+"=RANK(G219,G$10:G$237)",Drake,Music,IND,6,6,=E219*F219,Caution,
+"=RANK(G220,G$10:G$237)",Dude Perfect,Creator,IND,6,6,=E220*F220,Yes,
+"=RANK(G221,G$10:G$237)",Jack Harlow,Music,IND,6,6,=E221*F221,Yes,Louisville; hoops obsessive
+"=RANK(G222,G$10:G$237)",John Cena,Wrestling,IND,6,6,=E222*F222,Yes,UMass target
+"=RANK(G223,G$10:G$237)",LeBron James,Basketball,IND,6,6,=E223*F223,Yes,Availability floor
+"=RANK(G224,G$10:G$237)",Markiplier,Creator,IND,6,6,=E224*F224,Yes,
+"=RANK(G225,G$10:G$237)",Morgan Wallen,Music,IND,6,6,=E225*F225,Caution,Biggest country audience
+"=RANK(G226,G$10:G$237)",Post Malone,Music,IND,6,6,=E226*F226,Yes,North Texas
+"=RANK(G227,G$10:G$237)",Roman Reigns,Wrestling,IND,6,6,=E227*F227,Yes,
+"=RANK(G228,G$10:G$237)",Smartless,Podcast,POD,6,6,=E228*F228,Yes,
+"=RANK(G229,G$10:G$237)",Stephen Curry,Basketball,IND,6,6,=E229*F229,Yes,Already attached (verbal)
+"=RANK(G230,G$10:G$237)",Travis Scott,Music,IND,6,6,=E230*F230,Caution,
+"=RANK(G231,G$10:G$237)",Lil Dicky,Creator-showrunner,IND,7,5,=E231*F231,Yes,YouTube viral -> Dave on FX. Philly suburb
+"=RANK(G232,G$10:G$237)",Lex Fridman,Podcast,POD,6,5,=E232*F232,Yes,MIT / Cambridge
+"=RANK(G233,G$10:G$237)",Allen Iverson,Sports,IND,7,4,=E233*F233,Yes,⭐⭐ Philly deity. Low cadence
+"=RANK(G234,G$10:G$237)",Mark Rober,Creator,IND,7,4,=E234*F234,Yes,
+"=RANK(G235,G$10:G$237)",Charles Barkley,Sports,IND,9,3,=E235*F235,Yes,⭐ TV clips shared hugely; tiny social
+"=RANK(G236,G$10:G$237)",Taylor Swift,Music,IND,6,4,=E236*F236,Yes,Fandom shares intensely; zero availability
+"=RANK(G237,G$10:G$237)",Kendrick Lamar,Music,IND,6,3,=E237*F237,Yes,2024 beef drove record share volume
