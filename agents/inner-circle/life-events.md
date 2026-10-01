@@ -2,7 +2,7 @@
 
 Public-clean. Distilled from `people.md`, Drive iMessage dumps, and Norman. No phones/emails/addresses.
 
-**Last Inner Circle pass:** 2026-09-21 (weekday morning pulse; imessage-latest.json through Sep 20 ~11:00pm ET)
+**Last Inner Circle pass:** 2026-10-01 (weekday morning pulse; imessage-latest.json through Sep 30 ~9:30pm ET; Drive mtime Oct 1 ~7:26am ET)
 
 ## Confirmed
 
@@ -23,14 +23,15 @@ Public-clean. Distilled from `people.md`, Drive iMessage dumps, and Norman. No p
 
 ### Kim — minor procedure / stitches (~2026-09-16)
 - **~2026-09-16:** Norman reported Kim was okay after something involving **stitches** ("stitches were ugly"); a close contact checked in and sent best wishes.
-- Status as of texts: okay. Keep factual and private — no gossip; no details invented.
+- Status as of texts: okay. Keep factual and private — no gossip; no details invented. No new health signal in Sep 30 dump.
 
 ### Parents (Norman David & Brenda) — move to Padanaram / Mattapoisett area
 - Spring 2026: house hunt in Mattapoisett/Padanaram area; nearly lost then re-offered; rented there for July while still selling prior house.
 - 2026-08-05: Norman — parents "in the process of selling their house - moving to Padanaram"; he was helping.
 - **2026-09-15:** Norman texted that **parents sold the house** while cleaning out the garage; same day he and Kim heading to Dartmouth to **finish moving** (Kim on home-design help).
-- Destination remains Padanaram/Mattapoisett area (prior hunt place). Exact "fully settled" / cards-and-gifts address still treat carefully — keep street-level PII out of public vault.
-- **Status:** prior house sold; move finishing as of mid-Sep 2026. No settle-confirmed / housewarming-ready signal in Sep 18–20 dumps.
+- **2026-09-30 (NEW):** Cold outreach from a local property-investment firm about the family Dartmouth house. Norman said selling **soon**, ballpark **~$700k+**, and referred them to family for an afternoon call. Treat earlier "sold ~Sep 15" as **premature or contingent** — sale still appears **open** as of Sep 30. No settle-confirmed / housewarming-ready signal.
+- Destination remains Padanaram/Mattapoisett area (prior hunt place). Keep street-level PII out of public vault.
+- **Status (as of 2026-10-01 pulse):** prior-house sale still open / unfinished; Padanaram move in progress; housewarming not ready.
 
 ### Standing people.md facts
 - **Kim D'Agostino** — partner since 2018-02-18; birthday 1987-01-12; Wellesley.
@@ -38,18 +39,18 @@ Public-clean. Distilled from `people.md`, Drive iMessage dumps, and Norman. No p
 - **Brenda** — birthday 1957-05-19; remission noted (keep factual).
 - **Dad** — birthday 1956-12-22; Bay Club gate guard.
 
-## Dump notes (imessage-latest / 2026-09-21 pulse = through Sep 20 ~23:00 ET)
+## Dump notes (imessage-latest / 2026-10-01 pulse = through Sep 30 ~21:30 ET)
 
-- Fresher than prior Sep 18 pulse (which covered through Sep 17 evening).
-- **NEW durable IC signal:** Tommy baptism **2026-11-29** St Mary's Scituate + small house after.
-- No new baby announcements; no parents settle-confirmed; no Erica/Zach gift-life updates beyond soft opens already on Plan; Kristin/Kim items unchanged.
+- FRESH dump: 65 msgs; latest Sep 30 ~9:30pm ET; Drive mtime Oct 1 ~7:26am ET.
+- **NEW durable IC signal:** parents' Dartmouth house sale still open as of Sep 30 (buyer outreach facilitated; ~$700k+).
+- No new baby / baptism / Erica birthday / Zach updates; Kristin/Kim health items unchanged (do not reopen).
 - BD/Cinderella / agency / fundraising / betting chatter in dumps is out of scope for Inner Circle.
 
 ## Still soft / follow later
 
-- Housewarming gift once Norman confirms settle is "done."
+- Housewarming gift once Norman confirms settle is "done" (sale still open as of Sep 30).
 - Any leftover gift obligations for Lillian Mae or Thomas Patrick? (Plan rows Status Idea as of 2026-09-16.)
-- Erica birthday 2026-10-26 — pick Gift Target by ~Oct 12 (Plan row Status Idea).
+- Erica birthday 2026-10-26 — pick Gift Target by ~Oct 12 (Plan row Status Idea; ~11 days as of Oct 1).
 - Tommy baptism 2026-11-29 — calendar / attend; optional gift TBD (Plan row added 2026-09-21).
 - Dad birthday 2026-12-22 — Gift Target TBD.
 - College-crew holiday gift coverage if Norman wants it.
