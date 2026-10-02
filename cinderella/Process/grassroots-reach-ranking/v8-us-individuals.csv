@@ -1,0 +1,387 @@
+US INDIVIDUAL ACCOUNTS RANKED BY SHARE VELOCITY
+"Built top-down from the country. NOT filtered or scored for Making Cinderella — the prior version was, and that was the error."
+⚠️ ESTIMATES. Share counts are not public on most platforms. SHARE is an ABSOLUTE scale: estimated shares/retweets on a typical well-performing post.
+"SHARE  10 = >500k (Trump, Musk) · 9 = 100-500k · 8 = 30-100k · 7 = 10-30k · 6 = 3-10k · 5 = 1-3k · 4 = 300-1k · 3 = <300"
+⭐ EST_SHARES_PER_DAY is the ranking metric = (est. shares per post) x (est. posts per day).
+"⚠️ Multiplying the 1-10 indexes together was WRONG and produced the previous bad ranking: SHARE is logarithmic and cadence is linear, so a ~250x real gap between Trump and a niche account compressed into 2x. Hence absolute units."
+Conversion — SHARE: 10=750k 9=250k 8=55k 7=18k 6=6k 5=1.8k 4=600 3=200 shares/post. Cadence: 10=8 9=4 8=2 7=1 6=0.5 5=0.3 4=0.15 3=0.07 2=0.03 1=0.01 posts/day.
+"SCOPE: individuals only. No aggregators, brands, leagues or podcast properties — no Barstool, House of Highlights, NBA, Pardon My Take, Dude Perfect, Sidemen. A podcast HOST is in; the show is not."
+"US-based. Non-US-born athletes in US leagues are included and flagged (Ohtani, Giannis, Wembanyama, Doncic, SGA). Fully non-US accounts excluded (Ronaldo, Messi, KSI, Khaby, McGregor, Adesanya, Peterson)."
+"⚠️ Avowed extremist accounts are omitted — an editorial call, stated so it is visible. ⚠️ NOT EXHAUSTIVE: an estimated top ~370, not every individual account in America."
+In_MC_List is neutral cross-reference metadata only. It does NOT affect the ranking.
+"Overwrite any SHARE or Cadence cell to substitute your own judgment; the per-post / per-day columns are lookups you can also overwrite, and Rank recalculates."
+
+Rank,Name,Category,SHARE_1_10,Cadence_1_10,Est_Shares_Per_Post,Est_Posts_Per_Day,EST_SHARES_PER_DAY,In_MC_List,Note
+"=RANK(H14,H$14:H$386)",Donald Trump,Politics,10,10,750000,8,=F14*G14,,⭐ Nothing in America is close. Every post is a news event
+"=RANK(H15,H$14:H$386)",Elon Musk,Business / politics,10,10,750000,8,=F15*G15,Yes,⭐ Highest raw retweet volume on X most days
+"=RANK(H16,H$14:H$386)",Charlie Kirk,Politics,9,10,250000,8,=F16*G16,,
+"=RANK(H17,H$14:H$386)",IShowSpeed,Creator,9,10,250000,8,=F17*G17,,⭐ Clip economy — thousands of accounts repost him
+"=RANK(H18,H$14:H$386)",Kai Cenat,Creator,9,10,250000,8,=F18*G18,,
+"=RANK(H19,H$14:H$386)",AOC,Politics,9,9,250000,4,=F19*G19,,
+"=RANK(H20,H$14:H$386)",Ben Shapiro,Politics,9,9,250000,4,=F20*G20,,
+"=RANK(H21,H$14:H$386)",Candace Owens,Politics,9,9,250000,4,=F21*G21,,
+"=RANK(H22,H$14:H$386)",JD Vance,Politics,9,8,250000,2,=F22*G22,,
+"=RANK(H23,H$14:H$386)",MrBeast,Creator,9,7,250000,1,=F23*G23,Yes,"Enormous, but YouTube share mechanics are weak"
+"=RANK(H24,H$14:H$386)",Tucker Carlson,Media / politics,9,7,250000,1,=F24*G24,,
+"=RANK(H25,H$14:H$386)",Druski,Creator,8,9,55000,4,=F25*G25,,Content engineered to be reposted
+"=RANK(H26,H$14:H$386)",Jake Paul,Creator / boxer,8,9,55000,4,=F26*G26,Yes,
+"=RANK(H27,H$14:H$386)",Logan Paul,Creator,8,9,55000,4,=F27*G27,Yes,
+"=RANK(H28,H$14:H$386)",Marjorie Taylor Greene,Politics,8,9,55000,4,=F28*G28,,
+"=RANK(H29,H$14:H$386)",Matt Walsh,Politics,8,9,55000,4,=F29*G29,,
+"=RANK(H30,H$14:H$386)",Sketch,Creator,8,9,55000,4,=F30*G30,,
+"=RANK(H31,H$14:H$386)",Adin Ross,Creator,7,10,18000,8,=F31*G31,Yes,
+"=RANK(H32,H$14:H$386)",Drake,Music,9,6,250000,0.5,=F32*G32,Yes,
+"=RANK(H33,H$14:H$386)",Ye (Kanye West),Music,9,6,250000,0.5,=F33*G33,,⚠️ Per-post share velocity may be 2nd only to Trump when active; erratic cadence
+"=RANK(H34,H$14:H$386)",Bernie Sanders,Politics,8,8,55000,2,=F34*G34,,
+"=RANK(H35,H$14:H$386)",Cardi B,Music,8,8,55000,2,=F35*G35,Yes,
+"=RANK(H36,H$14:H$386)",Nicki Minaj,Music,8,8,55000,2,=F36*G36,Yes,
+"=RANK(H37,H$14:H$386)",Angel Reese,Basketball,7,9,18000,4,=F37*G37,Yes,
+"=RANK(H38,H$14:H$386)",Bill Ackman,Finance,7,9,18000,4,=F38*G38,,⭐ Very high retweet velocity on X
+"=RANK(H39,H$14:H$386)",Deion Sanders,Coach,7,9,18000,4,=F39*G39,,⭐ Coach Prime posts are shared constantly
+"=RANK(H40,H$14:H$386)",Mark Cuban,Business,7,9,18000,4,=F40*G40,Yes,
+"=RANK(H41,H$14:H$386)",Theo Von,Comedy,7,9,18000,4,=F41*G41,Yes,
+"=RANK(H42,H$14:H$386)",Tim Pool,Politics,7,9,18000,4,=F42*G42,,
+"=RANK(H43,H$14:H$386)",Caitlin Clark,Basketball,8,7,55000,1,=F43*G43,Yes,⭐ Tribal share rate is extraordinary
+"=RANK(H44,H$14:H$386)",Dwayne Johnson,Celebrity,8,7,55000,1,=F44*G44,Yes,
+"=RANK(H45,H$14:H$386)",Joe Rogan,Podcast,8,7,55000,1,=F45*G45,Yes,
+"=RANK(H46,H$14:H$386)",Kim Kardashian,Celebrity,8,7,55000,1,=F46*G46,Yes,
+"=RANK(H47,H$14:H$386)",Kylie Jenner,Celebrity,8,7,55000,1,=F47*G47,Yes,
+"=RANK(H48,H$14:H$386)",Robert F. Kennedy Jr.,Politics,8,7,55000,1,=F48*G48,,
+"=RANK(H49,H$14:H$386)",Sabrina Carpenter,Music,8,7,55000,1,=F49*G49,,
+"=RANK(H50,H$14:H$386)",Travis Kelce,Football,8,7,55000,1,=F50*G50,,
+"=RANK(H51,H$14:H$386)",Brian Tyler Cohen,Politics,6,10,6000,8,=F51*G51,,
+"=RANK(H52,H$14:H$386)",Dave Portnoy,Media / business,6,10,6000,8,=F52*G52,Yes,
+"=RANK(H53,H$14:H$386)",HasanAbi,Creator,6,10,6000,8,=F53*G53,Yes,
+"=RANK(H54,H$14:H$386)",Jake Lucky,Creator / news,6,10,6000,8,=F54*G54,Yes,
+"=RANK(H55,H$14:H$386)",Jynxzi,Creator,6,10,6000,8,=F55*G55,Yes,
+"=RANK(H56,H$14:H$386)",Pat McAfee,Sports media,6,10,6000,8,=F56*G56,Yes,
+"=RANK(H57,H$14:H$386)",Plaqueboymax,Creator,6,10,6000,8,=F57*G57,Yes,
+"=RANK(H58,H$14:H$386)",xQc,Creator,6,10,6000,8,=F58*G58,Yes,"Canadian, US-based"
+"=RANK(H59,H$14:H$386)",Taylor Swift,Music,9,4,250000,0.15,=F59*G59,Yes,Fandom shares intensely; posts rarely
+"=RANK(H60,H$14:H$386)",Dan Bongino,Politics,7,8,18000,2,=F60*G60,,
+"=RANK(H61,H$14:H$386)",Gavin Newsom,Politics,7,8,18000,2,=F61*G61,,
+"=RANK(H62,H$14:H$386)",Keith Lee,Creator / food,7,8,18000,2,=F62*G62,Yes,⭐ Moves entire cities
+"=RANK(H63,H$14:H$386)",Kevin Hart,Celebrity,7,8,18000,2,=F63*G63,Yes,Philadelphia
+"=RANK(H64,H$14:H$386)",Megan Thee Stallion,Music,7,8,18000,2,=F64*G64,Yes,
+"=RANK(H65,H$14:H$386)",Megyn Kelly,Media / politics,7,8,18000,2,=F65*G65,,
+"=RANK(H66,H$14:H$386)",Bad Bunny,Music,8,6,55000,0.5,=F66*G66,Yes,
+"=RANK(H67,H$14:H$386)",Justin Bieber,Celebrity,8,6,55000,0.5,=F67*G67,Yes,
+"=RANK(H68,H$14:H$386)",Kamala Harris,Politics,8,6,55000,0.5,=F68*G68,,
+"=RANK(H69,H$14:H$386)",LeBron James,Basketball,8,6,55000,0.5,=F69*G69,Yes,
+"=RANK(H70,H$14:H$386)",Selena Gomez,Celebrity,8,6,55000,0.5,=F70*G70,Yes,
+"=RANK(H71,H$14:H$386)",Stephen Curry,Basketball,8,6,55000,0.5,=F71*G71,Yes,
+"=RANK(H72,H$14:H$386)",Alix Earle,Creator,6,9,6000,4,=F72*G72,Yes,
+"=RANK(H73,H$14:H$386)",Caleb Simpson,Creator,6,9,6000,4,=F73*G73,Yes,
+"=RANK(H74,H$14:H$386)",Duke Dennis,Creator,6,9,6000,4,=F74*G74,Yes,AMP
+"=RANK(H75,H$14:H$386)",Jack Posobiec,Politics,6,9,6000,4,=F75*G75,,
+"=RANK(H76,H$14:H$386)",Kevin Durant,Basketball,6,9,6000,4,=F76*G76,Yes,
+"=RANK(H77,H$14:H$386)",Laura Loomer,Politics,6,9,6000,4,=F77*G77,,
+"=RANK(H78,H$14:H$386)",Livvy Dunne,Gymnastics / creator,6,9,6000,4,=F78*G78,Yes,
+"=RANK(H79,H$14:H$386)",Michael Saylor,Finance,6,9,6000,4,=F79*G79,,
+"=RANK(H80,H$14:H$386)",Ryan Garcia,Boxing,6,9,6000,4,=F80*G80,,
+"=RANK(H81,H$14:H$386)",Sexyy Red,Music,6,9,6000,4,=F81*G81,Yes,
+"=RANK(H82,H$14:H$386)",Shannon Sharpe,Sports media,6,9,6000,4,=F82*G82,Yes,
+"=RANK(H83,H$14:H$386)",Snoop Dogg,Music,6,9,6000,4,=F83*G83,Yes,
+"=RANK(H84,H$14:H$386)",Stephen A. Smith,Sports media,6,9,6000,4,=F84*G84,Yes,
+"=RANK(H85,H$14:H$386)",Trisha Paytas,Creator,6,9,6000,4,=F85*G85,Yes,
+"=RANK(H86,H$14:H$386)",Charli D'Amelio,Creator,7,7,18000,1,=F86*G86,Yes,
+"=RANK(H87,H$14:H$386)",Doja Cat,Music,7,7,18000,1,=F87*G87,Yes,
+"=RANK(H88,H$14:H$386)",Hailey Bieber,Celebrity,7,7,18000,1,=F88*G88,,
+"=RANK(H89,H$14:H$386)",Jasmine Crockett,Politics,7,7,18000,1,=F89*G89,,
+"=RANK(H90,H$14:H$386)",Khloe Kardashian,Celebrity,7,7,18000,1,=F90*G90,Yes,
+"=RANK(H91,H$14:H$386)",Ryan Reynolds,Celebrity,7,7,18000,1,=F91*G91,Yes,"Canadian, US-based"
+"=RANK(H92,H$14:H$386)",Simone Biles,Gymnastics,7,7,18000,1,=F92*G92,Yes,
+"=RANK(H93,H$14:H$386)",Will Smith,Celebrity,7,7,18000,1,=F93*G93,Yes,West Philadelphia
+"=RANK(H94,H$14:H$386)",Zach King,Creator,7,7,18000,1,=F94*G94,Yes,
+"=RANK(H95,H$14:H$386)",Barack Obama,Politics,9,3,250000,0.07,=F95*G95,Yes,"Huge per post, very low cadence"
+"=RANK(H96,H$14:H$386)",Kendrick Lamar,Music,9,3,250000,0.07,=F96*G96,Yes,2024 beef produced record single-post share volume
+"=RANK(H97,H$14:H$386)",Ariana Grande,Music,8,5,55000,0.3,=F97*G97,Yes,
+"=RANK(H98,H$14:H$386)",Billie Eilish,Music,8,5,55000,0.3,=F98*G98,Yes,
+"=RANK(H99,H$14:H$386)",Joe Biden,Politics,8,5,55000,0.3,=F99*G99,,
+"=RANK(H100,H$14:H$386)",Brandon Walker,Sports media,5,10,1800,8,=F100*G100,Yes,⚠️ Was 4th in the prior build. Honest placement is here
+"=RANK(H101,H$14:H$386)",Gary Vaynerchuk,Business,5,10,1800,8,=F101*G101,Yes,
+"=RANK(H102,H$14:H$386)",Harry Sisson,Politics,5,10,1800,8,=F102*G102,,
+"=RANK(H103,H$14:H$386)",Tyler1,Creator,5,10,1800,8,=F103*G103,Yes,
+"=RANK(H104,H$14:H$386)",YourRAGE,Creator,5,10,1800,8,=F104*G104,Yes,
+"=RANK(H105,H$14:H$386)",Alex Cooper,Podcast,6,8,6000,2,=F105*G105,Yes,Bucks County PA; Boston University
+"=RANK(H106,H$14:H$386)",Andrew Schulz,Comedy,6,8,6000,2,=F106*G106,Yes,
+"=RANK(H107,H$14:H$386)",Brittany Broski,Creator,6,8,6000,2,=F107*G107,Yes,
+"=RANK(H108,H$14:H$386)",Caleb Pressley,Sports creator,6,8,6000,2,=F108*G108,Yes,
+"=RANK(H109,H$14:H$386)",DDG,Creator / music,6,8,6000,2,=F109*G109,,
+"=RANK(H110,H$14:H$386)",Dana White,Business,6,8,6000,2,=F110*G110,,Boston-adopted
+"=RANK(H111,H$14:H$386)",Draymond Green,Basketball / media,6,8,6000,2,=F111*G111,Yes,
+"=RANK(H112,H$14:H$386)",GloRilla,Music,6,8,6000,2,=F112*G112,Yes,
+"=RANK(H113,H$14:H$386)",Ice Spice,Music,6,8,6000,2,=F113*G113,Yes,
+"=RANK(H114,H$14:H$386)",Ilona Maher,Rugby / creator,6,8,6000,2,=F114*G114,,⭐ One of the fastest-rising share engines in US sport
+"=RANK(H115,H$14:H$386)",Jelly Roll,Music,6,8,6000,2,=F115*G115,Yes,
+"=RANK(H116,H$14:H$386)",Kai Trump,Creator,6,8,6000,2,=F116*G116,Yes,
+"=RANK(H117,H$14:H$386)",Kareem Rahma (SubwayTakes),Creator,6,8,6000,2,=F117*G117,,⭐ One of the most-shared formats in America
+"=RANK(H118,H$14:H$386)",Lil Baby,Music,6,8,6000,2,=F118*G118,Yes,
+"=RANK(H119,H$14:H$386)",Matt Rife,Comedy,6,8,6000,2,=F119*G119,Yes,
+"=RANK(H120,H$14:H$386)",Meek Mill,Music,6,8,6000,2,=F120*G120,,North Philly; Rubin's closest partner
+"=RANK(H121,H$14:H$386)",Metro Boomin,Music,6,8,6000,2,=F121*G121,Yes,
+"=RANK(H122,H$14:H$386)",Micah Parsons,Football,6,8,6000,2,=F122*G122,,
+"=RANK(H123,H$14:H$386)",Nara Smith,Creator,6,8,6000,2,=F123*G123,Yes,Outrage-driven share rate
+"=RANK(H124,H$14:H$386)",Nick DiGiovanni,Creator / food,6,8,6000,2,=F124*G124,Yes,Rhode Island; Harvard
+"=RANK(H125,H$14:H$386)",Ninja,Creator,6,8,6000,2,=F125*G125,Yes,
+"=RANK(H126,H$14:H$386)",Shaquille O'Neal,Basketball,6,8,6000,2,=F126*G126,Yes,
+"=RANK(H127,H$14:H$386)",Ted Cruz,Politics,6,8,6000,2,=F127*G127,,
+"=RANK(H128,H$14:H$386)",Tom Segura,Comedy,6,8,6000,2,=F128*G128,Yes,
+"=RANK(H129,H$14:H$386)",Vivek Ramaswamy,Politics,6,8,6000,2,=F129*G129,,
+"=RANK(H130,H$14:H$386)",Giannis Antetokounmpo,Basketball,7,6,18000,0.5,=F130*G130,Yes,"Greek, US-based"
+"=RANK(H131,H$14:H$386)",Kendall Jenner,Celebrity,7,6,18000,0.5,=F131*G131,Yes,
+"=RANK(H132,H$14:H$386)",Luka Doncic,Basketball,7,6,18000,0.5,=F132*G132,Yes,"Slovenian, US-based"
+"=RANK(H133,H$14:H$386)",Millie Bobby Brown,Celebrity,7,6,18000,0.5,=F133*G133,,"British, US-based"
+"=RANK(H134,H$14:H$386)",Morgan Wallen,Music,7,6,18000,0.5,=F134*G134,Yes,Biggest audience in country
+"=RANK(H135,H$14:H$386)",Patrick Mahomes,Football,7,6,18000,0.5,=F135*G135,,
+"=RANK(H136,H$14:H$386)",Post Malone,Music,7,6,18000,0.5,=F136*G136,Yes,
+"=RANK(H137,H$14:H$386)",Sam Altman,Tech,7,6,18000,0.5,=F137*G137,,
+"=RANK(H138,H$14:H$386)",Serena Williams,Tennis,7,6,18000,0.5,=F138*G138,Yes,
+"=RANK(H139,H$14:H$386)",Sydney Sweeney,Celebrity,7,6,18000,0.5,=F139*G139,,
+"=RANK(H140,H$14:H$386)",Tom Brady,Football / media,7,6,18000,0.5,=F140*G140,,
+"=RANK(H141,H$14:H$386)",Travis Scott,Music,7,6,18000,0.5,=F141*G141,Yes,
+"=RANK(H142,H$14:H$386)",Victor Wembanyama,Basketball,7,6,18000,0.5,=F142*G142,Yes,"French, US-based"
+"=RANK(H143,H$14:H$386)",Rihanna,Music,8,4,55000,0.15,=F143*G143,Yes,
+"=RANK(H144,H$14:H$386)",Shohei Ohtani,Baseball,8,4,55000,0.15,=F144*G144,,"Japanese, US-based; enormous international share volume"
+"=RANK(H145,H$14:H$386)",Zendaya,Celebrity,8,4,55000,0.15,=F145*G145,Yes,
+"=RANK(H146,H$14:H$386)",Agent00,Creator,5,9,1800,4,=F146*G146,Yes,AMP
+"=RANK(H147,H$14:H$386)",Big Cat (Dan Katz),Sports media,5,9,1800,4,=F147*G147,,
+"=RANK(H148,H$14:H$386)",Chad Johnson,Football / media,5,9,1800,4,=F148*G148,Yes,
+"=RANK(H149,H$14:H$386)",Colin Cowherd,Sports media,5,9,1800,4,=F149*G149,Yes,
+"=RANK(H150,H$14:H$386)",DJ Khaled,Music,5,9,1800,4,=F150*G150,Yes,
+"=RANK(H151,H$14:H$386)",Deestroying,Sports creator,5,9,1800,4,=F151*G151,Yes,Lost NCAA eligibility over YouTube income
+"=RANK(H152,H$14:H$386)",Fanum,Creator,5,9,1800,4,=F152*G152,Yes,AMP
+"=RANK(H153,H$14:H$386)",Flau'jae Johnson,Basketball,5,9,1800,4,=F153*G153,Yes,
+"=RANK(H154,H$14:H$386)",FlightReacts,Hoops creator,5,9,1800,4,=F154*G154,Yes,
+"=RANK(H155,H$14:H$386)",Golden Balance,Creator / food,5,9,1800,4,=F155*G155,Yes,
+"=RANK(H156,H$14:H$386)",Haley Kalil,Creator,5,9,1800,4,=F156*G156,Yes,
+"=RANK(H157,H$14:H$386)",Jesser,Hoops creator,5,9,1800,4,=F157*G157,Yes,2HYPE
+"=RANK(H158,H$14:H$386)",Jomboy,Sports media,5,9,1800,4,=F158*G158,Yes,
+"=RANK(H159,H$14:H$386)",Keemstar,Creator / news,5,9,1800,4,=F159*G159,,
+"=RANK(H160,H$14:H$386)",Owen Han,Creator / food,5,9,1800,4,=F160*G160,Yes,
+"=RANK(H161,H$14:H$386)",PFT Commenter,Sports media,5,9,1800,4,=F161*G161,Yes,
+"=RANK(H162,H$14:H$386)",Pat Beverley,Sports media,5,9,1800,4,=F162*G162,Yes,
+"=RANK(H163,H$14:H$386)",Rick Ross,Music,5,9,1800,4,=F163*G163,Yes,
+"=RANK(H164,H$14:H$386)",Skip Bayless,Sports media,5,9,1800,4,=F164*G164,Yes,
+"=RANK(H165,H$14:H$386)",Benson Boone,Music,6,7,6000,1,=F165*G165,,
+"=RANK(H166,H$14:H$386)",Bryson DeChambeau,Golf,6,7,6000,1,=F166*G166,,
+"=RANK(H167,H$14:H$386)",Future,Music,6,7,6000,1,=F167*G167,Yes,
+"=RANK(H168,H$14:H$386)",Haliey Welch,Creator,6,7,6000,1,=F168*G168,,⚠️ Viral spike rather than sustained velocity
+"=RANK(H169,H$14:H$386)",Ja Morant,Basketball,6,7,6000,1,=F169*G169,Yes,
+"=RANK(H170,H$14:H$386)",Jayson Tatum,Basketball,6,7,6000,1,=F170*G170,Yes,
+"=RANK(H171,H$14:H$386)",Kyrie Irving,Basketball,6,7,6000,1,=F171*G171,Yes,
+"=RANK(H172,H$14:H$386)",Lil Uzi Vert,Music,6,7,6000,1,=F172*G172,,North Philly
+"=RANK(H173,H$14:H$386)",Paige Bueckers,Basketball,6,7,6000,1,=F173*G173,Yes,
+"=RANK(H174,H$14:H$386)",Ryan Trahan,Creator,6,7,6000,1,=F174*G174,Yes,
+"=RANK(H175,H$14:H$386)",Sha'Carri Richardson,Track,6,7,6000,1,=F175*G175,,
+"=RANK(H176,H$14:H$386)",Shane Gillis,Comedy,6,7,6000,1,=F176*G176,Yes,Philly-area roots
+"=RANK(H177,H$14:H$386)",Shedeur Sanders,Football,6,7,6000,1,=F177*G177,,
+"=RANK(H178,H$14:H$386)",SteveWillDoIt,Creator,6,7,6000,1,=F178*G178,,Danbury CT
+"=RANK(H179,H$14:H$386)",Tyreek Hill,Football,6,7,6000,1,=F179*G179,,
+"=RANK(H180,H$14:H$386)",Chappell Roan,Music,7,5,18000,0.3,=F180*G180,,
+"=RANK(H181,H$14:H$386)",Jenna Ortega,Celebrity,7,5,18000,0.3,=F181*G181,,
+"=RANK(H182,H$14:H$386)",Mark Zuckerberg,Tech,7,5,18000,0.3,=F182*G182,,
+"=RANK(H183,H$14:H$386)",Miley Cyrus,Music,7,5,18000,0.3,=F183*G183,Yes,
+"=RANK(H184,H$14:H$386)",Olivia Rodrigo,Music,7,5,18000,0.3,=F184*G184,,
+"=RANK(H185,H$14:H$386)",Playboi Carti,Music,7,5,18000,0.3,=F185*G185,Yes,
+"=RANK(H186,H$14:H$386)",SZA,Music,7,5,18000,0.3,=F186*G186,Yes,
+"=RANK(H187,H$14:H$386)",Jon Rothstein,College hoops media,4,10,600,8,=F187*G187,Yes,
+"=RANK(H188,H$14:H$386)",Beyonce,Music,8,3,55000,0.07,=F188*G188,Yes,
+"=RANK(H189,H$14:H$386)",Bert Kreischer,Comedy,5,8,1800,2,=F189*G189,Yes,
+"=RANK(H190,H$14:H$386)",Bill Simmons,Sports media,5,8,1800,2,=F190*G190,Yes,
+"=RANK(H191,H$14:H$386)",Brianna Chickenfry,Creator,5,8,1800,2,=F191*G191,,Massachusetts
+"=RANK(H192,H$14:H$386)",Cameron Brink,Basketball,5,8,1800,2,=F192*G192,Yes,
+"=RANK(H193,H$14:H$386)",Carmelo Anthony,Basketball / media,5,8,1800,2,=F193*G193,Yes,
+"=RANK(H194,H$14:H$386)",Don Lemon,Media,5,8,1800,2,=F194*G194,,
+"=RANK(H195,H$14:H$386)",Drew Afualo,Creator,5,8,1800,2,=F195*G195,Yes,
+"=RANK(H196,H$14:H$386)",Dwyane Wade,Basketball / media,5,8,1800,2,=F196*G196,Yes,
+"=RANK(H197,H$14:H$386)",FaZe Rug,Creator,5,8,1800,2,=F197*G197,Yes,
+"=RANK(H198,H$14:H$386)",Gillie Da Kid,Podcast,5,8,1800,2,=F198*G198,Yes,North Philly
+"=RANK(H199,H$14:H$386)",Jake Shane,Creator,5,8,1800,2,=F199*G199,Yes,
+"=RANK(H200,H$14:H$386)",Latto,Music,5,8,1800,2,=F200*G200,Yes,
+"=RANK(H201,H$14:H$386)",Lil Yachty,Music,5,8,1800,2,=F201*G201,Yes,
+"=RANK(H202,H$14:H$386)",Ludwig,Creator,5,8,1800,2,=F202*G202,Yes,
+"=RANK(H203,H$14:H$386)",Magic Johnson,Basketball / business,5,8,1800,2,=F203*G203,Yes,
+"=RANK(H204,H$14:H$386)",Michael Rubin,Business,5,8,1800,2,=F204*G204,Yes,"Convening, not sharing, is his asset"
+"=RANK(H205,H$14:H$386)",Offset,Music,5,8,1800,2,=F205*G205,Yes,
+"=RANK(H206,H$14:H$386)",Pokimane,Creator,5,8,1800,2,=F206*G206,Yes,
+"=RANK(H207,H$14:H$386)",Ryan Whitney,Sports creator,5,8,1800,2,=F207*G207,,Scituate MA
+"=RANK(H208,H$14:H$386)",Sean O'Malley,MMA,5,8,1800,2,=F208*G208,Yes,
+"=RANK(H209,H$14:H$386)",Taylor Lewan,Sports creator,5,8,1800,2,=F209*G209,Yes,
+"=RANK(H210,H$14:H$386)",Tini Younger,Creator / food,5,8,1800,2,=F210*G210,Yes,
+"=RANK(H211,H$14:H$386)",Tristan Jass,Hoops creator,5,8,1800,2,=F211*G211,Yes,
+"=RANK(H212,H$14:H$386)",Tyrese Haliburton,Basketball,5,8,1800,2,=F212*G212,Yes,
+"=RANK(H213,H$14:H$386)",Valkyrae,Creator,5,8,1800,2,=F213*G213,Yes,
+"=RANK(H214,H$14:H$386)",Wallo267,Podcast,5,8,1800,2,=F214*G214,Yes,North Philly
+"=RANK(H215,H$14:H$386)",Will Compton,Sports creator,5,8,1800,2,=F215*G215,Yes,
+"=RANK(H216,H$14:H$386)",21 Savage,Music,6,6,6000,0.5,=F216*G216,Yes,
+"=RANK(H217,H$14:H$386)",Addison Rae,Creator,6,6,6000,0.5,=F217*G217,Yes,
+"=RANK(H218,H$14:H$386)",Anthony Edwards,Basketball,6,6,6000,0.5,=F218*G218,Yes,
+"=RANK(H219,H$14:H$386)",Ballerina Farm (Hannah Neeleman),Creator,6,6,6000,0.5,=F219*G219,,
+"=RANK(H220,H$14:H$386)",Bella Poarch,Creator,6,6,6000,0.5,=F220*G220,Yes,
+"=RANK(H221,H$14:H$386)",Dixie D'Amelio,Creator,6,6,6000,0.5,=F221*G221,,
+"=RANK(H222,H$14:H$386)",Glen Powell,Celebrity,6,6,6000,0.5,=F222*G222,,
+"=RANK(H223,H$14:H$386)",Jason Kelce,Football / media,6,6,6000,0.5,=F223*G223,,Philadelphia
+"=RANK(H224,H$14:H$386)",Jennifer Lopez,Celebrity,6,6,6000,0.5,=F224*G224,Yes,
+"=RANK(H225,H$14:H$386)",John Cena,Wrestling,6,6,6000,0.5,=F225*G225,Yes,
+"=RANK(H226,H$14:H$386)",Jon Jones,MMA,6,6,6000,0.5,=F226*G226,Yes,
+"=RANK(H227,H$14:H$386)",Jools Lebron,Creator,6,6,6000,0.5,=F227*G227,,⚠️ Viral spike
+"=RANK(H228,H$14:H$386)",Kris Jenner,Celebrity,6,6,6000,0.5,=F228*G228,,
+"=RANK(H229,H$14:H$386)",Markiplier,Creator,6,6,6000,0.5,=F229*G229,Yes,
+"=RANK(H230,H$14:H$386)",Rob Gronkowski,Football,6,6,6000,0.5,=F230*G230,,Patriots
+"=RANK(H231,H$14:H$386)",Roman Reigns,Wrestling,6,6,6000,0.5,=F231*G231,Yes,
+"=RANK(H232,H$14:H$386)",Saquon Barkley,Football,6,6,6000,0.5,=F232*G232,,
+"=RANK(H233,H$14:H$386)",Seth Meyers,Comedy,6,6,6000,0.5,=F233*G233,,Bedford NH
+"=RANK(H234,H$14:H$386)",Tulsi Gabbard,Politics,6,6,6000,0.5,=F234*G234,,
+"=RANK(H235,H$14:H$386)",Jeff Bezos,Tech,7,4,18000,0.15,=F235*G235,,
+"=RANK(H236,H$14:H$386)",Mark Rober,Creator,7,4,18000,0.15,=F236*G236,Yes,
+"=RANK(H237,H$14:H$386)",The Weeknd,Music,7,4,18000,0.15,=F237*G237,Yes,
+"=RANK(H238,H$14:H$386)",Timothee Chalamet,Celebrity,7,4,18000,0.15,=F238*G238,,
+"=RANK(H239,H$14:H$386)",Cam Wilder,Hoops creator,4,9,600,4,=F239*G239,Yes,
+"=RANK(H240,H$14:H$386)",Jack Mac,Sports media,4,9,600,4,=F240*G240,Yes,
+"=RANK(H241,H$14:H$386)",Kirk Minihane,Sports media,4,9,600,4,=F241*G241,Yes,Massachusetts
+"=RANK(H242,H$14:H$386)",Steve Aoki,Music,4,9,600,4,=F242*G242,Yes,
+"=RANK(H243,H$14:H$386)",Trill Withers,Sports media,4,9,600,4,=F243*G243,Yes,
+"=RANK(H244,H$14:H$386)",Bronny James,Basketball,6,5,6000,0.3,=F244*G244,,
+"=RANK(H245,H$14:H$386)",Conan O'Brien,Celebrity,6,5,6000,0.3,=F245*G245,,Brookline MA
+"=RANK(H246,H$14:H$386)",Cooper Flagg,Basketball,6,5,6000,0.3,=F246*G246,,
+"=RANK(H247,H$14:H$386)",Hillary Clinton,Politics,6,5,6000,0.3,=F247*G247,,
+"=RANK(H248,H$14:H$386)",Josh Allen,Football,6,5,6000,0.3,=F248*G248,,
+"=RANK(H249,H$14:H$386)",Katy Perry,Music,6,5,6000,0.3,=F249*G249,Yes,
+"=RANK(H250,H$14:H$386)",Lamar Jackson,Football,6,5,6000,0.3,=F250*G250,,
+"=RANK(H251,H$14:H$386)",Nancy Pelosi,Politics,6,5,6000,0.3,=F251*G251,,
+"=RANK(H252,H$14:H$386)",Naval Ravikant,Tech,6,5,6000,0.3,=F252*G252,,
+"=RANK(H253,H$14:H$386)",P!nk,Music,6,5,6000,0.3,=F253*G253,,Doylestown PA
+"=RANK(H254,H$14:H$386)",Pedro Pascal,Celebrity,6,5,6000,0.3,=F254*G254,,
+"=RANK(H255,H$14:H$386)",PewDiePie,Creator,6,5,6000,0.3,=F255*G255,Yes,"Swedish, largely retired"
+"=RANK(H256,H$14:H$386)",Shai Gilgeous-Alexander,Basketball,6,5,6000,0.3,=F256*G256,Yes,"Canadian, US-based"
+"=RANK(H257,H$14:H$386)","Tyler, the Creator",Music,6,5,6000,0.3,=F257*G257,Yes,
+"=RANK(H258,H$14:H$386)",Zach Bryan,Music,6,5,6000,0.3,=F258*G258,Yes,
+"=RANK(H259,H$14:H$386)",Zion Williamson,Basketball,6,5,6000,0.3,=F259*G259,Yes,
+"=RANK(H260,H$14:H$386)",A'ja Wilson,Basketball,5,7,1800,1,=F260*G260,Yes,
+"=RANK(H261,H$14:H$386)",Airrack,Creator,5,7,1800,1,=F261*G261,Yes,
+"=RANK(H262,H$14:H$386)",Bam Margera,Creator,5,7,1800,1,=F262*G262,,West Chester PA
+"=RANK(H263,H$14:H$386)",Bobbi Althoff,Creator,5,7,1800,1,=F263*G263,Yes,
+"=RANK(H264,H$14:H$386)",Bobby Lee,Comedy,5,7,1800,1,=F264*G264,Yes,
+"=RANK(H265,H$14:H$386)",Cathie Wood,Finance,5,7,1800,1,=F265*G265,,
+"=RANK(H266,H$14:H$386)",Chamath Palihapitiya,Finance,5,7,1800,1,=F266*G266,,
+"=RANK(H267,H$14:H$386)",Cody Rhodes,Wrestling,5,7,1800,1,=F267*G267,Yes,
+"=RANK(H268,H$14:H$386)",Gervonta Davis,Boxing,5,7,1800,1,=F268*G268,,
+"=RANK(H269,H$14:H$386)",Gunna,Music,5,7,1800,1,=F269*G269,Yes,
+"=RANK(H270,H$14:H$386)",Hakeem Jeffries,Politics,5,7,1800,1,=F270*G270,,
+"=RANK(H271,H$14:H$386)",James Harden,Basketball,5,7,1800,1,=F271*G271,Yes,
+"=RANK(H272,H$14:H$386)",Jaylen Brown,Basketball,5,7,1800,1,=F272*G272,,Celtics
+"=RANK(H273,H$14:H$386)",Jey Uso,Wrestling,5,7,1800,1,=F273*G273,Yes,
+"=RANK(H274,H$14:H$386)",Jimmy Butler,Basketball,5,7,1800,1,=F274*G274,Yes,
+"=RANK(H275,H$14:H$386)",Josh Hawley,Politics,5,7,1800,1,=F275*G275,,
+"=RANK(H276,H$14:H$386)",Josh Richards,Creator,5,7,1800,1,=F276*G276,Yes,
+"=RANK(H277,H$14:H$386)",Joshua Weissman,Creator / food,5,7,1800,1,=F277*G277,Yes,
+"=RANK(H278,H$14:H$386)",Kevin Garnett,Basketball / media,5,7,1800,1,=F278*G278,,Celtics
+"=RANK(H279,H$14:H$386)",Machine Gun Kelly,Music,5,7,1800,1,=F279*G279,Yes,
+"=RANK(H280,H$14:H$386)",Marco Rubio,Politics,5,7,1800,1,=F280*G280,,
+"=RANK(H281,H$14:H$386)",Mark Wahlberg,Celebrity,5,7,1800,1,=F281*G281,Yes,
+"=RANK(H282,H$14:H$386)",Marshawn Lynch,Football,5,7,1800,1,=F282*G282,Yes,
+"=RANK(H283,H$14:H$386)",Meghan Trainor,Music,5,7,1800,1,=F283*G283,,Nantucket MA
+"=RANK(H284,H$14:H$386)",Noah Lyles,Track,5,7,1800,1,=F284*G284,,
+"=RANK(H285,H$14:H$386)",Quavo,Music,5,7,1800,1,=F285*G285,Yes,
+"=RANK(H286,H$14:H$386)",Rhea Ripley,Wrestling,5,7,1800,1,=F286*G286,Yes,
+"=RANK(H287,H$14:H$386)",Rob McElhenney,Celebrity,5,7,1800,1,=F287*G287,Yes,Philadelphia native
+"=RANK(H288,H$14:H$386)",Russell Westbrook,Basketball,5,7,1800,1,=F288*G288,Yes,
+"=RANK(H289,H$14:H$386)",Sabrina Ionescu,Basketball,5,7,1800,1,=F289*G289,Yes,
+"=RANK(H290,H$14:H$386)",Steve Harvey,Media,5,7,1800,1,=F290*G290,Yes,
+"=RANK(H291,H$14:H$386)",Teddy Swims,Music,5,7,1800,1,=F291*G291,,
+"=RANK(H292,H$14:H$386)",Trae Young,Basketball,5,7,1800,1,=F292*G292,Yes,
+"=RANK(H293,H$14:H$386)",Triple H,Wrestling,5,7,1800,1,=F293*G293,Yes,
+"=RANK(H294,H$14:H$386)",Diddy,Music,8,2,55000,0.03,=F294*G294,,"⚠️ Current share volume is legal-news driven, not content driven"
+"=RANK(H295,H$14:H$386)",Michelle Obama,Politics,7,3,18000,0.07,=F295*G295,Yes,
+"=RANK(H296,H$14:H$386)",Tiger Woods,Golf,7,3,18000,0.07,=F296*G296,,
+"=RANK(H297,H$14:H$386)",Cash Nasty,Hoops creator,4,8,600,2,=F297*G297,Yes,2HYPE
+"=RANK(H298,H$14:H$386)",Diplo,Music,4,8,600,2,=F298*G298,Yes,
+"=RANK(H299,H$14:H$386)",Filayyyy,Hoops creator,4,8,600,2,=F299*G299,Yes,
+"=RANK(H300,H$14:H$386)",Hailey Van Lith,Basketball,4,8,600,2,=F300*G300,Yes,
+"=RANK(H301,H$14:H$386)",ImDavisss,Hoops creator,4,8,600,2,=F301*G301,Yes,
+"=RANK(H302,H$14:H$386)",Jalen Rose,Sports media,4,8,600,2,=F302*G302,Yes,
+"=RANK(H303,H$14:H$386)",Joe Lunardi,College hoops media,4,8,600,2,=F303*G303,,
+"=RANK(H304,H$14:H$386)",Josh Hart,Basketball,4,8,600,2,=F304*G304,Yes,
+"=RANK(H305,H$14:H$386)",Marcelas Howard,Hoops creator,4,8,600,2,=F305*G305,Yes,
+"=RANK(H306,H$14:H$386)",Nadeshot,Creator / org,4,8,600,2,=F306*G306,Yes,
+"=RANK(H307,H$14:H$386)",Paul George,Basketball,4,8,600,2,=F307*G307,Yes,
+"=RANK(H308,H$14:H$386)",Adam Sandler,Celebrity,6,4,6000,0.15,=F308*G308,Yes,
+"=RANK(H309,H$14:H$386)",John Krasinski,Celebrity,6,4,6000,0.15,=F309*G309,,Newton MA
+"=RANK(H310,H$14:H$386)",Bill Burr,Comedy,5,6,1800,0.5,=F310*G310,,Canton MA
+"=RANK(H311,H$14:H$386)",Coco Gauff,Tennis,5,6,1800,0.5,=F311*G311,,
+"=RANK(H312,H$14:H$386)",Devin Booker,Basketball,5,6,1800,0.5,=F312*G312,Yes,
+"=RANK(H313,H$14:H$386)",Dustin Poirier,MMA,5,6,1800,0.5,=F313*G313,,
+"=RANK(H314,H$14:H$386)",Gracie Abrams,Music,5,6,1800,0.5,=F314*G314,,
+"=RANK(H315,H$14:H$386)",Jack Harlow,Music,5,6,1800,0.5,=F315*G315,Yes,
+"=RANK(H316,H$14:H$386)",Jamie Foxx,Celebrity,5,6,1800,0.5,=F316*G316,Yes,
+"=RANK(H317,H$14:H$386)",JuJu Watkins,Basketball,5,6,1800,0.5,=F317*G317,Yes,
+"=RANK(H318,H$14:H$386)",Julian Edelman,Football / media,5,6,1800,0.5,=F318*G318,,Patriots
+"=RANK(H319,H$14:H$386)",Marshmello,Music,5,6,1800,0.5,=F319*G319,Yes,
+"=RANK(H320,H$14:H$386)",Michelle Khare,Creator,5,6,1800,0.5,=F320*G320,Yes,
+"=RANK(H321,H$14:H$386)",Naomi Osaka,Tennis,5,6,1800,0.5,=F321*G321,Yes,"Japanese, US-based"
+"=RANK(H322,H$14:H$386)",Napheesa Collier,Basketball,5,6,1800,0.5,=F322*G322,,
+"=RANK(H323,H$14:H$386)",Nikki Haley,Politics,5,6,1800,0.5,=F323*G323,,
+"=RANK(H324,H$14:H$386)",Noah Kahan,Music,5,6,1800,0.5,=F324*G324,,
+"=RANK(H325,H$14:H$386)",Quinta Brunson,Celebrity,5,6,1800,0.5,=F325*G325,Yes,West Philadelphia
+"=RANK(H326,H$14:H$386)",Sarah Silverman,Comedy,5,6,1800,0.5,=F326*G326,,NH
+"=RANK(H327,H$14:H$386)",Shaboozey,Music,5,6,1800,0.5,=F327*G327,Yes,
+"=RANK(H328,H$14:H$386)",The Professor,Hoops creator,5,6,1800,0.5,=F328*G328,Yes,
+"=RANK(H329,H$14:H$386)",2 Chainz,Music,4,7,600,1,=F329*G329,Yes,
+"=RANK(H330,H$14:H$386)",Bailey Zimmerman,Music,4,7,600,1,=F330*G330,Yes,
+"=RANK(H331,H$14:H$386)",Bianca Belair,Wrestling,4,7,600,1,=F331*G331,Yes,
+"=RANK(H332,H$14:H$386)",Jalen Brunson,Basketball,4,7,600,1,=F332*G332,Yes,
+"=RANK(H333,H$14:H$386)",Kris London,Hoops creator,4,7,600,1,=F333*G333,Yes,2HYPE
+"=RANK(H334,H$14:H$386)",Ludacris,Music,4,7,600,1,=F334*G334,Yes,
+"=RANK(H335,H$14:H$386)",Master P,Music,4,7,600,1,=F335*G335,Yes,
+"=RANK(H336,H$14:H$386)",Questlove,Music,4,7,600,1,=F336*G336,,Philadelphia
+"=RANK(H337,H$14:H$386)",Suni Lee,Gymnastics,4,7,600,1,=F337*G337,Yes,
+"=RANK(H338,H$14:H$386)",Jay-Z,Music,7,2,18000,0.03,=F338*G338,Yes,
+"=RANK(H339,H$14:H$386)",Michael Jordan,Basketball,7,2,18000,0.03,=F339*G339,Yes,
+"=RANK(H340,H$14:H$386)",Casey Neistat,Creator,5,5,1800,0.3,=F340*G340,,Gales Ferry CT
+"=RANK(H341,H$14:H$386)",Elizabeth Banks,Celebrity,5,5,1800,0.3,=F341*G341,,Pittsfield MA
+"=RANK(H342,H$14:H$386)",Emily Mariko,Creator,5,5,1800,0.3,=F342*G342,,
+"=RANK(H343,H$14:H$386)",Juan Soto,Baseball,5,5,1800,0.3,=F343*G343,,
+"=RANK(H344,H$14:H$386)",Lex Fridman,Podcast,5,5,1800,0.3,=F344*G344,Yes,MIT / Cambridge
+"=RANK(H345,H$14:H$386)",Lil Dicky,Celebrity,5,5,1800,0.3,=F345*G345,Yes,Philly suburb
+"=RANK(H346,H$14:H$386)",Mindy Kaling,Celebrity,5,5,1800,0.3,=F346*G346,,Cambridge MA
+"=RANK(H347,H$14:H$386)",Seth MacFarlane,Celebrity,5,5,1800,0.3,=F347*G347,,Kent CT
+"=RANK(H348,H$14:H$386)",Vin Diesel,Celebrity,5,5,1800,0.3,=F348*G348,Yes,
+"=RANK(H349,H$14:H$386)",Charles Barkley,Sports media,6,3,6000,0.07,=F349*G349,Yes,"Real channel is live TV, not social"
+"=RANK(H350,H$14:H$386)",Jensen Huang,Tech,6,3,6000,0.07,=F350*G350,,
+"=RANK(H351,H$14:H$386)",Jerry Thornton,Sports media,3,8,200,2,=F351*G351,,Boston
+"=RANK(H352,H$14:H$386)",Jack Whitehall,Comedy,4,6,600,0.5,=F352*G352,Yes,British
+"=RANK(H353,H$14:H$386)",Mikey Williams,Basketball,4,6,600,0.5,=F353*G353,Yes,
+"=RANK(H354,H$14:H$386)",Nelly,Music,4,6,600,0.5,=F354*G354,Yes,
+"=RANK(H355,H$14:H$386)",Rich Rebuilds,Creator,4,6,600,0.5,=F355*G355,,Massachusetts
+"=RANK(H356,H$14:H$386)",Scottie Pippen,Basketball,4,6,600,0.5,=F356*G356,Yes,
+"=RANK(H357,H$14:H$386)",Sydney McLaughlin,Track,4,6,600,0.5,=F357*G357,Yes,
+"=RANK(H358,H$14:H$386)",Terence Crawford,Boxing,4,6,600,0.5,=F358*G358,,
+"=RANK(H359,H$14:H$386)",Vince Carter,Basketball,4,6,600,0.5,=F359*G359,Yes,
+"=RANK(H360,H$14:H$386)",Aaron Judge,Baseball,5,4,1800,0.15,=F360*G360,,
+"=RANK(H361,H$14:H$386)",Allen Iverson,Basketball,5,4,1800,0.15,=F361*G361,Yes,
+"=RANK(H362,H$14:H$386)",Amy Poehler,Celebrity,5,4,1800,0.15,=F362*G362,,BC '93
+"=RANK(H363,H$14:H$386)",M. Night Shyamalan,Celebrity,5,4,1800,0.15,=F363*G363,,Philadelphia
+"=RANK(H364,H$14:H$386)",Tina Fey,Celebrity,5,4,1800,0.15,=F364*G364,,Upper Darby PA
+"=RANK(H365,H$14:H$386)",Will Ferrell,Celebrity,5,4,1800,0.15,=F365*G365,Yes,
+"=RANK(H366,H$14:H$386)",2Rare,Music,3,7,200,1,=F366*G366,,Philadelphia
+"=RANK(H367,H$14:H$386)",Armani White,Music,3,7,200,1,=F367*G367,,West Philadelphia
+"=RANK(H368,H$14:H$386)",Baron Davis,Basketball,3,7,200,1,=F368*G368,Yes,
+"=RANK(H369,H$14:H$386)",Jordan Lawley,Hoops creator,3,7,200,1,=F369*G369,Yes,
+"=RANK(H370,H$14:H$386)",Nick Briz,Hoops creator,3,7,200,1,=F370*G370,Yes,
+"=RANK(H371,H$14:H$386)",Aly Raisman,Gymnastics,4,5,600,0.3,=F371*G371,,Needham MA
+"=RANK(H372,H$14:H$386)",Brad Paisley,Music,4,5,600,0.3,=F372*G372,Yes,
+"=RANK(H373,H$14:H$386)",Tracy McGrady,Basketball,4,5,600,0.3,=F373*G373,Yes,
+"=RANK(H374,H$14:H$386)",Dr. Dre,Music,5,3,1800,0.07,=F374*G374,Yes,
+"=RANK(H375,H$14:H$386)",Steve Carell,Celebrity,5,3,1800,0.07,=F375*G375,,Acton MA
+"=RANK(H376,H$14:H$386)",DJ Jazzy Jeff,Music,3,6,200,0.5,=F376*G376,,West Philadelphia
+"=RANK(H377,H$14:H$386)",Fridayy,Music,3,6,200,0.5,=F377*G377,,Philadelphia
+"=RANK(H378,H$14:H$386)",Philly Boy Jay,Creator,3,6,200,0.5,=F378*G378,,Philadelphia
+"=RANK(H379,H$14:H$386)",Tierra Whack,Music,3,6,200,0.5,=F379*G379,,Philadelphia
+"=RANK(H380,H$14:H$386)",Eric Church,Music,4,4,600,0.15,=F380*G380,Yes,
+"=RANK(H381,H$14:H$386)",Scottie Scheffler,Golf,4,4,600,0.15,=F381*G381,,
+"=RANK(H382,H$14:H$386)",Kamilla Cardoso,Basketball,3,5,200,0.3,=F382*G382,Yes,
+"=RANK(H383,H$14:H$386)",Jenna Marbles,Creator,5,2,1800,0.03,=F383*G383,,BU; retired 2020
+"=RANK(H384,H$14:H$386)",Bill Murray,Celebrity,4,3,600,0.07,=F384*G384,Yes,
+"=RANK(H385,H$14:H$386)",Michael Keaton,Celebrity,3,3,200,0.07,=F385*G385,Yes,
+"=RANK(H386,H$14:H$386)",Larry Bird,Basketball,4,1,600,0.01,=F386*G386,Yes,
