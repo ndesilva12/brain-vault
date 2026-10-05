@@ -33,7 +33,7 @@ Ideas only in vault notes — never buy or send unless Norman asks.
 
 - **2026-09-17:** Kristin Thuerk death — Erica hit hard; Norman already texted condolences. No Plan row unless he asks for flowers/support idea.
 - **~2026-09-16:** Kim stitches / minor procedure — okay per Norman; private factual only. No new signal Sep 30.
-- **2026-10-01:** Parents' Old Westport **income** two-family — casually interested in selling (~$600k). Not a gift trigger; street details stay private.
+- **2026-10-01:** Parents' **income** two-family — casually interested in selling (~$600k). Not a gift trigger; street details stay private.
 
 ## Later
 
