@@ -2,7 +2,7 @@
 
 Public-clean. Distilled from `people.md`, Drive iMessage dumps, and Norman. No phones/emails/addresses.
 
-**Last Inner Circle pass:** 2026-10-01 (Norman correction: Sep 30 outreach was income property, not primary-house sale)
+**Last Inner Circle pass:** 2026-10-05 (Norman Oct 2 text: parents' house sold ~a week earlier)
 
 ## Confirmed
 
@@ -31,7 +31,8 @@ Public-clean. Distilled from `people.md`, Drive iMessage dumps, and Norman. No p
 - **2026-09-15:** Norman texted that **parents sold the house** while cleaning out the garage; same day he and Kim heading to Dartmouth to **finish moving** (Kim on home-design help).
 - **2026-09-30 → corrected 2026-10-01:** Cold outreach from a local property-investment firm was about the family's **income property** (two-family next to the primary on Old Westport Rd), **not** the primary residence. Norman: casually interested in selling; ballpark **~$600k**. Do **not** treat that outreach as evidence the primary Dartmouth house is still for sale.
 - Destination remains Padanaram/Mattapoisett area (prior hunt place). Keep street-level PII out of public vault (addresses live in private notes / Network Master).
-- **Status (as of 2026-10-01 Norman correction):** primary-house move/sale track separate from income-property casual sale; Padanaram move in progress; housewarming still soft until Norman confirms settle is done.
+- **2026-10-02:** Norman told a friend his parents **sold their house about a week ago** (~Sep 25) and he'll miss the place. Treat the primary sale as done.
+- **Status (as of 2026-10-05):** primary house sold; income two-family casual sale separate; Padanaram move in progress. Housewarming now gated only on Norman confirming they're settled in.
 
 ### Standing people.md facts
 - **Kim D'Agostino** — partner since 2018-02-18; birthday 1987-01-12; Wellesley.
@@ -39,18 +40,18 @@ Public-clean. Distilled from `people.md`, Drive iMessage dumps, and Norman. No p
 - **Brenda** — birthday 1957-05-19; remission noted (keep factual).
 - **Dad** — birthday 1956-12-22; Bay Club gate guard.
 
-## Dump notes (imessage-latest / 2026-10-01 pulse = through Sep 30 ~21:30 ET)
+## Dump notes (2026-10-05 pulse = dumps through Oct 4 ~10:50pm ET)
 
-- FRESH dump: 65 msgs; latest Sep 30 ~9:30pm ET; Drive mtime Oct 1 ~7:26am ET.
-- **CORRECTED (Norman 2026-10-01):** Sep 30 buyer outreach = income two-family (~$600k, casual interest), not primary-house "still for sale."
-- No new baby / baptism / Erica birthday / Zach updates; Kristin/Kim health items unchanged (do not reopen).
-- BD/Cinderella / agency / fundraising / betting chatter in dumps is out of scope for Inner Circle.
+- Dated dumps Oct 3 + Oct 4 plus imessage-latest (Drive mtime Oct 5 ~7:21am ET; Oct 4 only, 7 msgs — thin).
+- New: Norman's Oct 2 text confirming parents' house sold ~a week earlier (see Parents).
+- No new baby / baptism / Erica birthday / Zach updates. Kristin/Kim items unchanged (do not reopen).
+- BD/Cinderella / agency / fundraising chatter in dumps is out of scope for Inner Circle.
 
 ## Still soft / follow later
 
-- Housewarming gift once Norman confirms primary settle is "done" (do not gate on income-property casual sale).
+- Housewarming gift once Norman confirms parents are settled in (primary sold ~Sep 25; do not gate on income-property casual sale).
 - Any leftover gift obligations for Lillian Mae or Thomas Patrick? (Plan rows Status Idea as of 2026-09-16.)
-- Erica birthday 2026-10-26 — pick Gift Target by ~Oct 12 (Plan row Status Idea; ~11 days as of Oct 1).
+- Erica birthday 2026-10-26 — pick Gift Target by ~Oct 12 (Plan row Status Idea; Target still empty as of Oct 5, ~7 days left).
 - Tommy baptism 2026-11-29 — calendar / attend; optional gift TBD (Plan row added 2026-09-21).
 - Dad birthday 2026-12-22 — Gift Target TBD.
 - College-crew holiday gift coverage if Norman wants it.
