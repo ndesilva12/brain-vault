@@ -29,7 +29,7 @@ Public-clean. Distilled from `people.md`, Drive iMessage dumps, and Norman. No p
 - Spring 2026: house hunt in Mattapoisett/Padanaram area; nearly lost then re-offered; rented there for July while still selling prior house.
 - 2026-08-05: Norman — parents "in the process of selling their house - moving to Padanaram"; he was helping.
 - **2026-09-15:** Norman texted that **parents sold the house** while cleaning out the garage; same day he and Kim heading to Dartmouth to **finish moving** (Kim on home-design help).
-- **2026-09-30 → corrected 2026-10-01:** Cold outreach from a local property-investment firm was about the family's **income property** (two-family next to the primary on Old Westport Rd), **not** the primary residence. Norman: casually interested in selling; ballpark **~$600k**. Do **not** treat that outreach as evidence the primary Dartmouth house is still for sale.
+- **2026-09-30 → corrected 2026-10-01:** Cold outreach from a local property-investment firm was about the family's **income property** (two-family next to the primary), **not** the primary residence. Norman: casually interested in selling; ballpark **~$600k**. Do **not** treat that outreach as evidence the primary Dartmouth house is still for sale.
 - Destination remains Padanaram/Mattapoisett area (prior hunt place). Keep street-level PII out of public vault (addresses live in private notes / Network Master).
 - **2026-10-02:** Norman told a friend his parents **sold their house about a week ago** (~Sep 25) and he'll miss the place. Treat the primary sale as done.
 - **Status (as of 2026-10-05):** primary house sold; income two-family casual sale separate; Padanaram move in progress. Housewarming now gated only on Norman confirming they're settled in.
