@@ -33,6 +33,10 @@ elsewhere today, and both had drifted out of sync with the paper that implements
      four-item "For counsel before use" list at the end — all four items are now resolved.
 
   SUNJAY'S PARTNER AGREEMENT was sound. Four changes, all consequences of today's work:
+   • ⚠️ ROUND-DOWN, corrected 2026-10-07 (second pass) on Ankur's point: $1,500,000 / $2.025
+     = 740,740.74, and the Subscription Agreement rounds each subscription DOWN to a whole share,
+     so the full-round illustration is 740,740 shares and the post-Seed total 4,938,271, not
+     740,741 / 4,938,272. Applies to Greg §2.2 and Sunjay §2.2. Percentages are unaffected.
    • §2.2 hardcoded a "[15]% Seed Round" and "~16.9%". The round is now an offering of UP TO
      $1.5M with no minimum, so a fixed post-Seed number cannot be stated as fact. Restated as an
      illustration, and 16.9% corrected to 16.875% to agree with his RSPA Schedule A.
@@ -187,8 +191,10 @@ sub(d,
     "The Seed Round is an offering of up to $1,500,000 of Class A Common Stock at $2.025 per "
     "share, with no minimum aggregate raise, and may close for less than the full amount; "
     "Adviser" + Q + "s post-Seed percentage therefore cannot be fixed in advance. For illustration "
-    "only, were the full amount sold, a 4% pre-Seed position would become approximately 3.375% "
-    "(166,667 shares of a 4,938,272-share fully-diluted total). That figure is an illustration "
+    "only, were the full amount sold, the Seed Round would issue 740,740 shares ($1,500,000 ÷ "
+    "$2.025 = 740,740.74, rounded down to a whole share) and a 4% pre-Seed position would become "
+    "approximately 3.375% (166,667 shares of a 4,938,271-share fully-diluted total). That figure "
+    "is an illustration "
     "only and the actual percentage depends on the final size of the Seed Round.",
     label="G-adv §2.2 — seed illustration")
 
@@ -299,7 +305,9 @@ sub(d,
     "separate arrangement with him), Norman, Partner and Greg collectively absorb more than 15% "
     "dilution to hold Ankur flat and still deliver 15% to the Seed investors. On that assumption "
     "Partner" + Q + "s post-Seed position would be 16.875% (not the ~17% a simple pro-rata "
-    "calculation would suggest) — 833,333 shares of a 4,938,272-share fully-diluted total. The "
+    "calculation would suggest) — 833,333 shares of a 4,938,271-share fully-diluted total, the "
+    "Seed Round issuing 740,740 shares ($1,500,000 ÷ $2.025 = 740,740.74, rounded down to a "
+    "whole share). The "
     "Seed Round is an offering of up to $1,500,000 of Class A Common Stock at $2.025 per share "
     "with no minimum aggregate raise, and may close for less than the full amount, so that figure "
     "is an illustration only and Partner" + Q + "s actual post-Seed percentage depends on the final "
@@ -368,6 +376,9 @@ checks = {
         ("whenever and however that relationship arose", True),
         ("Court of Chancery of the State of Delaware", True),
         ("Founder & Chief Executive Officer", True),
+        ("4,938,272", False),
+        ("4,938,271-share", True),
+        ("740,740 shares", True),
     ],
     "Sunjay_Mathews_Partner_Agreement.docx": [
         ("[15]%", False),
@@ -380,6 +391,9 @@ checks = {
         ("no election under Section 83(b) is applicable to them", True),
         ("up to $1,500,000 of Class A Common Stock at $2.025 per share", True),
         ("7.10  Version.", True),
+        ("4,938,272", False),
+        ("4,938,271-share", True),
+        ("740,740 shares", True),
     ],
 }
 print("\nverification:")

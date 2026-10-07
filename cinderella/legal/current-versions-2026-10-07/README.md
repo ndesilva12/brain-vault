@@ -50,3 +50,25 @@ Revised builds: `../out-sunjay-greg-2026-10-07/` via `../2026-10-07-sunjay-greg-
 
 Revised builds: `../out-partner-adviser-2026-10-07/` via `../2026-10-07-partner-adviser-build.py`.
 Review: `../2026-10-07-partner-adviser-review.md`.
+
+---
+
+## Added 2026-10-07 (fourth batch) — the agreed Expense & Travel Policy
+
+`Expense_and_Travel_Policy_October_2026.txt` — text of
+`Making_Cinderella_Expense_Policy_October_2026.pdf`, sent after Ankur flagged that Side Letter
+Exhibit A carried a **different, looser** policy. **This is the agreed version.** Rebuilt as a
+tracked generator: `../2026-10-07-expense-policy-october-generator.py`.
+
+⚠️ `../2026-09-18-expense-policy-generator.py` is **superseded for Exhibit A** and must not be
+attached again. The deltas that mattered:
+
+| Term | Sept 18 (do not use) | October (agreed) |
+|---|---|---|
+| Other-expense approval threshold | $5,000 | **$500** |
+| Lodging cap | $300, with an exception for NYC / SF / LA | **$300 flat** |
+| Approver | "the Investor Representative" | **Ankur Jain, by email** |
+| SPVs | expressly carved out | **no carve-out** |
+| Compensation | expressly carved out | **no carve-out** |
+| 90-day vendor grouping rule | present | absent |
+| Documentation / 30-day submission | absent | **present (§6)** |
