@@ -4,7 +4,7 @@ Public-clean pointer. **Live SoT:** [Inner Circle Gifts & Occasions](https://doc
 
 Ideas only in vault notes — never buy or send unless Norman asks.
 
-**As of:** 2026-10-05 (primary house sold ~Sep 25 per Norman's Oct 2 text)
+**As of:** 2026-10-07 (Booch 40th invite added)
 
 ## Kim ideas
 
@@ -14,7 +14,8 @@ Ideas only in vault notes — never buy or send unless Norman asks.
 
 | When | Who | Occasion | Gift / action |
 |------|-----|----------|---------------|
-| 2026-10-26 | Erica | Birthday | **Needs Gift Target** by ~Oct 12 (~7 days as of Oct 5); first birthday as mom to Thomas |
+| 2026-10-17 | Booch | 40th birthday party (~3pm, cocktail + lawn games) | Norman + Kim invited (Oct 6); gift/card TBD; confirm who Booch is |
+| 2026-10-26 | Erica | Birthday | **Needs Gift Target** by ~Oct 12 (~5 days as of Oct 7); first birthday as mom to Thomas |
 | 2026-11-29 | Thomas (Tommy) | Baptism | St Mary's Scituate; small house after — calendar / attend; gift TBD (Plan Idea) |
 | 2026-12-22 | Dad | Birthday | Needs Gift Target; housewarming-adjacent if settle clear |
 | 2026-12-25 | Family / close friends | Christmas | Include Thomas + Lillian Mae; most Plan rows still Idea / empty Target |

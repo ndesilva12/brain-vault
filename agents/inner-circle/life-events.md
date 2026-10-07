@@ -2,7 +2,7 @@
 
 Public-clean. Distilled from `people.md`, Drive iMessage dumps, and Norman. No phones/emails/addresses.
 
-**Last Inner Circle pass:** 2026-10-05 (Norman Oct 2 text: parents' house sold ~a week earlier)
+**Last Inner Circle pass:** 2026-10-07 (Oct 6 dump: invite to Booch's 40th, Sat Oct 17)
 
 ## Confirmed
 
@@ -34,11 +34,20 @@ Public-clean. Distilled from `people.md`, Drive iMessage dumps, and Norman. No p
 - **2026-10-02:** Norman told a friend his parents **sold their house about a week ago** (~Sep 25) and he'll miss the place. Treat the primary sale as done.
 - **Status (as of 2026-10-05):** primary house sold; income two-family casual sale separate; Padanaram move in progress. Housewarming now gated only on Norman confirming they're settled in.
 
+### Booch — 40th birthday party (Sat 2026-10-17)
+- **2026-10-06:** Invite relayed to Norman by text: Norman + Kim invited to **Booch's 40th** — cocktail party with lawn games and music, **Saturday 2026-10-17, ~3pm start**; host still finalizing details/list.
+- Who "Booch" is (nickname) not yet in people.md — confirm with Norman. Plan row added (Idea; gift/card TBD).
+
 ### Standing people.md facts
 - **Kim D'Agostino** — partner since 2018-02-18; birthday 1987-01-12; Wellesley.
 - **Erica** — birthday 1987-10-26; remarried Mike 2025; Scituate + Newport.
 - **Brenda** — birthday 1957-05-19; remission noted (keep factual).
 - **Dad** — birthday 1956-12-22; Bay Club gate guard.
+
+## Dump notes (2026-10-07 pulse = imessage-latest through Oct 6 ~11:50pm ET)
+
+- Drive mtime Oct 7 ~7:20am ET; fresh Oct 6 content.
+- New: Booch 40th invite (see above). Everything else was BD/Cinderella/agency/fundraising chatter (out of scope) or routine partner logistics.
 
 ## Dump notes (2026-10-05 pulse = dumps through Oct 4 ~10:50pm ET)
 
@@ -51,7 +60,8 @@ Public-clean. Distilled from `people.md`, Drive iMessage dumps, and Norman. No p
 
 - Housewarming gift once Norman confirms parents are settled in (primary sold ~Sep 25; do not gate on income-property casual sale).
 - Any leftover gift obligations for Lillian Mae or Thomas Patrick? (Plan rows Status Idea as of 2026-09-16.)
-- Erica birthday 2026-10-26 — pick Gift Target by ~Oct 12 (Plan row Status Idea; Target still empty as of Oct 5, ~7 days left).
+- Erica birthday 2026-10-26 — pick Gift Target by ~Oct 12 (Plan row Status Idea; Target still empty as of Oct 7, ~5 days left).
+- Booch 40th party Sat 2026-10-17 ~3pm — gift/card TBD; confirm who Booch is.
 - Tommy baptism 2026-11-29 — calendar / attend; optional gift TBD (Plan row added 2026-09-21).
 - Dad birthday 2026-12-22 — Gift Target TBD.
 - College-crew holiday gift coverage if Norman wants it.
