@@ -21,11 +21,43 @@ _Master list of every agreement the structure requires. Status as of 2026-09-03.
 > them, verified programmatically. **Never issue a per-person copy of this agreement again without
 > diffing it against the others.**
 >
-> ⚠️ **TWO BLOCKERS BEFORE ANY OF THESE EXECUTE.** (1) The **board resolution fixing $0.001 as the
+> ⭐ **2026-10-07 STAGE 2 — Ankur's final cleanup list applied.** `out-2026-10-07-final/`
+> supersedes `out-2026-10-07/`; built by `2026-10-07-ankur-final-build.py`, chained off stage 1.
+> **83(b) removed from his RSPA** (§5.1 restated, Schedule B deleted) — fully vested shares are not
+> substantially nonvested property, so no election applies; now consistent with Adviser Agmt §2.7.
+> **Expense & Travel Policy actually attached** as Side Letter Exhibit A (40 paragraphs, not a
+> placeholder). **Side Letter dated October.** **Cap table reconciled in full** in RSPA Schedule A.
+>
+> ⭐ **THE SEED ROUND IS NO LONGER 15 × $100K.** At Ankur's request the Subscription Agreement now
+> describes **an offering of up to $1,500,000 at $2.025/share — no minimum aggregate raise, may close
+> for less, no minimum individual subscription, one or more closings**, with officers and affiliates
+> able to subscribe on the same terms, which covers the **$50K each from Norman and Sunjay**.
+> Deleted: the $100,000 minimum allocation, "approximately one percent (1.0%)", and "15 such
+> allocations … representing 15% of the Company". **Ownership now follows shares purchased and the
+> final post-close cap table, nothing else.** Stage 1's size-agnostic §2.5 is what makes this work;
+> the old "(the $1,500,000 / 15% raise)" wording would now be wrong.
+>
+> **Math, verified:** pre-Seed FD 4,166,667 = 3,000,000 Founder (B) + 833,333 Sunjay + 166,667 Ankur
+> + 166,667 Greg. At a full raise: 740,741 sh × $2.025 = $1,500,000; post-Seed FD 4,938,272
+> (= 4,000,000 / 0.81); Norman 60.750 / Sunjay 16.875 / Ankur 4.000 (after a 30,864 top-up) / Greg
+> 3.375 / seed 15.000 = 100.000%. Partial raise of $X: S = floor(X / 2.025), Ankur's post-Seed total
+> = (4,000,000 + S) / 24. ⚠️ The sent Subscription Agreement said 740,74**5** — a rounding error,
+> now moot.
+>
+> ⚠️ **THREE BLOCKERS BEFORE ANY OF THESE EXECUTE.** (1) The **board resolution fixing $0.001 as the
 > FMV of a Class A share**, dated on or before the Effective Date — all four RSPAs now assert that
 > determination and it does not yet exist. (2) **83(b) elections prepared before countersignature**
 > — Sunjay's and Greg's shares vest, so the 30-day statutory window is non-extendable and the IRS
 > grants no reasonable-cause relief. Both Effective Dates are still blank, so nothing is late yet.
+> (3) ⚠️ **The filed Certificate of Incorporation must be inserted as Subscription Agreement
+> Exhibit A.** It is NOT in the vault, so it could not be built in — the exhibit is now a clean cover
+> page reading "follows this page" rather than a drafting instruction. **Norman has to drop the
+> Delaware-stamped PDF in before this goes to any investor;** §1 contains an investor representation
+> pointing at that exhibit.
+>
+> ⚠️ **Still open on Ankur's side:** the **Tabor OBA Approval**, a condition precedent to his
+> *entire* agreement under §0, remains undelivered — and the two capital-return asks to him
+> (30 days' notice; sunset on a priced round) have not been put.
 >
 > **Securities exemption splits by person, deliberately:** **Ankur → Reg D 506(b) / §4(a)(2)**,
 > because Rule 701(c) excludes services rendered in connection with a capital-raising transaction
@@ -50,7 +82,7 @@ _Master list of every agreement the structure requires. Status as of 2026-09-03.
 | 1.9 | Greg Kristof — Strategic Adviser Agreement | Company ↔ Greg | ⚠️ **OUT OF SYNC WITH HIS RSPA — conform next.** Greg agreed $4k/mo Aug 30. The brackets were settled in his RSPA on 2026-10-07 (**4%, 24 months, no cliff, no acceleration, 3.375% post-Seed, Rule 701**) but this agreement still reads `[4]%` / `[24]` / `[Optional: acceleration — confirm]` / `[Rule 701 / Reg D]`, and its §2.2 says `[3.4]%` where the RSPA says 3.375%. **Not yet rebuilt** | `2026-08-15-greg-strategic-adviser-agreement.md` |
 | 1.10 | Greg Kristof — Consulting Agreement (from 1/1/27) | Company ↔ Greg | ✅ Drafted | `2026-08-15-greg-consulting-agreement.md` |
 | 1.11 | **Shane Duffy / Jay Jackson — Finder & Producer Agreement** | Company or SPV ↔ Shane & Jay | ❌ **NOT DRAFTED — needed soon.** SPV equity + $100K fee per attachment sourced; cap it, tie to deals they actually source, no parent equity | — |
-| 1.12 | Restricted Stock Purchase Agreements + 83(b) | Company ↔ each holder | ✅ **Founder:** Aug 11 RSPA + 83(b) mailed; acceleration signed 2026-09-03. 🔄 **Ankur / Sunjay / Greg — all three revised 2026-10-07.** Share counts 166,667 · 833,333 · 166,667 (ties to 4,166,667 pre-Seed FD). **Price now stated as $0.001 = Board FMV in all three** (was blank / `$[____]` / bracketed). Exemption resolved: Ankur Reg D, Sunjay + Greg Rule 701. 83(b) §5.1 rewritten for Sunjay and Greg to state the 30-day window is non-extendable and what missing it costs. Ankur's shares are fully vested so 83(b) is moot for him. ⚠️ **BLOCKED on the Board FMV resolution; do not countersign Sunjay's or Greg's until their 83(b) elections are prepared.** Effective Dates still blank, so nothing is late | `out-2026-10-07/` · `out-sunjay-greg-2026-10-07/` · `2026-10-07-sunjay-greg-review.md` |
+| 1.12 | Restricted Stock Purchase Agreements + 83(b) | Company ↔ each holder | ✅ **Founder:** Aug 11 RSPA + 83(b) mailed; acceleration signed 2026-09-03. 🔄 **Ankur / Sunjay / Greg — all three revised 2026-10-07.** Share counts 166,667 · 833,333 · 166,667 (ties to 4,166,667 pre-Seed FD). **Price now stated as $0.001 = Board FMV in all three** (was blank / `$[____]` / bracketed). Exemption resolved: Ankur Reg D, Sunjay + Greg Rule 701. 83(b) §5.1 rewritten for Sunjay and Greg to state the 30-day window is non-extendable and what missing it costs. Ankur's shares are fully vested so 83(b) is moot for him. ⚠️ **BLOCKED on the Board FMV resolution; do not countersign Sunjay's or Greg's until their 83(b) elections are prepared.** Effective Dates still blank, so nothing is late | **Ankur's 83(b) language and Schedule B deleted entirely 2026-10-07 at his request** — moot for fully vested shares | `out-2026-10-07-final/` · `out-sunjay-greg-2026-10-07/` · `2026-10-07-sunjay-greg-review.md` |
 | 1.13 | Mutual NDA / Non-Circumvention | Company ↔ counterparties | ✅ Exists (5-yr term, 3-yr non-circ tail, NY law) — regenerate file | — |
 | 1.14 | Option pool / equity incentive plan | Company | ⏸ **Deliberately deferred** — creating it later dilutes everyone pro rata rather than founders alone | — |
 | 1.15 | Loeb & Loeb engagement | Company ↔ Loeb | ✅ Engagement letter cleared 2026-09-02 (Brian Socolow, Evan Saunders) | — |
