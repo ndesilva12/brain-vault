@@ -38,3 +38,15 @@ block and the date blank**, and both were **behind** Ankur's copy. That divergen
 the pass — see `../2026-10-07-sunjay-greg-review.md`.
 
 Revised builds: `../out-sunjay-greg-2026-10-07/` via `../2026-10-07-sunjay-greg-build.py`.
+
+---
+
+## Added 2026-10-07 (third batch) — the parent agreements
+
+| File | Counterparty | State as sent |
+|---|---|---|
+| `Sunjay_Mathews_Partner_Agreement.txt` | Sunjay | Sound. `[15]%` seed hardcoded, "~16.9%", a drafter's note in §2.2, 83(b) wrong as to Milestone Shares |
+| `Greg_Kristof_Strategic_Adviser_Agreement.txt` | Greg | ⚠️ **Two sections both numbered 2.3**; every economic term still bracketed; §7 non-circ had no carve-out, only a note saying one was needed |
+
+Revised builds: `../out-partner-adviser-2026-10-07/` via `../2026-10-07-partner-adviser-build.py`.
+Review: `../2026-10-07-partner-adviser-review.md`.
