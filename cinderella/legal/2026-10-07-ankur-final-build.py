@@ -251,6 +251,11 @@ d = Document(SRC / "Cinderella_Corp_-_Side_Letter_Agreement_Revenue_Share_Final.
 
 sub(d, "as of September [ ], 2026", "as of October [ ], 2026", label="Side Letter date → October")
 
+# Signature-page heading only. The defined term "Investors" appears 24 times elsewhere in this
+# agreement and must NOT change — this is the standalone heading paragraph on the signature page,
+# which each investor signs individually.
+sub(d, "INVESTORS:", "INVESTOR:", label="Side Letter signature heading → INVESTOR")
+
 append_doc_after(d, "EXPENSE & TRAVEL POLICY",
                  # skip=2 drops the policy's own two title lines ("MAKING CINDERELLA" and
                  # "EXPENSE & TRAVEL POLICY") — the Side Letter already carries "EXHIBIT A" /
@@ -393,6 +398,8 @@ checks = {
         ("Maximum lodging rate: $300 per night before taxes.", True),
         ("No person may approve his or her own exception", True),
         ("1.  Purpose and Scope", True),
+        ("INVESTOR:", True),
+        ("INVESTORS:", False),
         ("over $500 requires Ankur Jain", True),
         ("6.  Documentation and Reimbursement", True),
         ("New York, San Francisco", False),

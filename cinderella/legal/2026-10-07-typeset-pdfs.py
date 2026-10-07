@@ -74,10 +74,11 @@ for d in DOCS:
     checks.append((f"clause numbers render (found {sorted(nums)[:14]}…)",
                    {1, 2, 3, 7, 8, 11, 12, 13} <= nums))
     # signature parties each present once
-    for party in ("INVESTORS:", "INVESTOR REPRESENTATIVE:", "CLASS B STOCKHOLDER:", "COMPANY:"):
+    for party in ("INVESTOR:", "INVESTOR REPRESENTATIVE:", "CLASS B STOCKHOLDER:", "COMPANY:"):
         checks.append((f"signature party {party}", party in text))
     checks.append(("no collapsed signature line (rule followed by By:/Name:/Title:)",
                    not re.search(r"_{6,}\s*By:\s*Name:", raw)))
+    checks.append(("signature heading is singular INVESTOR", "INVESTORS:" not in text))
     checks.append(("page numbers stamped", f"Page {n} of {n}" in text))
     blanks = [i for i in range(1, n + 1)
               if not flat(run("pdftotext", "-f", str(i), "-l", str(i), str(final), "-")).strip()]
