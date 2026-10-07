@@ -148,7 +148,10 @@ RSPA_24 = ("2.4 Milestone grants. Where Schedule A identifies the Shares as a mi
            "definitions, the attribution requirement under Section 2.2(d) of that agreement, and the "
            "aggregate cap on equity issuable across milestones are governed exclusively by that agreement.")
 
-SHA_26_TAIL = ("The Company shall obtain directors' and officers' liability insurance on or before the closing "
+# NOTE: curly apostrophes deliberately — this sentence must be character-identical to the same
+# sentence in Sunjay's and Greg's copies, which use the document's curly typography throughout.
+# The Stockholders' Agreement is ONE agreement; three texts of it must not diverge, even on a glyph.
+SHA_26_TAIL = ("The Company shall obtain directors’ and officers’ liability insurance on or before the closing "
                "of the Seed Round and shall cause the Investor Representative to be covered under that policy "
                "in his capacities as Board observer or director and as Investor Representative. The Company "
                "represents that, as of the date hereof, it does not maintain such insurance.")

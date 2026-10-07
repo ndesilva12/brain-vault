@@ -18,3 +18,23 @@ These are the versions Ankur reviewed and responded to on 2026-10-07. Text only 
 | `Cinderella_Corp_-_Side_Letter_Agreement_Revenue_Share_Final.txt` | Loeb-settled; §5(d) discloses no D&O; §6 capital return |
 
 Change set responding to Ankur's 2026-10-07 redline: `../2026-10-07-ankur-october-redline-response.md`
+
+---
+
+## Added 2026-10-07 (second batch) — Sunjay and Greg
+
+Norman sent four more `.docx` files the same day. Their extracted text is here and is the
+**version of record** for each:
+
+| File | Counterparty | Notable state as sent |
+|---|---|---|
+| `Cinderella_Corp_-_RSPA_-_Sunjay_Mathews.txt` | Sunjay | 833,333 sh, $0.001, exemption bracket live, Ankur comparison in Schedule A |
+| `Cinderella_Corp_-_RSPA_-_Greg_Kristof.txt` | Greg | 166,667 sh, price `$[____]`, `[24]`-month vesting unsettled, Sunjay's acceleration disclosed |
+| `Cinderella_Corp_-_Stockholders_Agreement_-_Sunjay_Mathews.txt` | Sunjay | **no §2.7, soft D&O in §2.6** |
+| `Cinderella_Corp_-_Stockholders_Agreement_-_Greg_Kristof.txt` | Greg | **no §2.7, soft D&O in §2.6** |
+
+The two Stockholders' Agreements as sent were **identical to each other apart from the signature
+block and the date blank**, and both were **behind** Ankur's copy. That divergence is the find of
+the pass — see `../2026-10-07-sunjay-greg-review.md`.
+
+Revised builds: `../out-sunjay-greg-2026-10-07/` via `../2026-10-07-sunjay-greg-build.py`.

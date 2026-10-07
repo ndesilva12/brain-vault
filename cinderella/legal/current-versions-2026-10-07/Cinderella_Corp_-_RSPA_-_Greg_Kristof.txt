@@ -1,0 +1,61 @@
+DRAFT — FOR DISCUSSION ONLY — NOT LEGAL ADVICE
+RESTRICTED STOCK PURCHASE AGREEMENT
+Cinderella Corp., a Delaware corporation
+This Restricted Stock Purchase Agreement (this “Agreement”) is entered into as of [____], 2026 (the “Effective Date”) by and between Cinderella Corp., a Delaware corporation (the “Company”), and Greg Kristof (“Purchaser”).
+Completed for Greg Kristof pursuant to the Strategic Adviser Agreement dated [____], 2026. Share count reflects 4% of the Company’s fully-diluted capitalization immediately PRIOR to the Seed Round, against 3,000,000 shares of Class B Common Stock held by the Founder and a pre-Seed fully-diluted total of 4,166,667 shares. The vesting term and any acceleration remain bracketed in the Strategic Adviser Agreement and must be settled before execution. Purchase price per Share to be set at fair market value as determined in good faith by the Board — confirm with counsel.
+1.  PURCHASE AND SALE
+1.1  Shares.  The Company issues and sells to Purchaser, and Purchaser purchases, 166,667 shares of Class A Common Stock, par value $0.001 (the “Shares”), at a purchase price of $[____] per Share.
+1.2  Consideration.  Purchaser shall pay the aggregate purchase price in cash, by check, or — where the Board so determines and applicable law permits — in consideration of past or future services rendered to the Company, in each case as recorded in the Company’s books.
+1.3  Securities exemption.  The Shares are issued pursuant to the exemption from registration provided by [Rule 701 / Regulation D] under the Securities Act of 1933, as amended. The Shares have not been registered and may not be transferred absent registration or an available exemption.
+2.  VESTING
+2.1  Schedule.  The Shares vest in accordance with Schedule A. Shares that have vested are “Vested Shares”; all others are “Unvested Shares.”
+2.2  Service condition.  Except as expressly provided in Schedule A or in Purchaser’s separate written agreement with the Company, vesting is subject to Purchaser’s continuous service with the Company through each applicable vesting date.
+2.3  Acceleration.  Any acceleration of vesting provided in Purchaser’s separate written agreement with the Company is incorporated by reference and applies to the Shares.
+2.4  Milestone grants.  Where Schedule A identifies the Shares as a milestone grant, the Shares are issued only upon the Company’s written determination that the applicable milestone under Purchaser’s separate written agreement has been achieved, and are fully vested on issuance. Article 3 does not apply to such Shares. The milestone itself, its definition, and any cap on the aggregate equity issuable across milestones are governed exclusively by that separate agreement.
+3.  REPURCHASE OPTION
+3.1  Unvested Shares.  On termination of Purchaser’s service with the Company for any reason, the Company has the option, exercisable for ninety (90) days following termination, to repurchase all or any portion of the Unvested Shares at the lower of (a) the price paid for them and (b) their fair market value as determined in good faith by the Board.
+3.2  Mechanics.  The Company may exercise the option by written notice, and may assign the option to any person it designates. On exercise, the Shares are deemed repurchased as of the notice date and Purchaser ceases to have any rights in them other than the right to receive the repurchase price.
+3.3  Other rights preserved.  Any repurchase, forfeiture or clawback right set forth in Purchaser’s separate written agreement with the Company applies in addition to this Article.
+4.  TRANSFER RESTRICTIONS
+4.1  Stockholders’ Agreement.  The Shares are subject to the Stockholders’ Agreement, including its transfer restrictions, right of first refusal, co-sale and drag-along provisions. Purchaser is a party to the Stockholders’ Agreement or shall execute a joinder to it concurrently with this Agreement.
+4.2  Unvested Shares.  Unvested Shares may not be transferred under any circumstance other than to the Company.
+5.  TAX
+5.1  83(b) election.  Purchaser is strongly advised to consult his or her own tax adviser and to consider filing an election under Section 83(b) of the Internal Revenue Code within thirty (30) days of the Effective Date. The election is Purchaser’s sole responsibility; the Company makes no tax representation and has no obligation to file it on Purchaser’s behalf. A form of election is attached as Schedule B.
+5.2  Withholding.  The Company may withhold, or require payment of, applicable taxes as a condition to issuance or vesting.
+6.  MARKET STAND-OFF
+6.1  Lock-up.  If requested by the managing underwriter of an initial public offering of the Company, Purchaser will not sell, transfer or otherwise dispose of any securities of the Company for such period following the offering as the underwriter requests, not to exceed one hundred eighty (180) days and no longer than the shortest period required of any other holder.
+7.  LEGENDS
+7.1  Legends.  Certificates or book-entry positions representing the Shares bear legends referencing the restrictions of the Securities Act, this Agreement, and the Stockholders’ Agreement.
+8.  REPRESENTATIONS OF PURCHASER
+8.1  Representations.  Purchaser represents that: (a) Purchaser is acquiring the Shares for Purchaser’s own account, for investment, and not with a view to distribution; (b) Purchaser can bear the economic risk of the investment, including its total loss; (c) Purchaser has had the opportunity to ask questions of the Company and to consult independent legal and tax counsel; and (d) Purchaser understands the Shares are illiquid, subject to vesting and repurchase, and may never have any value.
+9.  GENERAL
+9.1  Governing law.  Delaware law governs, without regard to conflicts of law principles; the Court of Chancery of the State of Delaware has exclusive jurisdiction.
+9.2  Entire agreement.  This Agreement, together with the Stockholders’ Agreement and Purchaser’s separate written agreement with the Company, constitutes the entire agreement as to its subject matter. In the event of a conflict as to vesting, acceleration, forfeiture or repurchase, Purchaser’s separate written agreement controls.
+9.3  Miscellaneous.  Amendments in writing signed by both parties. Purchaser may not assign. Counterparts and electronic signature permitted. If any provision is held unenforceable, the remainder continues in full force.
+[Remainder of page intentionally left blank]
+IN WITNESS WHEREOF, the parties have executed this Restricted Stock Purchase Agreement as of the date first above written.
+COMPANY:
+CINDERELLA CORP.
+____________________________________________
+By:
+Name:  Norman C. de Silva
+Title:  Founder & Chief Executive Officer
+PURCHASER:
+____________________________________________
+Name:
+Address:  ______________________________
+Email:  ______________________
+SCHEDULE A — VESTING
+Purchaser:  Greg Kristof
+Number of Shares:  166,667 shares of Class A Common Stock
+Purchase price per Share:  $______________  [FMV as determined by the Board]
+Percentage of the Company:  4.000% of the fully-diluted capitalization immediately prior to the Seed Round (pre-Seed fully-diluted total: 4,166,667 shares); approximately 3.375% immediately following the Seed Round
+Vesting commencement date:  ______________  [Effective Date — confirm]
+Vesting schedule (Strategic Adviser Agreement §2.3):
+•  Monthly over [24] months from the vesting commencement date, no cliff, subject to continuous service — [24] equal monthly installments of 6,944 Shares (the final installment 6,955 Shares). TERM STILL BRACKETED IN THE ADVISER AGREEMENT; confirm the number of months and restate this schedule before execution.
+Acceleration:
+•  [None provided. The Strategic Adviser Agreement leaves change-of-control acceleration open as an optional, unresolved item. Compare Sunjay Mathews, who has both six-month severance acceleration and full single-trigger acceleration on a Change of Control.]
+Dilution:
+•  Measured PRE-Seed. Unlike the Company’s arrangement with Ankur Jain, these Shares carry NO anti-dilution protection and NO top-up. They are diluted by the Seed Round and by every subsequent issuance on an ordinary pro-rata basis.
+SCHEDULE B — FORM OF 83(b) ELECTION
+[Attach the standard Internal Revenue Code Section 83(b) election form. Purchaser must file it with the Internal Revenue Service within thirty (30) days of the Effective Date and provide a copy to the Company.]
