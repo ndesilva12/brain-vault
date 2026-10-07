@@ -67,11 +67,28 @@ _Master list of every agreement the structure requires. Status as of 2026-09-03.
 > determination and it does not yet exist. (2) **83(b) elections prepared before countersignature**
 > — Sunjay's and Greg's shares vest, so the 30-day statutory window is non-extendable and the IRS
 > grants no reasonable-cause relief. Both Effective Dates are still blank, so nothing is late yet.
-> (3) ⚠️ **The filed Certificate of Incorporation must be inserted as Subscription Agreement
-> Exhibit A.** It is NOT in the vault, so it could not be built in — the exhibit is now a clean cover
-> page reading "follows this page" rather than a drafting instruction. **Norman has to drop the
-> Delaware-stamped PDF in before this goes to any investor;** §1 contains an investor representation
-> pointing at that exhibit.
+> (3) ✅ **RESOLVED 2026-10-07 — the filed charter is now bound in.** Norman supplied both PDFs;
+> they are in `charter/` with a README mapping every provision to the agreement set. The execution
+> PDF is `out-2026-10-07-final/Cinderella_Corp_-_Subscription_Agreement_EXECUTION_with_Exhibit_A.pdf`
+> (10 + 3 = 13 pages), built by `2026-10-07-subscription-execution-pdf.py`, which splices the
+> charter **after the Exhibit A cover page** rather than at the end — Exhibit A precedes Exhibit B
+> and its cover says the charter "follows this page". **Charter ties out exactly:** 6,000,000 A /
+> 4,000,000 B / $0.001 / no preferred, 1 vote vs 10 votes, automatic conversion — matching SHA
+> §§1.1, 1.2 and 1.4, and §3.2's deferral of Class B Permitted Transfers to the Certificate.
+> ⭐ Article SEVENTH (indemnification and advancement for directors and officers) independently
+> supports SHA §2.6.
+>
+> ⭐ **§2.2 BUG FOUND AND FIXED (Ankur, 2026-10-07).** His Adviser Agreement was missing the §2.2
+> heading, the definition of "Qualifying Platform" and all of §2.2(a) Platform tiers — the document
+> jumped from §2.1 to a bare table to §2.2(b). Cause: the stage-1 table-excision anchored on the
+> first occurrence of "Qualifying Platform", whose first hit is inside §2.2's **own opening
+> paragraph**, so it swallowed the prose along with the grid; and the paragraph splitter discarded
+> any prose sharing a block with the table marker, which took §2.2(a) with it. Both fixed, plus a
+> build-time regression guard asserting heading → definition → §2.2(a) → table → §2.2(b) in order.
+>
+> ⚠️ **LibreOffice cannot open any .docx in this container** ("source file could not be loaded",
+> even for a one-line python-docx file). PDF rendering therefore goes through `docx_to_pdf.py`
+> (docx → HTML → Chromium headless). Use it for any future PDF deliverable.
 >
 > ⚠️ **Still open on Ankur's side:** the **Tabor OBA Approval**, a condition precedent to his
 > *entire* agreement under §0, remains undelivered — and the two capital-return asks to him

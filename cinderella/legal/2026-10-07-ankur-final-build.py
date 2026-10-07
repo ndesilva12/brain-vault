@@ -311,6 +311,20 @@ sub(d,
     "follows this page.",
     label="Subscription Exhibit A — charter cover page")
 
+# Exhibit headings were plain left-aligned body text in the source — fine in a draft, wrong in an
+# execution copy that gets bound with the filed charter. Centre and bold them to match the title.
+from docx.enum.text import WD_ALIGN_PARAGRAPH as _AL
+_hdrs = {"EXHIBIT A", "CERTIFICATE OF INCORPORATION", "EXHIBIT B", "RISK FACTORS"}
+_n = 0
+for _p in d.paragraphs:
+    if _p.text.strip() in _hdrs:
+        _p.alignment = _AL.CENTER
+        for _r in _p.runs:
+            _r.bold = True
+        _n += 1
+assert _n == len(_hdrs), f"expected {len(_hdrs)} exhibit headings to format, found {_n}"
+FIRED.append("Subscription \u2014 exhibit headings centred and bolded")
+
 d.save(OUT / "Cinderella_Corp_-_Subscription_Agreement_Final.docx")
 
 

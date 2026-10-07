@@ -34,14 +34,28 @@ def load(name):
     raw = re.sub(r"[ \t]*\n[ \t]*\n[ \t]*(\n[ \t]*)+", "\n\n", raw)
     return raw
 
+TABLE_HEADER = "Qualifying Platform    Meeting (25%)"
+
 def excise_platform_table(text):
-    """Pull the Qualifying Platform tier grid out so normalisation cannot mangle it."""
-    start = text.find("Qualifying Platform")
-    if start == -1:
-        return text, False
+    """Pull the Qualifying Platform tier grid out so normalisation cannot mangle it.
+
+    ⚠️ The start anchor MUST be the table's own header row, not the first occurrence of
+    "Qualifying Platform". Ankur reported 2026-10-07 that his Adviser Agreement was missing the
+    §2.2 heading and §2.2(a): this function used to anchor on text.find("Qualifying Platform"),
+    whose first hit is inside §2.2's OWN opening paragraph ('...with respect to a Qualifying
+    Platform. A "Qualifying Platform" means Netflix, Apple...'). So the excision swallowed the
+    §2.2 heading, the definition of Qualifying Platform and all of §2.2(a) Platform tiers, and
+    replaced them with the bare rebuilt grid — the document jumped from §2.1 straight to a table
+    and then to §2.2(b). Anchoring on the header row leaves the prose intact.
+    """
+    if "(a) Platform tiers" not in text:
+        return text, False          # only the Adviser Agreement carries the grid
+    start = text.find(TABLE_HEADER)
+    assert start != -1, ("this document has the platform-tier subsection but not the expected "
+                         "table header row; a looser anchor would swallow §2.2's heading and "
+                         "§2.2(a), which is exactly the bug Ankur reported on 2026-10-07")
     end = text.find("(b) Milestones", start)
-    if end == -1:
-        return text, False
+    assert end != -1, "platform table end anchor '(b) Milestones' not found"
     return text[:start] + TABLE_MARK + "\n\n" + text[end:], True
 
 def paragraphs(text):
@@ -52,7 +66,19 @@ def paragraphs(text):
         if not block.strip():
             continue
         if TABLE_MARK in block:
+            # ⚠️ The table marker can share a block with prose, because §2.2(a) "Platform tiers"
+            # runs straight into the table header row with no blank line between them. Discarding
+            # the whole block loses §2.2(a) — half of the bug Ankur reported on 2026-10-07. Emit
+            # the prose on either side of the marker instead.
+            before, _, after = block.partition(TABLE_MARK)
+            for side in (before,):
+                lines = [ln.strip() for ln in side.split("\n") if ln.strip()]
+                if lines:
+                    out.append(" ".join(lines))
             out.append(TABLE_MARK)
+            lines = [ln.strip() for ln in after.split("\n") if ln.strip()]
+            if lines:
+                out.append(" ".join(lines))
             continue
         lines = [ln.strip() for ln in block.split("\n") if ln.strip()]
         # a block of short all-caps lines is a heading cluster, keep them separate
@@ -354,6 +380,26 @@ for name, edits in CHANGES.items():
     out = emit(name, paras, TITLES[name])
     print(f"  wrote {out.name}  ({out.stat().st_size:,} bytes, {len(paras)} paras"
           f"{', platform table rebuilt' if had_table else ''})")
+
+# ⚠️ REGRESSION GUARD (Ankur, 2026-10-07): §2.2's heading, the definition of Qualifying Platform
+# and §2.2(a) Platform tiers must all survive the table excision, and must sit in that order
+# immediately before the rebuilt grid. They were all being swallowed.
+_adv = Document(OUT / "Ankur_Jain_Strategic_Adviser_Agreement.docx")
+_ps = [q.text.strip() for q in _adv.paragraphs]
+_i = next((n for n, x in enumerate(_ps) if x.startswith("2.2 Distribution Milestone Equity")), None)
+assert _i is not None, "REGRESSION: §2.2 heading missing from the Adviser Agreement"
+assert "A \u201cQualifying Platform\u201d means Netflix" in _ps[_i], \
+    "REGRESSION: the Qualifying Platform definition was excised with the table"
+_a = next((n for n, x in enumerate(_ps) if x.startswith("(a) Platform tiers")), None)
+assert _a is not None, "REGRESSION: §2.2(a) Platform tiers missing"
+assert _a > _i, "REGRESSION: §2.2(a) must follow the §2.2 heading"
+_b = next((n for n, x in enumerate(_ps) if x.startswith("(b) Milestones")), None)
+assert _b is not None and _b > _a, "REGRESSION: §2.2(b) must follow §2.2(a)"
+assert len(_adv.tables) == 1, f"expected exactly 1 platform table, found {len(_adv.tables)}"
+assert [c.text for c in _adv.tables[0].rows[0].cells] == \
+    ["Qualifying Platform", "Meeting (25%)", "Term sheet (25%)", "Definitive (50%)", "Total"], \
+    "platform table header row is wrong"
+print("  OK  \u00a72.2 heading \u2192 definition \u2192 \u00a72.2(a) \u2192 table \u2192 \u00a72.2(b) all present, in order")
 
 print(f"\napplied {len(applied)} / {len(applied)+len(failures)} changes")
 for a in applied:
