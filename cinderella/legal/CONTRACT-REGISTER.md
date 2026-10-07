@@ -100,9 +100,31 @@ _Master list of every agreement the structure requires. Status as of 2026-09-03.
 > any prose sharing a block with the table marker, which took §2.2(a) with it. Both fixed, plus a
 > build-time regression guard asserting heading → definition → §2.2(a) → table → §2.2(b) in order.
 >
+> ⭐ **TYPESETTING — `legal_pdf.py`.** Contract PDFs are typeset, not dumped. Liberation Serif
+> (Times-metric) 11pt justified, centred letterspaced title under a rule, **hanging indents** on
+> numbered clauses and lettered sub-clauses, bold run-in headings detected by shape, defined terms
+> with the quoted term bold, recitals in small caps, proper bullets, exhibit covers, and a footer
+> rule with "Page N of M". It also repairs the source: paragraphs split mid-sentence are rejoined,
+> and runs of empty spacer paragraphs are dropped before a forced page break.
+>
+> ⭐ **SIGNATURE BLOCKS.** In the .docx a whole block is collapsed onto one line
+> (`"______ By: Name: Title:"`, `"CINDERELLA CORP ______ By:"`). `parse_signatures` splits these
+> back into party / entity / scope note / stacked fields, so the Side Letter's four parties
+> (Investors, Investor Representative, Class B Stockholder, Company) each render as a real
+> signature block that cannot split across a page.
+>
+> ⚠️ **BUG WORTH REMEMBERING: a CSS inline-block silently deleted every clause number.** With
+> `text-indent: -0.42in` creating the hanging indent, making the number span an `inline-block`
+> pushed it outside the painted area — the numbers stayed in the HTML *and in the PDF text layer*,
+> so nothing caught it until the pages were looked at. The first Subscription Agreement execution
+> PDF shipped that way. Both builds now **assert that clause numbers actually render**.
+>
 > ⚠️ **LibreOffice cannot open any .docx in this container** ("source file could not be loaded",
-> even for a one-line python-docx file). PDF rendering therefore goes through `docx_to_pdf.py`
-> (docx → HTML → Chromium headless). Use it for any future PDF deliverable.
+> even for a one-line python-docx file). PDF rendering therefore goes through `legal_pdf.py`
+> (docx → typeset HTML → Chromium headless), with page numbering via pypdf imported with
+> `cryptography` blocked — its rust binding panics here with a `PanicException`, which is not an
+> `ImportError`, so pypdf's own fallback cannot catch it. Builds: `2026-10-07-typeset-pdfs.py`
+> for the set, `2026-10-07-subscription-execution-pdf.py` for the one that binds in the charter.
 >
 > ⚠️ **Still open on Ankur's side:** the **Tabor OBA Approval**, a condition precedent to his
 > *entire* agreement under §0, remains undelivered — and the two capital-return asks to him

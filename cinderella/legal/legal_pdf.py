@@ -77,7 +77,13 @@ def _import_pypdf():
 
 # ────────────────────────────── structure recovery ──────────────────────────────
 
-NUMBERED = re.compile(r"^(\d{1,2})\.\s+(.{2,90}?\.)\s+(.*)$", re.S)
+LETTERED = re.compile(r"^\((?P<l>[a-z]{1,2})\)\s+(?P<rest>.*)$", re.S)
+DEFINED = re.compile(r"^[\u201c\"](?P<term>[^\u201d\"]{2,60})[\u201d\"]\s+(?P<rest>means\b.*)$", re.S)
+BULLET = re.compile(r"^([\u2022\u25e6])\s+(.*)$", re.S)
+RECITAL = re.compile(r"^(WHEREAS|NOW, THEREFORE)\b[,]?\s*(.*)$", re.S)
+PARTY_HEAD = re.compile(r"^([A-Z][A-Z &/]{2,45}:?)\s*(\(.*\))?:?\s*$")
+SIG_MANGLED = re.compile(r"^(?P<pre>[A-Z][A-Za-z .,&]*?)?\s*_{6,}\s*(?P<post>.*)$")
+NUMBERED = re.compile(r"^(\d{1,2})\.\s+(.{2,90}?\.)(?:\s+(.*))?$", re.S)
 RUN_IN = re.compile(r"^([A-Z][A-Za-z’'()\- ]{2,60}(?:;\s*[a-z][A-Za-z ]{2,30})?\.)\s+(.*)$", re.S)
 SIG_RULE = re.compile(r"^(_{6,})\s*(.*)$")
 FIELD = re.compile(r"^([A-Z][A-Za-z .,/]{2,40}:)\s*(.*)$")
@@ -117,9 +123,27 @@ def classify(text, *, bold_lead):
     m = SIG_RULE.match(t)
     if m:
         return "sigline", (m.group(2).strip(),)
+    if t.startswith("[Remainder of page"):
+        return "blankline", t
+    m = BULLET.match(t)
+    if m:
+        return "bullet", (m.group(1), m.group(2))
+    m = RECITAL.match(t)
+    if m:
+        return "recital", (m.group(1), m.group(2))
+    m = DEFINED.match(t)
+    if m:
+        return "defined", (m.group("term"), m.group("rest"))
     m = NUMBERED.match(t)
     if m and bold_lead:
-        return "clause", (m.group(1), m.group(2), m.group(3))
+        return "clause", (m.group(1), m.group(2), m.group(3) or "")
+    m = LETTERED.match(t)
+    if m:
+        rest = m.group("rest")
+        h = RUN_IN.match(rest)
+        if h and (bold_lead or _looks_like_heading(h.group(1))):
+            return "lettered", (m.group("l"), h.group(1), h.group(2))
+        return "lettered", (m.group("l"), None, rest)
     m = FIELD.match(t)
     if m and "_" in t:
         return "field", (m.group(1), m.group(2))
@@ -163,6 +187,92 @@ def _continues(prev_text, cur_text):
     return cur_text[:1].isalpha()
 
 
+# ───────────────────────── signature blocks ─────────────────────────
+
+SIG_START = re.compile(r"^IN WITNESS WHEREOF\b")
+FIELD_VAL = re.compile(r"^(By|Name|Title|Date|Email|Address)\s*:\s*(.*)$", re.I)
+
+
+def parse_signatures(lines):
+    """Turn the collapsed signature lines in the .docx into structured blocks.
+
+    ⚠️ THIS IS THE REASON THE SIGNATURE PAGE LOOKED BROKEN. In the source, a whole signature
+    block is squashed onto one paragraph:
+
+        "__________________________________________ By: Name: Title:"
+        "__________________________________________ Ankur Jain"
+        "CINDERELLA CORP __________________________________________ By:"
+
+    Rendered literally that is a rule with three labels trailing off it. Each of those lines is
+    really a party name, a signature rule and a set of fields stacked vertically. This splits them
+    back apart and returns blocks of:
+        {"party": str|None, "entity": str|None, "note": str|None,
+         "fields": [(label, value)] , "name_under": str|None}
+    An entity signs through By / Name / Title; an individual signs over a printed name.
+    """
+    blocks, cur = [], None
+
+    def flush():
+        nonlocal cur
+        if cur and (cur["entity"] or cur["fields"] or cur["name_under"] or cur["party"]):
+            blocks.append(cur)
+        cur = None
+
+    for ln in lines:
+        ln = ln.strip()
+        if not ln:
+            continue
+        # a party heading: ALL CAPS, optionally with a parenthetical scope note
+        m = re.match(r"^([A-Z][A-Z &/]{2,45}):?\s*(\(.*\))?:?\s*$", ln)
+        if m and "_" not in ln:
+            flush()
+            cur = {"party": m.group(1).rstrip(":"), "entity": None, "note": m.group(2),
+                   "fields": [], "name_under": None}
+            continue
+        m = re.match(r"^([A-Z][A-Z &/]{2,45}):?\s*\((?P<note>[^)]*)\):?\s*$", ln)
+        if m:
+            flush()
+            cur = {"party": m.group(1).rstrip(":"), "entity": None,
+                   "note": "(" + m.group("note") + ")", "fields": [], "name_under": None}
+            continue
+        if cur is None:
+            cur = {"party": None, "entity": None, "note": None, "fields": [], "name_under": None}
+
+        if "_____" in ln:
+            pre, _, post = ln.partition("_")
+            post = post.lstrip("_").strip()
+            pre = pre.strip()
+            if pre:
+                cur["entity"] = pre
+            labels = re.findall(r"(By|Name|Title|Date)\s*:", post)
+            if labels:
+                for lab in labels:
+                    cur["fields"].append((lab, ""))
+            elif post:
+                cur["name_under"] = post
+            if not labels and not post:
+                cur["name_under"] = cur["name_under"] or ""
+            continue
+
+        m = FIELD_VAL.match(ln)
+        if m:
+            lab, val = m.group(1).title(), m.group(2).strip()
+            for i, (l, v) in enumerate(cur["fields"]):
+                if l.lower() == lab.lower() and not v:
+                    cur["fields"][i] = (l, val)
+                    break
+            else:
+                cur["fields"].append((lab, val))
+            continue
+        # a bare entity name line, e.g. "[ENTITY NAME]"
+        if cur["entity"] is None and not cur["fields"]:
+            cur["entity"] = ln
+        else:
+            cur["fields"].append(("", ln))
+    flush()
+    return blocks
+
+
 def read_blocks(docx_path, *, break_before=()):
     """Paragraphs -> classified blocks, with continuations rejoined and spacer runs dropped."""
     doc = Document(docx_path)
@@ -178,8 +288,26 @@ def read_blocks(docx_path, *, break_before=()):
         else:
             joined.append((text, bold))
 
+    # Everything from "IN WITNESS WHEREOF" to the first exhibit is the signature region and is
+    # parsed as a unit — its lines are collapsed in the source and only make sense together.
+    sig_from = sig_to = None
+    for i, (text, _b) in enumerate(joined):
+        if sig_from is None and SIG_START.match(text):
+            sig_from = i          # include the IN WITNESS line so it stays with the signatures
+        elif sig_from is not None and text.startswith("EXHIBIT"):
+            sig_to = i
+            break
+    if sig_from is not None and sig_to is None:
+        sig_to = len(joined)
+
     blocks, pending = [], 0
-    for text, bold in joined:
+    for idx, (text, bold) in enumerate(joined):
+        if sig_from is not None and sig_from <= idx < sig_to:
+            if idx == sig_from:
+                blocks.append(("witness_page", joined[sig_from][0], False))
+                sigs = parse_signatures([x for x, _ in joined[sig_from + 1:sig_to]])
+                blocks.append(("signatures", sigs, False))
+            continue
         if not text:
             pending += 1
             continue
@@ -212,7 +340,11 @@ p { margin: 0 0 9pt 0; orphans: 3; widows: 3; }
 
 /* numbered clause with a hanging indent */
 .clause { padding-left: 0.42in; text-indent: -0.42in; margin-bottom: 9pt; }
-.clause .n { font-weight: 700; display: inline-block; width: 0.34in; }
+/* ⚠️ Do NOT make .n an inline-block: combined with the negative text-indent that creates the
+   hanging indent, Chromium shifts it outside the painted area and the number disappears from the
+   rendered PDF (it stays in the HTML and the text layer, so it is invisible in diffs). Plain
+   inline text with two non-breaking spaces is what works. */
+.clause .n { font-weight: 700; }
 .clause .h { font-weight: 700; }
 
 /* named run-in heading */
@@ -249,6 +381,41 @@ p { margin: 0 0 9pt 0; orphans: 3; widows: 3; }
 .exhibit-note { width: 78%; margin: 0 auto; text-align: center; font-size: 10.5pt;
                 line-height: 1.5; }
 .gap1 { height: 5pt; } .gap2 { height: 11pt; }
+
+/* lettered sub-clause, one level in from a numbered clause */
+.lettered { padding-left: 0.72in; text-indent: -0.30in; margin-bottom: 8pt; }
+.lettered .l { font-weight: 400; }
+.lettered .h { font-weight: 700; }
+
+/* defined term */
+.defined { padding-left: 0.32in; text-indent: -0.32in; margin-bottom: 8pt; }
+.defined .t { font-weight: 700; }
+
+/* recitals */
+.recital { margin-bottom: 8pt; }
+.recital .w { font-variant: small-caps; letter-spacing: .04em; font-weight: 700; }
+
+/* bullets inside an exhibit */
+.b1 { padding-left: 0.42in; text-indent: -0.17in; margin-bottom: 4pt; text-align: left; }
+.b2 { padding-left: 0.74in; text-indent: -0.17in; margin-bottom: 3pt; text-align: left; }
+
+/* "[Remainder of page intentionally left blank]" */
+.blankline { text-align: center; font-style: italic; font-size: 10pt; margin: 22pt 0 0 0; }
+
+/* ── signature page ── */
+.sigs { page-break-inside: auto; }
+.sigblock { page-break-inside: avoid; margin: 0 0 30pt 0; text-align: left; width: 4.6in; }
+.sigblock .pty { font-weight: 700; letter-spacing: .1em; font-size: 9.5pt;
+                 text-transform: uppercase; margin-bottom: 2pt; }
+.sigblock .note { font-size: 9pt; font-style: italic; margin-bottom: 9pt; line-height: 1.3; }
+.sigblock .ent { font-weight: 700; letter-spacing: .05em; margin: 7pt 0 13pt 0; }
+.sigblock .srule { border-bottom: 0.9pt solid #000; height: 0; width: 100%; margin-bottom: 3pt; }
+.sigblock .nm { font-size: 10pt; margin-bottom: 0; }
+.sigblock .row { display: block; margin-bottom: 11pt; }
+.sigblock .row .k { display: inline-block; width: 0.52in; font-size: 10pt; }
+.sigblock .row .v { display: inline-block; width: 3.9in; border-bottom: 0.9pt solid #000;
+                    font-size: 10.5pt; }
+.sigblock .row .vf { display: inline-block; width: 3.9in; font-size: 10.5pt; }
 """
 
 
@@ -273,11 +440,57 @@ def to_html(docx_path, *, break_before=(), title="Agreement"):
             out.append(f'<p class="exhibit-sub">{e(payload)}</p>')
         elif kind == "clause":
             n, head, rest = payload
-            out.append(f'<p class="clause{pb}"><span class="n">{e(n)}.</span>'
+            out.append(f'<p class="clause{pb}"><span class="n">{e(n)}.</span>&nbsp;&nbsp;'
                        f'<span class="h">{e(head)}</span> {e(rest)}</p>')
         elif kind == "runin":
             head, rest = payload
             out.append(f'<p class="runin{pb}"><span class="h">{e(head)}</span> {e(rest)}</p>')
+        elif kind == "lettered":
+            lab, head, rest = payload
+            h = f'<span class="h">{e(head)}</span> ' if head else ""
+            out.append(f'<p class="lettered{pb}"><span class="l">({e(lab)})</span>&nbsp;&nbsp;'
+                       f'{h}{e(rest)}</p>')
+        elif kind == "defined":
+            term, rest = payload
+            out.append(f'<p class="defined{pb}"><span class="t">\u201c{e(term)}\u201d</span> '
+                       f'{e(rest)}</p>')
+        elif kind == "recital":
+            word, rest = payload
+            sep = ", " if word.startswith("NOW") else ", "
+            out.append(f'<p class="recital{pb}"><span class="w">{e(word)}</span>{sep}{e(rest)}</p>')
+        elif kind == "bullet":
+            mark, text = payload
+            cls = "b1" if mark == "\u2022" else "b2"
+            glyph = "\u2022" if mark == "\u2022" else "\u25e6"
+            out.append(f'<p class="{cls}{pb}">{glyph}&nbsp;&nbsp;{e(text)}</p>')
+        elif kind == "blankline":
+            out.append(f'<p class="blankline{pb}">{e(payload)}</p>')
+        elif kind == "witness_page":
+            out.append(f'<p class="witness pb">{e(payload)}</p>')
+        elif kind == "signatures":
+            out.append('<div class="sigs">')
+            for s in payload:
+                out.append('<div class="sigblock">')
+                if s["party"]:
+                    out.append(f'<div class="pty">{e(s["party"].strip())}:</div>')
+                if s["note"]:
+                    out.append(f'<div class="note">{e(s["note"])}</div>')
+                if s["entity"]:
+                    out.append(f'<div class="ent">{e(s["entity"])}</div>')
+                if s["fields"]:
+                    for lab, val in s["fields"]:
+                        if not lab:
+                            out.append(f'<div class="nm">{e(val)}</div>')
+                            continue
+                        cls = "vf" if val else "v"
+                        out.append(f'<div class="row"><span class="k">{e(lab)}:</span>'
+                                   f'<span class="{cls}">{"&nbsp;" + e(val) if val else "&nbsp;"}'
+                                   f'</span></div>')
+                else:
+                    out.append('<div class="srule"></div>')
+                    out.append(f'<div class="nm">{e(s["name_under"] or "")}</div>')
+                out.append('</div>')
+            out.append('</div>')
         elif kind == "caps":
             out.append(f'<p class="caps{pb}">{e(payload)}</p>')
         elif kind == "witness":
