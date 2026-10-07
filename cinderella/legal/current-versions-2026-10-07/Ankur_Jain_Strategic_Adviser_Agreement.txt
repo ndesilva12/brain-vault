@@ -1,0 +1,250 @@
+                                  STRATEGIC ADVISER AGREEMENT
+
+This Strategic Adviser Agreement (this “Agreement”) is entered into as of ______, 2026 (the “Effective Date”)
+by and between Cinderella Corp., a Delaware corporation (the “Company”), and Ankur Jain (“Adviser”).
+
+0. CONDITION PRECEDENT — OUTSIDE BUSINESS ACTIVITY (OBA) APPROVAL
+0.1 Tabor approval. Notwithstanding anything else, no title, services, fundraising participation, investor
+meetings, use of Adviser’s name, distributor outreach, or board activity under this Agreement is authorized
+or effective until Adviser has obtained and delivered written outside-business-activity approval from Tabor
+Asset Management (“OBA Approval”).
+
+0.2 Continuing condition. OBA Approval must remain in effect. If it is withdrawn, limited, or conditioned,
+the affected activities are suspended until restored; the Company may suspend or terminate under Section
+10. Adviser will operate at all times within the scope of his OBA Approval.
+
+1. SERVICES AND ROLE
+1.1 Role. Adviser serves as a non-exclusive Strategic Adviser, providing: (a) advice on financial structure,
+valuation, and capital formation; (b) strategic review and approval of the Company’s financial materials as set
+forth in Sections 1.2 and 1.3; (c) participation in PE/investor and distributor meetings (subject to OBA
+Approval and Section 1.5); and (d) introductions across his network.
+
+1.2 Financial materials — approval. The Company will not distribute externally any financial materials —
+including models, investor financial decks, the assumptions underlying them, and the presentation of
+financial information — without Adviser’s strategic review and approval, not to be unreasonably withheld,
+conditioned or delayed.
+
+1.3 Valuation, financing structure and investor terms. Adviser’s strategic review and approval under
+Section 1.2 extends to the Company’s valuation analysis, proposed financing structure and proposed investor
+terms as presented in materials furnished to prospective investors, and the Company will consult Adviser in
+good faith and in advance on each of them before going to market on any financing. Approval under Section
+1.2 and this Section is deemed given where Adviser has participated in the preparation of the relevant
+materials, or has been furnished with them and has not objected in writing within five (5) business days.
+Nothing in this Section is intended to alter the allocation of authority under the Delaware General
+Corporation Law, the Company’s Certificate of Incorporation or its Bylaws, under which the issuance of
+securities, the consideration for which they are issued, and the acceptance of any subscription remain
+matters for determination by the Board.
+
+1.4 Accounting firm; no accounting role. The Company will retain, at its own expense, a qualified certified
+public accounting firm to review the accounting, financial statements, and underlying financial accuracy of
+the Company’s investor materials. The firm will be selected by Adviser, within an annual budget agreed by
+the Company and Adviser. For the avoidance of doubt, Adviser does not act as, and has no duties of, a chief
+financial officer, controller, certified public accountant or accounting professional; Adviser does not prepare,
+audit, review or certify the Company’s accounting records, financial statements or the accounting accuracy of
+any financial model or investor material, and has no liability for any of them. Responsibility for the accounting
+accuracy of the Company’s financial statements and investor materials rests with the Company and that firm.
+1.5 Limits; no broker. Adviser is not an officer, director, employee, or agent, has no authority to bind the
+Company, will not execute or sign agreements on its behalf, and is not engaged as a broker, finder, or
+placement agent; no compensation under this Agreement is contingent on the sale of securities or on the size
+or closing of any financing.
+
+1.6 Non-exclusive. Adviser may continue Tabor and his other activities, subject to OBA Approval and
+Sections 6–8.
+
+2. COMPENSATION — EQUITY ONLY; NO CASH
+2.1 Role Equity — 4%, fully vested. The Company will grant Adviser restricted Class A Common Stock equal
+to four percent (4%) of the Company (the “Role Shares”), measured and adjusted per Sections 2.4 and 2.5,
+which shall be fully vested as of the Effective Date and not subject to any repurchase option for unvested
+shares. The Role Shares compensate the advisory role and are not contingent on any financing.
+
+2.2 Distribution Milestone Equity — up to 5%. The Company will additionally grant restricted Class A
+Common Stock upon achievement, during OBA-approved activity, of the milestones below with respect to a
+Qualifying Platform. A “Qualifying Platform” means Netflix, Apple, Amazon Prime Video, HBO/Max (Warner
+Bros. Discovery), Disney/Hulu/ESPN (The Walt Disney Company), Paramount, NBCUniversal/Peacock, or
+another comparable major streaming or distribution platform approved by the Board, in each case where the
+relationship is directly attributable to Adviser’s introduction.
+
+     (a) Platform tiers. The milestone equity available with respect to each Qualifying Platform, by tranche, is
+     set forth below. The “Total” column is the maximum earnable with respect to that platform; the tranche
+     columns correspond to clauses (i), (ii) and (iii) of Section 2.2(b).
+Qualifying Platform    Meeting (25%)        Term sheet (25%)       Definitive (50%)      Total
+
+Netflix                1.25%                1.25%                  2.50%                 5.00%
+
+Apple                  0.875%               0.875%                 1.75%                 3.50%
+
+Amazon Prime Video     0.875%               0.875%                 1.75%                 3.50%
+
+Disney / Hulu / ESPN   0.875%               0.875%                 1.75%                 3.50%
+
+All other Qualifying   0.25%                0.25%                  0.50%                 1.00%
+Platforms
+
+
+
+     (b) Milestones. For each Qualifying Platform: (i) the first tranche vests upon a senior-level meeting with
+     that platform, directly resulting from Adviser’s introduction; (ii) the second tranche vests upon a
+     qualifying term sheet from that platform; and (iii) the third tranche vests upon a definitive rights
+     agreement with that platform together with receipt by the Company of the initial guaranteed payment.
+
+     (c) Aggregate cap. Milestone equity may be earned with respect to more than one Qualifying Platform,
+     provided that aggregate milestone equity granted under this Section 2.2 shall not exceed five percent
+     (5%) of the Company.
+
+     (d) Attribution. Adviser shall give the Company written notice identifying each introduction at the time
+     it is made. A milestone is attributable to Adviser only where such notice was given, or where the
+     Company otherwise confirms attribution in writing.
+     (e) Measurement. Each tranche of milestone equity is measured on the Company’s fully-diluted
+     capitalization as of the date the applicable milestone is achieved, and is subject to ordinary, pro-rata
+     dilution thereafter. The Top-Up Shares under Section 2.4 apply only to the Role Shares and not to
+     milestone equity.
+
+2.3 Tail — 12 months. If Adviser introduces or materially advances a relationship with a Qualifying Platform
+during the term, Adviser remains eligible for the corresponding milestone equity if the applicable term sheet
+or definitive agreement is completed within twelve (12) months after termination of this Agreement,
+provided Adviser was not terminated for material breach or loss of OBA Approval.
+
+2.4 Seed Round top-up. The Role Shares are issued on the Effective Date in a number equal to four percent
+(4%) of the Company’s fully-diluted capitalization as of that date. At the closing of the Seed Round, the
+Company shall issue to Adviser, for no additional consideration, such number of additional shares of Class A
+Common Stock as is necessary so that the Role Shares represent four percent (4%) of the Company’s fully-
+diluted capitalization immediately following that closing (the “Top-Up Shares”). The Top-Up Shares are fully
+vested on issuance, are treated as Role Shares for all purposes of this Agreement, and are issued without
+further action by or approval of the Board. Based on the Company’s capitalization as of the date of this
+Agreement, the parties expect the Role Shares to be 166,667 shares and the Top-Up Shares to be
+approximately 30,864 shares, for a post-Seed total of approximately 197,531 shares; the actual numbers are
+those required to produce four percent (4%) and are subject to rounding.
+
+2.5 Anti-dilution — Seed Round only. Adviser’s equity is measured on the fully-diluted capitalization
+immediately after completion of the Seed Round (the $1,500,000 / 15% raise), so the Seed Round does not
+dilute Adviser. After the Seed Round is complete, Adviser’s shares are subject to ordinary, pro-rata dilution
+on the same basis as the Founder on all subsequent issuances — no further anti-dilution protection. This
+post-Seed measurement is specific to Adviser and is not a precedent for any other grant.
+
+2.6 Class A only. All shares are Class A Common (1 vote per share); Adviser does not receive Class B or any
+super-voting stock, which is held solely by Norman C. de Silva.
+
+2.7 Mechanics; tax. Issued as restricted stock under the Company’s Restricted Stock Purchase Agreement
+and subject to the Stockholders’ Agreement; Adviser is advised to consider an 83(b) election within thirty (30)
+days of each grant.
+
+2.8 No cash. No cash fees, salary, or bonus are payable.
+
+3. GOVERNANCE AND INFORMATION
+3.1 Board observer. Adviser may attend all meetings of the Board in a non-voting observer capacity and
+shall receive copies of all materials provided to directors, at the same time they are provided. The Company
+may exclude the observer from any portion of a meeting, and withhold any material, where the Board
+determines in good faith that doing so is necessary to preserve attorney-client privilege, to address an actual
+or potential conflict of interest involving Adviser, or to protect highly confidential information.
+
+3.2 Automatic Board seat on Board expansion. Upon the appointment or election of any additional director
+— that is, at such time as any person other than the Founder becomes a director of the Company — Adviser
+shall automatically and concurrently be appointed to the Board as a director, without further action or
+discretion on the part of the Company or the Founder. Adviser may decline the seat and elect to continue as
+an observer under Section 3.1, in which case the right to take the seat continues and may be exercised at any
+later time on written notice.
+3.3 Information rights. Annual and quarterly financial statements, the annual budget, and material financing
+updates.
+
+3.4 Expense reimbursement. Reasonable, pre-approved expenses reimbursed on receipts, per Company
+expense policy.
+
+4. INDEMNIFICATION AND INSURANCE
+4.1 Indemnification. The Company will indemnify, defend and hold harmless Adviser, and advance his
+reasonable expenses, to the fullest extent permitted by Delaware law, in respect of his authorized services,
+his Board observer or director role, and his role as Investor Representative, including any claim brought by an
+investor in respect of good-faith actions taken as Investor Representative.
+
+4.2 Exclusions. No indemnity is available for bad faith, willful misconduct, gross negligence, or breach of this
+Agreement, and advancement is conditioned on an undertaking to repay amounts advanced if it is ultimately
+determined that Adviser was not entitled to indemnification.
+
+4.3 D&O insurance. The Company will use commercially reasonable efforts to include Adviser under its
+directors’ and officers’ liability insurance expressly in his capacities as Board observer or director and as
+Investor Representative.
+
+5. NAME, IMAGE, AND LIKENESS
+The Company may use Adviser’s name, image, and biography only with his prior approval and within OBA
+limits; approvals for a given use, once given, extend to substantially similar uses.
+
+6. CONFIDENTIALITY
+Adviser will hold all non-public Company information in confidence and use it only for the Company’s benefit.
+This obligation does not apply to information that is or becomes public other than through Adviser’s breach,
+or that Adviser is required to disclose by law, provided he gives the Company prompt notice where lawful to
+do so.
+
+7. INTELLECTUAL PROPERTY
+Work product Adviser creates for or delivers to the Company is assigned to the Company. Adviser’s pre-
+existing and independent business IP, including Tabor’s, remains his.
+
+8. NON-CIRCUMVENTION
+8.1 Restricted Project. A “Restricted Project” means any business, venture, production or project that (i)
+pairs one or more celebrities, public figures, athletes or prominent alumni with one or more collegiate
+athletic programs for the purpose of financing, capitalizing or materially supporting that program and
+producing, licensing or distributing documentary or similar audiovisual content concerning it, or (ii) is
+otherwise substantially similar to the Company’s Making Cinderella format.
+
+8.2 Restriction. During the term and for twelve (12) months thereafter, Adviser will not, using the
+Company’s confidential information or an opportunity originated by the Company, circumvent the Company
+with respect to any Restricted Project, nor solicit Company personnel.
+8.3 Relationships expressly unrestricted. Nothing in this Agreement restricts Adviser from initiating,
+continuing or maintaining any relationship with any person or entity, whenever and however that
+relationship arose. For the avoidance of doubt, Section 8.2 does not apply to: (a) people and organizations
+Adviser knew or had relationships with prior to his involvement with the Company; (b) Tabor-related activity;
+(c) relationships independently developed outside the Company; (d) Adviser’s existing investments and
+business activities; or (e) parties who approach Adviser independently without use of the Company’s
+confidential information.
+
+9. INDEPENDENT CONTRACTOR
+Independent contractor; responsible for his own taxes; no employee benefits; no partnership or employment
+relationship created.
+
+10. TERM AND TERMINATION
+10.1 Term. From the Effective Date until terminated.
+
+10.2 Termination. Either party may terminate on thirty (30) days’ notice, or immediately for material breach
+or loss of OBA Approval. On termination: the Role Shares, being fully vested, are retained; unearned
+milestone equity is forfeited, subject to Section 2.3; and all shares remain subject to the Stockholders’
+Agreement. Sections 4 and 6–8 survive.
+
+11. GENERAL
+Delaware law governs, without regard to conflicts of law principles; the Court of Chancery of the State of
+Delaware has exclusive jurisdiction. This Agreement, together with the Restricted Stock Purchase Agreement
+and the Stockholders’ Agreement, constitutes the entire agreement as to its subject matter. Amendments in
+writing signed by both parties. Adviser may not assign. Counterparts and electronic signature permitted. If
+any provision is held unenforceable, the remainder continues in full force.
+
+                                [Remainder of page intentionally left blank]
+IN WITNESS WHEREOF, the parties have executed this Strategic Adviser Agreement as of the date first above
+written.
+
+
+
+COMPANY:
+
+CINDERELLA CORP.
+
+
+
+
+______________________________________________
+Name: Norman C. de Silva
+Title: Founder & Chief Executive Officer
+Date: _________________________________________
+
+
+
+
+ADVISER:
+
+______________________________________________
+Ankur Jain
+
+Date:__________________________________________
+
+Address for notices: ______________________________
+
+_______________________________________________
+
+Email: ankur08@gmail.com
+
