@@ -36,3 +36,33 @@ Take it or leave it — Norman's original is untouched and the PDF is correct ei
 
 ⚠️ **Do not send `out-2026-10-07-final/Cinderella_Corp_-_Subscription_Agreement_Final.docx`.** That
 is the generated copy and is now superseded by this folder.
+
+## Typesetting
+
+The execution PDF is typeset by `../legal_pdf.py`, not rendered one-paragraph-to-one-line. The
+.docx carries almost no formatting — no styles, no heading levels, a bold run here and there — so
+the structure is recovered from the text itself and set properly:
+
+- **Liberation Serif** (metric-compatible with Times New Roman) at 11pt, justified, 1.42 leading
+- Centred letterspaced title under a rule
+- **Hanging indents** on the numbered clauses, so the number sits in the margin and the text block
+  aligns — 1. through 20. and the 22 risk factors
+- **Bold run-in headings**, detected by shape (a short title-case phrase ending in a period), since
+  most are not bold in the source
+- Signature blocks as a **rule with a small-caps label beneath**, instead of `______ Print Name`
+  jammed onto one line
+- Exhibit covers centred and letterspaced with a rule, and a narrowed descriptive block
+- Widow/orphan control, and a footer rule with **"Page N of M"** on every page
+
+⚠️ **The three filed charter scans are deliberately left unstamped** — nothing is printed over a
+document filed with the State of Delaware. Numbering stays continuous with the physical document,
+so Exhibit B reads "Page 12 of 13".
+
+Two repairs `legal_pdf.py` makes to the source, both asserted by the build:
+1. **Paragraphs split mid-sentence are rejoined** (clauses 1 and 9 break in the middle of a
+   sentence in the .docx), as is the all-caps acknowledgment that is hard-wrapped across two.
+2. **Runs of empty spacer paragraphs are dropped before a forced page break**, which is what
+   produced a blank page in the first execution PDF.
+
+`legal_pdf.py` is reusable for the rest of the contract set — it needs the document's own exhibit
+names passed as `break_before`.

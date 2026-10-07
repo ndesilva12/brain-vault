@@ -46,7 +46,7 @@ import tempfile
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-import docx_to_pdf as d2p
+import legal_pdf as lpdf
 
 HERE = Path(__file__).parent
 # ⚠️ Built from Norman's HAND-FINALISED copy in execution-2026-10-07/, not the generated one in
@@ -80,11 +80,12 @@ with tempfile.TemporaryDirectory() as td:
     # ── 1. docx -> pdf ──────────────────────────────────────────────────────────
     # ⚠️ NOT LibreOffice: it is installed but cannot open any .docx in this container
     # ("Error: source file could not be loaded", even for a one-line python-docx file), so the
-    # install is broken rather than our documents. docx_to_pdf renders via Chromium instead.
+    # install is broken rather than our documents. legal_pdf typesets and renders via Chromium.
     body = td / "body.pdf"
     # Each exhibit starts at the top of its own page. "CERTIFICATE OF INCORPORATION" and
     # "RISK FACTORS" are the sub-headings that follow their EXHIBIT line, so they must NOT break.
-    d2p.convert(SRC_DOCX, body, break_before=("EXHIBIT A", "EXHIBIT B"), workdir=td)
+    lpdf.convert(SRC_DOCX, body, break_before=("EXHIBIT A", "EXHIBIT B"),
+                 title="Cinderella Corp. — Subscription Agreement", workdir=td)
     n_body = pages(body)
 
     # ── 2. locate the Exhibit A cover page ──────────────────────────────────────
@@ -120,7 +121,13 @@ with tempfile.TemporaryDirectory() as td:
     assert pages(merged) == n_body + n_charter, \
         f"page count {pages(merged)} != {n_body} + {n_charter}"
 
-    shutil.copy(merged, FINAL)
+    # Footer rule + "Page N of M" on every page EXCEPT the three filed charter scans — nothing is
+    # printed over a document filed with the State of Delaware. Numbering stays continuous with
+    # the physical document, so Exhibit B reads "Page 12 of 14".
+    lpdf.stamp_footers(merged, td / "stamped.pdf",
+                       label="Cinderella Corp. \u2014 Subscription Agreement",
+                       skip_pages=set(range(cover + 1, cover + n_charter + 1)), workdir=td)
+    shutil.copy(td / "stamped.pdf", FINAL)
 
 # ──────────────── companion .docx with REAL page breaks (optional deliverable) ────────────────
 # Norman paginated the Word file by hand, with 30 consecutive empty paragraphs pushing EXHIBIT B
