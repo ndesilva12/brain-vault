@@ -409,6 +409,10 @@ p { margin: 0 0 9pt 0; orphans: 3; widows: 3; }
                  text-transform: uppercase; margin-bottom: 2pt; }
 .sigblock .note { font-size: 9pt; font-style: italic; margin-bottom: 9pt; line-height: 1.3; }
 .sigblock .ent { font-weight: 700; letter-spacing: .05em; margin: 7pt 0 13pt 0; }
+/* a bracketed placeholder entity becomes a blank for the signer, sized to match the field rules
+   below it (0.52in label column + 3.9in rule) so the block reads as one stack */
+.sigblock .entrule { border-bottom: 0.9pt solid #000; height: 0; width: 4.42in;
+                     margin: 10pt 0 15pt 0; }
 .sigblock .srule { border-bottom: 0.9pt solid #000; height: 0; width: 100%; margin-bottom: 3pt; }
 .sigblock .nm { font-size: 10pt; margin-bottom: 0; }
 .sigblock .row { display: block; margin-bottom: 11pt; }
@@ -476,7 +480,13 @@ def to_html(docx_path, *, break_before=(), title="Agreement"):
                 if s["note"]:
                     out.append(f'<div class="note">{e(s["note"])}</div>')
                 if s["entity"]:
-                    out.append(f'<div class="ent">{e(s["entity"])}</div>')
+                    # A bracketed placeholder ("[ENTITY NAME]") is something the signer fills in,
+                    # so set it as a blank rule like the fields below it rather than printing the
+                    # placeholder text. A real party name ("CINDERELLA CORP") still prints.
+                    if re.fullmatch(r"\[.*\]", s["entity"].strip()):
+                        out.append('<div class="entrule"></div>')
+                    else:
+                        out.append(f'<div class="ent">{e(s["entity"])}</div>')
                 if s["fields"]:
                     for lab, val in s["fields"]:
                         if not lab:
