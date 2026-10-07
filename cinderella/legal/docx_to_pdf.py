@@ -90,14 +90,30 @@ def to_html(docx_path, *, break_before=()):
     para_by_el = {p._p: p for p in doc.paragraphs}
     tbl_by_el = {t._tbl: t for t in doc.tables}
     parts = []
+    pending_blanks = []          # empty paragraphs held back until we know what follows
     for el in body.iterchildren():
         if el in para_by_el:
             p = para_by_el[el]
             txt = p.text.strip()
-            brk = any(txt.startswith(pfx) for pfx in break_before) if txt else False
+            if not txt:
+                pending_blanks.append(_para_html(p))
+                continue
+            brk = any(txt.startswith(pfx) for pfx in break_before)
+            # ⚠️ A document hand-paginated in Word pushes a section onto a new page with a run of
+            # empty paragraphs — the Subscription Agreement has 30 of them before "EXHIBIT B".
+            # With a real page break those spacers are not just redundant, they overflow onto a
+            # blank page of their own. Drop them when a forced break follows; keep them otherwise,
+            # since elsewhere they are genuine spacing the author chose.
+            if not brk:
+                parts.extend(pending_blanks)
+            pending_blanks = []
             parts.append(_para_html(p, page_break=brk))
         elif el in tbl_by_el:
+            parts.extend(pending_blanks)
+            pending_blanks = []
             parts.append(_table_html(tbl_by_el[el]))
+    # trailing blanks at the very end of the document are never useful
+    del pending_blanks
     title = html.escape(Path(docx_path).stem)
     return (f"<!doctype html><html><head><meta charset='utf-8'><title>{title}</title>"
             f"<style>{CSS}</style></head><body>" + "".join(parts) + "</body></html>")

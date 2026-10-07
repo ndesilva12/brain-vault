@@ -49,7 +49,11 @@ sys.path.insert(0, str(Path(__file__).parent))
 import docx_to_pdf as d2p
 
 HERE = Path(__file__).parent
-SRC_DOCX = HERE / "out-2026-10-07-final" / "Cinderella_Corp_-_Subscription_Agreement_Final.docx"
+# ⚠️ Built from Norman's HAND-FINALISED copy in execution-2026-10-07/, not the generated one in
+# out-2026-10-07-final/. He made a formatting and spacing pass on 2026-10-07; see that folder's
+# README for the three-line diff (all cosmetic — every operative provision is identical). No build
+# script writes to execution-2026-10-07/, so a rebuild of the generator chain cannot clobber it.
+SRC_DOCX = HERE / "execution-2026-10-07" / "Cinderella_Corp_-_Subscription_Agreement_Final.docx"
 CHARTER = Path("/tmp/claude-0/-home-user-brain-vault/cdeb7b3c-9b38-5f86-b0fa-23ce6e519c4c"
                "/scratchpad/charter")
 OUT = HERE / "out-2026-10-07-final"
@@ -78,6 +82,8 @@ with tempfile.TemporaryDirectory() as td:
     # ("Error: source file could not be loaded", even for a one-line python-docx file), so the
     # install is broken rather than our documents. docx_to_pdf renders via Chromium instead.
     body = td / "body.pdf"
+    # Each exhibit starts at the top of its own page. "CERTIFICATE OF INCORPORATION" and
+    # "RISK FACTORS" are the sub-headings that follow their EXHIBIT line, so they must NOT break.
     d2p.convert(SRC_DOCX, body, break_before=("EXHIBIT A", "EXHIBIT B"), workdir=td)
     n_body = pages(body)
 
@@ -116,6 +122,39 @@ with tempfile.TemporaryDirectory() as td:
 
     shutil.copy(merged, FINAL)
 
+# ──────────────── companion .docx with REAL page breaks (optional deliverable) ────────────────
+# Norman paginated the Word file by hand, with 30 consecutive empty paragraphs pushing EXHIBIT B
+# onto a new page. That works until anything above it reflows, and it is what produced a blank
+# page in the first PDF. This copy swaps those spacers for a real page break so Word and the PDF
+# agree. His original in execution-2026-10-07/ is left untouched; this is his to take or leave.
+from docx import Document as _Doc
+from docx.enum.text import WD_BREAK as _BRK
+
+_d = _Doc(SRC_DOCX)
+_paras = _d.paragraphs
+_removed = 0
+for _name in ("EXHIBIT A", "EXHIBIT B"):
+    _idx = next(i for i, q in enumerate(_paras) if q.text.strip() == _name)
+    # delete the run of empty paragraphs immediately above it
+    _k = _idx - 1
+    while _k >= 0 and not _paras[_k].text.strip():
+        _paras[_k]._p.getparent().remove(_paras[_k]._p)
+        _removed += 1
+        _k -= 1
+    _r = _paras[_idx].runs[0] if _paras[_idx].runs else _paras[_idx].add_run("")
+    _r._r.addprevious(_r._r.makeelement(
+        "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}br",
+        {"{http://schemas.openxmlformats.org/wordprocessingml/2006/main}type": "page"}))
+    _paras = _d.paragraphs
+assert _removed >= 20, f"expected to remove the spacer runs, removed only {_removed}"
+_DOCX_OUT = SRC_DOCX.parent / "Cinderella_Corp_-_Subscription_Agreement_Final_page-breaks.docx"
+_d.save(_DOCX_OUT)
+_chk = _Doc(_DOCX_OUT)
+_xml = _chk.element.body.xml
+assert _xml.count('w:type="page"') == 2, \
+    f"expected 2 real page breaks, found {_xml.count(chr(39) + chr(39))}"
+print(f"also wrote {_DOCX_OUT.name}  ({_removed} spacer paragraphs \u2192 2 real page breaks)")
+
 # ─────────────────────────────── verification ───────────────────────────────
 
 n = pages(FINAL)
@@ -137,6 +176,29 @@ checks.append(("Exhibit A cover text present",
                "Certificate of Incorporation of Cinderella Corp." in before))
 checks.append(("no stale allocation block", "A minimum allocation is $100,000" not in before))
 checks.append(("no stale 15-allocation language", "15 such allocations" not in before))
+# every exhibit section must begin at the top of its own page, and each charter document must
+# occupy whole pages of its own
+_cover_pg = flat(run("pdftotext", "-f", str(cover), "-l", str(cover), FINAL, "-"))
+checks.append(("Exhibit A cover is alone on its page",
+               _cover_pg.startswith("EXHIBIT A") and "RISK FACTORS" not in _cover_pg.upper()))
+_exb = next((i for i in range(cover + n_charter + 1, n + 1)
+             if flat(run("pdftotext", "-f", str(i), "-l", str(i), FINAL, "-")).startswith("EXHIBIT B")),
+            None)
+checks.append(("Exhibit B starts at the top of its own page", _exb is not None))
+checks.append(("Exhibit B is the page right after the charter", _exb == cover + n_charter + 1))
+_prev = flat(run("pdftotext", "-f", str(cover - 1), "-l", str(cover - 1), FINAL, "-"))
+checks.append(("nothing from the body bleeds onto the Exhibit A page", "EXHIBIT A" not in _prev))
+checks.append(("charter occupies exactly 3 whole pages", n_charter == 3))
+# No blank pages anywhere. Hand-paginated Word documents leave runs of empty paragraphs that
+# overflow into one once real page breaks are applied; this catches that class of bug outright.
+# The charter pages are scans with no text layer, so they are the only legitimate "empty" ones.
+_charter_pages = set(range(cover + 1, cover + n_charter + 1))
+_blank = [i for i in range(1, n + 1)
+          if i not in _charter_pages
+          and not flat(run("pdftotext", "-f", str(i), "-l", str(i), FINAL, "-")).strip()]
+checks.append((f"no blank pages (checked all {n})", not _blank))
+if _blank:
+    print(f"       blank pages: {_blank}")
 checks.append(("charter pages carry no text layer (scans, as expected)",
                run("pdftotext", "-f", str(cover + 1), "-l", str(cover + n_charter),
                    FINAL, "-").strip() == ""))

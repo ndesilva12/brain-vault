@@ -67,16 +67,30 @@ _Master list of every agreement the structure requires. Status as of 2026-09-03.
 > determination and it does not yet exist. (2) **83(b) elections prepared before countersignature**
 > — Sunjay's and Greg's shares vest, so the 30-day statutory window is non-extendable and the IRS
 > grants no reasonable-cause relief. Both Effective Dates are still blank, so nothing is late yet.
-> (3) ✅ **RESOLVED 2026-10-07 — the filed charter is now bound in.** Norman supplied both PDFs;
-> they are in `charter/` with a README mapping every provision to the agreement set. The execution
-> PDF is `out-2026-10-07-final/Cinderella_Corp_-_Subscription_Agreement_EXECUTION_with_Exhibit_A.pdf`
-> (10 + 3 = 13 pages), built by `2026-10-07-subscription-execution-pdf.py`, which splices the
-> charter **after the Exhibit A cover page** rather than at the end — Exhibit A precedes Exhibit B
-> and its cover says the charter "follows this page". **Charter ties out exactly:** 6,000,000 A /
-> 4,000,000 B / $0.001 / no preferred, 1 vote vs 10 votes, automatic conversion — matching SHA
-> §§1.1, 1.2 and 1.4, and §3.2's deferral of Class B Permitted Transfers to the Certificate.
-> ⭐ Article SEVENTH (indemnification and advancement for directors and officers) independently
-> supports SHA §2.6.
+> (3) ✅ **RESOLVED 2026-10-07 — the filed charter is bound in, and the execution copy is now
+> hand-finalised.** ⭐ **`execution-2026-10-07/` holds the authoritative Subscription Agreement**
+> — Norman's own formatting and spacing pass. **No build writes to that folder**, and it supersedes
+> the generated copy in `out-2026-10-07-final/`, which must not be sent. Its diff against the
+> generated version is three cosmetic lines (version note removed, `20[__]` → `2026`, ACCEPTANCE
+> block split); every operative provision verified identical.
+>
+> The execution PDF is `out-2026-10-07-final/Cinderella_Corp_-_Subscription_Agreement_EXECUTION_with_Exhibit_A.pdf`
+> — **14 pages: 1–7 body, 8 Exhibit A cover alone, 9–11 charter, 12–14 Exhibit B.** Built by
+> `2026-10-07-subscription-execution-pdf.py`, which splices the charter **after the Exhibit A cover
+> page** (not at the end — Exhibit A precedes Exhibit B and the cover says the charter "follows this
+> page") and forces each exhibit to start at the top of a new page.
+>
+> ⚠️ **Hand-pagination bug, found and guarded.** The Word file pushed EXHIBIT A and EXHIBIT B onto
+> new pages with **35 consecutive empty paragraphs**. Once real page breaks were applied those
+> spacers overflowed and produced a **blank page** in the PDF. `docx_to_pdf.py` now drops a run of
+> blank paragraphs immediately preceding a forced break, and the build **asserts no blank pages
+> anywhere**. A companion `..._page-breaks.docx` with 2 real breaks in place of the 35 spacers sits
+> beside the original as an optional replacement.
+>
+> **Charter ties out exactly:** 6,000,000 A / 4,000,000 B / $0.001 / no preferred, 1 vote vs 10
+> votes, automatic conversion — matching SHA §§1.1, 1.2 and 1.4, and §3.2's deferral of Class B
+> Permitted Transfers to the Certificate. ⭐ Article SEVENTH (indemnification and advancement for
+> directors and officers) independently supports SHA §2.6.
 >
 > ⭐ **§2.2 BUG FOUND AND FIXED (Ankur, 2026-10-07).** His Adviser Agreement was missing the §2.2
 > heading, the definition of "Qualifying Platform" and all of §2.2(a) Platform tiers — the document
