@@ -2,7 +2,21 @@
 
 Skills are shared by every bot. Just tell Jimmy (or any bot) the command.
 
-**Total:** 41 skills (45 skill folders including 4 duplicate copies). **Last updated:** 2026-10-08. Notion copy: [SKILLS](https://app.notion.com/p/3f3bedd4141981c19260ea77854c98ab) (sibling of LIST).
+**Total:** 41 skills. **Last updated:** 2026-10-08. Notion copy: [SKILLS](https://app.notion.com/p/3f3bedd4141981c19260ea77854c98ab) (sibling of LIST).
+
+## Your toolbox
+
+- `network degrees <start> to <end>` — in-between paths from a person/pool to a target
+- `sweep <topic>` — what's breaking right now, ~48h
+- `current <topic>` — last 30 days of chatter
+- `deep search <topic>` — expert depth, skips basics
+- `dark search <topic>` — what mainstream avoids
+- `curate <topic>` — ~12 pieces, both sides, half video
+- `white papers on <topic>` — ~10 scored papers + synthesis
+- `one-pager on <topic>` — single sourced page
+- `summarize <link/doc> to <length>` — condense without losing facts
+
+Say "toolbox" to Jimmy anytime; everything else runs behind the scenes.
 
 ## New
 
@@ -103,7 +117,6 @@ Skills are shared by every bot. Just tell Jimmy (or any bot) the command.
 - **Google Sheets final check** (`google-sheets-final-check`): Re-reads a sheet after every write before saying it's done.
 - **Getting started** (`getting-started`): First-run setup for the prospecting template.
 - **Agent orchestration** (`agent-orchestration`): How a bot splits big jobs across helper agents.
-- **Duplicates** (not deleted, pending Norman's OK): `humanizer-2`, `humanizer-3`, `agent-orchestration-2`, `agent-orchestration-3`
 
 ## Notes
 
