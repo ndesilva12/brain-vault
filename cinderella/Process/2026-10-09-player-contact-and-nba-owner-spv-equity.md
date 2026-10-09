@@ -203,24 +203,41 @@ by a dollar.** Solve them separately.
 
 ## 2. What Norman may actually do, by category
 
-| Who | Contact permitted? | Notes |
-|---|---|---|
-| **Enrolled players at an MC school** | ✅ **Yes, bounded** | Sanctioned and disclosed mentorship: game, mindset, NBA/draft development. Expertise and time, not benefits. Already correct in Loeb §G20. |
-| **Signed/committed players at an MC school, pre-enrollment** | ⚠️ **Narrow** | Once a prospect signs with the school, booster contact is restricted until enrolled. PCSA would additionally bar **paying** them before enrollment. |
-| **High-school prospects not committed anywhere** | ❌ **No** | Brightest line in the rulebook. Boosters may not have recruiting contact with a PSA. "PSA" starts at **ninth grade**. |
-| **Players at another 4-year school, not in the portal** | ❌ **Absolutely not** | This is tampering, and it is the violation with the shortest path from rumour to penalty. |
-| **Players in the transfer portal** | ⚠️ **Unsettled** | School staff may contact them. Booster contact is greyer — see the injunction below. PCSA would let the association confine even associated-entity contact to a 2–5 week window. |
-| **Agents of any of the above** | ❌ **Same answer as the player** | ⭐ See below — this is the one people get wrong. |
+> ⚠️ **REWRITTEN 2026-10-09 (third pass).** The first version of this table said booster contact
+> with prospects and their agents was flatly barred, and had a section arguing that "talking to a
+> prospect's agent is contact with the prospect… the violation, stated out loud." **That was wrong**
+> — it described the pre-2025 rulebook. The Tennessee settlement (below) permanently blocked the
+> NCAA's NIL-recruiting ban. **You cannot make an NIL offer without communicating it**, and
+> communicating it is now permitted. The corrected table follows.
 
-### ⭐ The agent point, because it is the one that will trip us
+| Who | NIL conversation | Recruiting pitch | Notes |
+|---|---|---|---|
+| **Enrolled players at an MC school** | ✅ Yes | n/a | Plus sanctioned, disclosed mentorship — game, mindset, NBA/draft development. Expertise and time, not benefits (Loeb §G20) |
+| **Signed/committed, pre-enrollment** | ✅ Yes | ❌ No | ⚠️ PCSA would bar **paying** a prospect before enrollment |
+| **Uncommitted high-school prospects** | ✅ Yes, about NIL terms | ❌ No | Permitted post-Tennessee. "Prospect" still starts at ninth grade and these are often minors |
+| **Players at another 4-year school, NOT in the portal** | ❌ **No** | ❌ No | **Tampering. Unchanged and unaffected by Tennessee.** Shortest path from rumour to penalty |
+| **Players in the transfer portal** | ✅ Yes | ❌ No | PCSA would confine this to a 2–5 week window per sport |
+| **Agents of any of the above** | ✅ **Same as the player** | ❌ Same as the player | The agent is the normal channel — see below |
 
-**Talking to a prospect's agent is contact with the prospect.** The booster restriction runs to the
-PSA *and the PSA's family and representatives*. There is no laundering step where routing a
-conversation through an agent makes it permissible. If anything it is worse: it looks deliberate,
-it creates a witness with no duty to us, and agents talk.
+### ⭐ The agent point — reversed
 
-The instinct — "I'm not recruiting the kid, I'm just having a conversation with his representation
-about what the NIL market looks like" — **is the violation**, stated out loud.
+The agent is not a loophole and not a trap. **It is the ordinary channel.** This is how collectives
+operate: a commercial lead or GM talks numbers with agents, papers the deal, submits it to NIL Go.
+Nothing about routing an NIL offer through representation makes it worse — if anything it is
+cleaner, because an agent creates a record, understands the compliance posture, and has a duty to
+the player that a direct conversation with a seventeen-year-old does not.
+
+**What may be said:** the role, the services, the money, the term, the deliverables, the exclusivity
+covenant — the commercial deal.
+**What may not:** the school, the coach, the program, the fit, the playing time. That is a
+recruiting pitch by a booster, which Bylaw 13 still reaches and which the Tennessee case never
+touched.
+
+⚠️ **The honest caveat: that line is blurrier than it reads.** Tennessee blocked the NIL-recruiting
+ban, so a conversation that is *about* NIL is protected even though its evident purpose is to get
+the player to come. Where "this is what the package looks like here" becomes "come here" is not
+crisply defined anywhere, and nobody has litigated it. Treat the distinction as a drafting and
+discipline problem, not a bright line.
 
 ### ⚠️ The Tennessee case — CORRECTED 2026-10-09
 
