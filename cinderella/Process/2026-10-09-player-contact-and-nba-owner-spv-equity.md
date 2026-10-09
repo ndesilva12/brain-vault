@@ -222,30 +222,48 @@ it creates a witness with no duty to us, and agents talk.
 The instinct — "I'm not recruiting the kid, I'm just having a conversation with his representation
 about what the NIL market looks like" — **is the violation**, stated out loud.
 
-### The Tennessee injunction — a real carve-out, and a thin reed
+### ⚠️ The Tennessee case — CORRECTED 2026-10-09
 
-A federal preliminary injunction out of the Eastern District of Tennessee has, for now, stopped the
-NCAA from applying its no-recruiting-contact and no-inducement booster rules to boosters and
-collectives **contacting prospects solely to negotiate potential NIL deals**.
+**I previously called this "preliminary relief in ongoing litigation… a thin reed." That was
+wrong on both counts and the correction matters.**
 
-That is genuinely helpful and it is the only doorway that exists. **I would not walk through it:**
+The Eastern District of Tennessee made its injunction **PERMANENT on 2025-03-21** and approved a
+settlement with the NCAA. **The case is over.** The NCAA no longer enforces its NIL-recruiting ban.
+It also agreed to publish any proposed new NIL rule 30 days before a vote, for five years, and to
+meet with the state AGs first.
 
-1. It is **preliminary** relief in ongoing litigation, not a rule change. It can be narrowed,
-   reversed, or mooted by the PCSA, which expressly contemplates contact windows for prospects.
-2. It covers **NIL negotiation only**. The moment the conversation touches where the player should
-   enrol, which coach he would play for, or what the roster will look like, the carve-out is gone
-   and you are back to a flat prohibition — with a documented meeting.
-3. **Norman is the worst possible person to use it.** He is a former NBA scout whose public value
-   is evaluating basketball talent. No one — not the CSC, not an arbitrator, not a rival AD — will
-   believe that the former Celtics scout who owns the entity met the recruit's agent to discuss
-   commercial rate cards and nothing else. The carve-out protects a collective's finance guy. It
-   does not protect him.
+**So: a booster or collective negotiating NIL terms with a recruit is settled, protected conduct —
+not a loophole.** Norman's question of 2026-10-09 ("AEs are defined by assisting in recruitment, so
+surely they're allowed to") is substantially right, and this is why.
 
-**If NIL terms genuinely must be discussed with a prospect pre-enrollment, someone else does it:**
-a dedicated SPV business person with no evaluation role, no on-camera presence, and a written scope
-limited to commercial terms. That is a hire, and it is cheap relative to the risk.
+### What survives, and it is the distinction that matters
 
----
+| Activity | Status |
+|---|---|
+| Offering/negotiating **NIL money** with a prospect | ✅ Permitted — Tennessee settlement |
+| **Funding** a deal that causes a player to enrol or stay | ✅ Permitted — this is what every collective does |
+| **Recruiting pitch** by a booster — the school, the coach, the program, the fit | ❌ Still barred. Bylaw 13 was never the subject of the Tennessee case, which was about NIL |
+| Compensation **not for NIL** | ❌ The settlement expressly preserves the NCAA's ability to bar this |
+
+⭐ **"Assist in recruitment" in E12(2) means fund it, not pitch it.** A collective that pays a
+transfer $2M has assisted in his recruitment without anyone ever speaking to him. That is the
+paradigm case the drafters had in mind, and it is exactly what an SPV does.
+
+### Where the real risk sits for Norman — judgment, not prohibition
+
+The remaining exposure is **not** that the conversation is illegal. It is:
+
+1. **Drift.** NIL terms → "and you'd love playing for this staff" is one sentence, and the second
+   half is still barred. There is no transcript.
+2. **Reconstruction.** He is a former NBA scout who owns the money. A compliance officer rebuilding
+   that meeting afterwards will not believe it stayed on rate cards, whatever actually happened.
+3. **Institutional control optics**, which is the thing that actually gets schools punished.
+4. **PCSA §§112/117** would let an association confine even associated-entity contact with
+   prospects to defined windows. Permitted today is not permitted on any schedule.
+
+**Recommendation unchanged, but the reason is different.** It is no longer "this is legally thin."
+It is "this is legal and he is still the wrong person to do it." A dedicated SPV commercial person
+with no evaluation role and no on-camera presence carries none of risks 1–3 and does the same job.
 
 ## 3. The production request is the highest-risk ask in the project
 
