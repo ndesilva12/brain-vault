@@ -10,7 +10,16 @@ does not reference it._
 
 ## 1. The legislation — Protect College Sports Act of 2026 (S.4668 / H.R.9137)
 
-**Status as of 2026-09-13.** Cruz (R-TX) and Cantwell (D-WA), with Schmitt (R-MO) and Coons
+> ⛔ **SUPERSEDED 2026-10-09 — THE BILL PASSED THE SENATE.** 77–22 on Sept 28, 2026 (cloture to
+> proceed 74–24 Sept 15; cloture on the substitute Sept 24). **Now in the House, held at the desk
+> since Oct 5**, which is in recess until Nov 9 after the midterms. Scalise says it will not pass
+> "as-is." **It dies if not enacted before the 119th Congress ends Jan 3, 2027.** The floor text
+> also settled the associated-entity fight — it adopts the House settlement definition, which
+> "continues to cover collectives, major donors, and entities involved in recruiting or retaining
+> athletes." See `2026-10-09-player-contact-and-nba-owner-spv-equity.md`, which also corrects
+> Principle A of the Loeb memo. The odds assessment below is stale; the provisions table is not.
+
+**Status as of 2026-09-13 (stale — see above).** Cruz (R-TX) and Cantwell (D-WA), with Schmitt (R-MO) and Coons
 (D-DE). Cleared Senate Commerce **19–9**. Cloture motion on the motion to proceed filed by Thune
 on Aug 5; the chamber adjourned without voting. **Cloture vote scheduled no earlier than Sept 15
 and no later than Sept 23, 2026.** Cruz lobbied for it on College GameDay at Texas on Sept 12 and

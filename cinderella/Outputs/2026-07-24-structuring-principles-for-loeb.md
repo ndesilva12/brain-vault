@@ -12,7 +12,18 @@ edits that make them hold.
 
 ---
 
-## A. Independence (MC is not an "associated entity")
+## A. Independence — ⚠️ REFRAMED 2026-10-09
+
+> ⛔ **"MC is not an associated entity" is the wrong argument and asserting it is a trap.** The
+> House settlement definition reaches entities a department knows to promote its programs, parties
+> asked to assist in recruiting or retaining athletes, and **non-publicly-traded companies**
+> affiliated with any of them — and a school SPV is privately held by design. A Special Master has
+> ruled that even multimedia-rights holders and brand sponsors are not categorically excluded. **An
+> SPV that owns revenue rights in a program and pays its players will be found to be an associated
+> entity of that school.** Argue instead that we are a COMPLIANT one — real commercial substance,
+> arm's-length FMV, no recruiting conduct, school retains control. Full analysis:
+> `Process/2026-10-09-player-contact-and-nba-owner-spv-equity.md`. The numbered principles below
+> remain the right evidence; only the conclusion they are offered for changes.
 1. MC is an **independent commercial enterprise** — its own IP, franchise, and
    documentary business — **not controlled by, and not a booster vehicle of, any school.**
 2. No school appoints, directs, or holds equity giving control over MC or any SPV.

@@ -24,7 +24,10 @@
       "Bash(cat /tmp/claude-0/-home-user-brain-vault/cdeb7b3c-9b38-5f86-b0fa-23ce6e519c4c/scratchpad/expense-oct/policy.txt)",
       "Bash(mkdir -p /tmp/claude-0/-home-user-brain-vault/cdeb7b3c-9b38-5f86-b0fa-23ce6e519c4c/scratchpad/sl)",
       "Bash(cp /root/.claude/uploads/cdeb7b3c-9b38-5f86-b0fa-23ce6e519c4c/e00a1a4d-Cinderella_Corp_-_Side_Letter_Agreement_Revenue_Share_Final.pdf /tmp/claude-0/-home-user-brain-vault/cdeb7b3c-9b38-5f86-b0fa-23ce6e519c4c/scratchpad/sl/sent.pdf)",
-      "Bash(pdfinfo /tmp/claude-0/-home-user-brain-vault/cdeb7b3c-9b38-5f86-b0fa-23ce6e519c4c/scratchpad/sl/sent.pdf)"
+      "Bash(pdfinfo /tmp/claude-0/-home-user-brain-vault/cdeb7b3c-9b38-5f86-b0fa-23ce6e519c4c/scratchpad/sl/sent.pdf)",
+      "Bash(mkdir -p /tmp/claude-0/-home-user-brain-vault/cdeb7b3c-9b38-5f86-b0fa-23ce6e519c4c/scratchpad/pcsa)",
+      "Bash(cp /root/.claude/projects/-home-user-brain-vault/cdeb7b3c-9b38-5f86-b0fa-23ce6e519c4c/tool-results/webfetch-1791579111492-5ur7o4.pdf /tmp/claude-0/-home-user-brain-vault/cdeb7b3c-9b38-5f86-b0fa-23ce6e519c4c/scratchpad/pcsa/pcsa.pdf)",
+      "Bash(pdftotext -layout /tmp/claude-0/-home-user-brain-vault/cdeb7b3c-9b38-5f86-b0fa-23ce6e519c4c/scratchpad/pcsa/pcsa.pdf /tmp/claude-0/-home-user-brain-vault/cdeb7b3c-9b38-5f86-b0fa-23ce6e519c4c/scratchpad/pcsa/pcsa.txt)"
     ]
   }
 }
