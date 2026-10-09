@@ -282,53 +282,69 @@ The remaining exposure is **not** that the conversation is illegal. It is:
 It is "this is legal and he is still the wrong person to do it." A dedicated SPV commercial person
 with no evaluation role and no on-camera presence carries none of risks 1–3 and does the same job.
 
-## 3. The production request is the highest-risk ask in the project
+## 3. Evaluating recruits on camera — REWRITTEN 2026-10-09 (third pass)
 
-Production wants the former NBA scout evaluating talent on camera — the existing roster **and**
-prospects, both high-school and portal. Taken at face value that is the single most dangerous thing
-anyone has proposed in this file.
+> The first version said "don't, and it isn't close," on three grounds. After the Tennessee
+> correction, **one of those grounds was overstated and the answer is more permissive than
+> "no" — but the main objection survives untouched and may now be the dominant one.**
 
-**Split it in two, because the two halves are not close:**
+### It is not prohibited
 
-**Evaluating the existing roster — ✅ do it.** This is the show. A scout assessing enrolled players'
-games, NBA projection, and development path is Loeb §H21 exactly, and it is the most valuable
-screen time Norman has. Keep it to development and projection; never pricing, never roster or
-playing-time decisions, never anything that reads as directing the staff.
+Evaluating a player is **not contact**, so no contact rule reaches it. Jay Bilas evaluates recruits
+on television every week. Tennessee further removed the NIL-recruiting ban. **There is no rule that
+says Norman may not assess a prospect on camera.**
 
-**Evaluating prospects — ❌ don't, and it isn't close.** Three separate problems, each sufficient:
+### What actually changed, and what did not
 
-1. **It manufactures the recruiting record.** Evaluation is not "contact," so it is not a violation
-   on its face. But a documented pattern of the funder's principal assessing specific recruits, and
-   a staff that then signs them, is how an enforcement body proves an outside entity is directing
-   the roster. **The evidence of the violation is the footage.** We would be filming it, editing
-   it, and distributing it on a streaming platform.
-2. **The school loses institutional control** — in appearance, which is what gets punished. Our
-   entire defence is "MC sets a budget and makes deals available; the coach decides." A scene of
-   Norman grading recruits destroys that sentence.
-3. **Publicity of a PSA.** Putting a named, uncommitted high-schooler on screen in connection with a
-   program that is being funded by the entity paying its players raises its own problems, separate
-   from everything above.
+| Original objection | Status after Tennessee |
+|---|---|
+| **Manufactures a record that an outside entity directs the roster → institutional control** | ✅ **Fully intact.** Tennessee was about NIL compensation in recruiting. It did not touch institutional control, which is a separate doctrine and the NCAA's heaviest hammer |
+| **School appears to lose institutional control** | ✅ **Fully intact** — same reason |
+| **Publicity of a prospective student-athlete** | ⚠️ **Overstated.** Publicity rules bind the *institution*, not an independent media company. The real issues here are **minors' consent, parental consent and state law** — genuine, but not NCAA violations |
 
-⚠️ **And note the direction-of-information point from Loeb §24: it does not cleanse.** "The staff
-gave me their board first, I only reacted to names they raised" is not a defence. The vault already
-has this right; it is worth repeating because it is the exact rationalisation that will be offered
-in the room.
+⭐ **And a point that cuts the other way: institutional control may now matter MORE, not less.** With
+the NIL-recruiting ban gone and the CSC's associated-entity review focused on **price**, institutional
+control is one of the few levers the NCAA still has over outside entities. Enforcement pressure
+migrates to the doors that remain open.
 
-**What to give production instead — and it is better television anyway:**
+### The actual risk is a sequence, not an act
 
-- Norman on **archetypes and team construction**: what this roster is missing, what kind of player
-  wins in this league, why a program like this has historically been unable to get one. Specific
-  about basketball, generic about people. The staff maps philosophy to names off camera.
-- Norman on **enrolled players**, in depth — which is the emotional core of the show regardless.
-- Norman on **the system**: why these players were overlooked, what the scouting industry missed.
-  That is the thesis of the series and he is the only person who can deliver it credibly.
-- ❌ Never a board, a list, a ranking, or a named uncommitted prospect.
+The inference that hurts is not "Norman evaluated a recruit." It is:
 
-**Put this in the production agreement as a negative covenant, not a guideline**, alongside the
-existing §H23 compliance read of the cut. A production company under deadline will reach for the
-recruiting footage, and "we discussed it" will not survive the edit.
+> **owns the money → delivers an on-camera verdict on a specific prospect → the school then signs
+> that prospect.**
 
----
+Bilas can evaluate because he does not own the entity paying the players. Break any link in that
+chain and the problem goes away.
+
+### ⭐ The asymmetry that should decide this
+
+**Norman's downside here is modest. The school's is existential.** A loss-of-institutional-control
+finding is catastrophic for St. Joseph's or Davidson — and the moment one MC school takes that hit,
+**MC becomes radioactive to every other athletic director in the country.** The business model
+depends on schools wanting to partner. That is what is actually being wagered, and it is not
+Norman's to wager alone.
+
+### How to get most of the content anyway
+
+1. ⭐ **Film the staff deciding, with Norman as input.** If the show depicts the coach weighing
+   options and choosing, with Norman supplying scouting information he does not act on, the footage
+   **affirmatively documents institutional control** instead of undermining it. The tape becomes
+   evidence *for* us. This is also the better scene — the tension is the coach's, not the funder's.
+2. **Evaluate after commitment or enrollment.** Nearly all the narrative value, none of the
+   inference. "Here is what I saw in him" lands harder once he is on the roster anyway.
+3. **Archetypes and team construction** rather than named boards — specific about basketball,
+   generic about people.
+4. **Norman on the system** — why these players were overlooked, what scouting missed. The thesis
+   of the series, and only he can deliver it.
+
+❌ **Still avoid:** an on-camera ranked board of uncommitted prospects, and any scene where his
+verdict visibly precedes and drives the staff's decision.
+
+⚠️ **Edit control is the whole ballgame.** You can shoot this correctly and still lose it in the
+cut, because "the money man picks the players" is the better story and an editor under deadline
+will find it. The §H23 compliance read of the cut is not a formality — it is the control that makes
+everything above real. Paper it as a negative covenant with approval rights, not a guideline.
 
 ## 4. NBA owners, minority stakeholders and employees in a school SPV
 
