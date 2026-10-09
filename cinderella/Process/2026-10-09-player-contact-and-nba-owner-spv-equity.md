@@ -87,6 +87,120 @@ booster, with no neutral ground to stand on.
 
 ---
 
+## 1b. What an associated entity actually IS, and what turns on it
+
+_Added 2026-10-09 (second pass), from the primary source: NCAA **Q&A: Implementation of the House
+Settlement**, published 2025-06-13, Section E, Questions E12–E22. Quoted below, not paraphrased._
+
+### The definition (E12 — entity)
+
+An associated entity is:
+
+1. An entity **known (or that should have been known) to the athletics department staff** to exist,
+   **in significant part**, for the purpose of (a) **promoting or supporting** a particular
+   institution's intercollegiate athletics program or student-athletes; **and/or** (b) creating or
+   identifying NIL opportunities **solely** for a particular Member Institution's student-athletes;
+2. An entity **directed or requested by** an institution's athletics department staff to assist in
+   the **recruitment or retention** of prospective or current student-athletes, **or otherwise has
+   assisted** in the recruitment or retention of prospective or current student-athletes; or
+3. **Any entity owned, controlled, or operated by, or otherwise affiliated with** an associated
+   entity or individual **other than a publicly traded corporation**.
+
+### The definition (E14 — individual)
+
+1. A **member, employee, director, officer, OWNER, or agent** of an associated entity;
+2. Anyone who has contributed **more than $50,000 lifetime** to the institution or to an associated
+   entity (including via an affiliated entity or family member); or
+3. Anyone directed or requested by athletics staff to assist in recruitment or retention, **or who
+   otherwise has assisted** in it.
+
+⚠️ **E14(1) is automatic and inescapable for Norman.** If an SPV is an associated entity, its owner
+is an associated individual by definition. There is no structuring around it.
+⚠️ **E14(2) is self-inflicted and avoidable: never give $50,000+ personally to an MC school.**
+
+### A school SPV cannot escape this
+
+E12(1)(a): an entity that exists in significant part to *promote or support* a particular program.
+An SPV that owns that program's revenue rights and funds its roster does exactly that.
+E12(2): "or otherwise has **assisted in the … retention** of … current student-athletes." **Paying a
+player to stay is retention.** That limb needs no school involvement at all — no direction, no
+request, just the conduct.
+
+Two limbs, independently satisfied. **This is why arguing "we are not an associated entity" loses.**
+
+### ⭐ What AE status actually triggers — and what it does NOT
+
+**It is not a ban.** E15: *"Yes. An associated entity or individual **may** enter into an agreement
+with or provide payment to a prospective or current student-athlete…"*
+
+What it triggers is **heightened review by NIL Go against two standards**:
+
+| | Standard | Source |
+|---|---|---|
+| 1 | **Valid business purpose** — the deal must include promotion or endorsement of **goods or services provided to the general public for profit** | E19 |
+| 2 | **Range of compensation** — rates and terms **commensurate with compensation paid to similarly situated individuals with comparable NIL value who are NOT current or prospective student-athletes** at that institution | E20 |
+
+Fail either and the deal is **"not cleared"** (E22). The athlete must then renegotiate and
+resubmit, appeal to the CSC and then to neutral arbitration, or **return the money**.
+
+### ⭐⭐ THE SENTENCE THAT MATTERS MOST — E18
+
+> *"Third-party NIL deals with entities or individuals **other than** associated entities and
+> individuals **are not required to fall within the range of compensation**."*
+
+**The price ceiling applies only to associated entities.** A non-associated third party may pay a
+college athlete whatever it wants. There is no cap, no benchmark, no comparables test.
+
+That single sentence is worth more to this model than any other line in the settlement, and it
+**upgrades the sponsor-direct architecture from "best available FMV evidence" to "outside the price
+control entirely."**
+
+| | Pays the player | Subject to range of compensation? |
+|---|---|---|
+| **School SPV** (associated entity) | Docuseries participation fee | ❌ **Yes — capped at non-athlete comparables** |
+| **National sponsor** (not associated) | Its own endorsement deal | ✅ **No cap at all** |
+
+### What this does to the scissors problem
+
+The 2026-09-13 memo identified the scissors: what we must pay to land a player rises with the
+institutional cap, while what we can defend as FMV does not move, because the benchmark is
+non-athletes. **That problem is a consequence of being an associated entity, and it is confined to
+SPV-paid money.** Money reaching the player from a genuinely independent sponsor is not benchmarked
+at all.
+
+⭐ **Strategic consequence: move as much player compensation as possible off the SPV and onto direct
+sponsor contracts — not primarily for optics, but because SPV money is price-capped and sponsor
+money is not.** The 09-13 memo already recommended "deliberately leave money on the sponsorship
+table in exchange for the sponsor committing to larger direct player deals." That trade is
+substantially more valuable than it was credited with being. It is the difference between a capped
+and an uncapped roster budget.
+
+⚠️ **Two limits on that, and they are real.**
+1. **E12(2) can reach the sponsor.** "Otherwise has assisted in the … retention" has no intent or
+   school-direction element. A sponsor deal visibly used to keep a player at an MC school could be
+   pulled in. Keep sponsor campaigns national, brand-led, and not school-contingent.
+2. **The CSC is winning these fights.** A Special Master held that multimedia-rights holders and
+   brand sponsors are **not categorically excluded**, and the first arbitration under the settlement
+   (Playfly / Nebraska) **upheld the CSC's denial of an MMR deal** on associated-entity grounds.
+   E13 confirms even a publicly traded corporation can be an associated entity under limbs (a) or
+   (b). **A sponsor is outside the cap until the CSC says it is not.**
+
+### ⭐ Two regimes, two different triggers — do not conflate them
+
+E17 is explicit: *"Are associated entities and individuals the same as boosters? **No.** However, a
+booster (see Bylaw 13.02.16) may be an associated entity or individual or vice versa."*
+
+| | Source | What it governs | Applies to Norman? |
+|---|---|---|---|
+| **Booster** / rep of athletics interests | NCAA Bylaw 13.02.16 | **CONTACT** — who he may speak to | **Yes**, at every MC school |
+| **Associated entity / individual** | House settlement E12–E14 | **PRICE** — what the SPV may pay | **Yes**, automatically as owner (E14(1)) |
+
+Winning one does nothing for the other. **Escaping associated-entity status would not buy a single
+additional conversation with a recruit, and escaping booster status would not raise the price cap
+by a dollar.** Solve them separately.
+
+---
+
 ## 2. What Norman may actually do, by category
 
 | Who | Contact permitted? | Notes |
