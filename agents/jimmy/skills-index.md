@@ -6,9 +6,11 @@ Skills are shared by every bot. Just tell Jimmy (or any bot) the command.
 
 ## Your toolbox
 
+Say "toolbox" in Jimmy chat for clickable buttons.
+
 Send a command word by itself (case doesn't matter) or ask for it in a sentence. "sweep" alone shows a pick list.
 
-- `network degrees <start> to <end>` — in-between paths from a person/pool to a target
+- `network <start> to <end>` — in-between paths from a person/pool to a target
 - `sweep <topic>` — what's breaking right now, ~48h
 - `trending` — top 10 X trends from the last 24h, filtered to what matters (also runs daily at 9:58am ET)
 - `current <topic>` — last 30 days of chatter
@@ -28,7 +30,7 @@ Say "toolbox" to Jimmy anytime; everything else runs behind the scenes.
 |---|---|---|---|
 | Conspiracy (`conspiracy`) | "conspiracy" | 3 fresh conspiracy-adjacent / anti-government / deep-state / mainstream-challenging picks from X and the fringe web, layered obscure, moderate, famous. | 2026-10-11 |
 | Trending (`trending`) | "trending" | Top 10 X trends from the last 24h, filtered to what matters (also runs daily at 9:58am ET). | 2026-10-09 |
-| Network degrees (`network-degrees`) | "Network degrees: start Babson alumni, end New England celebs" | Maps the fewest-hop, evidence-only paths from any start point (person, company, or pool) to any end point (person, company, or target list). | 2026-10-07 |
+| Network (`network-degrees`) | "network: start Babson alumni, end New England celebs" | Maps the fewest-hop, evidence-only paths from any start point (person, company, or pool) to any end point (person, company, or target list). | 2026-10-07 |
 | Content Sweep (`content-sweep`) | "Please run a sweep on college basketball NIL" | Checks X first, then news and social, and reports only breaking, significant, or widely shared items (last ~48 hours by default). Can also run on a schedule and stay quiet when nothing clears. | 2026-10-08 |
 | One-Pager (`one-pager`) | "One-pager on Renaissance Technologies" | One sourced professional page: summary, key data, key points with a worldview note, context, a visual idea, and further reading. | 2026-10-08 |
 | Summarizer (`summarizer`) | "Summarize this report in 2 pages" | Condenses any link, PDF, or transcript to the length you ask, keeping every key fact, number, quote, and name. | 2026-10-08 |
@@ -44,7 +46,7 @@ Say "toolbox" to Jimmy anytime; everything else runs behind the scenes.
 
 | Skill (id) | Say | What it does |
 |---|---|---|
-| Network degrees (`network-degrees`) | "Network degrees: start Tim Grover, end the celebrity target list" | Paths between any start and end point (see New). |
+| Network (`network-degrees`) | "network: start Tim Grover, end the celebrity target list" | Paths between any start and end point (see New). |
 | Norman network lookup (`norman-network-lookup`) | "Do I know Jane Smith?" | Looks someone up across your network sheet, Dex, and contacts and shows how you're connected. |
 | Connections and intros (`connections-and-intros`) | "Find warm paths into CAA" | Ranks evidenced warm paths into a target and drafts the intro ask, then tracks how it went. |
 
