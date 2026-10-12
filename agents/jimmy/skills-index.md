@@ -2,7 +2,7 @@
 
 Skills are shared by every bot. Just tell Jimmy (or any bot) the command.
 
-**Total:** 42 skills. **Last updated:** 2026-10-09. Notion copy: [SKILLS](https://app.notion.com/p/3f3bedd4141981c19260ea77854c98ab) (sibling of LIST).
+**Total:** 43 skills. **Last updated:** 2026-10-11. Notion copy: [SKILLS](https://app.notion.com/p/3f3bedd4141981c19260ea77854c98ab) (sibling of LIST).
 
 ## Your toolbox
 
@@ -14,6 +14,7 @@ Send a command word by itself (case doesn't matter) or ask for it in a sentence.
 - `current <topic>` — last 30 days of chatter
 - `deep search <topic>` — expert depth, skips basics
 - `dark search <topic>` — what mainstream avoids
+- `conspiracy` — 3 fresh fringe picks: obscure, moderate, famous
 - `curate <topic>` — ~12 pieces, both sides, half video
 - `white papers on <topic>` — ~10 scored papers + synthesis
 - `one-pager on <topic>` — single sourced page
@@ -25,6 +26,7 @@ Say "toolbox" to Jimmy anytime; everything else runs behind the scenes.
 
 | Skill (id) | Say | What it does | Added |
 |---|---|---|---|
+| Conspiracy (`conspiracy`) | "conspiracy" | 3 fresh conspiracy-adjacent / anti-government / deep-state / mainstream-challenging picks from X and the fringe web, layered obscure, moderate, famous. | 2026-10-11 |
 | Trending (`trending`) | "trending" | Top 10 X trends from the last 24h, filtered to what matters (also runs daily at 9:58am ET). | 2026-10-09 |
 | Network degrees (`network-degrees`) | "Network degrees: start Babson alumni, end New England celebs" | Maps the fewest-hop, evidence-only paths from any start point (person, company, or pool) to any end point (person, company, or target list). | 2026-10-07 |
 | Content Sweep (`content-sweep`) | "Please run a sweep on college basketball NIL" | Checks X first, then news and social, and reports only breaking, significant, or widely shared items (last ~48 hours by default). Can also run on a schedule and stay quiet when nothing clears. | 2026-10-08 |
