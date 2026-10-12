@@ -6,26 +6,26 @@ Skills are shared by every bot. Just tell Jimmy (or any bot) the command.
 
 ## Your toolbox
 
-Commands are ALL CAPS; SWEEP alone shows a pick list.
+Send a command word by itself (case doesn't matter) or ask for it in a sentence. "sweep" alone shows a pick list.
 
-- `NETWORK DEGREES <start> TO <end>` — in-between paths from a person/pool to a target
-- `SWEEP <topic>` — what's breaking right now, ~48h
-- `TRENDING` — top 10 X trends from the last 24h, filtered to what matters (also runs daily at 9:58am ET)
-- `CURRENT <topic>` — last 30 days of chatter
-- `DEEP SEARCH <topic>` — expert depth, skips basics
-- `DARK SEARCH <topic>` — what mainstream avoids
-- `CURATE <topic>` — ~12 pieces, both sides, half video
-- `WHITE PAPERS ON <topic>` — ~10 scored papers + synthesis
-- `ONE-PAGER ON <topic>` — single sourced page
-- `SUMMARIZE <link/doc> TO <length>` — condense without losing facts
+- `network degrees <start> to <end>` — in-between paths from a person/pool to a target
+- `sweep <topic>` — what's breaking right now, ~48h
+- `trending` — top 10 X trends from the last 24h, filtered to what matters (also runs daily at 9:58am ET)
+- `current <topic>` — last 30 days of chatter
+- `deep search <topic>` — expert depth, skips basics
+- `dark search <topic>` — what mainstream avoids
+- `curate <topic>` — ~12 pieces, both sides, half video
+- `white papers on <topic>` — ~10 scored papers + synthesis
+- `one-pager on <topic>` — single sourced page
+- `summarize <link/doc> to <length>` — condense without losing facts
 
-Say "TOOLBOX" to Jimmy anytime; everything else runs behind the scenes.
+Say "toolbox" to Jimmy anytime; everything else runs behind the scenes.
 
 ## New
 
 | Skill (id) | Say | What it does | Added |
 |---|---|---|---|
-| Trending (`trending`) | "TRENDING" | Top 10 X trends from the last 24h, filtered to what matters (also runs daily at 9:58am ET). | 2026-10-09 |
+| Trending (`trending`) | "trending" | Top 10 X trends from the last 24h, filtered to what matters (also runs daily at 9:58am ET). | 2026-10-09 |
 | Network degrees (`network-degrees`) | "Network degrees: start Babson alumni, end New England celebs" | Maps the fewest-hop, evidence-only paths from any start point (person, company, or pool) to any end point (person, company, or target list). | 2026-10-07 |
 | Content Sweep (`content-sweep`) | "Please run a sweep on college basketball NIL" | Checks X first, then news and social, and reports only breaking, significant, or widely shared items (last ~48 hours by default). Can also run on a schedule and stay quiet when nothing clears. | 2026-10-08 |
 | One-Pager (`one-pager`) | "One-pager on Renaissance Technologies" | One sourced professional page: summary, key data, key points with a worldview note, context, a visual idea, and further reading. | 2026-10-08 |
@@ -58,13 +58,13 @@ Say "TOOLBOX" to Jimmy anytime; everything else runs behind the scenes.
 
 | Skill (id) | Say | What it does |
 |---|---|---|
-| Deep Search (`deep-search`) | "DEEP SEARCH <topic>" | Expert-level research beyond the basics. |
-| Dark Search (`dark-search`) | "DARK SEARCH <topic>" | Suppressed and investigative angles from legal public sources. |
-| One-Pager (`one-pager`) | "ONE-PAGER ON <topic>" | One sourced professional page on any topic. |
-| White Papers (`white-papers`) | "WHITE PAPERS ON <topic>" | The best ~10 papers on a topic, rated, with a synthesis. |
-| Curate (`curate`) | "CURATE <topic>" | ~12 balanced, thought-provoking videos and articles. |
-| Summarizer (`summarizer`) | "SUMMARIZE <link> TO <length>" | Condenses any source to the length you want. |
-| Current (`current`) | "CURRENT <topic>" | Last-30-days pulse on any topic. |
+| Deep Search (`deep-search`) | "deep search <topic>" | Expert-level research beyond the basics. |
+| Dark Search (`dark-search`) | "dark search <topic>" | Suppressed and investigative angles from legal public sources. |
+| One-Pager (`one-pager`) | "one-pager on <topic>" | One sourced professional page on any topic. |
+| White Papers (`white-papers`) | "white papers on <topic>" | The best ~10 papers on a topic, rated, with a synthesis. |
+| Curate (`curate`) | "curate <topic>" | ~12 balanced, thought-provoking videos and articles. |
+| Summarizer (`summarizer`) | "summarize <link> to <length>" | Condenses any source to the length you want. |
+| Current (`current`) | "current <topic>" | Last-30-days pulse on any topic. |
 | last30days (`last30days`) | "last30days <topic>" | The engine behind Current: installs, sets up sources, and runs the 30-day research. |
 | Content Sweep (`content-sweep`) | "Please run a sweep on <topic>" | Breaking and significant items only, last ~48 hours. |
 | Research alternatives (`research-alternatives`) | "Find alternatives to Superhuman" | 3+ named alternatives with real, dated pricing and an honest switching cost. |
