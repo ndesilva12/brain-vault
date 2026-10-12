@@ -47,5 +47,6 @@ Portable shared brain for Norman’s Grok Bot assistants. Repo: `ndesilva12/brai
 
 - Sidebar display names may differ from folder slugs; use the slug column for vault paths.
 - `agents/love/` removed 2026-09-21 (no live Love bot).
-- Prospecting: a duplicate Prospecting row and an empty `New Bot` still show in the sidebar; Norman deletes them (Jimmy cannot delete agents via API).
+- **Toolbox** (sidebar pin / skill signpost) has no `agents/` folder on purpose — it only points Norman at Jimmy-chat commands; durable notes live under the owning specialist or `jimmy/`.
 - 2026-10-08: onboarded Sweep and CatchAll to the vault; LIST rule updated to the continuous-list policy.
+- 2026-10-12: confirmed live teammates match this index (plus Toolbox signpost); New Bot / duplicate Prospecting sidebar rows no longer present.
